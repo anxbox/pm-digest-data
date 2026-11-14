@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-14T05:42:09.324020+00:00",
+ "ts": "2026-11-14T06:46:52.420307+00:00",
  "pages_fetched": 21,
- "events_total": 2099,
- "sub_markets_total": 58882,
- "single_game_events": 685,
+ "events_total": 2100,
+ "sub_markets_total": 57287,
+ "single_game_events": 683,
  "event_keys": [
   "active",
   "archived",
@@ -174,14 +174,14 @@
   "restricted": "True",
   "liquidity": "99.999",
   "volume": "2716240.945775",
-  "openInterest": "77862.62977299998",
+  "openInterest": "75941.71030099998",
   "createdAt": "2026-10-30T18:00:07.984489Z",
-  "updatedAt": "2026-11-14T05:40:08.587712Z",
+  "updatedAt": "2026-11-14T06:46:10.358336Z",
   "competitive": "0.0009999997500000626",
-  "volume24hr": "2702440.963663001",
-  "volume1wk": "2712569.9449480013",
-  "volume1mo": "2712569.9449480013",
-  "volume1yr": "2712569.9449480013",
+  "volume24hr": "2698354.1722600013",
+  "volume1wk": "2712569.9449480018",
+  "volume1mo": "2712569.9449480018",
+  "volume1yr": "2712569.9449480018",
   "enableOrderBook": "True",
   "liquidityClob": "99.999",
   "negRisk": "False",
@@ -209,11 +209,11 @@
   "description": "In the upcoming NBA game between Hawks and Bulls, originally scheduled for Friday, November 13, 2026 at 8:00 PM ET (as of creation of the first market related t",
   "outcomes": "[\"Hawks\", \"Bulls\"]",
   "outcomePrices": "[\"0\", \"1\"]",
-  "volume": "1455858.9310589998",
+  "volume": "1455858.9310589996",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-10-30T18:00:08.277325Z",
-  "updatedAt": "2026-11-14T05:36:09.030639Z",
+  "updatedAt": "2026-11-14T06:36:09.655216Z",
   "closedTime": "2026-11-14 04:02:59.615666+00",
   "new": "False",
   "featured": "False",
@@ -228,90 +228,81 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "1455858.9310589998",
+  "volumeNum": "1455858.9310589996",
   "endDateIso": "2026-11-14",
   "startDateIso": "2026-10-30",
   "hasReviewedDates": "True",
-  "volume24hr": "1451267.736251001",
-  "volume1wk": "1455858.931059001",
-  "volume1mo": "1455858.931059001",
-  "volume1yr": "1455858.931059001",
+  "volume24hr": "1449862.532078001",
+  "volume1wk": "1455858.9310590012",
+  "volume1mo": "1455858.9310590012",
+  "volume1yr": "1455858.9310590012",
   "gameStartTime": "2026-11-14 01:00:00+00"
  },
  "multi_option_event": {
-  "title": "Thunder vs. Clippers",
-  "slug": "nba-okc-lac-2026-11-13",
-  "n_sub": 400,
+  "title": "Fed Decision in December?",
+  "slug": "fed-decision-in-december-20260729232808632",
+  "n_sub": 5,
   "sub_markets": [
    {
-    "question": "Thunder vs. Clippers",
-    "groupItemTitle": "None",
+    "question": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+    "groupItemTitle": "50+ bps decrease",
     "groupItemThreshold": "0",
     "shortTitle": "None",
-    "outcomes": "[\"Thunder\", \"Clippers\"]",
-    "outcomePrices": "[\"0.705\", \"0.295\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0025\", \"0.9975\"]",
     "closed": "False"
    },
    {
-    "question": "Spread: Thunder (-8.5)",
-    "groupItemTitle": "Spread -8.5",
+    "question": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+    "groupItemTitle": "25 bps decrease",
     "groupItemThreshold": "1",
     "shortTitle": "None",
-    "outcomes": "[\"Thunder\", \"Clippers\"]",
-    "outcomePrices": "[\"0.23\", \"0.77\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0045\", \"0.9955\"]",
     "closed": "False"
    },
    {
-    "question": "Thunder vs. Clippers: O/U 221.5",
-    "groupItemTitle": "O/U 221.5",
+    "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+    "groupItemTitle": "No change",
     "groupItemThreshold": "2",
     "shortTitle": "None",
-    "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.44\", \"0.56\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0315\", \"0.9685\"]",
     "closed": "False"
    },
    {
-    "question": "Spread: Thunder (-9.5)",
-    "groupItemTitle": "Spread -9.5",
-    "groupItemThreshold": "1",
+    "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+    "groupItemTitle": "25 bps increase",
+    "groupItemThreshold": "3",
     "shortTitle": "None",
-    "outcomes": "[\"Thunder\", \"Clippers\"]",
-    "outcomePrices": "[\"0.165\", \"0.835\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.885\", \"0.115\"]",
     "closed": "False"
    },
    {
-    "question": "Thunder vs. Clippers: O/U 219.5",
-    "groupItemTitle": "O/U 219.5",
-    "groupItemThreshold": "2",
+    "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+    "groupItemTitle": "50+ bps increase",
+    "groupItemThreshold": "4",
     "shortTitle": "None",
-    "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.545\", \"0.455\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0785\", \"0.9215\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 751,
+  "sports": 747,
   "economy": 75,
-  "politics": 312,
-  "crypto": 145,
-  "tech": 453,
-  "geopolitics": 200,
-  "culture": 113,
-  "(空)": 50
+  "politics": 314,
+  "crypto": 144,
+  "tech": 455,
+  "geopolitics": 202,
+  "culture": 114,
+  "(空)": 49
  },
  "tag_samples": [
   {
    "title": "Hawks vs. Bulls",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
-   "title": "Thunder vs. Clippers",
    "tags": [
     "Sports",
     "NBA",
@@ -331,31 +322,12 @@
    ]
   },
   {
-   "title": "Warriors vs. Spurs",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
    "title": "Grizzlies vs. Pelicans",
    "tags": [
     "Sports",
     "NBA",
     "Games",
     "Basketball"
-   ]
-  },
-  {
-   "title": "Louisiana-Lafayette Ragin' Cajuns vs. UNCW Seahawks",
-   "tags": [
-    "Sports",
-    "Basketball",
-    "NCAA",
-    "Games",
-    "NCAA Basketball"
    ]
   },
   {
@@ -370,40 +342,72 @@
    ]
   },
   {
-   "title": "Trail Blazers vs. Kings",
+   "title": "Houston vs. Colorado",
    "tags": [
     "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
+    "CFB (All)",
+    "Games"
+   ]
+  },
+  {
+   "title": "Presidential Election Winner 2028",
+   "tags": [
+    "President",
+    "United States",
+    "US Election",
+    "Elections",
+    "Politics",
+    "World Elections"
+   ]
+  },
+  {
+   "title": "What price will Bitcoin hit in 2026?",
+   "tags": [
+    "Bitcoin",
+    "Yearly",
+    "Hit Price",
+    "Crypto Prices",
+    "Crypto",
+    "Earn 3.25%"
+   ]
+  },
+  {
+   "title": "Next French Presidential Election",
+   "tags": [
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
+    "Politics",
+    "Global Elections"
    ]
   }
  ],
  "top_titles": [
   "Hawks vs. Bulls",
-  "Thunder vs. Clippers",
   "Fed Decision in December?",
-  "Warriors vs. Spurs",
   "Grizzlies vs. Pelicans",
-  "Louisiana-Lafayette Ragin' Cajuns vs. UNCW Seahawks",
   "Democratic Presidential Nominee 2028",
-  "Trail Blazers vs. Kings",
+  "Houston vs. Colorado",
   "Presidential Election Winner 2028",
   "What price will Bitcoin hit in 2026?",
-  "What price will Bitcoin hit in November?",
   "Next French Presidential Election",
-  "Houston vs. Colorado",
-  "What price will Bitcoin hit November 9-15?",
+  "What price will Bitcoin hit in November?",
+  "Louisiana-Lafayette Ragin' Cajuns vs. UNCW Seahawks",
   "Israel x Iran ceasefire continues through...?",
+  "What price will Bitcoin hit November 9-15?",
   "Next CEO of NVIDIA?",
   "Will Jesus Christ return before 2027?",
-  "Illinois vs. UCLA",
+  "Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs",
   "Republican Presidential Nominee 2028",
-  "UEFA Champions League: 2027 Champion",
   "Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs",
+  "UEFA Champions League: 2027 Champion",
+  "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs",
   "Bitcoin above ___ on November 14?",
   "Anthropic IPO Closing Market Cap",
-  "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs",
-  "Dota 2: potn9ki vs oveA (BO3) - Esports Pro Circuit  Playoffs"
+  "Dota 2: potn9ki vs oveA (BO3) - Esports Pro Circuit  Playoffs",
+  "Elon Musk # tweets November 12 - November 14, 2026?",
+  "Northwestern vs. Ohio State",
+  "Jensen Huang rejoins NVIDIA by...?"
  ]
 }
