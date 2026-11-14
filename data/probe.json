@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-14T15:58:36.787258+00:00",
+ "ts": "2026-11-14T16:38:33.117302+00:00",
  "pages_fetched": 21,
- "events_total": 2099,
- "sub_markets_total": 54972,
- "single_game_events": 872,
+ "events_total": 2076,
+ "sub_markets_total": 54199,
+ "single_game_events": 860,
  "event_keys": [
   "active",
   "archived",
@@ -170,18 +170,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1139178.02021",
-  "volume": "2015157.843183",
-  "openInterest": "418816.293741",
+  "liquidity": "861.81",
+  "volume": "2128474.769851",
+  "openInterest": "35522.708038000004",
   "createdAt": "2026-11-11T22:29:18.737097Z",
-  "updatedAt": "2026-11-14T15:55:24.984207Z",
-  "competitive": "0.8031967229573703",
-  "volume24hr": "2066603.8698510001",
-  "volume1wk": "2066616.8698510001",
-  "volume1mo": "2066616.8698510001",
-  "volume1yr": "2066616.8698510001",
+  "updatedAt": "2026-11-14T16:33:37.641048Z",
+  "competitive": "0.8620689655172414",
+  "volume24hr": "2131190.369851",
+  "volume1wk": "2131203.369851",
+  "volume1mo": "2131203.369851",
+  "volume1yr": "2131203.369851",
   "enableOrderBook": "True",
-  "liquidityClob": "1139178.02021",
+  "liquidityClob": "861.81",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 21>",
@@ -207,11 +207,11 @@
   "description": "This market refers to the Dota 2 match between DO KONCA and Yellow Submarine in the 1win Essence Group A, initially scheduled for November 14, 2026 at 6:30 AM E",
   "outcomes": "[\"DO KONCA\", \"Yellow Submarine\"]",
   "outcomePrices": "[\"0\", \"1\"]",
-  "volume": "561739.7007670001",
+  "volume": "561739.700767",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-11T22:29:18.980866Z",
-  "updatedAt": "2026-11-14T15:52:10.785037Z",
+  "updatedAt": "2026-11-14T16:22:12.461323Z",
   "closedTime": "2026-11-14 13:36:10.116022+00",
   "new": "False",
   "featured": "False",
@@ -226,7 +226,7 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "561739.7007670001",
+  "volumeNum": "561739.700767",
   "endDateIso": "2026-11-14",
   "startDateIso": "2026-11-11",
   "hasReviewedDates": "True",
@@ -239,29 +239,20 @@
  "multi_option_event": {
   "title": "Dota 2: DO KONCA vs Yellow Submarine (BO3) - 1win Essence Group A",
   "slug": "dota2-konca-yes-2026-11-14",
-  "n_sub": 9,
+  "n_sub": 3,
   "sub_markets": [
    {
-    "question": "Dota 2: DO KONCA vs Yellow Submarine (BO3) - 1win Essence Group A",
-    "groupItemTitle": "Match Winner",
+    "question": "Game 3: Both Teams Beat Roshan?",
+    "groupItemTitle": "Both Teams Beat Roshan",
     "groupItemThreshold": "None",
     "shortTitle": "None",
-    "outcomes": "[\"DO KONCA\", \"Yellow Submarine\"]",
-    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.1\", \"0.9\"]",
     "closed": "False"
    },
    {
-    "question": "Games Total: O/U 2.5",
-    "groupItemTitle": "O/U 2.5 Games",
-    "groupItemThreshold": "None",
-    "shortTitle": "None",
-    "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
-    "closed": "False"
-   },
-   {
-    "question": "Game 3: Ends in Daytime?",
-    "groupItemTitle": "Ends in Daytime",
+    "question": "Game 3: Any Player Ultra Kill?",
+    "groupItemTitle": "Any Player Ultra Kill",
     "groupItemThreshold": "None",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
@@ -269,17 +260,8 @@
     "closed": "False"
    },
    {
-    "question": "Game 3: Both Teams Beat Roshan?",
-    "groupItemTitle": "Both Teams Beat Roshan",
-    "groupItemThreshold": "None",
-    "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.5\", \"0.5\"]",
-    "closed": "False"
-   },
-   {
-    "question": "Game 3: Both Teams Destroy Barracks?",
-    "groupItemTitle": "Both Teams Destroy Barracks",
+    "question": "Game 3: Any Player Rampage?",
+    "groupItemTitle": "Any Player Rampage",
     "groupItemThreshold": "None",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
@@ -289,14 +271,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 877,
-  "economy": 65,
-  "politics": 272,
-  "crypto": 135,
-  "tech": 435,
-  "culture": 92,
-  "geopolitics": 184,
-  "(空)": 39
+  "sports": 880,
+  "economy": 62,
+  "politics": 263,
+  "crypto": 133,
+  "tech": 424,
+  "culture": 91,
+  "geopolitics": 183,
+  "(空)": 40
  },
  "tag_samples": [
   {
@@ -320,15 +302,6 @@
    ]
   },
   {
-   "title": "Grizzlies vs. Pelicans",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
    "title": "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs",
    "tags": [
     "Esports",
@@ -337,6 +310,15 @@
     "Sports",
     "LoL Worlds 2026",
     "Knockout Stage"
+   ]
+  },
+  {
+   "title": "Grizzlies vs. Pelicans",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
    ]
   },
   {
@@ -387,8 +369,8 @@
  "top_titles": [
   "Dota 2: DO KONCA vs Yellow Submarine (BO3) - 1win Essence Group A",
   "Fed Decision in December?",
-  "Grizzlies vs. Pelicans",
   "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs",
+  "Grizzlies vs. Pelicans",
   "Democratic Presidential Nominee 2028",
   "What price will Bitcoin hit in 2026?",
   "What price will Bitcoin hit in November?",
@@ -398,17 +380,17 @@
   "Republican Presidential Nominee 2028",
   "What price will Bitcoin hit November 9-15?",
   "Next CEO of NVIDIA?",
-  "UEFA Champions League: 2027 Champion",
-  "Israel x Iran ceasefire continues through...?",
-  "Kosovo vs. Israel",
-  "Bitcoin above ___ on November 14?",
   "Elon Musk # tweets November 12 - November 14, 2026?",
+  "Israel x Iran ceasefire continues through...?",
+  "UEFA Champions League: 2027 Champion",
+  "Bitcoin above ___ on November 14?",
   "Northwestern vs. Ohio State",
   "Jensen Huang rejoins NVIDIA by...?",
-  "Kosovo vs. Israel - More Markets",
   "Elon Musk # tweets November 10 - November 17, 2026?",
-  "Nuggets vs. Pelicans",
+  "Norway vs. Wales - More Markets",
   "What price will Bitcoin hit on November 14?",
+  "Nuggets vs. Pelicans",
+  "Norway vs. Wales",
   "US announces end of Iranian blockade by...?"
  ]
 }
