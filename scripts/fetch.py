@@ -71,11 +71,19 @@ def get(path, params):
                     return json.loads(body)
             except Exception as e:
                 detail = ""
+                err_body = b""
                 if hasattr(e, "read"):
                     try:
-                        detail = " | body=" + e.read().decode("utf-8", "replace")[:200]
+                        err_body = e.read()
+                        detail = " | body=" + err_body.decode("utf-8", "replace")[:200]
                     except Exception:
                         pass
+                # 官方对普通 offset 分页有上限（约 2100），更深需 keyset。
+                # 这是「分页到顶」，不是失败：返回空列表让主循环按已抓数据收尾。
+                if (b"offset too large" in err_body or b"keyset" in err_body):
+                    log("  分页到顶（offset=%s），按已抓取数据收尾"
+                        % params.get("offset"))
+                    return []
                 last = "%s: %s%s" % (type(e).__name__, str(e)[:100], detail)
                 log("  失败 轮%d/头%d offset=%s -> %s"
                     % (i + 1, hi + 1, params.get("offset"), last[:240]))
