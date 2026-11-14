@@ -15,6 +15,7 @@ Polymarket Gamma 全量快照抓取器（由 GitHub Actions 运行）
 """
 
 import datetime as dt
+import gzip
 import json
 import os
 import time
@@ -55,9 +56,16 @@ def get(path, params):
     for i in range(RETRY):
         for hi, headers in enumerate(HEADER_SETS):
             try:
-                req = urllib.request.Request(url, headers=headers)
+                # /events 在 limit>50 时强制 gzip：必须显式声明并自行解压
+                h = dict(headers)
+                h["Accept-Encoding"] = "gzip"
+                req = urllib.request.Request(url, headers=h)
                 with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-                    body = r.read().decode("utf-8", "replace")
+                    raw = r.read()
+                    if raw[:2] == b"\x1f\x8b" or "gzip" in (
+                            r.headers.get("Content-Encoding") or "").lower():
+                        raw = gzip.decompress(raw)
+                    body = raw.decode("utf-8", "replace")
                     if i or hi:
                         log("  成功：第 %d 轮 / 第 %d 套请求头" % (i + 1, hi + 1))
                     return json.loads(body)
