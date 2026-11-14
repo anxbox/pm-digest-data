@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-14T10:23:12.881050+00:00",
+ "ts": "2026-11-14T11:15:18.801529+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 57205,
- "single_game_events": 704,
+ "sub_markets_total": 57045,
+ "single_game_events": 735,
  "event_keys": [
   "active",
   "archived",
@@ -167,19 +167,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "2048550.95349",
-  "volume": "33271482.654423997",
-  "openInterest": "5542698.426678",
+  "liquidity": "2061254.47496",
+  "volume": "33591205.176812",
+  "openInterest": "5495646.719196",
   "sortBy": "ascending",
   "createdAt": "2026-07-30T00:36:56.42426Z",
-  "updatedAt": "2026-11-14T10:20:08.329376Z",
+  "updatedAt": "2026-11-14T11:14:10.394991Z",
   "competitive": "0.8767123287671234",
-  "volume24hr": "2388203.866512",
-  "volume1wk": "16953971.937165",
-  "volume1mo": "30297451.599226",
-  "volume1yr": "33501874.743254",
+  "volume24hr": "2443005.164215",
+  "volume1wk": "17017766.810818",
+  "volume1mo": "30386785.561945",
+  "volume1yr": "33591243.875443004",
   "enableOrderBook": "True",
-  "liquidityClob": "2048550.95349",
+  "liquidityClob": "2061254.47496",
   "negRisk": "True",
   "negRiskMarketID": "0xa74f5328517db0e030a5e62edc800e37bd36ca6e455571b14e8bb2b0dd38d700",
   "commentCount": "0",
@@ -198,18 +198,18 @@
   "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
   "resolutionSource": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
   "endDate": "2026-12-09T23:59:00Z",
-  "liquidity": "358044.1242",
+  "liquidity": "351332.72829",
   "startDate": "2026-07-30T00:53:15.730668Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "description": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.0025\", \"0.9975\"]",
-  "volume": "4820906.115385",
+  "volume": "4837442.543385",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-07-30T00:36:56.830135Z",
-  "updatedAt": "2026-11-14T10:19:55.632838Z",
+  "updatedAt": "2026-11-14T11:11:56.362212Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -222,13 +222,13 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "4820906.115385",
-  "liquidityNum": "358044.1242",
+  "volumeNum": "4837442.543385",
+  "liquidityNum": "351332.72829",
   "endDateIso": "2026-12-09",
   "startDateIso": "2026-07-30",
   "hasReviewedDates": "True",
-  "volume24hr": "229710.100446",
-  "volume1wk": "2119289.751868",
+  "volume24hr": "228638.920446",
+  "volume1wk": "2098058.941868",
   "volume1mo": "4253582.977691",
   "volume1yr": "4837442.543385001",
   "clobTokenIds": "[\"17640596861394454242836532536014033416733783473450136742726948856144855149507\", \"10423673626377530789149720287419191120396356671195972578858475044053097674219"
@@ -262,7 +262,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.04\", \"0.96\"]",
+    "outcomePrices": "[\"0.039\", \"0.961\"]",
     "closed": "False"
    },
    {
@@ -280,20 +280,20 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0765\", \"0.9235\"]",
+    "outcomePrices": "[\"0.0725\", \"0.9275\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "economy": 73,
-  "sports": 763,
+  "economy": 71,
+  "sports": 776,
   "politics": 304,
-  "crypto": 133,
-  "tech": 467,
-  "culture": 111,
-  "geopolitics": 202,
-  "(空)": 47
+  "crypto": 131,
+  "tech": 465,
+  "culture": 110,
+  "geopolitics": 197,
+  "(空)": 46
  },
  "tag_samples": [
   {
@@ -305,6 +305,15 @@
     "Economy",
     "Fed Rates",
     "Kevin Warsh"
+   ]
+  },
+  {
+   "title": "Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs",
+   "tags": [
+    "Esports",
+    "counter strike 2",
+    "Games",
+    "Sports"
    ]
   },
   {
@@ -370,17 +379,11 @@
     "Politics",
     "Global Elections"
    ]
-  },
-  {
-   "title": "Will Jesus Christ return before 2027?",
-   "tags": [
-    "Parent For Derivative",
-    "Culture"
-   ]
   }
  ],
  "top_titles": [
   "Fed Decision in December?",
+  "Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs",
   "Grizzlies vs. Pelicans",
   "Democratic Presidential Nominee 2028",
   "Presidential Election Winner 2028",
@@ -389,8 +392,8 @@
   "Next French Presidential Election",
   "Will Jesus Christ return before 2027?",
   "Next CEO of NVIDIA?",
-  "Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs",
   "What price will Bitcoin hit in November?",
+  "Dota 2: LGD Gaming vs LEGION (BO3) - 1win Essence Group C",
   "Israel x Iran ceasefire continues through...?",
   "What price will Bitcoin hit November 9-15?",
   "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs",
@@ -399,11 +402,10 @@
   "UEFA Champions League: 2027 Champion",
   "Jensen Huang rejoins NVIDIA by...?",
   "Dota 2: potn9ki vs oveA (BO3) - Esports Pro Circuit  Playoffs",
-  "Dota 2: LGD Gaming vs LEGION (BO3) - 1win Essence Group C",
   "Northwestern vs. Ohio State",
   "Elon Musk # tweets November 10 - November 17, 2026?",
   "Fed Decision in January?",
-  "Alaska Senate Election Winner",
-  "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)"
+  "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
+  "US announces end of Iranian blockade by...?"
  ]
 }
