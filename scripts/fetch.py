@@ -22,10 +22,22 @@ import urllib.parse
 import urllib.request
 
 GAMMA = "https://gamma-api.polymarket.com"
-UA = {
-    "User-Agent": "pm-digest-snapshot/1.0 (+github actions)",
-    "Accept": "application/json",
-}
+# 官方网关对显式 Accept: application/json 会返回 406。按已验证可跑通的公开脚本
+# （requests 默认头）为基准，准备多套请求头依次回退；每次失败都打印真实响应体。
+HEADER_SETS = [
+    {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+        "Accept": "*/*",
+    },
+    {   # 与 pm-data 公开抓取脚本同款：不显式声明 Accept
+        "User-Agent": "pm-monitor/1.0 (+github actions)",
+    },
+    {
+        "User-Agent": "curl/8.5.0",
+        "Accept": "application/json, text/plain, */*",
+    },
+]
 PAGE_SIZE = 100
 MAX_PAGES = 30          # 上限 3000 个活跃 event
 TIMEOUT = 40
@@ -39,19 +51,28 @@ def log(*a):
 
 def get(path, params):
     url = GAMMA + path + "?" + urllib.parse.urlencode(params)
-    last = None
+    last = "无尝试"
     for i in range(RETRY):
-        try:
-            req = urllib.request.Request(url, headers=UA)
-            with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-                return json.loads(r.read().decode("utf-8"))
-        except Exception as e:
-            last = e
-            log("  retry %d/%d offset=%s: %s"
-                % (i + 1, RETRY, params.get("offset"), type(e).__name__))
-            time.sleep(2 * (i + 1))
-    raise RuntimeError("Gamma 请求失败: %s -> %s: %s"
-                       % (url, type(last).__name__, last))
+        for hi, headers in enumerate(HEADER_SETS):
+            try:
+                req = urllib.request.Request(url, headers=headers)
+                with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+                    body = r.read().decode("utf-8", "replace")
+                    if i or hi:
+                        log("  成功：第 %d 轮 / 第 %d 套请求头" % (i + 1, hi + 1))
+                    return json.loads(body)
+            except Exception as e:
+                detail = ""
+                if hasattr(e, "read"):
+                    try:
+                        detail = " | body=" + e.read().decode("utf-8", "replace")[:200]
+                    except Exception:
+                        pass
+                last = "%s: %s%s" % (type(e).__name__, str(e)[:100], detail)
+                log("  失败 轮%d/头%d offset=%s -> %s"
+                    % (i + 1, hi + 1, params.get("offset"), last[:240]))
+        time.sleep(2 * (i + 1))
+    raise RuntimeError("Gamma 请求失败: %s -> %s" % (url, last))
 
 
 def jlist(x):
