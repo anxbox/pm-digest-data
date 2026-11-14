@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-14T06:46:52.420307+00:00",
+ "ts": "2026-11-14T07:53:12.854406+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 57287,
- "single_game_events": 683,
+ "sub_markets_total": 57241,
+ "single_game_events": 684,
  "event_keys": [
   "active",
   "archived",
@@ -173,12 +173,12 @@
   "featured": "False",
   "restricted": "True",
   "liquidity": "99.999",
-  "volume": "2716240.945775",
-  "openInterest": "75941.71030099998",
+  "volume": "2716240.9457749994",
+  "openInterest": "65378.76648",
   "createdAt": "2026-10-30T18:00:07.984489Z",
-  "updatedAt": "2026-11-14T06:46:10.358336Z",
+  "updatedAt": "2026-11-14T07:48:07.909675Z",
   "competitive": "0.0009999997500000626",
-  "volume24hr": "2698354.1722600013",
+  "volume24hr": "2697765.6557310014",
   "volume1wk": "2712569.9449480018",
   "volume1mo": "2712569.9449480018",
   "volume1yr": "2712569.9449480018",
@@ -213,7 +213,7 @@
   "active": "True",
   "closed": "True",
   "createdAt": "2026-10-30T18:00:08.277325Z",
-  "updatedAt": "2026-11-14T06:36:09.655216Z",
+  "updatedAt": "2026-11-14T07:36:11.558377Z",
   "closedTime": "2026-11-14 04:02:59.615666+00",
   "new": "False",
   "featured": "False",
@@ -232,7 +232,7 @@
   "endDateIso": "2026-11-14",
   "startDateIso": "2026-10-30",
   "hasReviewedDates": "True",
-  "volume24hr": "1449862.532078001",
+  "volume24hr": "1449640.683418001",
   "volume1wk": "1455858.9310590012",
   "volume1mo": "1455858.9310590012",
   "volume1yr": "1455858.9310590012",
@@ -267,7 +267,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0315\", \"0.9685\"]",
+    "outcomePrices": "[\"0.0335\", \"0.9665\"]",
     "closed": "False"
    },
    {
@@ -291,14 +291,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 747,
+  "sports": 750,
   "economy": 75,
-  "politics": 314,
-  "crypto": 144,
-  "tech": 455,
+  "politics": 316,
+  "crypto": 140,
+  "tech": 458,
+  "culture": 112,
   "geopolitics": 202,
-  "culture": 114,
-  "(空)": 49
+  "(空)": 47
  },
  "tag_samples": [
   {
@@ -342,14 +342,6 @@
    ]
   },
   {
-   "title": "Houston vs. Colorado",
-   "tags": [
-    "Sports",
-    "CFB (All)",
-    "Games"
-   ]
-  },
-  {
    "title": "Presidential Election Winner 2028",
    "tags": [
     "President",
@@ -381,6 +373,15 @@
     "Politics",
     "Global Elections"
    ]
+  },
+  {
+   "title": "Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs",
+   "tags": [
+    "Esports",
+    "counter strike 2",
+    "Games",
+    "Sports"
+   ]
   }
  ],
  "top_titles": [
@@ -388,26 +389,26 @@
   "Fed Decision in December?",
   "Grizzlies vs. Pelicans",
   "Democratic Presidential Nominee 2028",
-  "Houston vs. Colorado",
   "Presidential Election Winner 2028",
   "What price will Bitcoin hit in 2026?",
   "Next French Presidential Election",
+  "Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs",
   "What price will Bitcoin hit in November?",
-  "Louisiana-Lafayette Ragin' Cajuns vs. UNCW Seahawks",
+  "Will Jesus Christ return before 2027?",
   "Israel x Iran ceasefire continues through...?",
   "What price will Bitcoin hit November 9-15?",
   "Next CEO of NVIDIA?",
-  "Will Jesus Christ return before 2027?",
-  "Counter-Strike: Spirit vs MOUZ (BO3) - BLAST Rivals Playoffs",
   "Republican Presidential Nominee 2028",
   "Counter-Strike: FURIA vs Team Falcons (BO3) - BLAST Rivals Playoffs",
   "UEFA Champions League: 2027 Champion",
   "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs",
   "Bitcoin above ___ on November 14?",
-  "Anthropic IPO Closing Market Cap",
-  "Dota 2: potn9ki vs oveA (BO3) - Esports Pro Circuit  Playoffs",
   "Elon Musk # tweets November 12 - November 14, 2026?",
+  "Louisiana-Lafayette Ragin' Cajuns vs. UNCW Seahawks",
+  "Dota 2: potn9ki vs oveA (BO3) - Esports Pro Circuit  Playoffs",
   "Northwestern vs. Ohio State",
-  "Jensen Huang rejoins NVIDIA by...?"
+  "Jensen Huang rejoins NVIDIA by...?",
+  "Elon Musk # tweets November 10 - November 17, 2026?",
+  "Fed Decision in January?"
  ]
 }
