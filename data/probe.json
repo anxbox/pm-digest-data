@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-14T21:30:35.791892+00:00",
+ "ts": "2026-11-14T22:14:39.577773+00:00",
  "pages_fetched": 21,
- "events_total": 2099,
- "sub_markets_total": 52749,
- "single_game_events": 793,
+ "events_total": 2100,
+ "sub_markets_total": 54809,
+ "single_game_events": 764,
  "event_keys": [
   "active",
   "archived",
@@ -110,7 +110,6 @@
   "negRiskOther",
   "new",
   "oneDayPriceChange",
-  "oneHourPriceChange",
   "orderMinSize",
   "orderPriceMinTickSize",
   "outcomePrices",
@@ -171,21 +170,21 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "7747909.10951",
-  "volume": "15353109.241555",
-  "openInterest": "11021847.984315",
+  "liquidity": "20016625.87735",
+  "volume": "19774088.227114007",
+  "openInterest": "12189430.017831",
   "createdAt": "2026-11-09T01:50:04.852988Z",
-  "updatedAt": "2026-11-14T21:29:53.947584Z",
-  "competitive": "0.9997750506136119",
-  "volume24hr": "14431766.227719996",
-  "volume1wk": "15701770.607720995",
-  "volume1mo": "15701770.607720995",
-  "volume1yr": "15701770.607720995",
+  "updatedAt": "2026-11-14T22:09:50.512516Z",
+  "competitive": "1",
+  "volume24hr": "18906418.400243994",
+  "volume1wk": "20188233.171659995",
+  "volume1mo": "20188233.171659995",
+  "volume1yr": "20188233.171659995",
   "enableOrderBook": "True",
-  "liquidityClob": "7747909.10951",
+  "liquidityClob": "20016625.87735",
   "negRisk": "False",
   "commentCount": "0",
-  "markets": "<list 55>",
+  "markets": "<list 56>",
   "series": "<list 1>",
   "tags": "<list 7>",
   "cyom": "False",
@@ -202,18 +201,18 @@
   "slug": "lol-blg-gen-2026-11-14-game1",
   "resolutionSource": "https://gol.gg/esports/home",
   "endDate": "2026-11-15T01:40:00Z",
-  "liquidity": "2557054.4717",
+  "liquidity": "2306779.17305",
   "startDate": "2026-11-09T01:50:20Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-of-legends-61a4f083a6.png",
   "description": "This market refers to the LoL Grand Final match between Bilibili Gaming and Gen.G in the Worlds Playoffs, initially scheduled for November 14, 2026 at 2:00 PM E",
   "outcomes": "[\"Bilibili Gaming\", \"Gen.G\"]",
   "outcomePrices": "[\"0.0005\", \"0.9995\"]",
-  "volume": "4193545.5730440016",
+  "volume": "4330122.623044004",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-09T01:50:05.102258Z",
-  "updatedAt": "2026-11-14T21:27:56.217038Z",
+  "updatedAt": "2026-11-14T22:09:56.503717Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -225,22 +224,22 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "4193545.5730440016",
-  "liquidityNum": "2557054.4717",
+  "volumeNum": "4330122.623044004",
+  "liquidityNum": "2306779.17305",
   "endDateIso": "2026-11-15",
   "startDateIso": "2026-11-09",
   "hasReviewedDates": "True",
-  "volume24hr": "4216121.153345",
-  "volume1wk": "4234140.633044",
-  "volume1mo": "4234140.633044",
-  "volume1yr": "4234140.633044",
+  "volume24hr": "4315857.283344994",
+  "volume1wk": "4335084.763043994",
+  "volume1mo": "4335084.763043994",
+  "volume1yr": "4335084.763043994",
   "gameStartTime": "2026-11-14 19:40:00+00",
   "secondsDelay": "1"
  },
  "multi_option_event": {
   "title": "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs",
   "slug": "lol-blg-gen-2026-11-14",
-  "n_sub": 55,
+  "n_sub": 56,
   "sub_markets": [
    {
     "question": "LoL: Bilibili Gaming vs Gen.G - Game 1 Winner",
@@ -257,7 +256,7 @@
     "groupItemThreshold": "None",
     "shortTitle": "None",
     "outcomes": "[\"Bilibili Gaming\", \"Gen.G\"]",
-    "outcomePrices": "[\"0.385\", \"0.615\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -284,20 +283,20 @@
     "groupItemThreshold": "None",
     "shortTitle": "None",
     "outcomes": "[\"Bilibili Gaming\", \"Gen.G\"]",
-    "outcomePrices": "[\"0.235\", \"0.765\"]",
+    "outcomePrices": "[\"0.415\", \"0.585\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 842,
-  "crypto": 160,
+  "sports": 826,
+  "crypto": 157,
+  "politics": 271,
   "economy": 63,
-  "politics": 266,
-  "tech": 441,
-  "geopolitics": 189,
-  "culture": 97,
-  "(空)": 41
+  "tech": 450,
+  "geopolitics": 193,
+  "culture": 96,
+  "(空)": 44
  },
  "tag_samples": [
   {
@@ -312,15 +311,6 @@
    ]
   },
   {
-   "title": "Portugal vs. Denmark",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "UEFA Nations League"
-   ]
-  },
-  {
    "title": "What price will Bitcoin hit in 2026?",
    "tags": [
     "Bitcoin",
@@ -329,14 +319,6 @@
     "Crypto Prices",
     "Crypto",
     "Earn 3.25%"
-   ]
-  },
-  {
-   "title": "Northwestern vs. Ohio State",
-   "tags": [
-    "Sports",
-    "CFB (All)",
-    "Games"
    ]
   },
   {
@@ -360,14 +342,14 @@
    ]
   },
   {
-   "title": "Fed Decision in December?",
+   "title": "What price will Bitcoin hit November 9-15?",
    "tags": [
-    "Fed",
-    "fomc",
-    "Trump",
-    "Economy",
-    "Fed Rates",
-    "Kevin Warsh"
+    "Crypto",
+    "Crypto Prices",
+    "Recurring",
+    "Hide From New",
+    "Bitcoin",
+    "Weekly"
    ]
   },
   {
@@ -380,33 +362,50 @@
     "Politics",
     "World Elections"
    ]
+  },
+  {
+   "title": "Mavericks vs. Cavaliers",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
+   "title": "WTA Finals, Group A: Jessica Pegula vs Mirra Andreeva",
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ]
   }
  ],
  "top_titles": [
   "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs",
-  "Portugal vs. Denmark",
   "What price will Bitcoin hit in 2026?",
-  "Northwestern vs. Ohio State",
   "What price will Bitcoin hit in November?",
   "Nets vs. Grizzlies",
-  "Fed Decision in December?",
-  "Presidential Election Winner 2028",
   "What price will Bitcoin hit November 9-15?",
+  "Presidential Election Winner 2028",
   "Mavericks vs. Cavaliers",
-  "Portugal vs. Denmark - More Markets",
+  "WTA Finals, Group A: Jessica Pegula vs Mirra Andreeva",
+  "Fed Decision in December?",
   "Next French Presidential Election",
   "Worlds 2026: Winner",
-  "WTA Finals, Group A: Jessica Pegula vs Mirra Andreeva",
-  "Romania vs. Poland",
-  "Sweden vs. Bosnia and Herzegovina",
   "Republican Presidential Nominee 2028",
   "Deportivo Pereira vs. América de Cali",
   "What price will Bitcoin hit on November 14?",
+  "Dota 2: Aurora vs CyberHero (BO3) - 1win Essence Group B",
   "UEFA Champions League: 2027 Champion",
   "Democratic Presidential Nominee 2028",
-  "Israel x Iran ceasefire continues through...?",
-  "Next CEO of NVIDIA?",
   "Tennessee vs. Texas A&M",
-  "Michigan vs. Oregon"
+  "Israel x Iran ceasefire continues through...?",
+  "Michigan vs. Oregon",
+  "Next CEO of NVIDIA?",
+  "Nuggets vs. Pelicans",
+  "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
+  "Alabama vs. Vanderbilt",
+  "Elon Musk # tweets November 10 - November 17, 2026?"
  ]
 }
