@@ -1,0 +1,68 @@
+name: Refresh Polymarket snapshot
+
+on:
+  schedule:
+    # UTC，每 20 分钟；北京时间 = UTC+8，覆盖 09:15 / 21:15 两次发信
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+  push:
+    # 只监听脚本与工作流本身；data/ 的快照提交不会触发，避免自循环
+    paths:
+      - 'scripts/fetch.py'
+      - '.github/workflows/fetch.yml'
+
+# 并发时取消旧任务，避免两次抓取同时 push 冲突
+concurrency:
+  group: pm-snapshot
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch Gamma snapshot
+        run: python scripts/fetch.py
+
+      - name: Validate snapshot
+        run: |
+          python - <<'PY'
+          import json, sys
+          d = json.load(open('data/latest.json', encoding='utf-8'))
+          assert d.get('count', 0) >= 100, '市场数异常: %s' % d.get('count')
+          assert d.get('updated'), '缺少 updated 时间戳'
+          m = d['markets'][0]
+          for k in ('slug', 'title', 'volume_24h', 'end_date', 'outcomes'):
+              assert k in m, '缺少字段: %s' % k
+          print('校验通过 | count =', d['count'], '| updated =', d['updated'])
+          print('首条 =', m['title'][:80])
+          PY
+
+      - name: Commit snapshot
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json data/probe.json
+          if git diff --cached --quiet; then
+            echo "快照无变化，跳过提交"
+          else
+            git commit -m "chore: refresh polymarket snapshot [skip ci]"
+            # 并发或排队导致落后时，重放后再推
+            for i in 1 2 3; do
+              if git push; then break; fi
+              git pull --rebase origin main || true
+            done
+          fi
