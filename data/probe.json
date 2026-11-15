@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-15T06:30:32.140518+00:00",
+ "ts": "2026-11-15T07:44:50.567491+00:00",
  "pages_fetched": 21,
  "events_total": 2097,
- "sub_markets_total": 49539,
- "single_game_events": 632,
+ "sub_markets_total": 47891,
+ "single_game_events": 636,
  "event_keys": [
   "active",
   "archived",
@@ -172,18 +172,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "277.55458",
-  "volume": "3534806.42139",
-  "openInterest": "82563.10439699996",
+  "liquidity": "335.41111",
+  "volume": "3535054.79149",
+  "openInterest": "76142.915361",
   "createdAt": "2026-10-31T05:59:17.961171Z",
-  "updatedAt": "2026-11-15T06:26:07.55455Z",
-  "competitive": "0.5256066685420707",
-  "volume24hr": "3515025.907284999",
-  "volume1wk": "3529876.7137139994",
-  "volume1mo": "3529876.7137139994",
-  "volume1yr": "3529876.7137139994",
+  "updatedAt": "2026-11-15T07:42:07.355713Z",
+  "competitive": "0.52667032127121",
+  "volume24hr": "3491205.376081002",
+  "volume1wk": "3530125.0838139993",
+  "volume1mo": "3530125.0838139993",
+  "volume1yr": "3530125.0838139993",
   "enableOrderBook": "True",
-  "liquidityClob": "277.55458",
+  "liquidityClob": "335.41111",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 545>",
@@ -213,7 +213,7 @@
   "active": "True",
   "closed": "True",
   "createdAt": "2026-10-31T05:59:18.215762Z",
-  "updatedAt": "2026-11-15T06:22:06.335569Z",
+  "updatedAt": "2026-11-15T07:36:07.625217Z",
   "closedTime": "2026-11-15 03:16:58.496939+00",
   "new": "False",
   "featured": "False",
@@ -232,7 +232,7 @@
   "endDateIso": "2026-11-15",
   "startDateIso": "2026-10-31",
   "hasReviewedDates": "True",
-  "volume24hr": "2363359.3766889987",
+  "volume24hr": "2339349.8496730016",
   "volume1wk": "2378204.583117999",
   "volume1mo": "2378204.583117999",
   "volume1yr": "2378204.583117999",
@@ -249,7 +249,7 @@
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.784\", \"0.216\"]",
+    "outcomePrices": "[\"0.7835\", \"0.2165\"]",
     "closed": "False"
    },
    {
@@ -258,7 +258,7 @@
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.7695\", \"0.2305\"]",
+    "outcomePrices": "[\"0.769\", \"0.231\"]",
     "closed": "False"
    },
    {
@@ -267,20 +267,20 @@
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.5055\", \"0.4945\"]",
+    "outcomePrices": "[\"0.505\", \"0.495\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 748,
-  "crypto": 170,
-  "economy": 81,
-  "tech": 463,
-  "politics": 300,
-  "geopolitics": 192,
-  "culture": 97,
-  "(空)": 46
+  "sports": 749,
+  "crypto": 168,
+  "economy": 77,
+  "tech": 468,
+  "politics": 297,
+  "geopolitics": 193,
+  "culture": 96,
+  "(空)": 49
  },
  "tag_samples": [
   {
@@ -290,6 +290,14 @@
     "NBA",
     "Games",
     "Basketball"
+   ]
+  },
+  {
+   "title": "Utah vs. Arizona",
+   "tags": [
+    "Sports",
+    "CFB (All)",
+    "Games"
    ]
   },
   {
@@ -315,29 +323,12 @@
    ]
   },
   {
-   "title": "Pistons vs. Heat",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
    "title": "UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card)",
    "tags": [
     "Sports",
     "UFC",
     "Games",
     "UFC 334"
-   ]
-  },
-  {
-   "title": "Utah vs. Arizona",
-   "tags": [
-    "Sports",
-    "CFB (All)",
-    "Games"
    ]
   },
   {
@@ -352,39 +343,53 @@
    ]
   },
   {
-   "title": "Texas Tech vs. Oklahoma State",
+   "title": "Fed Decision in December?",
    "tags": [
-    "Sports",
-    "CFB (All)",
-    "Games"
+    "Fed",
+    "fomc",
+    "Trump",
+    "Economy",
+    "Fed Rates",
+    "Kevin Warsh"
+   ]
+  },
+  {
+   "title": "Next French Presidential Election",
+   "tags": [
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
+    "Politics",
+    "Global Elections"
    ]
   }
  ],
  "top_titles": [
   "Mavericks vs. Cavaliers",
+  "Utah vs. Arizona",
   "What price will Bitcoin hit in November?",
   "What price will Bitcoin hit in 2026?",
-  "Pistons vs. Heat",
   "UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card)",
-  "Utah vs. Arizona",
   "What price will Bitcoin hit November 9-15?",
-  "Texas Tech vs. Oklahoma State",
   "Fed Decision in December?",
   "Next French Presidential Election",
   "Republican Presidential Nominee 2028",
-  "Democratic Presidential Nominee 2028",
-  "UEFA Champions League: 2027 Champion",
   "Israel x Iran ceasefire continues through...?",
-  "Oregon State vs. Boise State",
-  "Presidential Election Winner 2028",
+  "UEFA Champions League: 2027 Champion",
   "Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs",
+  "Democratic Presidential Nominee 2028",
+  "Presidential Election Winner 2028",
   "What price will Ethereum hit in November?",
-  "Next CEO of NVIDIA?",
   "Pepperdine Waves vs. Oregon Ducks",
   "Patriots vs. Lions",
-  "Elon Musk # tweets November 10 - November 17, 2026?",
   "Jensen Huang rejoins NVIDIA by...?",
+  "Elon Musk # tweets November 10 - November 17, 2026?",
   "Bitcoin above ___ on November 15?",
-  "Stanford vs. Virginia Tech"
+  "Next CEO of NVIDIA?",
+  "Stanford vs. Virginia Tech",
+  "What price will Ethereum hit in 2026?",
+  "Bills vs. Jets",
+  "Arkansas State vs. Coastal Carolina"
  ]
 }
