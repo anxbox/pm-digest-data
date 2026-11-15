@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-15T20:36:02.267965+00:00",
+ "ts": "2026-11-15T21:16:27.580121+00:00",
  "pages_fetched": 21,
- "events_total": 2086,
- "sub_markets_total": 48423,
- "single_game_events": 694,
+ "events_total": 2100,
+ "sub_markets_total": 49369,
+ "single_game_events": 692,
  "event_keys": [
   "active",
   "archived",
@@ -25,6 +25,7 @@
   "eventMetadata",
   "eventWeek",
   "featured",
+  "finishedTimestamp",
   "gameId",
   "icon",
   "id",
@@ -74,7 +75,6 @@
   "bestAsk",
   "bestBid",
   "clearBookOnStart",
-  "clobRewards",
   "clobTokenIds",
   "closed",
   "comboStatus",
@@ -140,6 +140,7 @@
   "takerBaseFee",
   "tradingEligible",
   "umaBond",
+  "umaResolutionStatus",
   "umaResolutionStatuses",
   "umaReward",
   "updatedAt",
@@ -174,18 +175,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "979384.69626",
-  "volume": "4486649.680645",
-  "openInterest": "4121451.873976",
+  "liquidity": "2681545.60166",
+  "volume": "5172546.422349",
+  "openInterest": "4221288.9608000005",
   "createdAt": "2026-10-26T12:00:38.949481Z",
-  "updatedAt": "2026-11-15T20:33:40.355838Z",
-  "competitive": "0.9979790923380155",
-  "volume24hr": "4308020.971832",
-  "volume1wk": "4560015.3117120005",
-  "volume1mo": "4560025.717356",
-  "volume1yr": "4560025.717356",
+  "updatedAt": "2026-11-15T21:14:08.32672Z",
+  "competitive": "0.8617716171639915",
+  "volume24hr": "4925425.814366001",
+  "volume1wk": "5177687.012023001",
+  "volume1mo": "5177699.63989",
+  "volume1yr": "5177699.63989",
   "enableOrderBook": "True",
-  "liquidityClob": "979384.69626",
+  "liquidityClob": "2681545.60166",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 306>",
@@ -205,18 +206,18 @@
   "slug": "nfl-min-gb-2026-11-15",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-15T18:00:00Z",
-  "liquidity": "385179.0581",
+  "liquidity": "674348.38303",
   "startDate": "2026-10-26T12:00:47Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Vikings and Packers, scheduled for November 15 at 1:00PM ET:\nThis market will resolve to \"Vikings\" if Vikings win the ",
   "outcomes": "[\"Vikings\", \"Packers\"]",
-  "outcomePrices": "[\"0.925\", \"0.075\"]",
-  "volume": "3012169.6503450004",
+  "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+  "volume": "3639309.8949180003",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-10-26T12:00:39.117061Z",
-  "updatedAt": "2026-11-15T20:31:56.046658Z",
+  "updatedAt": "2026-11-15T21:13:55.352988Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -226,24 +227,24 @@
   "groupItemThreshold": "0",
   "questionID": "0x2e343e47e8ce956f4afcf84d7ca68e7e5e0f99126316d8221345cf341125ad83",
   "enableOrderBook": "True",
-  "orderPriceMinTickSize": "0.01",
+  "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "3012169.6503450004",
-  "liquidityNum": "385179.0581",
+  "umaResolutionStatus": "proposed",
+  "volumeNum": "3639309.8949180003",
+  "liquidityNum": "674348.38303",
   "endDateIso": "2026-11-15",
   "startDateIso": "2026-10-26",
   "hasReviewedDates": "True",
-  "volume24hr": "2940609.84325",
-  "volume1wk": "3073993.5796250002",
-  "volume1mo": "3074001.516133",
-  "volume1yr": "3074001.516133",
-  "gameStartTime": "2026-11-15 18:00:00+00",
-  "secondsDelay": "1"
+  "volume24hr": "3508648.6320350007",
+  "volume1wk": "3642030.146187001",
+  "volume1mo": "3642040.3049180005",
+  "volume1yr": "3642040.3049180005",
+  "gameStartTime": "2026-11-15 18:00:00+00"
  },
  "multi_option_event": {
   "title": "Vikings vs. Packers",
   "slug": "nfl-min-gb-2026-11-15",
-  "n_sub": 191,
+  "n_sub": 150,
   "sub_markets": [
    {
     "question": "Vikings vs. Packers",
@@ -251,7 +252,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Vikings\", \"Packers\"]",
-    "outcomePrices": "[\"0.925\", \"0.075\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -260,7 +261,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Vikings\", \"Packers\"]",
-    "outcomePrices": "[\"0.935\", \"0.065\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -269,7 +270,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Vikings\", \"Packers\"]",
-    "outcomePrices": "[\"0.935\", \"0.065\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -278,7 +279,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Vikings\", \"Packers\"]",
-    "outcomePrices": "[\"0.885\", \"0.115\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -287,20 +288,20 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Vikings\", \"Packers\"]",
-    "outcomePrices": "[\"0.89\", \"0.11\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 794,
-  "crypto": 165,
-  "economy": 72,
-  "geopolitics": 190,
-  "tech": 464,
-  "politics": 261,
+  "sports": 798,
+  "crypto": 157,
+  "geopolitics": 193,
+  "economy": 73,
+  "tech": 471,
+  "politics": 267,
   "culture": 95,
-  "(空)": 45
+  "(空)": 46
  },
  "tag_samples": [
   {
@@ -320,6 +321,14 @@
    ]
   },
   {
+   "title": "Bills vs. Jets",
+   "tags": [
+    "Sports",
+    "NFL (All)",
+    "Games"
+   ]
+  },
+  {
    "title": "Chiefs vs. Falcons",
    "tags": [
     "Sports",
@@ -328,7 +337,7 @@
    ]
   },
   {
-   "title": "Bills vs. Jets",
+   "title": "49ers vs. Cowboys",
    "tags": [
     "Sports",
     "NFL (All)",
@@ -353,49 +362,39 @@
    ]
   },
   {
-   "title": "Spain vs. England",
+   "title": "Texans vs. Browns",
    "tags": [
     "Sports",
-    "Games",
-    "Soccer",
-    "UEFA Nations League"
-   ]
-  },
-  {
-   "title": "Dota 2: Aurora vs DO KONCA (BO3) - 1win Essence Playoffs",
-   "tags": [
-    "Esports",
-    "Dota 2",
-    "Games",
-    "Sports"
+    "NFL (All)",
+    "Games"
    ]
   }
  ],
  "top_titles": [
   "Vikings vs. Packers",
   "Panthers vs. Saints",
-  "Chiefs vs. Falcons",
   "Bills vs. Jets",
+  "Chiefs vs. Falcons",
+  "49ers vs. Cowboys",
   "Jaguars vs. Titans",
   "Pacers vs. 76ers",
-  "Spain vs. England",
-  "Dota 2: Aurora vs DO KONCA (BO3) - 1win Essence Playoffs",
-  "What price will Bitcoin hit in November?",
   "Texans vs. Browns",
+  "Spain vs. England",
+  "What price will Bitcoin hit in November?",
   "What price will Bitcoin hit in 2026?",
-  "49ers vs. Cowboys",
   "France vs. Türkiye",
   "France vs. Türkiye - More Markets",
-  "Dolphins vs. Colts",
-  "What price will Bitcoin hit November 9-15?",
-  "Metz: Filippo Moroni vs Eliakim Coulibaly",
   "Belgium vs. Italy",
+  "Dolphins vs. Colts",
+  "Metz: Filippo Moroni vs Eliakim Coulibaly",
+  "What price will Bitcoin hit November 9-15?",
   "Seahawks vs. Raiders",
-  "Pepperdine Waves vs. Oregon Ducks",
-  "Fed Decision in December?",
-  "Israel x Iran ceasefire continues through...?",
   "Spain vs. England - More Markets",
+  "Pepperdine Waves vs. Oregon Ducks",
+  "Israel x Iran ceasefire continues through...?",
+  "Lakers vs. Suns",
+  "Fed Decision in December?",
   "Jensen Huang rejoins NVIDIA by...?",
-  "UEFA Champions League: 2027 Champion"
+  "Counter-Strike: PARIVISION vs 100 Thieves (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs"
  ]
 }
