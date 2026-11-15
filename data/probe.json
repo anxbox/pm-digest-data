@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-15T19:57:24.706918+00:00",
+ "ts": "2026-11-15T20:36:02.267965+00:00",
  "pages_fetched": 21,
- "events_total": 2045,
- "sub_markets_total": 47676,
- "single_game_events": 683,
+ "events_total": 2086,
+ "sub_markets_total": 48423,
+ "single_game_events": 694,
  "event_keys": [
   "active",
   "archived",
@@ -174,18 +174,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1452478.89545",
-  "volume": "4113333.3186129997",
-  "openInterest": "3889649.6396709997",
+  "liquidity": "979384.69626",
+  "volume": "4486649.680645",
+  "openInterest": "4121451.873976",
   "createdAt": "2026-10-26T12:00:38.949481Z",
-  "updatedAt": "2026-11-15T19:52:58.607025Z",
-  "competitive": "1",
-  "volume24hr": "3950427.5927130003",
-  "volume1wk": "4202358.102805001",
-  "volume1mo": "4202368.508449",
-  "volume1yr": "4202368.508449",
+  "updatedAt": "2026-11-15T20:33:40.355838Z",
+  "competitive": "0.9979790923380155",
+  "volume24hr": "4308020.971832",
+  "volume1wk": "4560015.3117120005",
+  "volume1mo": "4560025.717356",
+  "volume1yr": "4560025.717356",
   "enableOrderBook": "True",
-  "liquidityClob": "1452478.89545",
+  "liquidityClob": "979384.69626",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 306>",
@@ -205,18 +205,18 @@
   "slug": "nfl-min-gb-2026-11-15",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-15T18:00:00Z",
-  "liquidity": "399197.4741",
+  "liquidity": "385179.0581",
   "startDate": "2026-10-26T12:00:47Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Vikings and Packers, scheduled for November 15 at 1:00PM ET:\nThis market will resolve to \"Vikings\" if Vikings win the ",
   "outcomes": "[\"Vikings\", \"Packers\"]",
-  "outcomePrices": "[\"0.935\", \"0.065\"]",
-  "volume": "2766517.950528",
+  "outcomePrices": "[\"0.925\", \"0.075\"]",
+  "volume": "3012169.6503450004",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-10-26T12:00:39.117061Z",
-  "updatedAt": "2026-11-15T19:51:56.649198Z",
+  "updatedAt": "2026-11-15T20:31:56.046658Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -228,22 +228,22 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.01",
   "orderMinSize": "5",
-  "volumeNum": "2766517.950528",
-  "liquidityNum": "399197.4741",
+  "volumeNum": "3012169.6503450004",
+  "liquidityNum": "385179.0581",
   "endDateIso": "2026-11-15",
   "startDateIso": "2026-10-26",
   "hasReviewedDates": "True",
-  "volume24hr": "2656034.6187360003",
-  "volume1wk": "2789418.355111",
-  "volume1mo": "2789426.291619",
-  "volume1yr": "2789426.291619",
+  "volume24hr": "2940609.84325",
+  "volume1wk": "3073993.5796250002",
+  "volume1mo": "3074001.516133",
+  "volume1yr": "3074001.516133",
   "gameStartTime": "2026-11-15 18:00:00+00",
   "secondsDelay": "1"
  },
  "multi_option_event": {
   "title": "Vikings vs. Packers",
   "slug": "nfl-min-gb-2026-11-15",
-  "n_sub": 198,
+  "n_sub": 191,
   "sub_markets": [
    {
     "question": "Vikings vs. Packers",
@@ -251,7 +251,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Vikings\", \"Packers\"]",
-    "outcomePrices": "[\"0.935\", \"0.065\"]",
+    "outcomePrices": "[\"0.925\", \"0.075\"]",
     "closed": "False"
    },
    {
@@ -269,7 +269,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Vikings\", \"Packers\"]",
-    "outcomePrices": "[\"0.93\", \"0.07\"]",
+    "outcomePrices": "[\"0.935\", \"0.065\"]",
     "closed": "False"
    },
    {
@@ -278,7 +278,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Vikings\", \"Packers\"]",
-    "outcomePrices": "[\"0.895\", \"0.105\"]",
+    "outcomePrices": "[\"0.885\", \"0.115\"]",
     "closed": "False"
    },
    {
@@ -287,20 +287,20 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Vikings\", \"Packers\"]",
-    "outcomePrices": "[\"0.9\", \"0.1\"]",
+    "outcomePrices": "[\"0.89\", \"0.11\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 782,
-  "crypto": 158,
-  "geopolitics": 187,
+  "sports": 794,
+  "crypto": 165,
   "economy": 72,
-  "politics": 259,
-  "tech": 455,
-  "culture": 92,
-  "(空)": 40
+  "geopolitics": 190,
+  "tech": 464,
+  "politics": 261,
+  "culture": 95,
+  "(空)": 45
  },
  "tag_samples": [
   {
@@ -353,25 +353,21 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit in November?",
+   "title": "Spain vs. England",
    "tags": [
-    "Bitcoin",
-    "Monthly",
-    "Hit Price",
-    "Crypto",
-    "Crypto Prices",
-    "Recurring"
+    "Sports",
+    "Games",
+    "Soccer",
+    "UEFA Nations League"
    ]
   },
   {
-   "title": "What price will Bitcoin hit in 2026?",
+   "title": "Dota 2: Aurora vs DO KONCA (BO3) - 1win Essence Playoffs",
    "tags": [
-    "Bitcoin",
-    "Yearly",
-    "Hit Price",
-    "Crypto Prices",
-    "Crypto",
-    "Earn 3.25%"
+    "Esports",
+    "Dota 2",
+    "Games",
+    "Sports"
    ]
   }
  ],
@@ -382,24 +378,24 @@
   "Bills vs. Jets",
   "Jaguars vs. Titans",
   "Pacers vs. 76ers",
-  "What price will Bitcoin hit in November?",
-  "What price will Bitcoin hit in 2026?",
-  "Dota 2: Aurora vs DO KONCA (BO3) - 1win Essence Playoffs",
   "Spain vs. England",
-  "49ers vs. Cowboys",
+  "Dota 2: Aurora vs DO KONCA (BO3) - 1win Essence Playoffs",
+  "What price will Bitcoin hit in November?",
   "Texans vs. Browns",
-  "What price will Bitcoin hit November 9-15?",
-  "Dolphins vs. Colts",
-  "Metz: Filippo Moroni vs Eliakim Coulibaly",
-  "France vs. Türkiye - More Markets",
+  "What price will Bitcoin hit in 2026?",
+  "49ers vs. Cowboys",
   "France vs. Türkiye",
-  "Israel x Iran ceasefire continues through...?",
-  "Seahawks vs. Raiders",
-  "Fed Decision in December?",
-  "Pepperdine Waves vs. Oregon Ducks",
+  "France vs. Türkiye - More Markets",
+  "Dolphins vs. Colts",
+  "What price will Bitcoin hit November 9-15?",
+  "Metz: Filippo Moroni vs Eliakim Coulibaly",
   "Belgium vs. Italy",
-  "UEFA Champions League: 2027 Champion",
-  "Democratic Presidential Nominee 2028",
-  "Jensen Huang rejoins NVIDIA by...?"
+  "Seahawks vs. Raiders",
+  "Pepperdine Waves vs. Oregon Ducks",
+  "Fed Decision in December?",
+  "Israel x Iran ceasefire continues through...?",
+  "Spain vs. England - More Markets",
+  "Jensen Huang rejoins NVIDIA by...?",
+  "UEFA Champions League: 2027 Champion"
  ]
 }
