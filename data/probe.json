@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-15T03:06:24.289680+00:00",
+ "ts": "2026-11-15T03:28:13.444380+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 51612,
- "single_game_events": 654,
+ "events_total": 2061,
+ "sub_markets_total": 51026,
+ "single_game_events": 640,
  "event_keys": [
   "active",
   "archived",
@@ -172,18 +172,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "939155.14018",
-  "volume": "4238825.274286999",
-  "openInterest": "2934824.076043002",
+  "liquidity": "820114.89515",
+  "volume": "4514761.521678001",
+  "openInterest": "3071048.4451240003",
   "createdAt": "2026-10-31T05:59:19.5646Z",
-  "updatedAt": "2026-11-15T03:06:09.339866Z",
-  "competitive": "0.9991008092716555",
-  "volume24hr": "4254210.328719",
-  "volume1wk": "4261211.680676",
-  "volume1mo": "4261211.680676",
-  "volume1yr": "4261211.680676",
+  "updatedAt": "2026-11-15T03:24:36.597353Z",
+  "competitive": "0.9999000099990001",
+  "volume24hr": "4532149.288784",
+  "volume1wk": "4539150.640741",
+  "volume1mo": "4539150.640741",
+  "volume1yr": "4539150.640741",
   "enableOrderBook": "True",
-  "liquidityClob": "939155.14018",
+  "liquidityClob": "820114.89515",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 519>",
@@ -203,18 +203,18 @@
   "slug": "nba-bkn-mem-2026-11-14",
   "resolutionSource": "https://www.nba.com/",
   "endDate": "2026-11-15T01:00:00Z",
-  "liquidity": "76097.08361",
+  "liquidity": "61376.77503",
   "startDate": "2026-10-31T05:59:25Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "description": "In the upcoming NBA game between Nets and Grizzlies, originally scheduled for Saturday, November 14, 2026 at 8:00 PM ET (as of creation of the first market rela",
   "outcomes": "[\"Nets\", \"Grizzlies\"]",
-  "outcomePrices": "[\"0.0035\", \"0.9965\"]",
-  "volume": "1968976.9708200002",
+  "outcomePrices": "[\"0.0045\", \"0.9955\"]",
+  "volume": "2025604.2545610005",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-10-31T05:59:19.797086Z",
-  "updatedAt": "2026-11-15T03:05:55.718814Z",
+  "updatedAt": "2026-11-15T03:23:56.031271Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -226,22 +226,22 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "1968976.9708200002",
-  "liquidityNum": "76097.08361",
+  "volumeNum": "2025604.2545610005",
+  "liquidityNum": "61376.77503",
   "endDateIso": "2026-11-15",
   "startDateIso": "2026-10-31",
   "hasReviewedDates": "True",
-  "volume24hr": "1990812.1417900005",
-  "volume1wk": "1997813.4937470001",
-  "volume1mo": "1997813.4937470001",
-  "volume1yr": "1997813.4937470001",
+  "volume24hr": "2030257.6331590004",
+  "volume1wk": "2037258.9851160003",
+  "volume1mo": "2037258.9851160003",
+  "volume1yr": "2037258.9851160003",
   "gameStartTime": "2026-11-15 01:00:00+00",
   "secondsDelay": "0"
  },
  "multi_option_event": {
   "title": "Nets vs. Grizzlies",
   "slug": "nba-bkn-mem-2026-11-14",
-  "n_sub": 432,
+  "n_sub": 412,
   "sub_markets": [
    {
     "question": "Nets vs. Grizzlies",
@@ -249,7 +249,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Nets\", \"Grizzlies\"]",
-    "outcomePrices": "[\"0.0035\", \"0.9965\"]",
+    "outcomePrices": "[\"0.0045\", \"0.9955\"]",
     "closed": "False"
    },
    {
@@ -258,7 +258,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Grizzlies\", \"Nets\"]",
-    "outcomePrices": "[\"0.9665\", \"0.0335\"]",
+    "outcomePrices": "[\"0.985\", \"0.015\"]",
     "closed": "False"
    },
    {
@@ -267,7 +267,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.9755\", \"0.0245\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -276,7 +276,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Grizzlies\", \"Nets\"]",
-    "outcomePrices": "[\"0.9755\", \"0.0245\"]",
+    "outcomePrices": "[\"0.985\", \"0.015\"]",
     "closed": "False"
    },
    {
@@ -285,20 +285,20 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.935\", \"0.065\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 763,
-  "crypto": 171,
-  "economy": 70,
-  "tech": 462,
-  "politics": 294,
-  "geopolitics": 195,
-  "culture": 99,
-  "(空)": 46
+  "sports": 755,
+  "crypto": 173,
+  "economy": 69,
+  "tech": 453,
+  "politics": 289,
+  "geopolitics": 182,
+  "culture": 95,
+  "(空)": 45
  },
  "tag_samples": [
   {
@@ -317,6 +317,17 @@
     "NBA",
     "Games",
     "Basketball"
+   ]
+  },
+  {
+   "title": "What price will Bitcoin hit in November?",
+   "tags": [
+    "Bitcoin",
+    "Monthly",
+    "Hit Price",
+    "Crypto",
+    "Crypto Prices",
+    "Recurring"
    ]
   },
   {
@@ -340,18 +351,7 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit in November?",
-   "tags": [
-    "Bitcoin",
-    "Monthly",
-    "Hit Price",
-    "Crypto",
-    "Crypto Prices",
-    "Recurring"
-   ]
-  },
-  {
-   "title": "Nuggets vs. Pelicans",
+   "title": "Bulls vs. Timberwolves",
    "tags": [
     "Sports",
     "NBA",
@@ -360,7 +360,7 @@
    ]
   },
   {
-   "title": "Bulls vs. Timberwolves",
+   "title": "Nuggets vs. Pelicans",
    "tags": [
     "Sports",
     "NBA",
@@ -383,28 +383,28 @@
  "top_titles": [
   "Nets vs. Grizzlies",
   "Mavericks vs. Cavaliers",
+  "What price will Bitcoin hit in November?",
   "What price will Bitcoin hit in 2026?",
   "Dota 2: 1win vs Froglings (BO3) - 1win Essence Group D",
-  "What price will Bitcoin hit in November?",
-  "Nuggets vs. Pelicans",
   "Bulls vs. Timberwolves",
+  "Nuggets vs. Pelicans",
   "What price will Bitcoin hit November 9-15?",
+  "Pistons vs. Heat",
   "Fed Decision in December?",
   "What price will Bitcoin hit on November 14?",
-  "Pistons vs. Heat",
   "Next French Presidential Election",
-  "Democratic Presidential Nominee 2028",
   "Baylor vs. BYU",
+  "Democratic Presidential Nominee 2028",
+  "Kobe: Maxim Zhukov vs Takuya Kumasaka",
   "Republican Presidential Nominee 2028",
   "Israel x Iran ceasefire continues through...?",
   "UEFA Champions League: 2027 Champion",
+  "UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card)",
   "Oregon State vs. Boise State",
   "Presidential Election Winner 2028",
   "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
-  "Kobe: Maxim Zhukov vs Takuya Kumasaka",
-  "UFC 334: Luis Gurule vs. Bilal Hasan (Flyweight, Main Card)",
   "Texas vs. LSU",
-  "Next CEO of NVIDIA?",
-  "Elon Musk # tweets November 10 - November 17, 2026?"
+  "Texas Tech vs. Oklahoma State",
+  "What price will Ethereum hit in November?"
  ]
 }
