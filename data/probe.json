@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-15T15:19:54.226395+00:00",
+ "ts": "2026-11-15T16:00:37.875604+00:00",
  "pages_fetched": 21,
- "events_total": 2096,
- "sub_markets_total": 48072,
- "single_game_events": 707,
+ "events_total": 2097,
+ "sub_markets_total": 48245,
+ "single_game_events": 713,
  "event_keys": [
   "active",
   "archived",
@@ -74,7 +74,6 @@
   "bestAsk",
   "bestBid",
   "clearBookOnStart",
-  "clobRewards",
   "clobTokenIds",
   "closed",
   "comboStatus",
@@ -174,18 +173,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1079643.75143",
-  "volume": "2990073.1934129996",
-  "openInterest": "2907099.001645001",
+  "liquidity": "2026364.33912",
+  "volume": "3812746.5638969997",
+  "openInterest": "3540430.188424",
   "createdAt": "2026-10-26T12:00:35.364315Z",
-  "updatedAt": "2026-11-15T15:18:10.478235Z",
-  "competitive": "1",
-  "volume24hr": "2910803.9861040004",
-  "volume1wk": "3109597.663962",
-  "volume1mo": "3109685.836376",
-  "volume1yr": "3109685.836376",
+  "updatedAt": "2026-11-15T15:59:44.482586Z",
+  "competitive": "0.9999750006249843",
+  "volume24hr": "3688968.878477001",
+  "volume1wk": "3888425.036913001",
+  "volume1mo": "3888513.2093270007",
+  "volume1yr": "3888513.2093270007",
   "enableOrderBook": "True",
-  "liquidityClob": "1079643.75143",
+  "liquidityClob": "2026364.33912",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 306>",
@@ -205,18 +204,18 @@
   "slug": "nfl-ne-det-2026-11-15",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-15T14:30:00Z",
-  "liquidity": "733358.6476",
+  "liquidity": "159363.14764",
   "startDate": "2026-10-26T12:00:42Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Patriots and Lions, scheduled for November 15 at 9:30AM ET:\nThis market will resolve to \"Patriots\" if Patriots win the",
   "outcomes": "[\"Patriots\", \"Lions\"]",
-  "outcomePrices": "[\"0.075\", \"0.925\"]",
-  "volume": "1668211.6010139997",
+  "outcomePrices": "[\"0.006\", \"0.994\"]",
+  "volume": "2125668.0377399996",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-10-26T12:00:35.54164Z",
-  "updatedAt": "2026-11-15T15:17:56.92629Z",
+  "updatedAt": "2026-11-15T15:59:55.989937Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -226,24 +225,24 @@
   "groupItemThreshold": "0",
   "questionID": "0x78006e12d7952d1baa1e76a6c9b330422aaaacfa6718194e04f9bcf0bb1e764d",
   "enableOrderBook": "True",
-  "orderPriceMinTickSize": "0.01",
+  "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "1668211.6010139997",
-  "liquidityNum": "733358.6476",
+  "volumeNum": "2125668.0377399996",
+  "liquidityNum": "159363.14764",
   "endDateIso": "2026-11-15",
   "startDateIso": "2026-10-26",
   "hasReviewedDates": "True",
-  "volume24hr": "1611561.940797",
-  "volume1wk": "1697124.233307",
-  "volume1mo": "1697212.4057210002",
-  "volume1yr": "1697212.4057210002",
+  "volume24hr": "2052936.4120350007",
+  "volume1wk": "2138523.6043050005",
+  "volume1mo": "2138611.7767190007",
+  "volume1yr": "2138611.7767190007",
   "gameStartTime": "2026-11-15 14:30:00+00",
   "secondsDelay": "1"
  },
  "multi_option_event": {
   "title": "Patriots vs. Lions",
   "slug": "nfl-ne-det-2026-11-15",
-  "n_sub": 302,
+  "n_sub": 271,
   "sub_markets": [
    {
     "question": "Patriots vs. Lions",
@@ -251,7 +250,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Patriots\", \"Lions\"]",
-    "outcomePrices": "[\"0.075\", \"0.925\"]",
+    "outcomePrices": "[\"0.006\", \"0.994\"]",
     "closed": "False"
    },
    {
@@ -260,7 +259,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Patriots\", \"Lions\"]",
-    "outcomePrices": "[\"0.065\", \"0.935\"]",
+    "outcomePrices": "[\"0.013\", \"0.987\"]",
     "closed": "False"
    },
    {
@@ -269,7 +268,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Patriots\", \"Lions\"]",
-    "outcomePrices": "[\"0.065\", \"0.935\"]",
+    "outcomePrices": "[\"0.004\", \"0.996\"]",
     "closed": "False"
    },
    {
@@ -278,7 +277,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Patriots\", \"Lions\"]",
-    "outcomePrices": "[\"0.0315\", \"0.9685\"]",
+    "outcomePrices": "[\"0.0045\", \"0.9955\"]",
     "closed": "False"
    },
    {
@@ -287,20 +286,20 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Patriots\", \"Lions\"]",
-    "outcomePrices": "[\"0.025\", \"0.975\"]",
+    "outcomePrices": "[\"0.004\", \"0.996\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 786,
-  "crypto": 167,
-  "economy": 73,
-  "geopolitics": 184,
-  "tech": 466,
-  "politics": 274,
-  "culture": 99,
-  "(空)": 47
+  "sports": 796,
+  "crypto": 170,
+  "economy": 76,
+  "geopolitics": 186,
+  "tech": 457,
+  "politics": 269,
+  "culture": 100,
+  "(空)": 43
  },
  "tag_samples": [
   {
@@ -364,6 +363,15 @@
    ]
   },
   {
+   "title": "Dota 2: Froglings vs LEGION (BO3) - 1win Essence Playoffs",
+   "tags": [
+    "Esports",
+    "Dota 2",
+    "Games",
+    "Sports"
+   ]
+  },
+  {
    "title": "Israel x Iran ceasefire continues through...?",
    "tags": [
     "Iran",
@@ -372,14 +380,6 @@
     "Israel x Iran",
     "Israel Election",
     "Iran Ceasefire"
-   ]
-  },
-  {
-   "title": "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar",
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
    ]
   }
  ],
@@ -390,24 +390,24 @@
   "What price will Bitcoin hit November 9-15?",
   "Chiefs vs. Falcons",
   "Fed Decision in December?",
+  "Dota 2: Froglings vs LEGION (BO3) - 1win Essence Playoffs",
   "Israel x Iran ceasefire continues through...?",
-  "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar",
+  "Vikings vs. Packers",
   "Next French Presidential Election",
   "Democratic Presidential Nominee 2028",
-  "Vikings vs. Packers",
   "Pepperdine Waves vs. Oregon Ducks",
   "UEFA Champions League: 2027 Champion",
+  "49ers vs. Cowboys",
+  "Counter-Strike: Eternal Fire vs 100 Thieves (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
   "Bitcoin above ___ on November 15?",
-  "What price will Ethereum hit in November?",
   "France vs. Türkiye",
-  "Bills vs. Jets",
-  "What price will Bitcoin hit on November 15?",
+  "What price will Ethereum hit in November?",
   "Seahawks vs. Raiders",
-  "What price will Ethereum hit in 2026?",
+  "What price will Bitcoin hit on November 15?",
   "Which Senate Swing States will Republicans win? (Build Your Map)",
-  "Counter-Strike: PARIVISION vs 33 (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
-  "Dota 2: Froglings vs LEGION (BO3) - 1win Essence Playoffs",
-  "Elon Musk # tweets November 10 - November 17, 2026?",
-  "Republican Presidential Nominee 2028"
+  "What price will Ethereum hit in 2026?",
+  "Bills vs. Jets",
+  "Republican Presidential Nominee 2028",
+  "Jensen Huang rejoins NVIDIA by...?"
  ]
 }
