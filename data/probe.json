@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-15T09:39:20.076814+00:00",
+ "ts": "2026-11-15T10:24:57.683150+00:00",
  "pages_fetched": 21,
- "events_total": 2009,
- "sub_markets_total": 43036,
- "single_game_events": 602,
+ "events_total": 2082,
+ "sub_markets_total": 43471,
+ "single_game_events": 644,
  "event_keys": [
   "active",
   "archived",
@@ -169,21 +169,21 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "390861.82315",
-  "volume": "2908366.665933",
-  "openInterest": "1704604.3952300001",
+  "liquidity": "461281.47325",
+  "volume": "5084119.7984690005",
+  "openInterest": "2916753.280079",
   "createdAt": "2026-11-14T13:35:13.117022Z",
-  "updatedAt": "2026-11-15T09:35:20.07731Z",
-  "competitive": "0.9996001599360256",
-  "volume24hr": "3043864.526342001",
-  "volume1wk": "3043864.526342001",
-  "volume1mo": "3043864.526342001",
-  "volume1yr": "3043864.526342001",
+  "updatedAt": "2026-11-15T10:24:47.348486Z",
+  "competitive": "0.9997750506136119",
+  "volume24hr": "5477010.919172002",
+  "volume1wk": "5477010.919172003",
+  "volume1mo": "5477010.919172003",
+  "volume1yr": "5477010.919172003",
   "enableOrderBook": "True",
-  "liquidityClob": "390861.82315",
+  "liquidityClob": "461281.47325",
   "negRisk": "False",
   "commentCount": "0",
-  "markets": "<list 28>",
+  "markets": "<list 35>",
   "series": "<list 1>",
   "tags": "<list 4>",
   "cyom": "False",
@@ -206,11 +206,11 @@
   "description": "This market refers to the Counter-Strike Grand Final match between Spirit and FURIA in the BLAST Rivals Playoffs, initially scheduled for November 15, 2026 at 3",
   "outcomes": "[\"Spirit\", \"FURIA\"]",
   "outcomePrices": "[\"0\", \"1\"]",
-  "volume": "1130748.7200389998",
+  "volume": "1132754.9300389998",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-14T13:35:13.485932Z",
-  "updatedAt": "2026-11-15T09:22:08.111785Z",
+  "updatedAt": "2026-11-15T10:22:07.09952Z",
   "closedTime": "2026-11-15 09:15:21.991184+00",
   "new": "False",
   "featured": "False",
@@ -225,37 +225,28 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "1130748.7200389998",
+  "volumeNum": "1132754.9300389998",
   "endDateIso": "2026-11-15",
   "startDateIso": "2026-11-14",
   "hasReviewedDates": "True",
-  "volume24hr": "1132754.930039001",
-  "volume1wk": "1132754.930039001",
-  "volume1mo": "1132754.930039001",
-  "volume1yr": "1132754.930039001",
+  "volume24hr": "1132754.9300390005",
+  "volume1wk": "1132754.9300390005",
+  "volume1mo": "1132754.9300390005",
+  "volume1yr": "1132754.9300390005",
   "gameStartTime": "2026-11-15 08:00:00+00"
  },
  "multi_option_event": {
   "title": "Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs",
   "slug": "cs2-ts7-furia-2026-11-15",
-  "n_sub": 21,
+  "n_sub": 19,
   "sub_markets": [
-   {
-    "question": "Counter-Strike: Spirit vs FURIA - Map 2 Winner",
-    "groupItemTitle": "Map 2 Winner",
-    "groupItemThreshold": "None",
-    "shortTitle": "None",
-    "outcomes": "[\"Spirit\", \"FURIA\"]",
-    "outcomePrices": "[\"0.465\", \"0.535\"]",
-    "closed": "False"
-   },
    {
     "question": "Counter-Strike: Spirit vs FURIA - Map 3 Winner",
     "groupItemTitle": "Map 3 Winner",
     "groupItemThreshold": "None",
     "shortTitle": "None",
     "outcomes": "[\"Spirit\", \"FURIA\"]",
-    "outcomePrices": "[\"0.575\", \"0.425\"]",
+    "outcomePrices": "[\"0.415\", \"0.585\"]",
     "closed": "False"
    },
    {
@@ -264,7 +255,7 @@
     "groupItemThreshold": "None",
     "shortTitle": "None",
     "outcomes": "[\"Spirit\", \"FURIA\"]",
-    "outcomePrices": "[\"0.52\", \"0.48\"]",
+    "outcomePrices": "[\"0.515\", \"0.485\"]",
     "closed": "False"
    },
    {
@@ -273,7 +264,7 @@
     "groupItemThreshold": "None",
     "shortTitle": "None",
     "outcomes": "[\"Spirit\", \"FURIA\"]",
-    "outcomePrices": "[\"0.405\", \"0.595\"]",
+    "outcomePrices": "[\"0.155\", \"0.845\"]",
     "closed": "False"
    },
    {
@@ -282,20 +273,29 @@
     "groupItemThreshold": "None",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.78\", \"0.22\"]",
+    "outcomePrices": "[\"0.435\", \"0.565\"]",
+    "closed": "False"
+   },
+   {
+    "question": "Games Total: O/U 4.5",
+    "groupItemTitle": "O/U 4.5 Games",
+    "groupItemThreshold": "None",
+    "shortTitle": "None",
+    "outcomes": "[\"Over\", \"Under\"]",
+    "outcomePrices": "[\"0.235\", \"0.765\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 700,
-  "crypto": 172,
-  "economy": 72,
-  "tech": 454,
-  "geopolitics": 188,
-  "politics": 285,
-  "culture": 93,
-  "(空)": 45
+  "sports": 746,
+  "crypto": 173,
+  "tech": 465,
+  "economy": 73,
+  "geopolitics": 190,
+  "politics": 292,
+  "culture": 97,
+  "(空)": 46
  },
  "tag_samples": [
   {
@@ -341,17 +341,6 @@
    ]
   },
   {
-   "title": "Fed Decision in December?",
-   "tags": [
-    "Fed",
-    "fomc",
-    "Trump",
-    "Economy",
-    "Fed Rates",
-    "Kevin Warsh"
-   ]
-  },
-  {
    "title": "Next French Presidential Election",
    "tags": [
     "French Election",
@@ -360,6 +349,17 @@
     "World",
     "Politics",
     "Global Elections"
+   ]
+  },
+  {
+   "title": "Fed Decision in December?",
+   "tags": [
+    "Fed",
+    "fomc",
+    "Trump",
+    "Economy",
+    "Fed Rates",
+    "Kevin Warsh"
    ]
   },
   {
@@ -389,17 +389,17 @@
   "What price will Bitcoin hit in November?",
   "What price will Bitcoin hit in 2026?",
   "What price will Bitcoin hit November 9-15?",
-  "Fed Decision in December?",
   "Next French Presidential Election",
+  "Fed Decision in December?",
   "Israel x Iran ceasefire continues through...?",
   "UEFA Champions League: 2027 Champion",
   "Democratic Presidential Nominee 2028",
   "What price will Ethereum hit in November?",
   "Patriots vs. Lions",
-  "Republican Presidential Nominee 2028",
   "Pepperdine Waves vs. Oregon Ducks",
-  "Presidential Election Winner 2028",
   "Bitcoin above ___ on November 15?",
+  "M15 Sharm ElSheikh: Yurii Dzhavakian vs Artur Kukasian",
+  "Presidential Election Winner 2028",
   "Elon Musk # tweets November 10 - November 17, 2026?",
   "What price will Ethereum hit in 2026?",
   "Stanford vs. Virginia Tech",
@@ -407,8 +407,8 @@
   "France vs. Türkiye",
   "Which Senate Swing States will Republicans win? (Build Your Map)",
   "Bills vs. Jets",
+  "Helsinki: Oskari Paldanius vs Svyatoslav Gulin",
   "Arkansas State vs. Coastal Carolina",
-  "Next CEO of NVIDIA?",
-  "What price will Ethereum hit November 9-15?"
+  "Republican Presidential Nominee 2028"
  ]
 }
