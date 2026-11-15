@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-15T04:33:27.282516+00:00",
+ "ts": "2026-11-15T05:29:46.580146+00:00",
  "pages_fetched": 21,
- "events_total": 2094,
- "sub_markets_total": 50069,
- "single_game_events": 646,
+ "events_total": 2100,
+ "sub_markets_total": 49559,
+ "single_game_events": 635,
  "event_keys": [
   "active",
   "archived",
@@ -172,18 +172,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "314.15652",
-  "volume": "3534747.7779399995",
-  "openInterest": "83349.08117399998",
+  "liquidity": "159.99688",
+  "volume": "3534747.77794",
+  "openInterest": "82660.47003699996",
   "createdAt": "2026-10-31T05:59:17.961171Z",
-  "updatedAt": "2026-11-15T04:30:09.070406Z",
-  "competitive": "0.47247058823529414",
-  "volume24hr": "3525299.675073",
+  "updatedAt": "2026-11-15T05:28:06.988907Z",
+  "competitive": "0.011999568015551439",
+  "volume24hr": "3515612.3772010007",
   "volume1wk": "3529818.0702640004",
   "volume1mo": "3529818.0702640004",
   "volume1yr": "3529818.0702640004",
   "enableOrderBook": "True",
-  "liquidityClob": "314.15652",
+  "liquidityClob": "159.99688",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 545>",
@@ -209,11 +209,11 @@
   "description": "In the upcoming NBA game between Mavericks and Cavaliers, originally scheduled for Saturday, November 14, 2026 at 7:30 PM ET (as of creation of the first market",
   "outcomes": "[\"Mavericks\", \"Cavaliers\"]",
   "outcomePrices": "[\"0\", \"1\"]",
-  "volume": "2378204.5831179996",
+  "volume": "2378204.583118",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-10-31T05:59:18.215762Z",
-  "updatedAt": "2026-11-15T04:22:07.574939Z",
+  "updatedAt": "2026-11-15T05:22:08.195754Z",
   "closedTime": "2026-11-15 03:16:58.496939+00",
   "new": "False",
   "featured": "False",
@@ -228,14 +228,14 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "2378204.5831179996",
+  "volumeNum": "2378204.583118",
   "endDateIso": "2026-11-15",
   "startDateIso": "2026-10-31",
   "hasReviewedDates": "True",
-  "volume24hr": "2373686.187927",
-  "volume1wk": "2378204.5831180005",
-  "volume1mo": "2378204.5831180005",
-  "volume1yr": "2378204.5831180005",
+  "volume24hr": "2363998.890055001",
+  "volume1wk": "2378204.583118",
+  "volume1mo": "2378204.583118",
+  "volume1yr": "2378204.583118",
   "gameStartTime": "2026-11-15 00:30:00+00"
  },
  "multi_option_event": {
@@ -249,7 +249,7 @@
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.75\", \"0.25\"]",
+    "outcomePrices": "[\"0.506\", \"0.494\"]",
     "closed": "False"
    },
    {
@@ -273,14 +273,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 767,
-  "crypto": 170,
-  "economy": 77,
-  "tech": 457,
-  "politics": 296,
-  "geopolitics": 187,
-  "culture": 96,
-  "(空)": 44
+  "sports": 758,
+  "crypto": 168,
+  "economy": 78,
+  "tech": 461,
+  "politics": 298,
+  "geopolitics": 193,
+  "culture": 97,
+  "(空)": 47
  },
  "tag_samples": [
   {
@@ -293,6 +293,15 @@
    ]
   },
   {
+   "title": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
+   "tags": [
+    "Sports",
+    "UFC",
+    "Games",
+    "UFC 334"
+   ]
+  },
+  {
    "title": "What price will Bitcoin hit in November?",
    "tags": [
     "Bitcoin",
@@ -301,24 +310,6 @@
     "Crypto",
     "Crypto Prices",
     "Recurring"
-   ]
-  },
-  {
-   "title": "Dota 2: 1win vs Froglings (BO3) - 1win Essence Group D",
-   "tags": [
-    "Esports",
-    "Dota 2",
-    "Games",
-    "Sports"
-   ]
-  },
-  {
-   "title": "Bulls vs. Timberwolves",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   },
   {
@@ -351,7 +342,18 @@
    ]
   },
   {
-   "title": "Texas vs. LSU",
+   "title": "What price will Bitcoin hit November 9-15?",
+   "tags": [
+    "Crypto",
+    "Crypto Prices",
+    "Recurring",
+    "Hide From New",
+    "Bitcoin",
+    "Weekly"
+   ]
+  },
+  {
+   "title": "Texas Tech vs. Oklahoma State",
    "tags": [
     "Sports",
     "CFB (All)",
@@ -361,29 +363,29 @@
  ],
  "top_titles": [
   "Mavericks vs. Cavaliers",
+  "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
   "What price will Bitcoin hit in November?",
-  "Dota 2: 1win vs Froglings (BO3) - 1win Essence Group D",
-  "Bulls vs. Timberwolves",
   "What price will Bitcoin hit in 2026?",
   "Pistons vs. Heat",
   "UFC 334: Kevin Holland vs. Uroš Medic (Welterweight, Main Card)",
-  "Texas vs. LSU",
   "What price will Bitcoin hit November 9-15?",
-  "What price will Bitcoin hit on November 14?",
+  "Texas Tech vs. Oklahoma State",
   "Fed Decision in December?",
+  "Utah vs. Arizona",
   "Next French Presidential Election",
   "Republican Presidential Nominee 2028",
-  "Texas Tech vs. Oklahoma State",
   "Democratic Presidential Nominee 2028",
-  "UFC 334: Caio Borralho vs. Yousri Belgaroui (Middleweight, Main Card)",
   "UEFA Champions League: 2027 Champion",
   "Israel x Iran ceasefire continues through...?",
-  "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
   "Oregon State vs. Boise State",
   "Presidential Election Winner 2028",
-  "UFC 334: Amanda Nunes vs. Kayla Harrison (Women's Bantamweight, Main Card)",
   "What price will Ethereum hit in November?",
   "Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs",
-  "Next CEO of NVIDIA?"
+  "Next CEO of NVIDIA?",
+  "Jensen Huang rejoins NVIDIA by...?",
+  "Elon Musk # tweets November 10 - November 17, 2026?",
+  "Pepperdine Waves vs. Oregon Ducks",
+  "Patriots vs. Lions",
+  "Stanford vs. Virginia Tech"
  ]
 }
