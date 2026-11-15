@@ -25,6 +25,7 @@ import datetime as dt
 import gzip
 import json
 import os
+import re
 import time
 import urllib.parse
 import urllib.request
@@ -45,6 +46,22 @@ TIMEOUT = 40
 RETRY = 3
 OUT_DIR = "data"
 TOP_OPTIONS = 3          # 报告只展示概率最高的 3 个活跃选项，勿全量塞入
+
+# 官方对尚未确定的候选人使用代号占位（Candidate T / Team H / Company A / Other…），
+# 概率恒为 0.5（未开盘默认值）。另有单字母/字母+编号代号（A / B / P4 …）同样是占位。
+# 这类选项没有实际押注含义，且恒 0.5 会在「按概率取前三」时挤掉概率较低的真实候选，
+# 因此必须在精简前先剔除，并把占位数量如实回传给报告端。
+_PLACEHOLDER_OPT = re.compile(
+    r"^(?:candidate|team|person|party|player|company|option|nominee|proposition|"
+    r"country|state|entity|unknown|tbd|tba|other|none of the above)\b", re.I)
+_PLACEHOLDER_CODE = re.compile(r"^[A-Za-z]\d{0,2}$")
+
+
+def is_placeholder(name, prob) -> bool:
+    n = (name or "").strip()
+    if not (_PLACEHOLDER_OPT.match(n) or _PLACEHOLDER_CODE.match(n)):
+        return False
+    return isinstance(prob, (int, float)) and abs(prob - 0.5) < 1e-9
 
 # 官方 tags 标签 -> 报告 CAT_ZH 的 8 类。取不到如实留空（报告显示「其他」）。
 CAT_MAP = {
@@ -176,11 +193,13 @@ def sub_label(m, event_title):
 
 
 def market_outcomes(e):
-    """返回 (精简后的活跃选项列表, 活跃选项总数)。
+    """返回 (精简后的真实候选列表, 全部活跃选项总数, 未开盘占位项数)。
 
     多档位 event：每个活跃子市场取 Yes 价作为该档概率，档位名取子标签；
     单市场二元 event：直接展开 outcomes/outcomePrices。
-    只保留概率最高的 TOP_OPTIONS 个活跃选项（报告所需），总数如实返回。
+    先剔除官方未开盘占位项（代号 + 恒 0.5），再按概率保留 TOP_OPTIONS 个真实候选；
+    占位项数量单独如实回传，供报告端标注「已略去 N 个」或「候选尚未确定」。
+    n_active 语义不变：仍为全部活跃选项总数（含占位）。
     """
     title = strv(e, "title")
     ms = [m for m in (e.get("markets") or []) if isinstance(m, dict)]
@@ -206,8 +225,11 @@ def market_outcomes(e):
                     continue
     out = [y for y in out if isinstance(y["probability"], (int, float))
            and not y["closed"]]
-    out.sort(key=lambda y: y["probability"], reverse=True)
-    return out[:TOP_OPTIONS], len(out)
+    n_active = len(out)
+    eff = [y for y in out if not is_placeholder(y["name"], y["probability"])]
+    n_ph = n_active - len(eff)
+    eff.sort(key=lambda y: y["probability"], reverse=True)
+    return eff[:TOP_OPTIONS], n_active, n_ph
 
 
 def tag_labels(e):
@@ -245,7 +267,7 @@ def is_single_game(e):
 
 
 def to_market(e):
-    outs, n_active = market_outcomes(e)
+    outs, n_active, n_ph = market_outcomes(e)
     leader, prob = "", None
     if outs:
         leader, prob = outs[0]["name"], outs[0]["probability"]
@@ -263,6 +285,7 @@ def to_market(e):
         "end_date": strv(e, "endDate", "endDateIso"),
         "outcomes": outs,
         "n_active": n_active,
+        "n_placeholder": n_ph,
         "tags": labels[:6],
         "single_game": is_single_game(e),
     }
