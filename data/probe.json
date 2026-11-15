@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-15T13:45:04.410031+00:00",
+ "ts": "2026-11-15T14:36:53.029291+00:00",
  "pages_fetched": 21,
  "events_total": 2099,
- "sub_markets_total": 47430,
- "single_game_events": 696,
+ "sub_markets_total": 47812,
+ "single_game_events": 711,
  "event_keys": [
   "active",
   "archived",
@@ -169,18 +169,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "195933.91964",
-  "volume": "2622244.8122540005",
-  "openInterest": "644029.9221440001",
+  "liquidity": "790812.87404",
+  "volume": "3017228.909414",
+  "openInterest": "662259.0101069999",
   "createdAt": "2026-11-14T23:39:12.550434Z",
-  "updatedAt": "2026-11-15T13:43:54.809457Z",
-  "competitive": "0.8599840601954443",
-  "volume24hr": "2668864.3998999996",
-  "volume1wk": "2668864.3998999996",
-  "volume1mo": "2668864.3998999996",
-  "volume1yr": "2668864.3998999996",
+  "updatedAt": "2026-11-15T14:36:09.136083Z",
+  "competitive": "0.8003199679231757",
+  "volume24hr": "3024460.219414001",
+  "volume1wk": "3024460.219414001",
+  "volume1mo": "3024460.219414001",
+  "volume1yr": "3024460.219414001",
   "enableOrderBook": "True",
-  "liquidityClob": "195933.91964",
+  "liquidityClob": "790812.87404",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 6>",
@@ -206,11 +206,11 @@
   "description": "This market refers to the Dota 2 Upper Bracket Quarterfinal 1 match between PARIVISION and GamerLegion in the 1win Essence Playoffs, initially scheduled for Nov",
   "outcomes": "[\"PARIVISION\", \"GamerLegion\"]",
   "outcomePrices": "[\"0\", \"1\"]",
-  "volume": "1264134.3064660004",
+  "volume": "1264134.3064660002",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-14T23:39:13.049993Z",
-  "updatedAt": "2026-11-15T13:38:09.729621Z",
+  "updatedAt": "2026-11-15T14:22:09.745692Z",
   "closedTime": "2026-11-15 12:26:06.235592+00",
   "new": "False",
   "featured": "False",
@@ -225,14 +225,14 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "1264134.3064660004",
+  "volumeNum": "1264134.3064660002",
   "endDateIso": "2026-11-15",
   "startDateIso": "2026-11-14",
   "hasReviewedDates": "True",
-  "volume24hr": "1264134.3064660002",
-  "volume1wk": "1264134.3064660002",
-  "volume1mo": "1264134.3064660002",
-  "volume1yr": "1264134.3064660002",
+  "volume24hr": "1264134.306466",
+  "volume1wk": "1264134.306466",
+  "volume1mo": "1264134.306466",
+  "volume1yr": "1264134.306466",
   "gameStartTime": "2026-11-15 10:00:00+00"
  },
  "multi_option_event": {
@@ -246,7 +246,7 @@
     "groupItemThreshold": "None",
     "shortTitle": "None",
     "outcomes": "[\"PARIVISION\", \"GamerLegion\"]",
-    "outcomePrices": "[\"0.9075\", \"0.0925\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -279,12 +279,12 @@
   ]
  },
  "category_distribution": {
-  "sports": 780,
-  "crypto": 172,
-  "economy": 73,
-  "tech": 467,
+  "sports": 789,
+  "crypto": 169,
+  "economy": 74,
+  "tech": 466,
   "geopolitics": 184,
-  "politics": 280,
+  "politics": 274,
   "culture": 97,
   "(空)": 46
  },
@@ -307,6 +307,14 @@
     "Crypto",
     "Crypto Prices",
     "Recurring"
+   ]
+  },
+  {
+   "title": "Patriots vs. Lions",
+   "tags": [
+    "Sports",
+    "NFL (All)",
+    "Games"
    ]
   },
   {
@@ -343,14 +351,6 @@
    ]
   },
   {
-   "title": "Patriots vs. Lions",
-   "tags": [
-    "Sports",
-    "NFL (All)",
-    "Games"
-   ]
-  },
-  {
    "title": "Next French Presidential Election",
    "tags": [
     "French Election",
@@ -376,28 +376,28 @@
  "top_titles": [
   "Dota 2: PARIVISION vs GamerLegion (BO3) - 1win Essence Playoffs",
   "What price will Bitcoin hit in November?",
+  "Patriots vs. Lions",
   "What price will Bitcoin hit in 2026?",
   "What price will Bitcoin hit November 9-15?",
   "Fed Decision in December?",
-  "Patriots vs. Lions",
   "Next French Presidential Election",
   "Israel x Iran ceasefire continues through...?",
   "Democratic Presidential Nominee 2028",
   "Chiefs vs. Falcons",
-  "UEFA Champions League: 2027 Champion",
+  "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar",
   "Pepperdine Waves vs. Oregon Ducks",
+  "UEFA Champions League: 2027 Champion",
   "What price will Ethereum hit in November?",
   "Bitcoin above ___ on November 15?",
-  "Elon Musk # tweets November 10 - November 17, 2026?",
-  "Bills vs. Jets",
-  "What price will Ethereum hit in 2026?",
-  "Presidential Election Winner 2028",
   "France vs. Türkiye",
+  "Bills vs. Jets",
+  "Elon Musk # tweets November 10 - November 17, 2026?",
+  "What price will Ethereum hit in 2026?",
+  "Seahawks vs. Raiders",
+  "Presidential Election Winner 2028",
+  "What price will Bitcoin hit on November 15?",
   "Which Senate Swing States will Republicans win? (Build Your Map)",
   "Republican Presidential Nominee 2028",
-  "Stanford vs. Virginia Tech",
-  "Jensen Huang rejoins NVIDIA by...?",
-  "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Rafael Jodar",
-  "What price will Bitcoin hit on November 15?"
+  "Jensen Huang rejoins NVIDIA by...?"
  ]
 }
