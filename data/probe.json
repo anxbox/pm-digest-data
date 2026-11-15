@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-15T16:58:27.814232+00:00",
+ "ts": "2026-11-15T17:34:57.057191+00:00",
  "pages_fetched": 21,
- "events_total": 2004,
- "sub_markets_total": 46186,
- "single_game_events": 704,
+ "events_total": 2084,
+ "sub_markets_total": 48877,
+ "single_game_events": 741,
  "event_keys": [
   "active",
   "archived",
@@ -72,7 +72,6 @@
   "archived",
   "automaticallyActive",
   "bestAsk",
-  "bestBid",
   "clearBookOnStart",
   "clobTokenIds",
   "closed",
@@ -173,18 +172,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1565008.54244",
-  "volume": "4429601.611674",
-  "openInterest": "3698000.4800500004",
+  "liquidity": "2225428.7697",
+  "volume": "4495040.655647",
+  "openInterest": "3719358.1818250003",
   "createdAt": "2026-10-26T12:00:35.364315Z",
-  "updatedAt": "2026-11-15T16:56:10.648212Z",
-  "competitive": "0.9969841230278408",
-  "volume24hr": "4251607.382935001",
-  "volume1wk": "4451364.4903380005",
-  "volume1mo": "4451452.662752001",
-  "volume1yr": "4451452.662752001",
+  "updatedAt": "2026-11-15T17:33:05.968305Z",
+  "competitive": "0.865033195648883",
+  "volume24hr": "4308240.060404001",
+  "volume1wk": "4508427.966657001",
+  "volume1mo": "4508623.139071001",
+  "volume1yr": "4508623.139071001",
   "enableOrderBook": "True",
-  "liquidityClob": "1565008.54244",
+  "liquidityClob": "2225428.7697",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 306>",
@@ -204,18 +203,18 @@
   "slug": "nfl-ne-det-2026-11-15",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-15T14:30:00Z",
-  "liquidity": "247907.67636",
+  "liquidity": "781416.31644",
   "startDate": "2026-10-26T12:00:42Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Patriots and Lions, scheduled for November 15 at 9:30AM ET:\nThis market will resolve to \"Patriots\" if Patriots win the",
   "outcomes": "[\"Patriots\", \"Lions\"]",
-  "outcomePrices": "[\"0.002\", \"0.998\"]",
-  "volume": "2474967.880043",
+  "outcomePrices": "[\"0.0005\", \"0.9995\"]",
+  "volume": "2497490.986052",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-10-26T12:00:35.54164Z",
-  "updatedAt": "2026-11-15T16:55:56.757059Z",
+  "updatedAt": "2026-11-15T17:31:57.016474Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -227,22 +226,22 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "2474967.880043",
-  "liquidityNum": "247907.67636",
+  "volumeNum": "2497490.986052",
+  "liquidityNum": "781416.31644",
   "endDateIso": "2026-11-15",
   "startDateIso": "2026-10-26",
   "hasReviewedDates": "True",
-  "volume24hr": "2393105.0174010005",
-  "volume1wk": "2478728.278638",
-  "volume1mo": "2478816.4510520003",
-  "volume1yr": "2478816.4510520003",
+  "volume24hr": "2417860.336885001",
+  "volume1wk": "2503393.5636380003",
+  "volume1mo": "2503588.7360520004",
+  "volume1yr": "2503588.7360520004",
   "gameStartTime": "2026-11-15 14:30:00+00",
   "secondsDelay": "1"
  },
  "multi_option_event": {
   "title": "Patriots vs. Lions",
   "slug": "nfl-ne-det-2026-11-15",
-  "n_sub": 186,
+  "n_sub": 152,
   "sub_markets": [
    {
     "question": "Patriots vs. Lions",
@@ -250,7 +249,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Patriots\", \"Lions\"]",
-    "outcomePrices": "[\"0.002\", \"0.998\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
@@ -259,7 +258,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Patriots\", \"Lions\"]",
-    "outcomePrices": "[\"0.003\", \"0.997\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
@@ -277,7 +276,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Patriots\", \"Lions\"]",
-    "outcomePrices": "[\"0.0035\", \"0.9965\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
@@ -292,14 +291,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 792,
-  "crypto": 156,
-  "economy": 69,
-  "geopolitics": 170,
-  "tech": 426,
-  "politics": 256,
-  "culture": 96,
-  "(空)": 39
+  "sports": 835,
+  "crypto": 147,
+  "economy": 70,
+  "geopolitics": 183,
+  "tech": 445,
+  "politics": 263,
+  "culture": 97,
+  "(空)": 44
  },
  "tag_samples": [
   {
@@ -311,14 +310,19 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit in November?",
+   "title": "Panthers vs. Saints",
    "tags": [
-    "Bitcoin",
-    "Monthly",
-    "Hit Price",
-    "Crypto",
-    "Crypto Prices",
-    "Recurring"
+    "Sports",
+    "NFL (All)",
+    "Games"
+   ]
+  },
+  {
+   "title": "Vikings vs. Packers",
+   "tags": [
+    "Sports",
+    "NFL (All)",
+    "Games"
    ]
   },
   {
@@ -333,24 +337,18 @@
    ]
   },
   {
-   "title": "Dota 2: Froglings vs LEGION (BO3) - 1win Essence Playoffs",
+   "title": "What price will Bitcoin hit in November?",
    "tags": [
-    "Esports",
-    "Dota 2",
-    "Games",
-    "Sports"
+    "Bitcoin",
+    "Monthly",
+    "Hit Price",
+    "Crypto",
+    "Crypto Prices",
+    "Recurring"
    ]
   },
   {
    "title": "Chiefs vs. Falcons",
-   "tags": [
-    "Sports",
-    "NFL (All)",
-    "Games"
-   ]
-  },
-  {
-   "title": "Vikings vs. Packers",
    "tags": [
     "Sports",
     "NFL (All)",
@@ -369,7 +367,7 @@
    ]
   },
   {
-   "title": "Panthers vs. Saints",
+   "title": "Bills vs. Jets",
    "tags": [
     "Sports",
     "NFL (All)",
@@ -379,29 +377,29 @@
  ],
  "top_titles": [
   "Patriots vs. Lions",
-  "What price will Bitcoin hit in November?",
-  "What price will Bitcoin hit in 2026?",
-  "Dota 2: Froglings vs LEGION (BO3) - 1win Essence Playoffs",
-  "Chiefs vs. Falcons",
-  "Vikings vs. Packers",
-  "What price will Bitcoin hit November 9-15?",
   "Panthers vs. Saints",
+  "Vikings vs. Packers",
+  "What price will Bitcoin hit in 2026?",
+  "What price will Bitcoin hit in November?",
+  "Chiefs vs. Falcons",
+  "What price will Bitcoin hit November 9-15?",
+  "Bills vs. Jets",
   "Fed Decision in December?",
+  "Pacers vs. 76ers",
   "Israel x Iran ceasefire continues through...?",
+  "Jaguars vs. Titans",
   "Next French Presidential Election",
   "Pepperdine Waves vs. Oregon Ducks",
-  "Democratic Presidential Nominee 2028",
-  "Bills vs. Jets",
-  "Jaguars vs. Titans",
-  "UEFA Champions League: 2027 Champion",
-  "49ers vs. Cowboys",
   "Seahawks vs. Raiders",
-  "Bitcoin above ___ on November 15?",
+  "49ers vs. Cowboys",
+  "Democratic Presidential Nominee 2028",
   "France vs. Türkiye",
-  "Pacers vs. 76ers",
   "Counter-Strike: Heroic vs FaZe (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
-  "What price will Ethereum hit in November?",
+  "UEFA Champions League: 2027 Champion",
+  "Finland vs. San Marino",
+  "Counter-Strike: magic vs fnatic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
   "What price will Bitcoin hit on November 15?",
-  "Texans vs. Browns"
+  "Texans vs. Browns",
+  "Finland vs. San Marino - More Markets"
  ]
 }
