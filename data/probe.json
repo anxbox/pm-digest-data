@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-15T21:16:27.580121+00:00",
+ "ts": "2026-11-15T21:56:20.110679+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 49369,
- "single_game_events": 692,
+ "events_total": 2048,
+ "sub_markets_total": 46439,
+ "single_game_events": 650,
  "event_keys": [
   "active",
   "archived",
@@ -25,7 +25,6 @@
   "eventMetadata",
   "eventWeek",
   "featured",
-  "finishedTimestamp",
   "gameId",
   "icon",
   "id",
@@ -75,6 +74,7 @@
   "bestAsk",
   "bestBid",
   "clearBookOnStart",
+  "clobRewards",
   "clobTokenIds",
   "closed",
   "comboStatus",
@@ -140,7 +140,6 @@
   "takerBaseFee",
   "tradingEligible",
   "umaBond",
-  "umaResolutionStatus",
   "umaResolutionStatuses",
   "umaReward",
   "updatedAt",
@@ -158,15 +157,15 @@
   "volumeNum"
  ],
  "sample_event": {
-  "id": "1258840",
-  "ticker": "nfl-min-gb-2026-11-15",
-  "slug": "nfl-min-gb-2026-11-15",
-  "title": "Vikings vs. Packers",
-  "description": "In the upcoming NFL football game between Vikings and Packers, scheduled for November 15 at 1:00PM ET:\nThis market will resolve to \"Vikings\" if Vikings win the ",
+  "id": "1258851",
+  "ticker": "nfl-sf-dal-2026-11-15",
+  "slug": "nfl-sf-dal-2026-11-15",
+  "title": "49ers vs. Cowboys",
+  "description": "In the upcoming NFL football game between 49ers and Cowboys, scheduled for November 15 at 4:25PM ET:\nThis market will resolve to \"49ers\" if 49ers win the game.\n",
   "resolutionSource": "https://www.nfl.com/scores",
-  "startDate": "2026-10-26T12:00:47Z",
-  "creationDate": "2026-11-15T18:00:00Z",
-  "endDate": "2026-11-15T18:00:00Z",
+  "startDate": "2026-10-26T12:00:53Z",
+  "creationDate": "2026-11-15T21:25:00Z",
+  "endDate": "2026-11-15T21:25:00Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "active": "True",
@@ -175,21 +174,21 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "2681545.60166",
-  "volume": "5172546.422349",
-  "openInterest": "4221288.9608000005",
-  "createdAt": "2026-10-26T12:00:38.949481Z",
-  "updatedAt": "2026-11-15T21:14:08.32672Z",
-  "competitive": "0.8617716171639915",
-  "volume24hr": "4925425.814366001",
-  "volume1wk": "5177687.012023001",
-  "volume1mo": "5177699.63989",
-  "volume1yr": "5177699.63989",
+  "liquidity": "1911263.51729",
+  "volume": "6285394.101002",
+  "openInterest": "6404816.076094",
+  "createdAt": "2026-10-26T12:00:44.892979Z",
+  "updatedAt": "2026-11-15T21:55:26.562941Z",
+  "competitive": "0.9999000099990001",
+  "volume24hr": "6574506.717588998",
+  "volume1wk": "6656626.812646",
+  "volume1mo": "6657189.504953999",
+  "volume1yr": "6657189.504953999",
   "enableOrderBook": "True",
-  "liquidityClob": "2681545.60166",
+  "liquidityClob": "1911263.51729",
   "negRisk": "False",
   "commentCount": "0",
-  "markets": "<list 306>",
+  "markets": "<list 305>",
   "series": "<list 1>",
   "tags": "<list 3>",
   "cyom": "False",
@@ -200,24 +199,24 @@
   "eventDate": "2026-11-15"
  },
  "sample_market": {
-  "id": "6248140",
-  "question": "Vikings vs. Packers",
-  "conditionId": "0x8d432ea906196f359e5b1a3dda5a706a2db4621f672ada9a4b39c5bf9e20fd75",
-  "slug": "nfl-min-gb-2026-11-15",
+  "id": "6248157",
+  "question": "49ers vs. Cowboys",
+  "conditionId": "0xe10e72af1e0a1fdbd4d3544a61d0fb5142ffe28529138a3dcad6a3ea0e93d056",
+  "slug": "nfl-sf-dal-2026-11-15",
   "resolutionSource": "https://www.nfl.com/scores",
-  "endDate": "2026-11-15T18:00:00Z",
-  "liquidity": "674348.38303",
-  "startDate": "2026-10-26T12:00:47Z",
+  "endDate": "2026-11-15T21:25:00Z",
+  "liquidity": "404013.171",
+  "startDate": "2026-10-26T12:00:53Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
-  "description": "In the upcoming NFL football game between Vikings and Packers, scheduled for November 15 at 1:00PM ET:\nThis market will resolve to \"Vikings\" if Vikings win the ",
-  "outcomes": "[\"Vikings\", \"Packers\"]",
-  "outcomePrices": "[\"0.9995\", \"0.0005\"]",
-  "volume": "3639309.8949180003",
+  "description": "In the upcoming NFL football game between 49ers and Cowboys, scheduled for November 15 at 4:25PM ET:\nThis market will resolve to \"49ers\" if 49ers win the game.\n",
+  "outcomes": "[\"49ers\", \"Cowboys\"]",
+  "outcomePrices": "[\"0.705\", \"0.295\"]",
+  "volume": "4707280.342771",
   "active": "True",
   "closed": "False",
-  "createdAt": "2026-10-26T12:00:39.117061Z",
-  "updatedAt": "2026-11-15T21:13:55.352988Z",
+  "createdAt": "2026-10-26T12:00:45.193113Z",
+  "updatedAt": "2026-11-15T21:53:55.867978Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -225,103 +224,87 @@
   "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
   "restricted": "True",
   "groupItemThreshold": "0",
-  "questionID": "0x2e343e47e8ce956f4afcf84d7ca68e7e5e0f99126316d8221345cf341125ad83",
+  "questionID": "0x607608901429f685c50b02fe5019d2194dd90da3f0af03bdcda6f43e1423a849",
   "enableOrderBook": "True",
-  "orderPriceMinTickSize": "0.001",
+  "orderPriceMinTickSize": "0.01",
   "orderMinSize": "5",
-  "umaResolutionStatus": "proposed",
-  "volumeNum": "3639309.8949180003",
-  "liquidityNum": "674348.38303",
+  "volumeNum": "4707280.342771",
+  "liquidityNum": "404013.171",
   "endDateIso": "2026-11-15",
   "startDateIso": "2026-10-26",
   "hasReviewedDates": "True",
-  "volume24hr": "3508648.6320350007",
-  "volume1wk": "3642030.146187001",
-  "volume1mo": "3642040.3049180005",
-  "volume1yr": "3642040.3049180005",
-  "gameStartTime": "2026-11-15 18:00:00+00"
+  "volume24hr": "5036399.275033998",
+  "volume1wk": "5063110.359518",
+  "volume1mo": "5063509.051825999",
+  "volume1yr": "5063509.051825999",
+  "gameStartTime": "2026-11-15 21:25:00+00",
+  "secondsDelay": "1"
  },
  "multi_option_event": {
-  "title": "Vikings vs. Packers",
-  "slug": "nfl-min-gb-2026-11-15",
-  "n_sub": 150,
+  "title": "49ers vs. Cowboys",
+  "slug": "nfl-sf-dal-2026-11-15",
+  "n_sub": 305,
   "sub_markets": [
    {
-    "question": "Vikings vs. Packers",
+    "question": "49ers vs. Cowboys",
     "groupItemTitle": "None",
     "groupItemThreshold": "0",
     "shortTitle": "None",
-    "outcomes": "[\"Vikings\", \"Packers\"]",
-    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+    "outcomes": "[\"49ers\", \"Cowboys\"]",
+    "outcomePrices": "[\"0.705\", \"0.295\"]",
     "closed": "False"
    },
    {
-    "question": "Spread: Vikings (-1.5)",
+    "question": "Spread: 49ers (-1.5)",
     "groupItemTitle": "Spread -1.5",
     "groupItemThreshold": "1",
     "shortTitle": "None",
-    "outcomes": "[\"Vikings\", \"Packers\"]",
-    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+    "outcomes": "[\"49ers\", \"Cowboys\"]",
+    "outcomePrices": "[\"0.675\", \"0.325\"]",
     "closed": "False"
    },
    {
-    "question": "Spread: Vikings (-2.5)",
+    "question": "Spread: 49ers (-2.5)",
     "groupItemTitle": "Spread -2.5",
     "groupItemThreshold": "1",
     "shortTitle": "None",
-    "outcomes": "[\"Vikings\", \"Packers\"]",
-    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+    "outcomes": "[\"49ers\", \"Cowboys\"]",
+    "outcomePrices": "[\"0.665\", \"0.335\"]",
     "closed": "False"
    },
    {
-    "question": "Spread: Vikings (-3.5)",
+    "question": "Spread: 49ers (-3.5)",
     "groupItemTitle": "Spread -3.5",
     "groupItemThreshold": "1",
     "shortTitle": "None",
-    "outcomes": "[\"Vikings\", \"Packers\"]",
-    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+    "outcomes": "[\"49ers\", \"Cowboys\"]",
+    "outcomePrices": "[\"0.575\", \"0.425\"]",
     "closed": "False"
    },
    {
-    "question": "Spread: Vikings (-4.5)",
+    "question": "Spread: 49ers (-4.5)",
     "groupItemTitle": "Spread -4.5",
     "groupItemThreshold": "1",
     "shortTitle": "None",
-    "outcomes": "[\"Vikings\", \"Packers\"]",
-    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+    "outcomes": "[\"49ers\", \"Cowboys\"]",
+    "outcomePrices": "[\"0.515\", \"0.485\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 798,
-  "crypto": 157,
-  "geopolitics": 193,
-  "economy": 73,
-  "tech": 471,
-  "politics": 267,
-  "culture": 95,
-  "(空)": 46
+  "sports": 765,
+  "politics": 262,
+  "crypto": 161,
+  "geopolitics": 189,
+  "economy": 74,
+  "tech": 457,
+  "culture": 93,
+  "(空)": 47
  },
  "tag_samples": [
   {
-   "title": "Vikings vs. Packers",
-   "tags": [
-    "Sports",
-    "NFL (All)",
-    "Games"
-   ]
-  },
-  {
-   "title": "Panthers vs. Saints",
-   "tags": [
-    "Sports",
-    "NFL (All)",
-    "Games"
-   ]
-  },
-  {
-   "title": "Bills vs. Jets",
+   "title": "49ers vs. Cowboys",
    "tags": [
     "Sports",
     "NFL (All)",
@@ -337,14 +320,6 @@
    ]
   },
   {
-   "title": "49ers vs. Cowboys",
-   "tags": [
-    "Sports",
-    "NFL (All)",
-    "Games"
-   ]
-  },
-  {
    "title": "Jaguars vs. Titans",
    "tags": [
     "Sports",
@@ -353,12 +328,12 @@
    ]
   },
   {
-   "title": "Pacers vs. 76ers",
+   "title": "Spain vs. England",
    "tags": [
     "Sports",
-    "NBA",
     "Games",
-    "Basketball"
+    "Soccer",
+    "UEFA Nations League"
    ]
   },
   {
@@ -368,33 +343,59 @@
     "NFL (All)",
     "Games"
    ]
+  },
+  {
+   "title": "France vs. Türkiye",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "UEFA Nations League"
+   ]
+  },
+  {
+   "title": "Seahawks vs. Raiders",
+   "tags": [
+    "Sports",
+    "NFL (All)",
+    "Games"
+   ]
+  },
+  {
+   "title": "France vs. Türkiye - More Markets",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "UEFA Nations League"
+   ]
   }
  ],
  "top_titles": [
-  "Vikings vs. Packers",
-  "Panthers vs. Saints",
-  "Bills vs. Jets",
-  "Chiefs vs. Falcons",
   "49ers vs. Cowboys",
+  "Chiefs vs. Falcons",
   "Jaguars vs. Titans",
-  "Pacers vs. 76ers",
-  "Texans vs. Browns",
   "Spain vs. England",
+  "Texans vs. Browns",
+  "France vs. Türkiye",
+  "Seahawks vs. Raiders",
+  "France vs. Türkiye - More Markets",
+  "Republican Presidential Nominee 2028",
   "What price will Bitcoin hit in November?",
   "What price will Bitcoin hit in 2026?",
-  "France vs. Türkiye",
-  "France vs. Türkiye - More Markets",
   "Belgium vs. Italy",
-  "Dolphins vs. Colts",
-  "Metz: Filippo Moroni vs Eliakim Coulibaly",
-  "What price will Bitcoin hit November 9-15?",
-  "Seahawks vs. Raiders",
   "Spain vs. England - More Markets",
-  "Pepperdine Waves vs. Oregon Ducks",
-  "Israel x Iran ceasefire continues through...?",
   "Lakers vs. Suns",
+  "Metz: Filippo Moroni vs Eliakim Coulibaly",
+  "Mavericks vs. Celtics",
+  "What price will Bitcoin hit November 9-15?",
+  "Pepperdine Waves vs. Oregon Ducks",
+  "WTA Finals, Final Stage: Elina Svitolina vs Mirra Andreeva",
+  "Israel x Iran ceasefire continues through...?",
+  "Rams vs. Cardinals",
+  "Counter-Strike: PARIVISION vs 100 Thieves (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
+  "Belgium vs. Italy - More Markets",
   "Fed Decision in December?",
-  "Jensen Huang rejoins NVIDIA by...?",
-  "Counter-Strike: PARIVISION vs 100 Thieves (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs"
+  "Dota 2: LGD Gaming vs Team Spirit (BO3) - 1win Essence Playoffs"
  ]
 }
