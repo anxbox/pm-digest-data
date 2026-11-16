@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-16T17:04:09.803181+00:00",
+ "ts": "2026-11-16T18:14:45.334116+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 45021,
- "single_game_events": 645,
+ "sub_markets_total": 44930,
+ "single_game_events": 631,
  "event_keys": [
   "active",
   "archived",
@@ -169,18 +169,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "104750.48096",
-  "volume": "1979743.9269639996",
-  "openInterest": "339190.43874300004",
+  "liquidity": "650129.83718",
+  "volume": "2743190.004452",
+  "openInterest": "557990.595398",
   "createdAt": "2026-11-15T22:39:12.388088Z",
-  "updatedAt": "2026-11-16T17:01:29.96699Z",
-  "competitive": "0.9497578117580017",
-  "volume24hr": "2154341.3845159994",
-  "volume1wk": "2154341.3845159994",
-  "volume1mo": "2154341.3845159994",
-  "volume1yr": "2154341.3845159994",
+  "updatedAt": "2026-11-16T18:09:08.020598Z",
+  "competitive": "0.8003199679231757",
+  "volume24hr": "2750107.6544520007",
+  "volume1wk": "2750107.6544520007",
+  "volume1mo": "2750107.6544520007",
+  "volume1yr": "2750107.6544520007",
   "enableOrderBook": "True",
-  "liquidityClob": "104750.48096",
+  "liquidityClob": "650129.83718",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 6>",
@@ -206,11 +206,11 @@
   "description": "This market refers to the Dota 2 Lower Bracket Round 1 match between GamerLegion and LGD Gaming in the 1win Essence Playoffs, initially scheduled for November 1",
   "outcomes": "[\"GamerLegion\", \"LGD Gaming\"]",
   "outcomePrices": "[\"0\", \"1\"]",
-  "volume": "752028.5562869998",
+  "volume": "752028.556287",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-15T22:39:12.606582Z",
-  "updatedAt": "2026-11-16T16:53:09.565505Z",
+  "updatedAt": "2026-11-16T18:07:08.102219Z",
   "closedTime": "2026-11-16 15:40:08.213209+00",
   "new": "False",
   "featured": "False",
@@ -225,14 +225,14 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "752028.5562869998",
+  "volumeNum": "752028.556287",
   "endDateIso": "2026-11-16",
   "startDateIso": "2026-11-15",
   "hasReviewedDates": "True",
   "volume24hr": "752028.556287",
-  "volume1wk": "752028.556287",
-  "volume1mo": "752028.556287",
-  "volume1yr": "752028.556287",
+  "volume1wk": "752028.5562870001",
+  "volume1mo": "752028.5562870001",
+  "volume1yr": "752028.5562870001",
   "gameStartTime": "2026-11-16 13:55:00+00"
  },
  "multi_option_event": {
@@ -246,7 +246,7 @@
     "groupItemThreshold": "None",
     "shortTitle": "None",
     "outcomes": "[\"GamerLegion\", \"LGD Gaming\"]",
-    "outcomePrices": "[\"0.255\", \"0.745\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
@@ -279,14 +279,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 747,
-  "politics": 271,
-  "culture": 93,
-  "tech": 468,
-  "economy": 84,
-  "geopolitics": 220,
-  "crypto": 143,
-  "(空)": 74
+  "sports": 733,
+  "culture": 91,
+  "tech": 479,
+  "politics": 275,
+  "economy": 86,
+  "geopolitics": 223,
+  "crypto": 138,
+  "(空)": 75
  },
  "tag_samples": [
   {
@@ -296,17 +296,6 @@
     "Dota 2",
     "Games",
     "Sports"
-   ]
-  },
-  {
-   "title": "Republican Presidential Nominee 2028",
-   "tags": [
-    "United States",
-    "Politics",
-    "US Election",
-    "Elections",
-    "World Elections",
-    "Global Elections"
    ]
   },
   {
@@ -331,6 +320,17 @@
    ]
   },
   {
+   "title": "Republican Presidential Nominee 2028",
+   "tags": [
+    "United States",
+    "Politics",
+    "US Election",
+    "Elections",
+    "World Elections",
+    "Global Elections"
+   ]
+  },
+  {
    "title": "Next James Bond actor?",
    "tags": [
     "Culture",
@@ -350,15 +350,6 @@
    ]
   },
   {
-   "title": "Counter-Strike: magic vs Eternal Fire (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
-   "tags": [
-    "Esports",
-    "counter strike 2",
-    "Games",
-    "Sports"
-   ]
-  },
-  {
    "title": "Fed Decision in December?",
    "tags": [
     "Fed",
@@ -368,33 +359,42 @@
     "Fed Rates",
     "Kevin Warsh"
    ]
+  },
+  {
+   "title": "Rockets vs. Heat",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
   }
  ],
  "top_titles": [
   "Dota 2: GamerLegion vs LGD Gaming (BO3) - 1win Essence Playoffs",
-  "Republican Presidential Nominee 2028",
   "Next CEO of NVIDIA?",
   "Jensen Huang rejoins NVIDIA by...?",
+  "Republican Presidential Nominee 2028",
   "Next James Bond actor?",
   "Presidential Election Winner 2028",
-  "Counter-Strike: magic vs Eternal Fire (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
   "Fed Decision in December?",
-  "Israel x Iran ceasefire continues through...?",
-  "Helsinki: Ilya Ivashka vs Toby Samuel",
-  "Democratic Presidential Nominee 2028",
-  "Anthropic IPO Closing Market Cap",
-  "UEFA Champions League: 2027 Champion",
-  "Bitcoin above ___ on November 16?",
-  "What price will Bitcoin hit on November 16?",
-  "Pro Football: 2027 Champion",
-  "What price will Bitcoin hit in November?",
-  "Dota 2: Froglings vs Inner Circle (BO3) - DreamLeague Division 2 Playoffs",
-  "Kazakhstan vs. Slovakia",
   "Rockets vs. Heat",
+  "Israel x Iran ceasefire continues through...?",
+  "Democratic Presidential Nominee 2028",
+  "Dota 2: Froglings vs Inner Circle (BO3) - DreamLeague Division 2 Playoffs",
+  "Anthropic IPO Closing Market Cap",
+  "Magic vs. Celtics",
+  "What price will Bitcoin hit on November 16?",
+  "UEFA Champions League: 2027 Champion",
+  "Iceland vs. Luxembourg - More Markets",
+  "What price will Bitcoin hit in November?",
+  "Germany vs. Netherlands",
+  "Pro Football: 2027 Champion",
   "Next Prime Minister of Sweden",
   "Elon Musk # tweets November 14 - November 16, 2026?",
+  "Helsinki: Shintaro Mochizuki vs Lorenzo Giustino",
+  "Iceland vs. Luxembourg",
   "Elon Musk # tweets November 10 - November 17, 2026?",
-  "Taipei Mayor Election Winner",
-  "Magic vs. Celtics"
+  "Counter-Strike: Heroic vs PARIVISION (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs"
  ]
 }
