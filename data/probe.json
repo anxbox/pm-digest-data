@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-16T01:47:25.727382+00:00",
+ "ts": "2026-11-16T02:48:00.280823+00:00",
  "pages_fetched": 21,
  "events_total": 2099,
- "sub_markets_total": 44326,
- "single_game_events": 595,
+ "sub_markets_total": 43127,
+ "single_game_events": 592,
  "event_keys": [
   "active",
   "archived",
@@ -25,7 +25,6 @@
   "eventMetadata",
   "eventWeek",
   "featured",
-  "finishedTimestamp",
   "gameId",
   "icon",
   "id",
@@ -72,14 +71,14 @@
   "approved",
   "archived",
   "automaticallyActive",
-  "automaticallyResolved",
   "bestAsk",
   "bestBid",
   "clearBookOnStart",
+  "clobRewards",
   "clobTokenIds",
   "closed",
-  "closedTime",
   "comboStatus",
+  "competitive",
   "conditionId",
   "createdAt",
   "customLiveness",
@@ -104,6 +103,9 @@
   "id",
   "image",
   "lastTradePrice",
+  "liquidity",
+  "liquidityClob",
+  "liquidityNum",
   "makerBaseFee",
   "manualActivation",
   "negRisk",
@@ -138,8 +140,6 @@
   "takerBaseFee",
   "tradingEligible",
   "umaBond",
-  "umaEndDate",
-  "umaResolutionStatus",
   "umaResolutionStatuses",
   "umaReward",
   "updatedAt",
@@ -157,15 +157,15 @@
   "volumeNum"
  ],
  "sample_event": {
-  "id": "1258851",
-  "ticker": "nfl-sf-dal-2026-11-15",
-  "slug": "nfl-sf-dal-2026-11-15",
-  "title": "49ers vs. Cowboys",
-  "description": "In the upcoming NFL football game between 49ers and Cowboys, scheduled for November 15 at 4:25PM ET:\nThis market will resolve to \"49ers\" if 49ers win the game.\n",
+  "id": "1258853",
+  "ticker": "nfl-pit-cin-2026-11-16",
+  "slug": "nfl-pit-cin-2026-11-16",
+  "title": "Steelers vs. Bengals",
+  "description": "In the upcoming NFL football game between Steelers and Bengals, scheduled for November 15 at 8:20PM ET:\nThis market will resolve to \"Steelers\" if Steelers win t",
   "resolutionSource": "https://www.nfl.com/scores",
   "startDate": "2026-10-26T12:00:53Z",
-  "creationDate": "2026-11-15T21:25:00Z",
-  "endDate": "2026-11-15T21:25:00Z",
+  "creationDate": "2026-11-16T01:20:00Z",
+  "endDate": "2026-11-16T01:20:00Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "active": "True",
@@ -174,21 +174,21 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "2705.52995",
-  "volume": "9827319.815261",
-  "openInterest": "606717.3975900004",
-  "createdAt": "2026-10-26T12:00:44.892979Z",
-  "updatedAt": "2026-11-16T01:44:07.116722Z",
-  "competitive": "0.8617716171639915",
-  "volume24hr": "9741273.725043997",
-  "volume1wk": "9825352.593791999",
-  "volume1mo": "9826801.228877999",
-  "volume1yr": "9826801.228877999",
+  "liquidity": "2912137.94289",
+  "volume": "4214477.039025001",
+  "openInterest": "3685724.1643910008",
+  "createdAt": "2026-10-26T12:00:46.030499Z",
+  "updatedAt": "2026-11-16T02:44:07.472621Z",
+  "competitive": "0.9999000099990001",
+  "volume24hr": "4191881.3434780003",
+  "volume1wk": "4276956.459318",
+  "volume1mo": "4278835.75463",
+  "volume1yr": "4278835.75463",
   "enableOrderBook": "True",
-  "liquidityClob": "2705.52995",
+  "liquidityClob": "2912137.94289",
   "negRisk": "False",
   "commentCount": "0",
-  "markets": "<list 305>",
+  "markets": "<list 306>",
   "series": "<list 1>",
   "tags": "<list 3>",
   "cyom": "False",
@@ -199,24 +199,24 @@
   "eventDate": "2026-11-15"
  },
  "sample_market": {
-  "id": "6248157",
-  "question": "49ers vs. Cowboys",
-  "conditionId": "0xe10e72af1e0a1fdbd4d3544a61d0fb5142ffe28529138a3dcad6a3ea0e93d056",
-  "slug": "nfl-sf-dal-2026-11-15",
+  "id": "6248161",
+  "question": "Steelers vs. Bengals",
+  "conditionId": "0x2c4bc1dc34eaa1cb08943f536d4ce630384f3e93e028f6fa7a20933438334853",
+  "slug": "nfl-pit-cin-2026-11-16",
   "resolutionSource": "https://www.nfl.com/scores",
-  "endDate": "2026-11-15T21:25:00Z",
+  "endDate": "2026-11-16T01:20:00Z",
+  "liquidity": "554751.7905",
   "startDate": "2026-10-26T12:00:53Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
-  "description": "In the upcoming NFL football game between 49ers and Cowboys, scheduled for November 15 at 4:25PM ET:\nThis market will resolve to \"49ers\" if 49ers win the game.\n",
-  "outcomes": "[\"49ers\", \"Cowboys\"]",
-  "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "7045436.294057001",
+  "description": "In the upcoming NFL football game between Steelers and Bengals, scheduled for November 15 at 8:20PM ET:\nThis market will resolve to \"Steelers\" if Steelers win t",
+  "outcomes": "[\"Steelers\", \"Bengals\"]",
+  "outcomePrices": "[\"0.065\", \"0.935\"]",
+  "volume": "2368400.030437001",
   "active": "True",
-  "closed": "True",
-  "createdAt": "2026-10-26T12:00:45.193113Z",
-  "updatedAt": "2026-11-16T01:36:07.75731Z",
-  "closedTime": "2026-11-16 01:01:54.232351+00",
+  "closed": "False",
+  "createdAt": "2026-10-26T12:00:46.387294Z",
+  "updatedAt": "2026-11-16T02:43:54.359009Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -224,90 +224,91 @@
   "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
   "restricted": "True",
   "groupItemThreshold": "0",
-  "questionID": "0x607608901429f685c50b02fe5019d2194dd90da3f0af03bdcda6f43e1423a849",
-  "umaEndDate": "2026-11-16 01:01:54.232351+00:00:00",
+  "questionID": "0x4161327bfe6c4072b16e5181bf6cfe97724d06afe23fa41b29469f84933d8ffc",
   "enableOrderBook": "True",
-  "orderPriceMinTickSize": "0.001",
+  "orderPriceMinTickSize": "0.01",
   "orderMinSize": "5",
-  "umaResolutionStatus": "resolved",
-  "volumeNum": "7045436.294057001",
-  "endDateIso": "2026-11-15",
+  "volumeNum": "2368400.030437001",
+  "liquidityNum": "554751.7905",
+  "endDateIso": "2026-11-16",
   "startDateIso": "2026-10-26",
   "hasReviewedDates": "True",
-  "volume24hr": "7018151.976139998",
-  "volume1wk": "7044151.658970999",
-  "volume1mo": "7045436.294056999",
-  "volume1yr": "7045436.294056999",
-  "gameStartTime": "2026-11-15 21:25:00+00"
+  "volume24hr": "2392972.8344730004",
+  "volume1wk": "2399897.057922",
+  "volume1mo": "2401660.475258",
+  "volume1yr": "2401660.475258",
+  "gameStartTime": "2026-11-16 01:20:00+00",
+  "secondsDelay": "1"
  },
  "multi_option_event": {
-  "title": "49ers vs. Cowboys",
-  "slug": "nfl-sf-dal-2026-11-15",
-  "n_sub": 3,
+  "title": "Steelers vs. Bengals",
+  "slug": "nfl-pit-cin-2026-11-16",
+  "n_sub": 270,
   "sub_markets": [
    {
-    "question": "49ers Total Offensive Yards: O/U 350.5",
-    "groupItemTitle": "49ers Total Offensive Yards: O/U 350.5",
-    "groupItemThreshold": "2",
+    "question": "Steelers vs. Bengals",
+    "groupItemTitle": "None",
+    "groupItemThreshold": "0",
     "shortTitle": "None",
-    "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.9005\", \"0.0995\"]",
+    "outcomes": "[\"Steelers\", \"Bengals\"]",
+    "outcomePrices": "[\"0.065\", \"0.935\"]",
     "closed": "False"
    },
    {
-    "question": "Cowboys Total Offensive Yards: O/U 350.5",
-    "groupItemTitle": "Cowboys Total Offensive Yards: O/U 350.5",
-    "groupItemThreshold": "2",
+    "question": "Spread: Steelers (-1.5)",
+    "groupItemTitle": "Spread -1.5",
+    "groupItemThreshold": "1",
     "shortTitle": "None",
-    "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.9955\", \"0.0045\"]",
+    "outcomes": "[\"Steelers\", \"Bengals\"]",
+    "outcomePrices": "[\"0.05\", \"0.95\"]",
     "closed": "False"
    },
    {
-    "question": "49ers vs. Cowboys: Total Two-Point Conversions O/U 0.5",
-    "groupItemTitle": "49ers vs. Cowboys: Total Two-Point Conversions O/U 0.5",
-    "groupItemThreshold": "2",
+    "question": "Spread: Steelers (-2.5)",
+    "groupItemTitle": "Spread -2.5",
+    "groupItemThreshold": "1",
     "shortTitle": "None",
-    "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.9005\", \"0.0995\"]",
+    "outcomes": "[\"Steelers\", \"Bengals\"]",
+    "outcomePrices": "[\"0.049\", \"0.951\"]",
+    "closed": "False"
+   },
+   {
+    "question": "Spread: Steelers (-3.5)",
+    "groupItemTitle": "Spread -3.5",
+    "groupItemThreshold": "1",
+    "shortTitle": "None",
+    "outcomes": "[\"Steelers\", \"Bengals\"]",
+    "outcomePrices": "[\"0.0325\", \"0.9675\"]",
+    "closed": "False"
+   },
+   {
+    "question": "Spread: Steelers (-4.5)",
+    "groupItemTitle": "Spread -4.5",
+    "groupItemThreshold": "1",
+    "shortTitle": "None",
+    "outcomes": "[\"Steelers\", \"Bengals\"]",
+    "outcomePrices": "[\"0.0165\", \"0.9835\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 748,
-  "politics": 308,
+  "sports": 744,
+  "politics": 307,
   "crypto": 159,
   "culture": 98,
-  "geopolitics": 191,
-  "tech": 464,
+  "tech": 467,
+  "geopolitics": 194,
   "economy": 80,
-  "(空)": 51
+  "(空)": 50
  },
  "tag_samples": [
-  {
-   "title": "49ers vs. Cowboys",
-   "tags": [
-    "Sports",
-    "NFL (All)",
-    "Games"
-   ]
-  },
   {
    "title": "Steelers vs. Bengals",
    "tags": [
     "Sports",
     "NFL (All)",
     "Games"
-   ]
-  },
-  {
-   "title": "Knicks vs. Raptors",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   },
   {
@@ -320,16 +321,7 @@
    ]
   },
   {
-   "title": "Lakers vs. Suns",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
-   "title": "Mavericks vs. Celtics",
+   "title": "Hawks vs. Bucks",
    "tags": [
     "Sports",
     "NBA",
@@ -349,6 +341,25 @@
    ]
   },
   {
+   "title": "Thunder vs. Kings",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
+   "title": "Pepperdine Waves vs. Oregon Ducks",
+   "tags": [
+    "Sports",
+    "Basketball",
+    "NCAA",
+    "Games",
+    "NCAA Basketball"
+   ]
+  },
+  {
    "title": "What price will Bitcoin hit in 2026?",
    "tags": [
     "Bitcoin",
@@ -358,33 +369,44 @@
     "Crypto",
     "Earn 3.25%"
    ]
+  },
+  {
+   "title": "Next CEO of NVIDIA?",
+   "tags": [
+    "NVDA",
+    "NVIDIA",
+    "Culture",
+    "Big Tech",
+    "Business",
+    "Jensen Huang"
+   ]
   }
  ],
  "top_titles": [
-  "49ers vs. Cowboys",
   "Steelers vs. Bengals",
-  "Knicks vs. Raptors",
   "Rockets vs. Wizards",
-  "Lakers vs. Suns",
-  "Mavericks vs. Celtics",
-  "Republican Presidential Nominee 2028",
-  "What price will Bitcoin hit in 2026?",
-  "What price will Bitcoin hit in November?",
-  "Pepperdine Waves vs. Oregon Ducks",
   "Hawks vs. Bucks",
-  "Next CEO of NVIDIA?",
-  "Israel x Iran ceasefire continues through...?",
-  "Jensen Huang rejoins NVIDIA by...?",
-  "What price will Bitcoin hit November 9-15?",
-  "Presidential Election Winner 2028",
+  "Republican Presidential Nominee 2028",
   "Thunder vs. Kings",
+  "Pepperdine Waves vs. Oregon Ducks",
+  "What price will Bitcoin hit in 2026?",
+  "Next CEO of NVIDIA?",
+  "What price will Bitcoin hit in November?",
+  "Jensen Huang rejoins NVIDIA by...?",
+  "Israel x Iran ceasefire continues through...?",
   "What price will Bitcoin hit on November 15?",
+  "Presidential Election Winner 2028",
   "UEFA Champions League: 2027 Champion",
+  "What price will Bitcoin hit November 9-15?",
   "Democratic Presidential Nominee 2028",
   "Pro Football: 2027 Champion",
-  "Elon Musk # tweets November 10 - November 17, 2026?",
-  "Next Prime Minister of Sweden",
   "NBA: 2027 Champion",
-  "Fed Decision in December?"
+  "Next Prime Minister of Sweden",
+  "Elon Musk # tweets November 10 - November 17, 2026?",
+  "Fed Decision in December?",
+  "Taipei Mayor Election Winner",
+  "Elon Musk # tweets November 14 - November 16, 2026?",
+  "Next French Presidential Election",
+  "Oilers vs. Flyers"
  ]
 }
