@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-16T02:48:00.280823+00:00",
+ "ts": "2026-11-16T03:58:44.462061+00:00",
  "pages_fetched": 21,
- "events_total": 2099,
- "sub_markets_total": 43127,
- "single_game_events": 592,
+ "events_total": 2100,
+ "sub_markets_total": 43116,
+ "single_game_events": 565,
  "event_keys": [
   "active",
   "archived",
@@ -74,7 +74,6 @@
   "bestAsk",
   "bestBid",
   "clearBookOnStart",
-  "clobRewards",
   "clobTokenIds",
   "closed",
   "comboStatus",
@@ -174,18 +173,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "2912137.94289",
-  "volume": "4214477.039025001",
-  "openInterest": "3685724.1643910008",
+  "liquidity": "1333183.91983",
+  "volume": "5039394.813465001",
+  "openInterest": "4051942.3169279997",
   "createdAt": "2026-10-26T12:00:46.030499Z",
-  "updatedAt": "2026-11-16T02:44:07.472621Z",
-  "competitive": "0.9999000099990001",
-  "volume24hr": "4191881.3434780003",
-  "volume1wk": "4276956.459318",
-  "volume1mo": "4278835.75463",
-  "volume1yr": "4278835.75463",
+  "updatedAt": "2026-11-16T03:54:11.637414Z",
+  "competitive": "1",
+  "volume24hr": "4995681.700296",
+  "volume1wk": "5082098.233690999",
+  "volume1mo": "5083979.116305",
+  "volume1yr": "5083979.116305",
   "enableOrderBook": "True",
-  "liquidityClob": "2912137.94289",
+  "liquidityClob": "1333183.91983",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 306>",
@@ -205,18 +204,18 @@
   "slug": "nfl-pit-cin-2026-11-16",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-16T01:20:00Z",
-  "liquidity": "554751.7905",
+  "liquidity": "207239.19467",
   "startDate": "2026-10-26T12:00:53Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Steelers and Bengals, scheduled for November 15 at 8:20PM ET:\nThis market will resolve to \"Steelers\" if Steelers win t",
   "outcomes": "[\"Steelers\", \"Bengals\"]",
-  "outcomePrices": "[\"0.065\", \"0.935\"]",
-  "volume": "2368400.030437001",
+  "outcomePrices": "[\"0.0015\", \"0.9985\"]",
+  "volume": "2849034.0342560015",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-10-26T12:00:46.387294Z",
-  "updatedAt": "2026-11-16T02:43:54.359009Z",
+  "updatedAt": "2026-11-16T03:53:54.744884Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -226,24 +225,24 @@
   "groupItemThreshold": "0",
   "questionID": "0x4161327bfe6c4072b16e5181bf6cfe97724d06afe23fa41b29469f84933d8ffc",
   "enableOrderBook": "True",
-  "orderPriceMinTickSize": "0.01",
+  "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "2368400.030437001",
-  "liquidityNum": "554751.7905",
+  "volumeNum": "2849034.0342560015",
+  "liquidityNum": "207239.19467",
   "endDateIso": "2026-11-16",
   "startDateIso": "2026-10-26",
   "hasReviewedDates": "True",
-  "volume24hr": "2392972.8344730004",
-  "volume1wk": "2399897.057922",
-  "volume1mo": "2401660.475258",
-  "volume1yr": "2401660.475258",
+  "volume24hr": "2876524.3509710003",
+  "volume1wk": "2884071.987118",
+  "volume1mo": "2885836.991756",
+  "volume1yr": "2885836.991756",
   "gameStartTime": "2026-11-16 01:20:00+00",
   "secondsDelay": "1"
  },
  "multi_option_event": {
   "title": "Steelers vs. Bengals",
   "slug": "nfl-pit-cin-2026-11-16",
-  "n_sub": 270,
+  "n_sub": 184,
   "sub_markets": [
    {
     "question": "Steelers vs. Bengals",
@@ -251,7 +250,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Steelers\", \"Bengals\"]",
-    "outcomePrices": "[\"0.065\", \"0.935\"]",
+    "outcomePrices": "[\"0.0015\", \"0.9985\"]",
     "closed": "False"
    },
    {
@@ -260,7 +259,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Steelers\", \"Bengals\"]",
-    "outcomePrices": "[\"0.05\", \"0.95\"]",
+    "outcomePrices": "[\"0.004\", \"0.996\"]",
     "closed": "False"
    },
    {
@@ -269,7 +268,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Steelers\", \"Bengals\"]",
-    "outcomePrices": "[\"0.049\", \"0.951\"]",
+    "outcomePrices": "[\"0.004\", \"0.996\"]",
     "closed": "False"
    },
    {
@@ -278,7 +277,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Steelers\", \"Bengals\"]",
-    "outcomePrices": "[\"0.0325\", \"0.9675\"]",
+    "outcomePrices": "[\"0.005\", \"0.995\"]",
     "closed": "False"
    },
    {
@@ -287,20 +286,20 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Steelers\", \"Bengals\"]",
-    "outcomePrices": "[\"0.0165\", \"0.9835\"]",
+    "outcomePrices": "[\"0.004\", \"0.996\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 744,
-  "politics": 307,
+  "sports": 730,
+  "politics": 310,
+  "culture": 106,
+  "tech": 469,
   "crypto": 159,
-  "culture": 98,
-  "tech": 467,
-  "geopolitics": 194,
-  "economy": 80,
-  "(空)": 50
+  "geopolitics": 199,
+  "economy": 78,
+  "(空)": 49
  },
  "tag_samples": [
   {
@@ -312,7 +311,7 @@
    ]
   },
   {
-   "title": "Rockets vs. Wizards",
+   "title": "Hawks vs. Bucks",
    "tags": [
     "Sports",
     "NBA",
@@ -321,7 +320,7 @@
    ]
   },
   {
-   "title": "Hawks vs. Bucks",
+   "title": "Thunder vs. Kings",
    "tags": [
     "Sports",
     "NBA",
@@ -341,12 +340,14 @@
    ]
   },
   {
-   "title": "Thunder vs. Kings",
+   "title": "Next CEO of NVIDIA?",
    "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
+    "NVDA",
+    "NVIDIA",
+    "Culture",
+    "Big Tech",
+    "Business",
+    "Jensen Huang"
    ]
   },
   {
@@ -360,53 +361,52 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit in 2026?",
+   "title": "Jensen Huang rejoins NVIDIA by...?",
    "tags": [
-    "Bitcoin",
-    "Yearly",
-    "Hit Price",
-    "Crypto Prices",
-    "Crypto",
-    "Earn 3.25%"
-   ]
-  },
-  {
-   "title": "Next CEO of NVIDIA?",
-   "tags": [
-    "NVDA",
+    "Tech",
     "NVIDIA",
-    "Culture",
     "Big Tech",
     "Business",
     "Jensen Huang"
+   ]
+  },
+  {
+   "title": "What price will Bitcoin hit on November 15?",
+   "tags": [
+    "Crypto",
+    "Crypto Prices",
+    "Recurring",
+    "Hide From New",
+    "Bitcoin",
+    "Daily"
    ]
   }
  ],
  "top_titles": [
   "Steelers vs. Bengals",
-  "Rockets vs. Wizards",
   "Hawks vs. Bucks",
-  "Republican Presidential Nominee 2028",
   "Thunder vs. Kings",
-  "Pepperdine Waves vs. Oregon Ducks",
-  "What price will Bitcoin hit in 2026?",
+  "Republican Presidential Nominee 2028",
   "Next CEO of NVIDIA?",
-  "What price will Bitcoin hit in November?",
+  "Pepperdine Waves vs. Oregon Ducks",
   "Jensen Huang rejoins NVIDIA by...?",
-  "Israel x Iran ceasefire continues through...?",
   "What price will Bitcoin hit on November 15?",
+  "Israel x Iran ceasefire continues through...?",
   "Presidential Election Winner 2028",
+  "What price will Bitcoin hit in November?",
   "UEFA Champions League: 2027 Champion",
-  "What price will Bitcoin hit November 9-15?",
-  "Democratic Presidential Nominee 2028",
   "Pro Football: 2027 Champion",
-  "NBA: 2027 Champion",
+  "What price will Bitcoin hit in 2026?",
+  "Democratic Presidential Nominee 2028",
   "Next Prime Minister of Sweden",
+  "What price will Bitcoin hit November 9-15?",
   "Elon Musk # tweets November 10 - November 17, 2026?",
   "Fed Decision in December?",
-  "Taipei Mayor Election Winner",
+  "Canucks vs. Golden Knights",
   "Elon Musk # tweets November 14 - November 16, 2026?",
+  "Taipei Mayor Election Winner",
   "Next French Presidential Election",
-  "Oilers vs. Flyers"
+  "Ljubljana Mayoral Election Winner",
+  "Which Senate Swing States will Republicans win? (Build Your Map)"
  ]
 }
