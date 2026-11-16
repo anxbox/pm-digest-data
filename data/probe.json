@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-16T07:17:26.730098+00:00",
+ "ts": "2026-11-16T09:56:38.101873+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 43486,
- "single_game_events": 581,
+ "events_total": 2046,
+ "sub_markets_total": 43156,
+ "single_game_events": 589,
  "event_keys": [
   "active",
   "archived",
@@ -173,18 +173,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "6",
-  "volume": "2280007.4401860004",
-  "openInterest": "49107.99642599999",
+  "liquidity": "21.479",
+  "volume": "2280017.440186",
+  "openInterest": "48886.215353",
   "createdAt": "2026-11-01T05:59:30.949778Z",
-  "updatedAt": "2026-11-16T07:12:06.518941Z",
-  "competitive": "0.019998000199980003",
-  "volume24hr": "2265756.769059",
-  "volume1wk": "2278263.0091040004",
-  "volume1mo": "2278263.0091040004",
-  "volume1yr": "2278263.0091040004",
+  "updatedAt": "2026-11-16T09:52:08.862691Z",
+  "competitive": "0.5469380769359562",
+  "volume24hr": "2265019.5232220003",
+  "volume1wk": "2278273.0091040004",
+  "volume1mo": "2278273.0091040004",
+  "volume1yr": "2278273.0091040004",
   "enableOrderBook": "True",
-  "liquidityClob": "6",
+  "liquidityClob": "21.479",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 490>",
@@ -210,11 +210,11 @@
   "description": "In the upcoming NBA game between Thunder and Kings, originally scheduled for Sunday, November 15, 2026 at 9:00 PM ET (as of creation of the first market related",
   "outcomes": "[\"Thunder\", \"Kings\"]",
   "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "853647.7917810002",
+  "volume": "853647.7917810001",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-01T05:59:31.209927Z",
-  "updatedAt": "2026-11-16T07:06:06.49189Z",
+  "updatedAt": "2026-11-16T09:52:07.333998Z",
   "closedTime": "2026-11-16 04:38:48.135031+00",
   "new": "False",
   "featured": "False",
@@ -229,11 +229,11 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "853647.7917810002",
+  "volumeNum": "853647.7917810001",
   "endDateIso": "2026-11-16",
   "startDateIso": "2026-11-01",
   "hasReviewedDates": "True",
-  "volume24hr": "846970.622083",
+  "volume24hr": "846795.4420860001",
   "volume1wk": "853647.7917810002",
   "volume1mo": "853647.7917810002",
   "volume1yr": "853647.7917810002",
@@ -292,14 +292,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 743,
-  "politics": 299,
-  "culture": 105,
-  "tech": 468,
-  "geopolitics": 202,
-  "crypto": 150,
-  "economy": 80,
-  "(空)": 53
+  "sports": 712,
+  "politics": 285,
+  "culture": 103,
+  "tech": 469,
+  "geopolitics": 196,
+  "crypto": 148,
+  "economy": 74,
+  "(空)": 59
  },
  "tag_samples": [
   {
@@ -344,17 +344,6 @@
    ]
   },
   {
-   "title": "Presidential Election Winner 2028",
-   "tags": [
-    "President",
-    "United States",
-    "US Election",
-    "Elections",
-    "Politics",
-    "World Elections"
-   ]
-  },
-  {
    "title": "Israel x Iran ceasefire continues through...?",
    "tags": [
     "Iran",
@@ -363,6 +352,17 @@
     "Israel x Iran",
     "Israel Election",
     "Iran Ceasefire"
+   ]
+  },
+  {
+   "title": "Presidential Election Winner 2028",
+   "tags": [
+    "President",
+    "United States",
+    "US Election",
+    "Elections",
+    "Politics",
+    "World Elections"
    ]
   },
   {
@@ -392,26 +392,26 @@
   "Republican Presidential Nominee 2028",
   "Next CEO of NVIDIA?",
   "Jensen Huang rejoins NVIDIA by...?",
-  "Presidential Election Winner 2028",
   "Israel x Iran ceasefire continues through...?",
+  "Presidential Election Winner 2028",
   "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit in November?",
   "Democratic Presidential Nominee 2028",
   "Pro Football: 2027 Champion",
   "Pepperdine Waves vs. Oregon Ducks",
+  "Next Prime Minister of Sweden",
   "What price will Bitcoin hit in 2026?",
   "Elon Musk # tweets November 10 - November 17, 2026?",
-  "Next Prime Minister of Sweden",
-  "Elon Musk # tweets November 14 - November 16, 2026?",
-  "Sydney: Omar Jasika vs Alex Bolt",
-  "Fed Decision in December?",
-  "Taipei Mayor Election Winner",
-  "Next French Presidential Election",
-  "Anthropic IPO Closing Market Cap",
-  "Ljubljana Mayoral Election Winner",
-  "Bitcoin above ___ on November 16?",
   "Next leader out of power before 2027?",
+  "Taipei Mayor Election Winner",
+  "Elon Musk # tweets November 14 - November 16, 2026?",
+  "Anthropic IPO Closing Market Cap",
+  "Fed Decision in December?",
+  "US announces end of Iranian blockade by...?",
+  "Bitcoin above ___ on November 16?",
+  "Ljubljana Mayoral Election Winner",
   "NBA: 2027 Champion",
-  "Elon Musk # tweets November 13 - November 20, 2026?"
+  "What price will Bitcoin hit on November 16?",
+  "Next French Presidential Election"
  ]
 }
