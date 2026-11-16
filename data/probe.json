@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-15T23:18:14.277049+00:00",
+ "ts": "2026-11-16T00:00:35.290921+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 45281,
- "single_game_events": 628,
+ "events_total": 2089,
+ "sub_markets_total": 45214,
+ "single_game_events": 618,
  "event_keys": [
   "active",
   "archived",
@@ -74,7 +74,6 @@
   "bestAsk",
   "bestBid",
   "clearBookOnStart",
-  "clobRewards",
   "clobTokenIds",
   "closed",
   "comboStatus",
@@ -174,18 +173,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1784374.52817",
-  "volume": "7327866.487740001",
-  "openInterest": "6841112.514102999",
+  "liquidity": "1930967.29639",
+  "volume": "8331682.004066001",
+  "openInterest": "7572887.349696",
   "createdAt": "2026-10-26T12:00:44.892979Z",
-  "updatedAt": "2026-11-15T23:16:08.020587Z",
+  "updatedAt": "2026-11-15T23:57:37.84789Z",
   "competitive": "0.9997750506136119",
-  "volume24hr": "7298052.902748998",
-  "volume1wk": "7379951.932327999",
-  "volume1mo": "7380514.624635999",
-  "volume1yr": "7380514.624635999",
+  "volume24hr": "8299579.0227729995",
+  "volume1wk": "8384078.860613",
+  "volume1mo": "8384875.552921",
+  "volume1yr": "8384875.552921",
   "enableOrderBook": "True",
-  "liquidityClob": "1784374.52817",
+  "liquidityClob": "1930967.29639",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 305>",
@@ -205,18 +204,18 @@
   "slug": "nfl-sf-dal-2026-11-15",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-15T21:25:00Z",
-  "liquidity": "454872.327",
+  "liquidity": "381190.59263",
   "startDate": "2026-10-26T12:00:53Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between 49ers and Cowboys, scheduled for November 15 at 4:25PM ET:\nThis market will resolve to \"49ers\" if 49ers win the game.\n",
   "outcomes": "[\"49ers\", \"Cowboys\"]",
-  "outcomePrices": "[\"0.795\", \"0.205\"]",
-  "volume": "5442269.325552001",
+  "outcomePrices": "[\"0.9975\", \"0.0025\"]",
+  "volume": "6034043.157883001",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-10-26T12:00:45.193113Z",
-  "updatedAt": "2026-11-15T23:17:55.610508Z",
+  "updatedAt": "2026-11-15T23:55:55.503699Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -226,24 +225,24 @@
   "groupItemThreshold": "0",
   "questionID": "0x607608901429f685c50b02fe5019d2194dd90da3f0af03bdcda6f43e1423a849",
   "enableOrderBook": "True",
-  "orderPriceMinTickSize": "0.01",
+  "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "5442269.325552001",
-  "liquidityNum": "454872.327",
+  "volumeNum": "6034043.157883001",
+  "liquidityNum": "381190.59263",
   "endDateIso": "2026-11-15",
   "startDateIso": "2026-10-26",
   "hasReviewedDates": "True",
-  "volume24hr": "5453352.630973998",
-  "volume1wk": "5480208.1700019995",
-  "volume1mo": "5480606.862309999",
-  "volume1yr": "5480606.862309999",
+  "volume24hr": "6026388.361303999",
+  "volume1wk": "6053009.900331999",
+  "volume1mo": "6053642.592639999",
+  "volume1yr": "6053642.592639999",
   "gameStartTime": "2026-11-15 21:25:00+00",
   "secondsDelay": "1"
  },
  "multi_option_event": {
   "title": "49ers vs. Cowboys",
   "slug": "nfl-sf-dal-2026-11-15",
-  "n_sub": 189,
+  "n_sub": 163,
   "sub_markets": [
    {
     "question": "49ers vs. Cowboys",
@@ -251,7 +250,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"49ers\", \"Cowboys\"]",
-    "outcomePrices": "[\"0.795\", \"0.205\"]",
+    "outcomePrices": "[\"0.9975\", \"0.0025\"]",
     "closed": "False"
    },
    {
@@ -260,7 +259,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"49ers\", \"Cowboys\"]",
-    "outcomePrices": "[\"0.77\", \"0.23\"]",
+    "outcomePrices": "[\"0.975\", \"0.025\"]",
     "closed": "False"
    },
    {
@@ -269,7 +268,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"49ers\", \"Cowboys\"]",
-    "outcomePrices": "[\"0.72\", \"0.28\"]",
+    "outcomePrices": "[\"0.979\", \"0.021\"]",
     "closed": "False"
    },
    {
@@ -278,7 +277,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"49ers\", \"Cowboys\"]",
-    "outcomePrices": "[\"0.625\", \"0.375\"]",
+    "outcomePrices": "[\"0.947\", \"0.053\"]",
     "closed": "False"
    },
    {
@@ -287,20 +286,20 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"49ers\", \"Cowboys\"]",
-    "outcomePrices": "[\"0.585\", \"0.415\"]",
+    "outcomePrices": "[\"0.96\", \"0.04\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 760,
+  "sports": 762,
   "politics": 298,
-  "crypto": 156,
-  "geopolitics": 199,
-  "tech": 467,
-  "culture": 99,
-  "economy": 75,
-  "(空)": 46
+  "crypto": 164,
+  "geopolitics": 192,
+  "tech": 454,
+  "culture": 98,
+  "economy": 73,
+  "(空)": 48
  },
  "tag_samples": [
   {
@@ -337,6 +336,15 @@
    ]
   },
   {
+   "title": "Spurs vs. Jazz",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
    "title": "Republican Presidential Nominee 2028",
    "tags": [
     "United States",
@@ -348,18 +356,7 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit in November?",
-   "tags": [
-    "Bitcoin",
-    "Monthly",
-    "Hit Price",
-    "Crypto",
-    "Crypto Prices",
-    "Recurring"
-   ]
-  },
-  {
-   "title": "Spurs vs. Jazz",
+   "title": "Mavericks vs. Celtics",
    "tags": [
     "Sports",
     "NBA",
@@ -368,14 +365,12 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit in 2026?",
+   "title": "Rockets vs. Wizards",
    "tags": [
-    "Bitcoin",
-    "Yearly",
-    "Hit Price",
-    "Crypto Prices",
-    "Crypto",
-    "Earn 3.25%"
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
    ]
   }
  ],
@@ -384,26 +379,26 @@
   "Seahawks vs. Raiders",
   "Lakers vs. Suns",
   "Rams vs. Cardinals",
-  "Republican Presidential Nominee 2028",
-  "What price will Bitcoin hit in November?",
   "Spurs vs. Jazz",
-  "What price will Bitcoin hit in 2026?",
+  "Republican Presidential Nominee 2028",
   "Mavericks vs. Celtics",
-  "Knicks vs. Raptors",
+  "Rockets vs. Wizards",
   "Hornets vs. Clippers",
+  "Knicks vs. Raptors",
+  "What price will Bitcoin hit in November?",
+  "What price will Bitcoin hit in 2026?",
   "Pepperdine Waves vs. Oregon Ducks",
   "Israel x Iran ceasefire continues through...?",
   "Jensen Huang rejoins NVIDIA by...?",
-  "What price will Bitcoin hit November 9-15?",
   "Next CEO of NVIDIA?",
-  "UEFA Champions League: 2027 Champion",
+  "What price will Bitcoin hit November 9-15?",
   "Presidential Election Winner 2028",
   "What price will Bitcoin hit on November 15?",
+  "UEFA Champions League: 2027 Champion",
   "Democratic Presidential Nominee 2028",
+  "Steelers vs. Bengals",
   "Fed Decision in December?",
-  "Elon Musk # tweets November 10 - November 17, 2026?",
-  "Pro Football: 2027 Champion",
-  "Rockets vs. Wizards",
-  "Next French Presidential Election"
+  "Next French Presidential Election",
+  "Elon Musk # tweets November 10 - November 17, 2026?"
  ]
 }
