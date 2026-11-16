@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-16T05:31:11.395836+00:00",
+ "ts": "2026-11-16T07:17:26.730098+00:00",
  "pages_fetched": 21,
- "events_total": 2091,
- "sub_markets_total": 43366,
- "single_game_events": 568,
+ "events_total": 2100,
+ "sub_markets_total": 43486,
+ "single_game_events": 581,
  "event_keys": [
   "active",
   "archived",
@@ -173,18 +173,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "10040.57677",
-  "volume": "2279557.449386",
-  "openInterest": "51577.78335900001",
+  "liquidity": "6",
+  "volume": "2280007.4401860004",
+  "openInterest": "49107.99642599999",
   "createdAt": "2026-11-01T05:59:30.949778Z",
-  "updatedAt": "2026-11-16T05:28:06.547095Z",
-  "competitive": "0.8617716171639915",
-  "volume24hr": "2266598.0445680004",
-  "volume1wk": "2277813.018304",
-  "volume1mo": "2277813.0183040006",
-  "volume1yr": "2277813.0183040006",
+  "updatedAt": "2026-11-16T07:12:06.518941Z",
+  "competitive": "0.019998000199980003",
+  "volume24hr": "2265756.769059",
+  "volume1wk": "2278263.0091040004",
+  "volume1mo": "2278263.0091040004",
+  "volume1yr": "2278263.0091040004",
   "enableOrderBook": "True",
-  "liquidityClob": "10040.57677",
+  "liquidityClob": "6",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 490>",
@@ -210,11 +210,11 @@
   "description": "In the upcoming NBA game between Thunder and Kings, originally scheduled for Sunday, November 15, 2026 at 9:00 PM ET (as of creation of the first market related",
   "outcomes": "[\"Thunder\", \"Kings\"]",
   "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "853647.7917810001",
+  "volume": "853647.7917810002",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-01T05:59:31.209927Z",
-  "updatedAt": "2026-11-16T05:22:06.686096Z",
+  "updatedAt": "2026-11-16T07:06:06.49189Z",
   "closedTime": "2026-11-16 04:38:48.135031+00",
   "new": "False",
   "featured": "False",
@@ -229,90 +229,81 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "853647.7917810001",
+  "volumeNum": "853647.7917810002",
   "endDateIso": "2026-11-16",
   "startDateIso": "2026-11-01",
   "hasReviewedDates": "True",
-  "volume24hr": "848242.6551630002",
+  "volume24hr": "846970.622083",
   "volume1wk": "853647.7917810002",
-  "volume1mo": "853647.7917810003",
-  "volume1yr": "853647.7917810003",
+  "volume1mo": "853647.7917810002",
+  "volume1yr": "853647.7917810002",
   "gameStartTime": "2026-11-16 02:00:00+00"
  },
  "multi_option_event": {
-  "title": "Thunder vs. Kings",
-  "slug": "nba-okc-sac-2026-11-15",
-  "n_sub": 23,
+  "title": "Republican Presidential Nominee 2028",
+  "slug": "republican-presidential-nominee-2028",
+  "n_sub": 128,
   "sub_markets": [
    {
-    "question": "Isaiah Hartenstein: Rebounds O/U 10.5",
-    "groupItemTitle": "Isaiah Hartenstein: Rebounds O/U 10.5",
-    "groupItemThreshold": "3",
+    "question": "Will Donald Trump win the 2028 Republican presidential nomination?",
+    "groupItemTitle": "Donald Trump",
+    "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.5\", \"0.5\"]",
+    "outcomePrices": "[\"0.0055\", \"0.9945\"]",
     "closed": "False"
    },
    {
-    "question": "Ajay Mitchell: Rebounds O/U 3.5",
-    "groupItemTitle": "Ajay Mitchell: Rebounds O/U 3.5",
-    "groupItemThreshold": "3",
+    "question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+    "groupItemTitle": "J.D. Vance",
+    "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.002\", \"0.998\"]",
+    "outcomePrices": "[\"0.3715\", \"0.6285\"]",
     "closed": "False"
    },
    {
-    "question": "Isaiah Hartenstein: Rebounds O/U 11.5",
-    "groupItemTitle": "Isaiah Hartenstein: Rebounds O/U 11.5",
-    "groupItemThreshold": "3",
+    "question": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+    "groupItemTitle": "Marco Rubio",
+    "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.5\", \"0.5\"]",
+    "outcomePrices": "[\"0.1655\", \"0.8345\"]",
     "closed": "False"
    },
    {
-    "question": "Jared McCain: Rebounds O/U 1.5",
-    "groupItemTitle": "Jared McCain: Rebounds O/U 1.5",
+    "question": "Will Tulsi Gabbard win the 2028 Republican presidential nomination?",
+    "groupItemTitle": "Tulsi Gabbard",
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0995\", \"0.9005\"]",
+    "outcomePrices": "[\"0.0025\", \"0.9975\"]",
     "closed": "False"
    },
    {
-    "question": "Shai Gilgeous-Alexander: Rebounds O/U 1.5",
-    "groupItemTitle": "Shai Gilgeous-Alexander: Rebounds O/U 1.5",
-    "groupItemThreshold": "3",
+    "question": "Will Glenn Youngkin win the 2028 Republican presidential nomination?",
+    "groupItemTitle": "Glenn Youngkin",
+    "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.9005\", \"0.0995\"]",
+    "outcomePrices": "[\"0.0205\", \"0.9795\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 739,
-  "politics": 305,
-  "culture": 104,
-  "tech": 472,
-  "geopolitics": 197,
-  "crypto": 144,
-  "economy": 75,
-  "(空)": 55
+  "sports": 743,
+  "politics": 299,
+  "culture": 105,
+  "tech": 468,
+  "geopolitics": 202,
+  "crypto": 150,
+  "economy": 80,
+  "(空)": 53
  },
  "tag_samples": [
   {
    "title": "Thunder vs. Kings",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
-   "title": "Hawks vs. Bucks",
    "tags": [
     "Sports",
     "NBA",
@@ -353,6 +344,17 @@
    ]
   },
   {
+   "title": "Presidential Election Winner 2028",
+   "tags": [
+    "President",
+    "United States",
+    "US Election",
+    "Elections",
+    "Politics",
+    "World Elections"
+   ]
+  },
+  {
    "title": "Israel x Iran ceasefire continues through...?",
    "tags": [
     "Iran",
@@ -364,14 +366,13 @@
    ]
   },
   {
-   "title": "Presidential Election Winner 2028",
+   "title": "UEFA Champions League: 2027 Champion",
    "tags": [
-    "President",
-    "United States",
-    "US Election",
-    "Elections",
-    "Politics",
-    "World Elections"
+    "UCL",
+    "Soccer",
+    "Sports",
+    "Champions League",
+    "UCL Matchday"
    ]
   },
   {
@@ -388,29 +389,29 @@
  ],
  "top_titles": [
   "Thunder vs. Kings",
-  "Hawks vs. Bucks",
   "Republican Presidential Nominee 2028",
   "Next CEO of NVIDIA?",
   "Jensen Huang rejoins NVIDIA by...?",
-  "Israel x Iran ceasefire continues through...?",
   "Presidential Election Winner 2028",
-  "What price will Bitcoin hit in November?",
+  "Israel x Iran ceasefire continues through...?",
   "UEFA Champions League: 2027 Champion",
+  "What price will Bitcoin hit in November?",
   "Democratic Presidential Nominee 2028",
   "Pro Football: 2027 Champion",
   "Pepperdine Waves vs. Oregon Ducks",
   "What price will Bitcoin hit in 2026?",
-  "Next Prime Minister of Sweden",
   "Elon Musk # tweets November 10 - November 17, 2026?",
+  "Next Prime Minister of Sweden",
   "Elon Musk # tweets November 14 - November 16, 2026?",
+  "Sydney: Omar Jasika vs Alex Bolt",
   "Fed Decision in December?",
   "Taipei Mayor Election Winner",
-  "Ljubljana Mayoral Election Winner",
   "Next French Presidential Election",
-  "Which Senate Swing States will Republicans win? (Build Your Map)",
   "Anthropic IPO Closing Market Cap",
+  "Ljubljana Mayoral Election Winner",
+  "Bitcoin above ___ on November 16?",
+  "Next leader out of power before 2027?",
   "NBA: 2027 Champion",
-  "Elon Musk # tweets November 13 - November 20, 2026?",
-  "US x Iran Effective Ceasefire begins by...? (2 week pause)"
+  "Elon Musk # tweets November 13 - November 20, 2026?"
  ]
 }
