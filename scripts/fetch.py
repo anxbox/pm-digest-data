@@ -282,6 +282,7 @@ def to_market(e):
         "probability": prob,
         "volume": num(e, "volumeNum", "volume"),
         "volume_24h": num(e, "volume24hr", "volume24Hr", "volume_24hr"),
+        "open_interest": num(e, "openInterest"),
         "end_date": strv(e, "endDate", "endDateIso"),
         "outcomes": outs,
         "n_active": n_active,
@@ -335,6 +336,10 @@ def main():
     vol24 = [m["volume_24h"] for m in markets if m["volume_24h"] is not None]
     n_sub = sum(len(e.get("markets") or []) for e in events)
     n_game = sum(1 for m in markets if m["single_game"])
+    # 未平仓合约：Gamma event 级提供 openInterest，按 B 口径只汇总议题类（剔除单场赛事盘）。
+    # 与各市场 volume/volume_24h 同源同口径，仅做求和，不推算、不补全。
+    oi = [m["open_interest"] for m in markets
+          if not m["single_game"] and m["open_interest"] is not None]
     stats = {
         "date": now.strftime("%Y-%m-%d"),
         "updated": ts,
@@ -342,8 +347,8 @@ def main():
         "markets": n_sub,
         "single_game_events": n_game,
         "volume_24h": sum(vol24) if vol24 else None,
+        "open_interest": sum(oi) if oi else None,
         # 以下字段 Gamma 无对应口径，如实留空，报告端显示「未获取」
-        "open_interest": None,
         "volume_open_events": None,
         "top10_share_24h": None,
         "recurring_events": None,
