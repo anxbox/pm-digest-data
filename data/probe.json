@@ -1,15 +1,16 @@
 {
- "ts": "2026-11-17T05:53:15.765449+00:00",
+ "ts": "2026-11-17T07:01:47.427810+00:00",
  "pages_fetched": 21,
- "events_total": 2060,
- "sub_markets_total": 43899,
- "single_game_events": 542,
+ "events_total": 2100,
+ "sub_markets_total": 44716,
+ "single_game_events": 558,
  "event_keys": [
   "active",
   "archived",
   "automaticallyActive",
   "closed",
   "commentCount",
+  "competitive",
   "createdAt",
   "creationDate",
   "cyom",
@@ -29,6 +30,8 @@
   "icon",
   "id",
   "image",
+  "liquidity",
+  "liquidityClob",
   "live",
   "markets",
   "negRisk",
@@ -170,15 +173,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "volume": "3151952.8603870003",
-  "openInterest": "28578.52201500001",
+  "liquidity": "11.9936",
+  "volume": "3151952.860387",
+  "openInterest": "28555.565371",
   "createdAt": "2026-11-02T06:59:20.536397Z",
-  "updatedAt": "2026-11-17T05:39:09.023074Z",
-  "volume24hr": "3112626.574779001",
-  "volume1wk": "3151838.574672001",
-  "volume1mo": "3151838.574672001",
-  "volume1yr": "3151838.574672001",
+  "updatedAt": "2026-11-17T07:01:05.085488Z",
+  "competitive": "0.5033087892627458",
+  "volume24hr": "3111792.7245129994",
+  "volume1wk": "3151821.5746720005",
+  "volume1mo": "3151821.5746720005",
+  "volume1yr": "3151821.5746720005",
   "enableOrderBook": "True",
+  "liquidityClob": "11.9936",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 483>",
@@ -189,10 +195,7 @@
   "showMarketImages": "False",
   "enableNegRisk": "False",
   "automaticallyActive": "True",
-  "eventDate": "2026-11-16",
-  "startTime": "2026-11-17T00:00:00Z",
-  "eventWeek": "18",
-  "seriesSlug": "nba-2026"
+  "eventDate": "2026-11-16"
  },
  "sample_market": {
   "id": "6567949",
@@ -207,11 +210,11 @@
   "description": "In the upcoming NBA game between Magic and Celtics, originally scheduled for Monday, November 16, 2026 at 7:00 PM ET (as of creation of the first market related",
   "outcomes": "[\"Magic\", \"Celtics\"]",
   "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "2093530.0348240002",
+  "volume": "2093530.034824",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-02T06:59:21.979896Z",
-  "updatedAt": "2026-11-17T05:37:09.127236Z",
+  "updatedAt": "2026-11-17T06:51:08.857229Z",
   "closedTime": "2026-11-17 02:48:18.111628+00",
   "new": "False",
   "featured": "False",
@@ -226,14 +229,14 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "2093530.0348240002",
+  "volumeNum": "2093530.034824",
   "endDateIso": "2026-11-17",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "2063334.256053001",
-  "volume1wk": "2093530.034824001",
-  "volume1mo": "2093530.034824001",
-  "volume1yr": "2093530.034824001",
+  "volume24hr": "2062970.9684659997",
+  "volume1wk": "2093530.0348240004",
+  "volume1mo": "2093530.0348240004",
+  "volume1yr": "2093530.0348240004",
   "gameStartTime": "2026-11-17 00:00:00+00"
  },
  "multi_option_event": {
@@ -256,7 +259,7 @@
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.5\", \"0.5\"]",
+    "outcomePrices": "[\"0.23\", \"0.77\"]",
     "closed": "False"
    },
    {
@@ -265,20 +268,20 @@
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.5\", \"0.5\"]",
+    "outcomePrices": "[\"0.23\", \"0.77\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 622,
-  "tech": 509,
-  "economy": 98,
-  "culture": 102,
-  "politics": 275,
+  "sports": 639,
+  "tech": 510,
+  "economy": 99,
+  "culture": 105,
+  "politics": 280,
   "geopolitics": 230,
-  "crypto": 143,
-  "(空)": 81
+  "crypto": 155,
+  "(空)": 82
  },
  "tag_samples": [
   {
@@ -300,6 +303,15 @@
    ]
   },
   {
+   "title": "Bulls vs. Cavaliers",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
    "title": "Jensen Huang rejoins NVIDIA by...?",
    "tags": [
     "Tech",
@@ -307,15 +319,6 @@
     "Big Tech",
     "Business",
     "Jensen Huang"
-   ]
-  },
-  {
-   "title": "Bulls vs. Cavaliers",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   },
   {
@@ -366,28 +369,28 @@
  "top_titles": [
   "Magic vs. Celtics",
   "Warriors vs. Pelicans",
-  "Jensen Huang rejoins NVIDIA by...?",
   "Bulls vs. Cavaliers",
+  "Jensen Huang rejoins NVIDIA by...?",
   "Fed Decision in December?",
   "Next CEO of NVIDIA?",
   "Democratic Presidential Nominee 2028",
   "Anthropic IPO Closing Market Cap",
   "Presidential Election Winner 2028",
   "Taipei Mayor Election Winner",
-  "Israel x Iran ceasefire continues through...?",
-  "UEFA Champions League: 2027 Champion",
   "Elon Musk # tweets November 10 - November 17, 2026?",
-  "What price will Bitcoin hit in 2026?",
+  "UEFA Champions League: 2027 Champion",
+  "Israel x Iran ceasefire continues through...?",
   "Next French Presidential Election",
-  "Dota 2: potn9ki vs oveA (BO3) - Esports Pro Circuit  Playoffs",
+  "What price will Bitcoin hit in 2026?",
   "US announces end of Iranian blockade by...?",
+  "Dota 2: potn9ki vs oveA (BO3) - Esports Pro Circuit  Playoffs",
   "What price will Bitcoin hit in November?",
-  "Republican Presidential Nominee 2028",
-  "Fed Decision in January?",
+  "Kobe: Kaichi Uchida vs Benjamin Hassan",
   "Counter-Strike: magic vs Heroic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
+  "Republican Presidential Nominee 2028",
   "NBA: 2027 Champion",
+  "Fed Decision in January?",
   "Will China invade Taiwan by end of 2026?",
-  "Next leader out of power before 2027?",
   "Will Anthropic’s valuation hit __ by December 31?"
  ]
 }
