@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-17T16:17:36.086583+00:00",
+ "ts": "2026-11-17T17:24:43.947268+00:00",
  "pages_fetched": 21,
- "events_total": 2088,
- "sub_markets_total": 40905,
- "single_game_events": 681,
+ "events_total": 2096,
+ "sub_markets_total": 40864,
+ "single_game_events": 692,
  "event_keys": [
   "active",
   "archived",
@@ -173,18 +173,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "10.8164",
-  "volume": "3151952.8603870003",
-  "openInterest": "4677.141249000001",
+  "liquidity": "20.8764",
+  "volume": "3151955.034301",
+  "openInterest": "4628.785986000003",
   "createdAt": "2026-11-02T06:59:20.536397Z",
-  "updatedAt": "2026-11-17T16:14:48.35165Z",
+  "updatedAt": "2026-11-17T17:22:50.322158Z",
   "competitive": "0.5033087892627458",
-  "volume24hr": "2810536.500678",
-  "volume1wk": "3151634.5449740007",
-  "volume1mo": "3151634.5449740007",
-  "volume1yr": "3151634.5449740007",
+  "volume24hr": "2765927.1916210004",
+  "volume1wk": "3151628.8241510005",
+  "volume1mo": "3151628.8241510005",
+  "volume1yr": "3151628.8241510005",
   "enableOrderBook": "True",
-  "liquidityClob": "10.8164",
+  "liquidityClob": "20.8764",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 483>",
@@ -210,11 +210,11 @@
   "description": "In the upcoming NBA game between Magic and Celtics, originally scheduled for Monday, November 16, 2026 at 7:00 PM ET (as of creation of the first market related",
   "outcomes": "[\"Magic\", \"Celtics\"]",
   "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "2093530.0348240002",
+  "volume": "2093530.034824",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-02T06:59:21.979896Z",
-  "updatedAt": "2026-11-17T16:06:50.198613Z",
+  "updatedAt": "2026-11-17T17:22:49.273071Z",
   "closedTime": "2026-11-17 02:48:18.111628+00",
   "new": "False",
   "featured": "False",
@@ -229,11 +229,11 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "2093530.0348240002",
+  "volumeNum": "2093530.034824",
   "endDateIso": "2026-11-17",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "1778541.537989",
+  "volume24hr": "1760856.9219800008",
   "volume1wk": "2093530.0348240004",
   "volume1mo": "2093530.0348240004",
   "volume1yr": "2093530.0348240004",
@@ -274,14 +274,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 707,
-  "economy": 88,
-  "tech": 539,
+  "sports": 721,
+  "tech": 537,
+  "economy": 90,
   "culture": 97,
-  "politics": 252,
-  "crypto": 152,
-  "geopolitics": 181,
-  "(空)": 72
+  "politics": 256,
+  "geopolitics": 183,
+  "crypto": 139,
+  "(空)": 73
  },
  "tag_samples": [
   {
@@ -294,21 +294,23 @@
    ]
   },
   {
-   "title": "Dota 2: LGD Gaming vs LEGION (BO3) - 1win Essence Playoffs",
-   "tags": [
-    "Esports",
-    "Dota 2",
-    "Games",
-    "Sports"
-   ]
-  },
-  {
    "title": "Warriors vs. Pelicans",
    "tags": [
     "Sports",
     "NBA",
     "Games",
     "Basketball"
+   ]
+  },
+  {
+   "title": "Jensen Huang rejoins NVIDIA by...?",
+   "tags": [
+    "Tech",
+    "NVIDIA",
+    "Big Tech",
+    "Business",
+    "Jensen Huang",
+    "NVIDIA Earnings"
    ]
   },
   {
@@ -332,16 +334,6 @@
    ]
   },
   {
-   "title": "Jensen Huang rejoins NVIDIA by...?",
-   "tags": [
-    "Tech",
-    "NVIDIA",
-    "Big Tech",
-    "Business",
-    "Jensen Huang"
-   ]
-  },
-  {
    "title": "Anthropic IPO Closing Market Cap",
    "tags": [
     "Finance",
@@ -362,33 +354,44 @@
     "Business",
     "Jensen Huang"
    ]
+  },
+  {
+   "title": "Democratic Presidential Nominee 2028",
+   "tags": [
+    "United States",
+    "Elections",
+    "Politics",
+    "US Election",
+    "World Elections",
+    "Earn 3.25%"
+   ]
   }
  ],
  "top_titles": [
   "Magic vs. Celtics",
-  "Dota 2: LGD Gaming vs LEGION (BO3) - 1win Essence Playoffs",
   "Warriors vs. Pelicans",
+  "Jensen Huang rejoins NVIDIA by...?",
   "Fed Decision in December?",
   "Bulls vs. Cavaliers",
-  "Jensen Huang rejoins NVIDIA by...?",
   "Anthropic IPO Closing Market Cap",
   "Next CEO of NVIDIA?",
   "Democratic Presidential Nominee 2028",
-  "Bitcoin above ___ on November 17?",
   "Elon Musk # tweets November 10 - November 17, 2026?",
   "Presidential Election Winner 2028",
   "Israel x Iran ceasefire continues through...?",
-  "Taipei Mayor Election Winner",
+  "Dota 2: Team Spirit vs Aurora (BO3) - 1win Essence Playoffs",
   "Wales vs. Portugal",
-  "UEFA Champions League: 2027 Champion",
-  "Next French Presidential Election",
+  "Taipei Mayor Election Winner",
   "What price will Bitcoin hit on November 17?",
-  "What price will Bitcoin hit in 2026?",
+  "Next French Presidential Election",
+  "UEFA Champions League: 2027 Champion",
   "Counter-Strike: BBL vs Phantom (BO3) - Tipsport RUSH Brno Group B",
+  "What price will Bitcoin hit in 2026?",
   "Denmark vs. Norway - More Markets",
   "What price will Bitcoin hit in November?",
   "US x Iran Effective Ceasefire begins by...? (2 week pause)",
   "Pistons vs. Spurs",
-  "Predict.fun FDV above ___ one day after launch?"
+  "Counter-Strike: fnatic vs magic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
+  "Alaska Senate Election Winner"
  ]
 }
