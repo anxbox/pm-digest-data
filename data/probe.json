@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-17T22:45:54.981460+00:00",
+ "ts": "2026-11-17T23:42:32.350270+00:00",
  "pages_fetched": 21,
- "events_total": 2098,
- "sub_markets_total": 40491,
- "single_game_events": 643,
+ "events_total": 2096,
+ "sub_markets_total": 40314,
+ "single_game_events": 630,
  "event_keys": [
   "active",
   "archived",
@@ -177,12 +177,12 @@
   "volume": "3151955.034301",
   "openInterest": "1628.7822820000001",
   "createdAt": "2026-11-02T06:59:20.536397Z",
-  "updatedAt": "2026-11-17T22:43:49.797137Z",
+  "updatedAt": "2026-11-17T23:37:48.102729Z",
   "competitive": "0.5033087892627458",
-  "volume24hr": "2349024.522355",
-  "volume1wk": "3147856.2028180007",
-  "volume1mo": "3147856.2028180007",
-  "volume1yr": "3147856.2028180007",
+  "volume24hr": "2315381.5148060005",
+  "volume1wk": "3147164.2507870006",
+  "volume1mo": "3147164.2507870006",
+  "volume1yr": "3147164.2507870006",
   "enableOrderBook": "True",
   "liquidityClob": "20.8764",
   "negRisk": "False",
@@ -210,11 +210,11 @@
   "description": "In the upcoming NBA game between Magic and Celtics, originally scheduled for Monday, November 16, 2026 at 7:00 PM ET (as of creation of the first market related",
   "outcomes": "[\"Magic\", \"Celtics\"]",
   "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "2093530.034824",
+  "volume": "2093530.0348240002",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-02T06:59:21.979896Z",
-  "updatedAt": "2026-11-17T22:37:48.46348Z",
+  "updatedAt": "2026-11-17T23:37:47.326987Z",
   "closedTime": "2026-11-17 02:48:18.111628+00",
   "new": "False",
   "featured": "False",
@@ -229,11 +229,11 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "2093530.034824",
+  "volumeNum": "2093530.0348240002",
   "endDateIso": "2026-11-17",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "1618228.694305",
+  "volume24hr": "1595632.8867210003",
   "volume1wk": "2093530.0348240004",
   "volume1mo": "2093530.0348240004",
   "volume1yr": "2093530.0348240004",
@@ -274,14 +274,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 689,
-  "tech": 525,
-  "economy": 96,
+  "sports": 687,
+  "tech": 518,
+  "economy": 98,
   "culture": 92,
-  "politics": 260,
   "geopolitics": 188,
-  "crypto": 168,
-  "(空)": 80
+  "politics": 267,
+  "crypto": 171,
+  "(空)": 75
  },
  "tag_samples": [
   {
@@ -314,6 +314,15 @@
    ]
   },
   {
+   "title": "Knicks vs. Raptors",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
    "title": "Fed Decision in December?",
    "tags": [
     "Fed",
@@ -336,15 +345,6 @@
    ]
   },
   {
-   "title": "Bulls vs. Cavaliers",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
    "title": "Anthropic IPO Closing Market Cap",
    "tags": [
     "Finance",
@@ -356,7 +356,7 @@
    ]
   },
   {
-   "title": "Knicks vs. Raptors",
+   "title": "Bulls vs. Cavaliers",
    "tags": [
     "Sports",
     "NBA",
@@ -369,27 +369,27 @@
   "Magic vs. Celtics",
   "Warriors vs. Pelicans",
   "Jensen Huang rejoins NVIDIA by...?",
+  "Knicks vs. Raptors",
   "Fed Decision in December?",
   "Next CEO of NVIDIA?",
-  "Bulls vs. Cavaliers",
   "Anthropic IPO Closing Market Cap",
-  "Knicks vs. Raptors",
+  "Bulls vs. Cavaliers",
   "South Shields vs. Harborough Town FC",
-  "Democratic Presidential Nominee 2028",
   "Israel x Iran ceasefire continues through...?",
-  "Presidential Election Winner 2028",
+  "Democratic Presidential Nominee 2028",
   "What price will Bitcoin hit on November 17?",
   "Pistons vs. Spurs",
   "Trail Blazers vs. Timberwolves",
   "Next French Presidential Election",
+  "Presidential Election Winner 2028",
   "US x Iran Effective Ceasefire begins by...? (2 week pause)",
-  "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit in November?",
+  "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit in 2026?",
+  "Eastern Michigan vs. Western Michigan",
   "Taipei Mayor Election Winner",
-  "Counter-Strike: Envy vs Metizport (BO3) - Tipsport RUSH Brno Group B",
+  "Argentina vs. Costa Rica",
   "Alaska Senate Election Winner",
-  "Colina: Despina Papamichail vs Laura Samson",
-  "Predict.fun FDV above ___ one day after launch?"
+  "Kings vs. Bruins"
  ]
 }
