@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-17T03:47:19.886458+00:00",
+ "ts": "2026-11-17T04:51:42.414379+00:00",
  "pages_fetched": 21,
- "events_total": 2090,
- "sub_markets_total": 46612,
- "single_game_events": 570,
+ "events_total": 2100,
+ "sub_markets_total": 45370,
+ "single_game_events": 560,
  "event_keys": [
   "active",
   "archived",
@@ -25,6 +25,7 @@
   "eventMetadata",
   "eventWeek",
   "featured",
+  "finishedTimestamp",
   "gameId",
   "icon",
   "id",
@@ -71,12 +72,13 @@
   "approved",
   "archived",
   "automaticallyActive",
+  "automaticallyResolved",
   "bestAsk",
   "bestBid",
   "clearBookOnStart",
-  "clobRewards",
   "clobTokenIds",
   "closed",
+  "closedTime",
   "comboStatus",
   "competitive",
   "conditionId",
@@ -104,6 +106,7 @@
   "image",
   "lastTradePrice",
   "liquidity",
+  "liquidityAmm",
   "liquidityClob",
   "liquidityNum",
   "makerBaseFee",
@@ -140,6 +143,8 @@
   "takerBaseFee",
   "tradingEligible",
   "umaBond",
+  "umaEndDate",
+  "umaResolutionStatus",
   "umaResolutionStatuses",
   "umaReward",
   "updatedAt",
@@ -174,18 +179,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "2726012.81879",
-  "volume": "4310555.382811001",
-  "openInterest": "3558082.4085849975",
+  "liquidity": "19853.74205",
+  "volume": "5350187.950596999",
+  "openInterest": "4032727.7732470003",
   "createdAt": "2026-10-27T12:00:35.945943Z",
-  "updatedAt": "2026-11-17T03:41:09.269707Z",
-  "competitive": "0.9999750006249843",
-  "volume24hr": "4283626.401808001",
-  "volume1wk": "4323115.210463001",
-  "volume1mo": "4327120.819528001",
-  "volume1yr": "4327120.819528001",
+  "updatedAt": "2026-11-17T04:47:08.309558Z",
+  "competitive": "0.8031967229573703",
+  "volume24hr": "5302076.441733002",
+  "volume1wk": "5349404.562145002",
+  "volume1mo": "5353443.171210002",
+  "volume1yr": "5353443.171210002",
   "enableOrderBook": "True",
-  "liquidityClob": "2726012.81879",
+  "liquidityClob": "19853.74205",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 305>",
@@ -205,18 +210,19 @@
   "slug": "nfl-lac-bal-2026-11-17",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-17T01:15:00Z",
-  "liquidity": "196772.8653",
+  "liquidity": "0",
   "startDate": "2026-10-27T12:00:42Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Chargers and Ravens, scheduled for November 16 at 8:15PM ET:\nThis market will resolve to \"Chargers\" if Chargers win th",
   "outcomes": "[\"Chargers\", \"Ravens\"]",
-  "outcomePrices": "[\"0.815\", \"0.185\"]",
-  "volume": "2477791.7624970004",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "3317286.9680419997",
   "active": "True",
-  "closed": "False",
+  "closed": "True",
   "createdAt": "2026-10-27T12:00:36.230938Z",
-  "updatedAt": "2026-11-17T03:40:57.815405Z",
+  "updatedAt": "2026-11-17T04:40:44.432367Z",
+  "closedTime": "2026-11-17 04:40:31.963778+00",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -225,82 +231,81 @@
   "restricted": "True",
   "groupItemThreshold": "0",
   "questionID": "0x2b47f2da38b613e0f4e60439bce3b34355658e5549e09808a5efa7cd188430dd",
+  "umaEndDate": "2026-11-17 04:40:31.963778+00:00:00",
   "enableOrderBook": "True",
-  "orderPriceMinTickSize": "0.01",
+  "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "2477791.7624970004",
-  "liquidityNum": "196772.8653",
+  "umaResolutionStatus": "resolved",
+  "volumeNum": "3317286.9680419997",
+  "liquidityNum": "0",
   "endDateIso": "2026-11-17",
   "startDateIso": "2026-10-27",
   "hasReviewedDates": "True",
-  "volume24hr": "2497572.229116001",
-  "volume1wk": "2507588.0430170014",
-  "volume1mo": "2511295.6520820013",
-  "volume1yr": "2511295.6520820013",
-  "gameStartTime": "2026-11-17 01:15:00+00",
-  "secondsDelay": "1"
+  "volume24hr": "3325439.1845610016",
+  "volume1wk": "3336797.808977002",
+  "volume1mo": "3340505.418042002"
  },
  "multi_option_event": {
   "title": "Chargers vs. Ravens",
   "slug": "nfl-lac-bal-2026-11-17",
-  "n_sub": 193,
+  "n_sub": 18,
   "sub_markets": [
    {
-    "question": "Chargers vs. Ravens",
-    "groupItemTitle": "None",
-    "groupItemThreshold": "0",
+    "question": "Exact Margin: Chargers by 25+",
+    "groupItemTitle": "Exact Margin: Chargers by 25+",
+    "groupItemThreshold": "3",
     "shortTitle": "None",
-    "outcomes": "[\"Chargers\", \"Ravens\"]",
-    "outcomePrices": "[\"0.815\", \"0.185\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0025\", \"0.9975\"]",
     "closed": "False"
    },
    {
-    "question": "Spread: Chargers (-1.5)",
-    "groupItemTitle": "Spread -1.5",
-    "groupItemThreshold": "1",
+    "question": "Exact Margin: Chargers by 19-24",
+    "groupItemTitle": "Exact Margin: Chargers by 19-24",
+    "groupItemThreshold": "3",
     "shortTitle": "None",
-    "outcomes": "[\"Chargers\", \"Ravens\"]",
-    "outcomePrices": "[\"0.81\", \"0.19\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0025\", \"0.9975\"]",
     "closed": "False"
    },
    {
-    "question": "Spread: Chargers (-2.5)",
-    "groupItemTitle": "Spread -2.5",
-    "groupItemThreshold": "1",
+    "question": "Exact Margin: Chargers by 13-18",
+    "groupItemTitle": "Exact Margin: Chargers by 13-18",
+    "groupItemThreshold": "3",
     "shortTitle": "None",
-    "outcomes": "[\"Chargers\", \"Ravens\"]",
-    "outcomePrices": "[\"0.79\", \"0.21\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0025\", \"0.9975\"]",
     "closed": "False"
    },
    {
-    "question": "Spread: Chargers (-3.5)",
-    "groupItemTitle": "Spread -3.5",
-    "groupItemThreshold": "1",
+    "question": "Exact Margin: Chargers by 7-12",
+    "groupItemTitle": "Exact Margin: Chargers by 7-12",
+    "groupItemThreshold": "3",
     "shortTitle": "None",
-    "outcomes": "[\"Chargers\", \"Ravens\"]",
-    "outcomePrices": "[\"0.595\", \"0.405\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0045\", \"0.9955\"]",
     "closed": "False"
    },
    {
-    "question": "Spread: Chargers (-4.5)",
-    "groupItemTitle": "Spread -4.5",
-    "groupItemThreshold": "1",
+    "question": "Exact Margin: Chargers by 1-6",
+    "groupItemTitle": "Exact Margin: Chargers by 1-6",
+    "groupItemThreshold": "3",
     "shortTitle": "None",
-    "outcomes": "[\"Chargers\", \"Ravens\"]",
-    "outcomePrices": "[\"0.575\", \"0.425\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.9955\", \"0.0045\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 656,
-  "tech": 500,
-  "economy": 94,
-  "politics": 277,
-  "culture": 97,
-  "crypto": 151,
-  "geopolitics": 234,
-  "(空)": 81
+  "sports": 644,
+  "tech": 505,
+  "economy": 96,
+  "culture": 100,
+  "politics": 289,
+  "crypto": 150,
+  "geopolitics": 232,
+  "(空)": 84
  },
  "tag_samples": [
   {
@@ -309,15 +314,6 @@
     "Sports",
     "NFL (All)",
     "Games"
-   ]
-  },
-  {
-   "title": "Rockets vs. Heat",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   },
   {
@@ -330,7 +326,7 @@
    ]
   },
   {
-   "title": "76ers vs. Nets",
+   "title": "Suns vs. Nuggets",
    "tags": [
     "Sports",
     "NBA",
@@ -357,15 +353,6 @@
    ]
   },
   {
-   "title": "Trail Blazers vs. Timberwolves",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
    "title": "Jensen Huang rejoins NVIDIA by...?",
    "tags": [
     "Tech",
@@ -374,22 +361,39 @@
     "Business",
     "Jensen Huang"
    ]
+  },
+  {
+   "title": "Bulls vs. Cavaliers",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
+   "title": "Fed Decision in December?",
+   "tags": [
+    "Fed",
+    "fomc",
+    "Trump",
+    "Economy",
+    "Fed Rates",
+    "Kevin Warsh"
+   ]
   }
  ],
  "top_titles": [
   "Chargers vs. Ravens",
-  "Rockets vs. Heat",
   "Magic vs. Celtics",
-  "76ers vs. Nets",
+  "Suns vs. Nuggets",
   "Warriors vs. Pelicans",
   "Grizzlies vs. Wizards",
-  "Trail Blazers vs. Timberwolves",
   "Jensen Huang rejoins NVIDIA by...?",
   "Bulls vs. Cavaliers",
   "Fed Decision in December?",
-  "Suns vs. Nuggets",
-  "Democratic Presidential Nominee 2028",
   "Next CEO of NVIDIA?",
+  "Democratic Presidential Nominee 2028",
   "Anthropic IPO Closing Market Cap",
   "What price will Bitcoin hit on November 16?",
   "Presidential Election Winner 2028",
@@ -398,9 +402,12 @@
   "UEFA Champions League: 2027 Champion",
   "Canada vs. Guatemala - More Markets",
   "Elon Musk # tweets November 10 - November 17, 2026?",
-  "What price will Bitcoin hit in 2026?",
+  "Canucks vs. Utah",
   "Next French Presidential Election",
-  "Canadiens vs. Rangers",
-  "What price will Bitcoin hit in November?"
+  "What price will Bitcoin hit in 2026?",
+  "What price will Bitcoin hit in November?",
+  "Dota 2: potn9ki vs oveA (BO3) - Esports Pro Circuit  Playoffs",
+  "US announces end of Iranian blockade by...?",
+  "Republican Presidential Nominee 2028"
  ]
 }
