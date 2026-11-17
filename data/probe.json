@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-17T00:22:18.672438+00:00",
+ "ts": "2026-11-17T01:54:23.533176+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 47009,
- "single_game_events": 591,
+ "sub_markets_total": 47050,
+ "single_game_events": 593,
  "event_keys": [
   "active",
   "archived",
@@ -16,9 +16,11 @@
   "cyom",
   "deploying",
   "description",
+  "elapsed",
   "enableNegRisk",
   "enableOrderBook",
   "endDate",
+  "ended",
   "eventDate",
   "eventMetadata",
   "eventWeek",
@@ -29,6 +31,7 @@
   "image",
   "liquidity",
   "liquidityClob",
+  "live",
   "markets",
   "negRisk",
   "negRiskAugmented",
@@ -38,6 +41,7 @@
   "period",
   "resolutionSource",
   "restricted",
+  "score",
   "series",
   "seriesSlug",
   "showAllOutcomes",
@@ -168,21 +172,21 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "7113297.86118",
-  "volume": "2619058.454592",
-  "openInterest": "2467823.3835439994",
+  "liquidity": "3064184.3581",
+  "volume": "3175874.552300001",
+  "openInterest": "2898192.6434320016",
   "createdAt": "2026-11-02T06:59:25.318756Z",
-  "updatedAt": "2026-11-17T00:17:11.252756Z",
-  "competitive": "1",
-  "volume24hr": "2685365.933974",
-  "volume1wk": "2687238.77498",
-  "volume1mo": "2687238.77498",
-  "volume1yr": "2687238.77498",
+  "updatedAt": "2026-11-17T01:49:09.006578Z",
+  "competitive": "0.9999750006249843",
+  "volume24hr": "3247831.4649440013",
+  "volume1wk": "3249945.196320001",
+  "volume1mo": "3249945.196320001",
+  "volume1yr": "3249945.196320001",
   "enableOrderBook": "True",
-  "liquidityClob": "7113297.86118",
+  "liquidityClob": "3064184.3581",
   "negRisk": "False",
   "commentCount": "0",
-  "markets": "<list 483>",
+  "markets": "<list 486>",
   "series": "<list 1>",
   "tags": "<list 4>",
   "cyom": "False",
@@ -199,18 +203,18 @@
   "slug": "nba-hou-mia-2026-11-16",
   "resolutionSource": "https://www.nba.com/",
   "endDate": "2026-11-17T00:30:00Z",
-  "liquidity": "925919.6355",
+  "liquidity": "312552.6767",
   "startDate": "2026-11-02T06:59:32Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "description": "In the upcoming NBA game between Rockets and Heat, originally scheduled for Monday, November 16, 2026 at 7:30 PM ET (as of creation of the first market related ",
   "outcomes": "[\"Rockets\", \"Heat\"]",
-  "outcomePrices": "[\"0.525\", \"0.475\"]",
-  "volume": "1832662.4832630001",
+  "outcomePrices": "[\"0.165\", \"0.835\"]",
+  "volume": "2123730.6430660007",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-02T06:59:25.600251Z",
-  "updatedAt": "2026-11-17T00:16:58.273461Z",
+  "updatedAt": "2026-11-17T01:48:58.033282Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -222,22 +226,22 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.01",
   "orderMinSize": "5",
-  "volumeNum": "1832662.4832630001",
-  "liquidityNum": "925919.6355",
+  "volumeNum": "2123730.6430660007",
+  "liquidityNum": "312552.6767",
   "endDateIso": "2026-11-17",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "1832988.8604100002",
-  "volume1wk": "1834861.7014160003",
-  "volume1mo": "1834861.7014160003",
-  "volume1yr": "1834861.7014160003",
+  "volume24hr": "2163352.313303001",
+  "volume1wk": "2165466.044679001",
+  "volume1mo": "2165466.044679001",
+  "volume1yr": "2165466.044679001",
   "gameStartTime": "2026-11-17 00:30:00+00",
   "secondsDelay": "0"
  },
  "multi_option_event": {
   "title": "Rockets vs. Heat",
   "slug": "nba-hou-mia-2026-11-16",
-  "n_sub": 483,
+  "n_sub": 451,
   "sub_markets": [
    {
     "question": "Rockets vs. Heat",
@@ -245,7 +249,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Rockets\", \"Heat\"]",
-    "outcomePrices": "[\"0.525\", \"0.475\"]",
+    "outcomePrices": "[\"0.165\", \"0.835\"]",
     "closed": "False"
    },
    {
@@ -254,7 +258,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Rockets\", \"Heat\"]",
-    "outcomePrices": "[\"0.455\", \"0.545\"]",
+    "outcomePrices": "[\"0.115\", \"0.885\"]",
     "closed": "False"
    },
    {
@@ -263,7 +267,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.605\", \"0.395\"]",
+    "outcomePrices": "[\"0.455\", \"0.545\"]",
     "closed": "False"
    },
    {
@@ -272,7 +276,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Rockets\", \"Heat\"]",
-    "outcomePrices": "[\"0.425\", \"0.575\"]",
+    "outcomePrices": "[\"0.105\", \"0.895\"]",
     "closed": "False"
    },
    {
@@ -281,20 +285,20 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.655\", \"0.345\"]",
+    "outcomePrices": "[\"0.505\", \"0.495\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 694,
-  "tech": 485,
-  "culture": 94,
+  "sports": 683,
+  "tech": 491,
   "economy": 94,
-  "crypto": 144,
-  "politics": 269,
-  "geopolitics": 235,
-  "(空)": 85
+  "culture": 96,
+  "politics": 277,
+  "crypto": 140,
+  "geopolitics": 236,
+  "(空)": 83
  },
  "tag_samples": [
   {
@@ -307,13 +311,20 @@
    ]
   },
   {
-   "title": "Jensen Huang rejoins NVIDIA by...?",
+   "title": "Chargers vs. Ravens",
    "tags": [
-    "Tech",
-    "NVIDIA",
-    "Big Tech",
-    "Business",
-    "Jensen Huang"
+    "Sports",
+    "NFL (All)",
+    "Games"
+   ]
+  },
+  {
+   "title": "76ers vs. Nets",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
    ]
   },
   {
@@ -335,29 +346,17 @@
    ]
   },
   {
-   "title": "Next CEO of NVIDIA?",
+   "title": "Jensen Huang rejoins NVIDIA by...?",
    "tags": [
-    "NVDA",
+    "Tech",
     "NVIDIA",
-    "Culture",
     "Big Tech",
     "Business",
     "Jensen Huang"
    ]
   },
   {
-   "title": "Fed Decision in December?",
-   "tags": [
-    "Fed",
-    "fomc",
-    "Trump",
-    "Economy",
-    "Fed Rates",
-    "Kevin Warsh"
-   ]
-  },
-  {
-   "title": "76ers vs. Nets",
+   "title": "Warriors vs. Pelicans",
    "tags": [
     "Sports",
     "NBA",
@@ -377,29 +376,29 @@
  ],
  "top_titles": [
   "Rockets vs. Heat",
-  "Jensen Huang rejoins NVIDIA by...?",
+  "Chargers vs. Ravens",
+  "76ers vs. Nets",
   "Magic vs. Celtics",
   "Grizzlies vs. Wizards",
-  "Next CEO of NVIDIA?",
-  "Fed Decision in December?",
-  "76ers vs. Nets",
+  "Jensen Huang rejoins NVIDIA by...?",
+  "Warriors vs. Pelicans",
   "Bulls vs. Cavaliers",
+  "Fed Decision in December?",
+  "Next CEO of NVIDIA?",
+  "Democratic Presidential Nominee 2028",
   "Anthropic IPO Closing Market Cap",
   "What price will Bitcoin hit on November 16?",
+  "Trail Blazers vs. Timberwolves",
   "Presidential Election Winner 2028",
-  "Democratic Presidential Nominee 2028",
-  "Chargers vs. Ravens",
-  "Warriors vs. Pelicans",
-  "Israel x Iran ceasefire continues through...?",
   "Taipei Mayor Election Winner",
+  "Israel x Iran ceasefire continues through...?",
   "UEFA Champions League: 2027 Champion",
+  "Sydney: Matthew Dellavedova vs Jason Kubler",
   "Next French Presidential Election",
   "Elon Musk # tweets November 10 - November 17, 2026?",
   "What price will Bitcoin hit in 2026?",
-  "Dota 2: potn9ki vs oveA (BO3) - Esports Pro Circuit  Playoffs",
   "What price will Bitcoin hit in November?",
-  "Fed Decision in January?",
-  "US announces end of Iranian blockade by...?",
-  "Trail Blazers vs. Timberwolves"
+  "Dota 2: potn9ki vs oveA (BO3) - Esports Pro Circuit  Playoffs",
+  "US announces end of Iranian blockade by...?"
  ]
 }
