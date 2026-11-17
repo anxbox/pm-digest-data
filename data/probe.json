@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-17T10:40:23.847201+00:00",
+ "ts": "2026-11-17T11:44:28.295509+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 44256,
- "single_game_events": 623,
+ "sub_markets_total": 43810,
+ "single_game_events": 635,
  "event_keys": [
   "active",
   "archived",
@@ -174,15 +174,15 @@
   "featured": "False",
   "restricted": "True",
   "liquidity": "11.9936",
-  "volume": "3151952.860387",
-  "openInterest": "4818.117561000003",
+  "volume": "3151952.8603870003",
+  "openInterest": "4748.222824000001",
   "createdAt": "2026-11-02T06:59:20.536397Z",
-  "updatedAt": "2026-11-17T10:36:50.856923Z",
+  "updatedAt": "2026-11-17T11:38:47.037931Z",
   "competitive": "0.5033087892627458",
-  "volume24hr": "3104907.3930710005",
-  "volume1wk": "3151803.7246720004",
-  "volume1mo": "3151803.7246720004",
-  "volume1yr": "3151803.7246720004",
+  "volume24hr": "3008145.479442999",
+  "volume1wk": "3151798.7246720004",
+  "volume1mo": "3151798.7246720004",
+  "volume1yr": "3151798.7246720004",
   "enableOrderBook": "True",
   "liquidityClob": "11.9936",
   "negRisk": "False",
@@ -214,7 +214,7 @@
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-02T06:59:21.979896Z",
-  "updatedAt": "2026-11-17T10:36:50.031847Z",
+  "updatedAt": "2026-11-17T11:36:46.625246Z",
   "closedTime": "2026-11-17 02:48:18.111628+00",
   "new": "False",
   "featured": "False",
@@ -233,7 +233,7 @@
   "endDateIso": "2026-11-17",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "2008941.2441970005",
+  "volume24hr": "1963234.5540179992",
   "volume1wk": "2093530.0348240004",
   "volume1mo": "2093530.0348240004",
   "volume1yr": "2093530.0348240004",
@@ -274,14 +274,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 687,
-  "tech": 504,
-  "economy": 95,
-  "politics": 272,
-  "culture": 103,
-  "geopolitics": 222,
-  "crypto": 142,
-  "(空)": 75
+  "sports": 697,
+  "tech": 500,
+  "economy": 93,
+  "politics": 267,
+  "culture": 100,
+  "geopolitics": 217,
+  "crypto": 152,
+  "(空)": 74
  },
  "tag_samples": [
   {
@@ -355,14 +355,14 @@
    ]
   },
   {
-   "title": "Presidential Election Winner 2028",
+   "title": "Anthropic IPO Closing Market Cap",
    "tags": [
-    "President",
-    "United States",
-    "US Election",
-    "Elections",
-    "Politics",
-    "World Elections"
+    "Finance",
+    "Big Tech",
+    "Anthropic",
+    "IPO",
+    "Claude",
+    "IPOs"
    ]
   }
  ],
@@ -374,23 +374,23 @@
   "Fed Decision in December?",
   "Democratic Presidential Nominee 2028",
   "Next CEO of NVIDIA?",
-  "Presidential Election Winner 2028",
   "Anthropic IPO Closing Market Cap",
+  "Presidential Election Winner 2028",
+  "Metz: Vitaliy Sachko vs Soon-Woo Kwon",
   "Elon Musk # tweets November 10 - November 17, 2026?",
   "Taipei Mayor Election Winner",
-  "Israel x Iran ceasefire continues through...?",
+  "Dota 2: PARIVISION vs Froglings (BO3) - 1win Essence Playoffs",
   "UEFA Champions League: 2027 Champion",
+  "Israel x Iran ceasefire continues through...?",
   "Next French Presidential Election",
-  "What price will Bitcoin hit in 2026?",
   "W15 Sharm ElSheikh: Julia Khramtsova vs Gloria De Santis",
+  "What price will Bitcoin hit in 2026?",
   "Counter-Strike: magic vs Heroic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
   "What price will Bitcoin hit in November?",
   "Dota 2: potn9ki vs oveA (BO3) - Esports Pro Circuit  Playoffs",
-  "Fed Decision in January?",
   "Bitcoin above ___ on November 17?",
-  "Counter-Strike: BBL vs Phantom (BO3) - Tipsport RUSH Brno Group B",
-  "Will China invade Taiwan by end of 2026?",
-  "Will the US confirm that aliens exist by...?",
-  "Republican Presidential Nominee 2028"
+  "Metz: Arthur Nagel vs Dusan Lajovic",
+  "Fed Decision in January?",
+  "Counter-Strike: Inner Circle Esports vs Betclic Apogee Esports (BO3) - Stake Ranked Episode 6 Playoffs"
  ]
 }
