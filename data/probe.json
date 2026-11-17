@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-17T18:28:37.486125+00:00",
+ "ts": "2026-11-17T19:41:10.255752+00:00",
  "pages_fetched": 21,
- "events_total": 2069,
- "sub_markets_total": 39992,
- "single_game_events": 660,
+ "events_total": 2054,
+ "sub_markets_total": 39534,
+ "single_game_events": 678,
  "event_keys": [
   "active",
   "archived",
@@ -175,14 +175,14 @@
   "restricted": "True",
   "liquidity": "20.8764",
   "volume": "3151955.034301",
-  "openInterest": "1628.7859859999999",
+  "openInterest": "1628.7859860000003",
   "createdAt": "2026-11-02T06:59:20.536397Z",
-  "updatedAt": "2026-11-17T18:22:50.075923Z",
+  "updatedAt": "2026-11-17T19:37:49.67157Z",
   "competitive": "0.5033087892627458",
-  "volume24hr": "2571058.8801260004",
-  "volume1wk": "3151480.6235140003",
-  "volume1mo": "3151480.6235140003",
-  "volume1yr": "3151480.6235140003",
+  "volume24hr": "2512497.9576100004",
+  "volume1wk": "3151454.3410650003",
+  "volume1mo": "3151454.3410650003",
+  "volume1yr": "3151454.3410650003",
   "enableOrderBook": "True",
   "liquidityClob": "20.8764",
   "negRisk": "False",
@@ -210,11 +210,11 @@
   "description": "In the upcoming NBA game between Magic and Celtics, originally scheduled for Monday, November 16, 2026 at 7:00 PM ET (as of creation of the first market related",
   "outcomes": "[\"Magic\", \"Celtics\"]",
   "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "2093530.034824",
+  "volume": "2093530.0348240002",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-02T06:59:21.979896Z",
-  "updatedAt": "2026-11-17T18:22:49.23966Z",
+  "updatedAt": "2026-11-17T19:37:48.622703Z",
   "closedTime": "2026-11-17 02:48:18.111628+00",
   "new": "False",
   "featured": "False",
@@ -229,11 +229,11 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "2093530.034824",
+  "volumeNum": "2093530.0348240002",
   "endDateIso": "2026-11-17",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "1668746.3258780004",
+  "volume24hr": "1664742.950714",
   "volume1wk": "2093530.0348240004",
   "volume1mo": "2093530.0348240004",
   "volume1yr": "2093530.0348240004",
@@ -274,14 +274,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 685,
-  "tech": 537,
-  "economy": 91,
-  "culture": 96,
-  "politics": 259,
-  "geopolitics": 183,
-  "crypto": 146,
-  "(空)": 72
+  "sports": 698,
+  "tech": 526,
+  "economy": 92,
+  "culture": 95,
+  "politics": 247,
+  "geopolitics": 177,
+  "crypto": 151,
+  "(空)": 68
  },
  "tag_samples": [
   {
@@ -334,15 +334,6 @@
    ]
   },
   {
-   "title": "Dota 2: Team Spirit vs Aurora (BO3) - 1win Essence Playoffs",
-   "tags": [
-    "Esports",
-    "Dota 2",
-    "Games",
-    "Sports"
-   ]
-  },
-  {
    "title": "Anthropic IPO Closing Market Cap",
    "tags": [
     "Finance",
@@ -363,6 +354,17 @@
     "Business",
     "Jensen Huang"
    ]
+  },
+  {
+   "title": "Democratic Presidential Nominee 2028",
+   "tags": [
+    "United States",
+    "Elections",
+    "Politics",
+    "US Election",
+    "World Elections",
+    "Earn 3.25%"
+   ]
   }
  ],
  "top_titles": [
@@ -371,25 +373,25 @@
   "Jensen Huang rejoins NVIDIA by...?",
   "Fed Decision in December?",
   "Bulls vs. Cavaliers",
-  "Dota 2: Team Spirit vs Aurora (BO3) - 1win Essence Playoffs",
   "Anthropic IPO Closing Market Cap",
   "Next CEO of NVIDIA?",
   "Democratic Presidential Nominee 2028",
-  "Elon Musk # tweets November 10 - November 17, 2026?",
   "Knicks vs. Raptors",
   "Israel x Iran ceasefire continues through...?",
   "Presidential Election Winner 2028",
   "Wales vs. Portugal",
-  "Taipei Mayor Election Winner",
-  "What price will Bitcoin hit on November 17?",
+  "South Shields vs. Harborough Town FC",
   "Counter-Strike: BBL vs Phantom (BO3) - Tipsport RUSH Brno Group B",
-  "Next French Presidential Election",
-  "UEFA Champions League: 2027 Champion",
   "Denmark vs. Norway - More Markets",
-  "Saudi Arabia vs. Uzbekistan",
+  "What price will Bitcoin hit on November 17?",
+  "Next French Presidential Election",
+  "Counter-Strike: GamerLegion vs Luminosity (BO3) - Stake Ranked Episode 6 Playoffs",
+  "UEFA Champions League: 2027 Champion",
+  "Trail Blazers vs. Timberwolves",
   "What price will Bitcoin hit in 2026?",
-  "What price will Bitcoin hit in November?",
   "US x Iran Effective Ceasefire begins by...? (2 week pause)",
-  "Pistons vs. Spurs"
+  "What price will Bitcoin hit in November?",
+  "Dota 2: Froglings vs PlayTime (BO3) - DreamLeague Division 2 Playoffs",
+  "Taipei Mayor Election Winner"
  ]
 }
