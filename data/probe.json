@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-17T14:09:15.080397+00:00",
+ "ts": "2026-11-17T15:12:32.113622+00:00",
  "pages_fetched": 21,
- "events_total": 2090,
- "sub_markets_total": 42472,
- "single_game_events": 641,
+ "events_total": 2088,
+ "sub_markets_total": 41697,
+ "single_game_events": 669,
  "event_keys": [
   "active",
   "archived",
@@ -177,12 +177,12 @@
   "volume": "3151952.860387",
   "openInterest": "4682.141249000001",
   "createdAt": "2026-11-02T06:59:20.536397Z",
-  "updatedAt": "2026-11-17T14:06:48.495216Z",
+  "updatedAt": "2026-11-17T15:06:50.652027Z",
   "competitive": "0.5033087892627458",
-  "volume24hr": "2943781.116114",
-  "volume1wk": "3151751.6745780003",
-  "volume1mo": "3151751.6745780003",
-  "volume1yr": "3151751.6745780003",
+  "volume24hr": "2841468.6160570006",
+  "volume1wk": "3151723.8745780005",
+  "volume1mo": "3151723.8745780005",
+  "volume1yr": "3151723.8745780005",
   "enableOrderBook": "True",
   "liquidityClob": "11.9936",
   "negRisk": "False",
@@ -210,11 +210,11 @@
   "description": "In the upcoming NBA game between Magic and Celtics, originally scheduled for Monday, November 16, 2026 at 7:00 PM ET (as of creation of the first market related",
   "outcomes": "[\"Magic\", \"Celtics\"]",
   "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "2093530.034824",
+  "volume": "2093530.0348239997",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-02T06:59:21.979896Z",
-  "updatedAt": "2026-11-17T14:06:47.643905Z",
+  "updatedAt": "2026-11-17T15:06:49.841492Z",
   "closedTime": "2026-11-17 02:48:18.111628+00",
   "new": "False",
   "featured": "False",
@@ -229,11 +229,11 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "2093530.034824",
+  "volumeNum": "2093530.0348239997",
   "endDateIso": "2026-11-17",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "1900711.0337659998",
+  "volume24hr": "1801434.6782079993",
   "volume1wk": "2093530.0348240004",
   "volume1mo": "2093530.0348240004",
   "volume1yr": "2093530.0348240004",
@@ -274,14 +274,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 683,
-  "tech": 523,
-  "economy": 89,
-  "politics": 275,
-  "culture": 102,
-  "geopolitics": 196,
-  "crypto": 150,
-  "(空)": 72
+  "sports": 699,
+  "tech": 526,
+  "economy": 87,
+  "politics": 267,
+  "culture": 99,
+  "geopolitics": 188,
+  "crypto": 155,
+  "(空)": 67
  },
  "tag_samples": [
   {
@@ -333,25 +333,20 @@
    ]
   },
   {
-   "title": "Democratic Presidential Nominee 2028",
+   "title": "Dota 2: LGD Gaming vs LEGION (BO3) - 1win Essence Playoffs",
    "tags": [
-    "United States",
-    "Elections",
-    "Politics",
-    "US Election",
-    "World Elections",
-    "Earn 3.25%"
+    "Esports",
+    "Dota 2",
+    "Games",
+    "Sports"
    ]
   },
   {
-   "title": "Next CEO of NVIDIA?",
+   "title": "ATP World Tour Finals, John McEnroe Group: Arthur Fils vs Rafael Jodar",
    "tags": [
-    "NVDA",
-    "NVIDIA",
-    "Culture",
-    "Big Tech",
-    "Business",
-    "Jensen Huang"
+    "Tennis",
+    "Sports",
+    "Games"
    ]
   },
   {
@@ -372,25 +367,25 @@
   "Bulls vs. Cavaliers",
   "Jensen Huang rejoins NVIDIA by...?",
   "Fed Decision in December?",
+  "Dota 2: LGD Gaming vs LEGION (BO3) - 1win Essence Playoffs",
+  "ATP World Tour Finals, John McEnroe Group: Arthur Fils vs Rafael Jodar",
+  "Anthropic IPO Closing Market Cap",
   "Democratic Presidential Nominee 2028",
   "Next CEO of NVIDIA?",
-  "Anthropic IPO Closing Market Cap",
+  "Counter-Strike: fnatic vs 100 Thieves (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
   "Presidential Election Winner 2028",
-  "Counter-Strike: magic vs Heroic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
   "Elon Musk # tweets November 10 - November 17, 2026?",
   "Israel x Iran ceasefire continues through...?",
   "Taipei Mayor Election Winner",
-  "Dota 2: LGD Gaming vs LEGION (BO3) - 1win Essence Playoffs",
-  "Counter-Strike: fnatic vs 100 Thieves (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
   "UEFA Champions League: 2027 Champion",
-  "Next French Presidential Election",
-  "ATP World Tour Finals, John McEnroe Group: Arthur Fils vs Rafael Jodar",
   "Bitcoin above ___ on November 17?",
+  "Next French Presidential Election",
+  "Wales vs. Portugal",
   "China PR vs. Bahrain",
-  "What price will Bitcoin hit in 2026?",
   "What price will Bitcoin hit on November 17?",
+  "Counter-Strike: BIG vs Sangal (BO3) - Stake Ranked Episode 6 Playoffs",
+  "What price will Bitcoin hit in 2026?",
   "Counter-Strike: BBL vs Phantom (BO3) - Tipsport RUSH Brno Group B",
-  "What price will Bitcoin hit in November?",
-  "Pistons vs. Spurs"
+  "What price will Bitcoin hit in November?"
  ]
 }
