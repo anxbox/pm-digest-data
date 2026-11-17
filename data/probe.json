@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-17T09:38:48.934146+00:00",
+ "ts": "2026-11-17T10:40:23.847201+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 44533,
- "single_game_events": 597,
+ "sub_markets_total": 44256,
+ "single_game_events": 623,
  "event_keys": [
   "active",
   "archived",
@@ -175,11 +175,11 @@
   "restricted": "True",
   "liquidity": "11.9936",
   "volume": "3151952.860387",
-  "openInterest": "4876.299380000003",
+  "openInterest": "4818.117561000003",
   "createdAt": "2026-11-02T06:59:20.536397Z",
-  "updatedAt": "2026-11-17T09:33:34.795572Z",
+  "updatedAt": "2026-11-17T10:36:50.856923Z",
   "competitive": "0.5033087892627458",
-  "volume24hr": "3106259.8303049994",
+  "volume24hr": "3104907.3930710005",
   "volume1wk": "3151803.7246720004",
   "volume1mo": "3151803.7246720004",
   "volume1yr": "3151803.7246720004",
@@ -210,11 +210,11 @@
   "description": "In the upcoming NBA game between Magic and Celtics, originally scheduled for Monday, November 16, 2026 at 7:00 PM ET (as of creation of the first market related",
   "outcomes": "[\"Magic\", \"Celtics\"]",
   "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "2093530.034824",
+  "volume": "2093530.0348240002",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-02T06:59:21.979896Z",
-  "updatedAt": "2026-11-17T09:21:12.788454Z",
+  "updatedAt": "2026-11-17T10:36:50.031847Z",
   "closedTime": "2026-11-17 02:48:18.111628+00",
   "new": "False",
   "featured": "False",
@@ -229,11 +229,11 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "2093530.034824",
+  "volumeNum": "2093530.0348240002",
   "endDateIso": "2026-11-17",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "2060431.3267589994",
+  "volume24hr": "2008941.2441970005",
   "volume1wk": "2093530.0348240004",
   "volume1mo": "2093530.0348240004",
   "volume1yr": "2093530.0348240004",
@@ -274,14 +274,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 679,
-  "tech": 502,
-  "economy": 94,
-  "politics": 273,
-  "culture": 106,
-  "geopolitics": 225,
-  "crypto": 145,
-  "(空)": 76
+  "sports": 687,
+  "tech": 504,
+  "economy": 95,
+  "politics": 272,
+  "culture": 103,
+  "geopolitics": 222,
+  "crypto": 142,
+  "(空)": 75
  },
  "tag_samples": [
   {
@@ -355,14 +355,14 @@
    ]
   },
   {
-   "title": "Anthropic IPO Closing Market Cap",
+   "title": "Presidential Election Winner 2028",
    "tags": [
-    "Finance",
-    "Big Tech",
-    "Anthropic",
-    "IPO",
-    "Claude",
-    "IPOs"
+    "President",
+    "United States",
+    "US Election",
+    "Elections",
+    "Politics",
+    "World Elections"
    ]
   }
  ],
@@ -374,23 +374,23 @@
   "Fed Decision in December?",
   "Democratic Presidential Nominee 2028",
   "Next CEO of NVIDIA?",
-  "Anthropic IPO Closing Market Cap",
   "Presidential Election Winner 2028",
+  "Anthropic IPO Closing Market Cap",
   "Elon Musk # tweets November 10 - November 17, 2026?",
   "Taipei Mayor Election Winner",
   "Israel x Iran ceasefire continues through...?",
   "UEFA Champions League: 2027 Champion",
   "Next French Presidential Election",
   "What price will Bitcoin hit in 2026?",
-  "What price will Bitcoin hit in November?",
+  "W15 Sharm ElSheikh: Julia Khramtsova vs Gloria De Santis",
   "Counter-Strike: magic vs Heroic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
+  "What price will Bitcoin hit in November?",
   "Dota 2: potn9ki vs oveA (BO3) - Esports Pro Circuit  Playoffs",
   "Fed Decision in January?",
   "Bitcoin above ___ on November 17?",
-  "Republican Presidential Nominee 2028",
-  "NBA: 2027 Champion",
   "Counter-Strike: BBL vs Phantom (BO3) - Tipsport RUSH Brno Group B",
   "Will China invade Taiwan by end of 2026?",
-  "Will Anthropic’s valuation hit __ by December 31?"
+  "Will the US confirm that aliens exist by...?",
+  "Republican Presidential Nominee 2028"
  ]
 }
