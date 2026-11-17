@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-17T20:46:57.769226+00:00",
+ "ts": "2026-11-17T21:44:48.658104+00:00",
  "pages_fetched": 21,
- "events_total": 2096,
- "sub_markets_total": 39256,
- "single_game_events": 669,
+ "events_total": 2097,
+ "sub_markets_total": 40110,
+ "single_game_events": 665,
  "event_keys": [
   "active",
   "archived",
@@ -175,14 +175,14 @@
   "restricted": "True",
   "liquidity": "20.8764",
   "volume": "3151955.034301",
-  "openInterest": "1628.7822820000006",
+  "openInterest": "1628.7822820000004",
   "createdAt": "2026-11-02T06:59:20.536397Z",
-  "updatedAt": "2026-11-17T20:43:50.349259Z",
+  "updatedAt": "2026-11-17T21:41:51.643062Z",
   "competitive": "0.5033087892627458",
-  "volume24hr": "2455649.6765420004",
-  "volume1wk": "3151410.3209390007",
-  "volume1mo": "3151410.3209390007",
-  "volume1yr": "3151410.3209390007",
+  "volume24hr": "2409953.7300500004",
+  "volume1wk": "3151351.3178160004",
+  "volume1mo": "3151351.3178160004",
+  "volume1yr": "3151351.3178160004",
   "enableOrderBook": "True",
   "liquidityClob": "20.8764",
   "negRisk": "False",
@@ -214,7 +214,7 @@
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-02T06:59:21.979896Z",
-  "updatedAt": "2026-11-17T20:37:50.1845Z",
+  "updatedAt": "2026-11-17T21:37:49.061311Z",
   "closedTime": "2026-11-17 02:48:18.111628+00",
   "new": "False",
   "featured": "False",
@@ -233,7 +233,7 @@
   "endDateIso": "2026-11-17",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "1627658.6520680003",
+  "volume24hr": "1625005.3884180002",
   "volume1wk": "2093530.0348240004",
   "volume1mo": "2093530.0348240004",
   "volume1yr": "2093530.0348240004",
@@ -274,14 +274,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 699,
-  "tech": 539,
-  "economy": 92,
-  "culture": 98,
-  "politics": 255,
-  "geopolitics": 179,
-  "crypto": 161,
-  "(空)": 73
+  "sports": 707,
+  "tech": 513,
+  "economy": 97,
+  "culture": 100,
+  "geopolitics": 186,
+  "politics": 254,
+  "crypto": 164,
+  "(空)": 76
  },
  "tag_samples": [
   {
@@ -314,6 +314,15 @@
    ]
   },
   {
+   "title": "Wales vs. Portugal",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "UEFA Nations League"
+   ]
+  },
+  {
    "title": "Fed Decision in December?",
    "tags": [
     "Fed",
@@ -322,6 +331,15 @@
     "Economy",
     "Fed Rates",
     "Kevin Warsh"
+   ]
+  },
+  {
+   "title": "Bulls vs. Cavaliers",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
    ]
   },
   {
@@ -336,15 +354,6 @@
    ]
   },
   {
-   "title": "Bulls vs. Cavaliers",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
    "title": "Next CEO of NVIDIA?",
    "tags": [
     "NVDA",
@@ -354,42 +363,33 @@
     "Business",
     "Jensen Huang"
    ]
-  },
-  {
-   "title": "Wales vs. Portugal",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "UEFA Nations League"
-   ]
   }
  ],
  "top_titles": [
   "Magic vs. Celtics",
   "Warriors vs. Pelicans",
   "Jensen Huang rejoins NVIDIA by...?",
-  "Fed Decision in December?",
-  "Anthropic IPO Closing Market Cap",
-  "Bulls vs. Cavaliers",
-  "Next CEO of NVIDIA?",
   "Wales vs. Portugal",
-  "South Shields vs. Harborough Town FC",
-  "Knicks vs. Raptors",
-  "Democratic Presidential Nominee 2028",
+  "Fed Decision in December?",
+  "Bulls vs. Cavaliers",
+  "Anthropic IPO Closing Market Cap",
+  "Next CEO of NVIDIA?",
   "Denmark vs. Norway - More Markets",
-  "Counter-Strike: GamerLegion vs Luminosity (BO3) - Stake Ranked Episode 6 Playoffs",
   "Denmark vs. Norway",
+  "Knicks vs. Raptors",
+  "South Shields vs. Harborough Town FC",
+  "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Ben Shelton",
   "Israel x Iran ceasefire continues through...?",
-  "Dota 2: LGD Gaming vs PARIVISION (BO3) - 1win Essence Playoffs",
+  "Democratic Presidential Nominee 2028",
   "Presidential Election Winner 2028",
-  "What price will Bitcoin hit on November 17?",
-  "US x Iran Effective Ceasefire begins by...? (2 week pause)",
-  "Next French Presidential Election",
   "Poland vs. Sweden",
   "Wales vs. Portugal - More Markets",
-  "Trail Blazers vs. Timberwolves",
+  "What price will Bitcoin hit on November 17?",
   "Hungary vs. Northern Ireland",
-  "UEFA Champions League: 2027 Champion"
+  "Next French Presidential Election",
+  "US x Iran Effective Ceasefire begins by...? (2 week pause)",
+  "Trail Blazers vs. Timberwolves",
+  "Israel vs. Austria",
+  "Pistons vs. Spurs"
  ]
 }
