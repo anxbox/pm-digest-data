@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-17T08:31:45.336616+00:00",
+ "ts": "2026-11-17T09:38:48.934146+00:00",
  "pages_fetched": 21,
- "events_total": 2097,
- "sub_markets_total": 44651,
- "single_game_events": 576,
+ "events_total": 2100,
+ "sub_markets_total": 44533,
+ "single_game_events": 597,
  "event_keys": [
   "active",
   "archived",
@@ -175,11 +175,11 @@
   "restricted": "True",
   "liquidity": "11.9936",
   "volume": "3151952.860387",
-  "openInterest": "7312.2090510000035",
+  "openInterest": "4876.299380000003",
   "createdAt": "2026-11-02T06:59:20.536397Z",
-  "updatedAt": "2026-11-17T08:29:11.375841Z",
+  "updatedAt": "2026-11-17T09:33:34.795572Z",
   "competitive": "0.5033087892627458",
-  "volume24hr": "3107686.077005999",
+  "volume24hr": "3106259.8303049994",
   "volume1wk": "3151803.7246720004",
   "volume1mo": "3151803.7246720004",
   "volume1yr": "3151803.7246720004",
@@ -214,7 +214,7 @@
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-02T06:59:21.979896Z",
-  "updatedAt": "2026-11-17T08:21:11.840997Z",
+  "updatedAt": "2026-11-17T09:21:12.788454Z",
   "closedTime": "2026-11-17 02:48:18.111628+00",
   "new": "False",
   "featured": "False",
@@ -233,7 +233,7 @@
   "endDateIso": "2026-11-17",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "2061243.265007999",
+  "volume24hr": "2060431.3267589994",
   "volume1wk": "2093530.0348240004",
   "volume1mo": "2093530.0348240004",
   "volume1yr": "2093530.0348240004",
@@ -274,14 +274,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 665,
-  "tech": 504,
-  "economy": 93,
-  "politics": 275,
-  "culture": 104,
-  "geopolitics": 226,
-  "crypto": 152,
-  "(空)": 78
+  "sports": 679,
+  "tech": 502,
+  "economy": 94,
+  "politics": 273,
+  "culture": 106,
+  "geopolitics": 225,
+  "crypto": 145,
+  "(空)": 76
  },
  "tag_samples": [
   {
@@ -383,14 +383,14 @@
   "Next French Presidential Election",
   "What price will Bitcoin hit in 2026?",
   "What price will Bitcoin hit in November?",
+  "Counter-Strike: magic vs Heroic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
   "Dota 2: potn9ki vs oveA (BO3) - Esports Pro Circuit  Playoffs",
   "Fed Decision in January?",
-  "Counter-Strike: magic vs Heroic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
+  "Bitcoin above ___ on November 17?",
   "Republican Presidential Nominee 2028",
   "NBA: 2027 Champion",
-  "Bitcoin above ___ on November 17?",
+  "Counter-Strike: BBL vs Phantom (BO3) - Tipsport RUSH Brno Group B",
   "Will China invade Taiwan by end of 2026?",
-  "Will Anthropic’s valuation hit __ by December 31?",
-  "Counter-Strike: BBL vs Phantom (BO3) - Tipsport RUSH Brno Group B"
+  "Will Anthropic’s valuation hit __ by December 31?"
  ]
 }
