@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-18T20:46:19.149305+00:00",
+ "ts": "2026-11-18T21:44:54.698639+00:00",
  "pages_fetched": 21,
- "events_total": 2098,
- "sub_markets_total": 46223,
- "single_game_events": 684,
+ "events_total": 2100,
+ "sub_markets_total": 47220,
+ "single_game_events": 681,
  "event_keys": [
   "active",
   "archived",
@@ -169,18 +169,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "679115.93538",
-  "volume": "4392645.837191",
-  "openInterest": "1257198.0324079997",
+  "liquidity": "876387.00127",
+  "volume": "4430298.367191",
+  "openInterest": "1252104.557838",
   "createdAt": "2026-11-18T15:09:12.409129Z",
-  "updatedAt": "2026-11-18T20:45:14.424348Z",
+  "updatedAt": "2026-11-18T21:39:15.18762Z",
   "competitive": "0.8003199679231757",
-  "volume24hr": "4413361.137191001",
-  "volume1wk": "4413361.137191001",
-  "volume1mo": "4413361.137191001",
-  "volume1yr": "4413361.137191001",
+  "volume24hr": "4430873.047191001",
+  "volume1wk": "4430873.047191001",
+  "volume1mo": "4430873.047191001",
+  "volume1yr": "4430873.047191001",
   "enableOrderBook": "True",
-  "liquidityClob": "679115.93538",
+  "liquidityClob": "876387.00127",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 11>",
@@ -210,7 +210,7 @@
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-18T15:09:12.671271Z",
-  "updatedAt": "2026-11-18T20:37:15.480601Z",
+  "updatedAt": "2026-11-18T21:37:16.433252Z",
   "closedTime": "2026-11-18 17:44:12.836666+00",
   "new": "False",
   "featured": "False",
@@ -229,10 +229,10 @@
   "endDateIso": "2026-11-18",
   "startDateIso": "2026-11-18",
   "hasReviewedDates": "True",
-  "volume24hr": "1090047.6648860006",
-  "volume1wk": "1090047.6648860006",
-  "volume1mo": "1090047.6648860006",
-  "volume1yr": "1090047.6648860006",
+  "volume24hr": "1090047.664886",
+  "volume1wk": "1090047.664886",
+  "volume1mo": "1090047.664886",
+  "volume1yr": "1090047.664886",
   "gameStartTime": "2026-11-18 16:00:00+00"
  },
  "multi_option_event": {
@@ -288,14 +288,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 714,
-  "politics": 297,
+  "sports": 721,
+  "politics": 306,
   "economy": 92,
-  "tech": 511,
-  "geopolitics": 167,
+  "tech": 496,
+  "geopolitics": 168,
   "culture": 98,
-  "crypto": 147,
-  "(空)": 72
+  "crypto": 151,
+  "(空)": 68
  },
  "tag_samples": [
   {
@@ -330,17 +330,6 @@
    ]
   },
   {
-   "title": "Republican Presidential Nominee 2028",
-   "tags": [
-    "United States",
-    "Politics",
-    "US Election",
-    "Elections",
-    "World Elections",
-    "Global Elections"
-   ]
-  },
-  {
    "title": "Anthropic IPO Closing Market Cap",
    "tags": [
     "Finance",
@@ -349,6 +338,17 @@
     "IPO",
     "Claude",
     "IPOs"
+   ]
+  },
+  {
+   "title": "Republican Presidential Nominee 2028",
+   "tags": [
+    "United States",
+    "Politics",
+    "US Election",
+    "Elections",
+    "World Elections",
+    "Global Elections"
    ]
   },
   {
@@ -363,6 +363,14 @@
    ]
   },
   {
+   "title": "ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe",
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ]
+  },
+  {
    "title": "Pistons vs. Pelicans",
    "tags": [
     "Sports",
@@ -370,44 +378,33 @@
     "Games",
     "Basketball"
    ]
-  },
-  {
-   "title": "Jensen Huang rejoins NVIDIA by...?",
-   "tags": [
-    "Tech",
-    "NVIDIA",
-    "Big Tech",
-    "Business",
-    "Jensen Huang",
-    "NVIDIA Earnings"
-   ]
   }
  ],
  "top_titles": [
   "Dota 2: Team Spirit vs PARIVISION (BO5) - 1win Essence Playoffs",
   "Democratic Presidential Nominee 2028",
   "Fed Decision in December?",
-  "Republican Presidential Nominee 2028",
   "Anthropic IPO Closing Market Cap",
+  "Republican Presidential Nominee 2028",
   "Next French Presidential Election",
-  "Pistons vs. Pelicans",
-  "Jensen Huang rejoins NVIDIA by...?",
-  "Israel x Iran ceasefire continues through...?",
-  "Next CEO of NVIDIA?",
   "ATP World Tour Finals, Ivan Lendl Group: Flavio Cobolli vs Frances Tiafoe",
-  "Counter-Strike: NIP vs Luminosity (BO3) - Stake Ranked Episode 6 Playoffs",
+  "Pistons vs. Pelicans",
+  "Israel x Iran ceasefire continues through...?",
+  "Jensen Huang rejoins NVIDIA by...?",
+  "Next CEO of NVIDIA?",
   "Wizards vs. Raptors",
   "What price will Bitcoin hit in 2026?",
+  "Jazz vs. Lakers",
   "Real Madrid CF Femenino vs. FC Internazionale Milano - More Markets",
   "What price will Bitcoin hit on November 18?",
   "Elon Musk # tweets November 13 - November 20, 2026?",
   "UEFA Champions League: 2027 Champion",
   "Dota 2: CyberHero vs Inner Circle (BO3) - DreamLeague Division 2 Playoffs",
+  "Counter-Strike: BBL vs Envy (BO3) - RUSH Brno Group B",
   "What price will Bitcoin hit in November?",
   "Real Madrid CF Femenino vs. FC Internazionale Milano",
-  "Variational FDV above ___ one day after launch?",
   "76ers vs. Magic",
   "BK Häcken FF vs. Manchester City WFC - More Markets",
-  "NBA: 2027 Champion"
+  "Bucks vs. Heat"
  ]
 }
