@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-18T11:59:03.303052+00:00",
+ "ts": "2026-11-18T13:07:26.523809+00:00",
  "pages_fetched": 21,
- "events_total": 2097,
- "sub_markets_total": 39809,
- "single_game_events": 633,
+ "events_total": 2099,
+ "sub_markets_total": 40350,
+ "single_game_events": 640,
  "event_keys": [
   "active",
   "archived",
@@ -173,19 +173,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "63951329.48697",
-  "volume": "1326867057.3284419",
-  "openInterest": "10103682.584280998",
+  "liquidity": "64165781.12095",
+  "volume": "1326871255.938823",
+  "openInterest": "9850491.384282002",
   "sortBy": "price",
   "createdAt": "2025-07-03T20:36:57.824243Z",
-  "updatedAt": "2026-11-18T11:55:49.579593Z",
+  "updatedAt": "2026-11-18T13:05:48.82909Z",
   "competitive": "0.946605531726076",
-  "volume24hr": "3753620.870184",
-  "volume1wk": "9048683.807387",
-  "volume1mo": "29275119.428174",
-  "volume1yr": "799066418.656973",
+  "volume24hr": "3755447.761827",
+  "volume1wk": "8185504.187713",
+  "volume1mo": "27528666.994135",
+  "volume1yr": "797281198.104689",
   "enableOrderBook": "True",
-  "liquidityClob": "63951329.48697",
+  "liquidityClob": "64165781.12095",
   "negRisk": "True",
   "negRiskMarketID": "0x2c3d7e0eee6f058be3006baabf0d54a07da254ba47fe6e3e095e7990c7814700",
   "commentCount": "887",
@@ -204,18 +204,18 @@
   "slug": "will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568",
   "resolutionSource": "",
   "endDate": "2028-11-08T04:59:00Z",
-  "liquidity": "444496.10606",
+  "liquidity": "470663.4601",
   "startDate": "2025-07-11T18:35:56.805Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-gavin-newsom-win-the-2028-us-presidential-election-x9lPL7_gXn--.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-gavin-newsom-win-the-2028-us-presidential-election-x9lPL7_gXn--.png",
   "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this marke",
   "outcomes": "[\"Yes\", \"No\"]",
-  "outcomePrices": "[\"0.101\", \"0.899\"]",
-  "volume": "28766704.83982901",
+  "outcomePrices": "[\"0.1005\", \"0.8995\"]",
+  "volume": "28767667.799829002",
   "active": "True",
   "closed": "False",
   "createdAt": "2025-07-03T20:36:58.88434Z",
-  "updatedAt": "2026-11-18T11:57:35.75635Z",
+  "updatedAt": "2026-11-18T13:05:35.720185Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
@@ -228,15 +228,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "28766704.83982901",
-  "liquidityNum": "444496.10606",
+  "volumeNum": "28767667.799829002",
+  "liquidityNum": "470663.4601",
   "endDateIso": "2028-11-08",
   "startDateIso": "2025-07-11",
   "hasReviewedDates": "True",
-  "volume24hr": "4474.18532",
-  "volume1wk": "75803.886688",
-  "volume1mo": "777450.481717",
-  "volume1yr": "25108800.216893006",
+  "volume24hr": "4628.436582",
+  "volume1wk": "76766.846688",
+  "volume1mo": "778413.4417169999",
+  "volume1yr": "25109544.590740997",
   "clobTokenIds": "[\"54533043819946592547517511176940999955633860128497669742211153063842200957669\", \"87854174148074652060467921081181402357467303721471806610111179101805869578687"
  },
  "multi_option_event": {
@@ -250,7 +250,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.101\", \"0.899\"]",
+    "outcomePrices": "[\"0.1005\", \"0.8995\"]",
     "closed": "False"
    },
    {
@@ -292,14 +292,14 @@
   ]
  },
  "category_distribution": {
-  "politics": 291,
-  "tech": 534,
-  "economy": 89,
+  "politics": 302,
+  "economy": 91,
+  "tech": 531,
   "culture": 90,
   "sports": 675,
-  "geopolitics": 182,
+  "geopolitics": 175,
   "crypto": 163,
-  "(空)": 73
+  "(空)": 72
  },
  "tag_samples": [
   {
@@ -311,6 +311,17 @@
     "US Election",
     "World Elections",
     "Earn 3.25%"
+   ]
+  },
+  {
+   "title": "Fed Decision in December?",
+   "tags": [
+    "Fed",
+    "fomc",
+    "Trump",
+    "Economy",
+    "Fed Rates",
+    "Kevin Warsh"
    ]
   },
   {
@@ -336,14 +347,14 @@
    ]
   },
   {
-   "title": "Fed Decision in December?",
+   "title": "Next French Presidential Election",
    "tags": [
-    "Fed",
-    "fomc",
-    "Trump",
-    "Economy",
-    "Fed Rates",
-    "Kevin Warsh"
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
+    "Politics",
+    "Global Elections"
    ]
   },
   {
@@ -369,17 +380,6 @@
    ]
   },
   {
-   "title": "Next French Presidential Election",
-   "tags": [
-    "French Election",
-    "Main Election",
-    "France",
-    "World",
-    "Politics",
-    "Global Elections"
-   ]
-  },
-  {
    "title": "South Shields vs. Harborough Town FC",
    "tags": [
     "Sports",
@@ -391,29 +391,29 @@
  ],
  "top_titles": [
   "Democratic Presidential Nominee 2028",
+  "Fed Decision in December?",
   "Republican Presidential Nominee 2028",
   "Jensen Huang rejoins NVIDIA by...?",
-  "Fed Decision in December?",
+  "Next French Presidential Election",
   "Next CEO of NVIDIA?",
   "Anthropic IPO Closing Market Cap",
-  "Next French Presidential Election",
   "South Shields vs. Harborough Town FC",
   "Israel x Iran ceasefire continues through...?",
-  "Counter-Strike: Nexus vs Iberian Soul (BO3) - RUSH Brno Group A",
+  "Dota 2: Aurora vs PARIVISION (BO3) - 1win Essence Playoffs",
   "US x Iran Effective Ceasefire begins by...? (2 week pause)",
   "Elon Musk # tweets November 13 - November 20, 2026?",
   "What price will Bitcoin hit in November?",
   "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit in 2026?",
   "Elon Musk # tweets November 16 - November 18, 2026?",
-  "Taipei Mayor Election Winner",
-  "NBA: 2027 Champion",
-  "Presidential Election Winner 2028",
-  "Bitcoin above ___ on November 18?",
-  "England Tour of Australia ODIs: Australia vs England",
   "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Daniil Medvedev",
-  "Counter-Strike: Balkan Outlaws vs WRAITH PCIFIC (BO3) - European Pro League Playoffs",
-  "What price will Bitcoin hit November 16-22?",
-  "Counter-Strike: UNiTY esports vs GamerLegion (BO3) - Stake Ranked Episode 6 Playoffs"
+  "Taipei Mayor Election Winner",
+  "Counter-Strike: Betclic Apogee Esports vs BIG (BO3) - Stake Ranked Episode 6 Playoffs",
+  "Presidential Election Winner 2028",
+  "NBA: 2027 Champion",
+  "Bitcoin above ___ on November 18?",
+  "Helsinki: Lorenzo Giustino vs Svyatoslav Gulin",
+  "England Tour of Australia ODIs: Australia vs England",
+  "Dota 2: angry birds vs Spirit Academy (BO3) - European Pro League Group A"
  ]
 }
