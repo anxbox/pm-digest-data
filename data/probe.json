@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-18T13:07:26.523809+00:00",
+ "ts": "2026-11-18T14:26:32.914772+00:00",
  "pages_fetched": 21,
- "events_total": 2099,
- "sub_markets_total": 40350,
- "single_game_events": 640,
+ "events_total": 2095,
+ "sub_markets_total": 41652,
+ "single_game_events": 648,
  "event_keys": [
   "active",
   "archived",
@@ -109,7 +109,6 @@
   "negRiskRequestID",
   "new",
   "oneDayPriceChange",
-  "oneHourPriceChange",
   "oneMonthPriceChange",
   "oneWeekPriceChange",
   "oneYearPriceChange",
@@ -173,19 +172,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "64165781.12095",
-  "volume": "1326871255.938823",
-  "openInterest": "9850491.384282002",
+  "liquidity": "64198351.8947",
+  "volume": "1326872910.018823",
+  "openInterest": "9772127.864281999",
   "sortBy": "price",
   "createdAt": "2025-07-03T20:36:57.824243Z",
-  "updatedAt": "2026-11-18T13:05:48.82909Z",
+  "updatedAt": "2026-11-18T14:23:51.181306Z",
   "competitive": "0.946605531726076",
-  "volume24hr": "3755447.761827",
-  "volume1wk": "8185504.187713",
-  "volume1mo": "27528666.994135",
-  "volume1yr": "797281198.104689",
+  "volume24hr": "3594028.448975",
+  "volume1wk": "8097103.591736",
+  "volume1mo": "27528309.683744",
+  "volume1yr": "797209550.137025",
   "enableOrderBook": "True",
-  "liquidityClob": "64165781.12095",
+  "liquidityClob": "64198351.8947",
   "negRisk": "True",
   "negRiskMarketID": "0x2c3d7e0eee6f058be3006baabf0d54a07da254ba47fe6e3e095e7990c7814700",
   "commentCount": "887",
@@ -204,18 +203,18 @@
   "slug": "will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568",
   "resolutionSource": "",
   "endDate": "2028-11-08T04:59:00Z",
-  "liquidity": "470663.4601",
+  "liquidity": "471099.2127",
   "startDate": "2025-07-11T18:35:56.805Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-gavin-newsom-win-the-2028-us-presidential-election-x9lPL7_gXn--.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-gavin-newsom-win-the-2028-us-presidential-election-x9lPL7_gXn--.png",
   "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this marke",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.1005\", \"0.8995\"]",
-  "volume": "28767667.799829002",
+  "volume": "28767667.799829006",
   "active": "True",
   "closed": "False",
   "createdAt": "2025-07-03T20:36:58.88434Z",
-  "updatedAt": "2026-11-18T13:05:35.720185Z",
+  "updatedAt": "2026-11-18T14:25:37.035879Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
@@ -228,15 +227,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "28767667.799829002",
-  "liquidityNum": "470663.4601",
+  "volumeNum": "28767667.799829006",
+  "liquidityNum": "471099.2127",
   "endDateIso": "2028-11-08",
   "startDateIso": "2025-07-11",
   "hasReviewedDates": "True",
-  "volume24hr": "4628.436582",
-  "volume1wk": "76766.846688",
-  "volume1mo": "778413.4417169999",
-  "volume1yr": "25109544.590740997",
+  "volume24hr": "4589.076582000001",
+  "volume1wk": "76327.728506",
+  "volume1mo": "778048.4417169999",
+  "volume1yr": "25108341.145023003",
   "clobTokenIds": "[\"54533043819946592547517511176940999955633860128497669742211153063842200957669\", \"87854174148074652060467921081181402357467303721471806610111179101805869578687"
  },
  "multi_option_event": {
@@ -293,13 +292,13 @@
  },
  "category_distribution": {
   "politics": 302,
-  "economy": 91,
-  "tech": 531,
-  "culture": 90,
-  "sports": 675,
-  "geopolitics": 175,
-  "crypto": 163,
-  "(空)": 72
+  "sports": 679,
+  "economy": 89,
+  "tech": 528,
+  "culture": 92,
+  "geopolitics": 168,
+  "crypto": 168,
+  "(空)": 69
  },
  "tag_samples": [
   {
@@ -311,6 +310,15 @@
     "US Election",
     "World Elections",
     "Earn 3.25%"
+   ]
+  },
+  {
+   "title": "Dota 2: Aurora vs PARIVISION (BO3) - 1win Essence Playoffs",
+   "tags": [
+    "Esports",
+    "Dota 2",
+    "Games",
+    "Sports"
    ]
   },
   {
@@ -378,19 +386,11 @@
     "Claude",
     "IPOs"
    ]
-  },
-  {
-   "title": "South Shields vs. Harborough Town FC",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "National League North"
-   ]
   }
  ],
  "top_titles": [
   "Democratic Presidential Nominee 2028",
+  "Dota 2: Aurora vs PARIVISION (BO3) - 1win Essence Playoffs",
   "Fed Decision in December?",
   "Republican Presidential Nominee 2028",
   "Jensen Huang rejoins NVIDIA by...?",
@@ -398,22 +398,21 @@
   "Next CEO of NVIDIA?",
   "Anthropic IPO Closing Market Cap",
   "South Shields vs. Harborough Town FC",
+  "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Daniil Medvedev",
   "Israel x Iran ceasefire continues through...?",
-  "Dota 2: Aurora vs PARIVISION (BO3) - 1win Essence Playoffs",
-  "US x Iran Effective Ceasefire begins by...? (2 week pause)",
   "Elon Musk # tweets November 13 - November 20, 2026?",
-  "What price will Bitcoin hit in November?",
   "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit in 2026?",
+  "What price will Bitcoin hit in November?",
+  "Counter-Strike: UNiTY esports vs GamerLegion (BO3) - Stake Ranked Episode 6 Playoffs",
+  "US x Iran Effective Ceasefire begins by...? (2 week pause)",
   "Elon Musk # tweets November 16 - November 18, 2026?",
-  "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Daniil Medvedev",
-  "Taipei Mayor Election Winner",
-  "Counter-Strike: Betclic Apogee Esports vs BIG (BO3) - Stake Ranked Episode 6 Playoffs",
+  "Bitcoin above ___ on November 18?",
   "Presidential Election Winner 2028",
   "NBA: 2027 Champion",
-  "Bitcoin above ___ on November 18?",
-  "Helsinki: Lorenzo Giustino vs Svyatoslav Gulin",
-  "England Tour of Australia ODIs: Australia vs England",
-  "Dota 2: angry birds vs Spirit Academy (BO3) - European Pro League Group A"
+  "Counter-Strike: Phantom vs Metizport (BO3) - RUSH Brno Group B",
+  "Taipei Mayor Election Winner",
+  "Dota 2: angry birds vs Spirit Academy (BO3) - European Pro League Group A",
+  "Dota 2: Team Lynx vs Xipto Esports (BO3) - Asgard Championship Playoffs"
  ]
 }
