@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-18T08:58:12.201119+00:00",
+ "ts": "2026-11-18T09:58:16.014348+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 39281,
- "single_game_events": 578,
+ "sub_markets_total": 39424,
+ "single_game_events": 603,
  "event_keys": [
   "active",
   "archived",
@@ -171,19 +171,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "64165294.62269",
-  "volume": "1325922488.010357",
-  "openInterest": "10454242.701138996",
+  "liquidity": "63542773.3464",
+  "volume": "1326472262.080486",
+  "openInterest": "10425269.728354996",
   "sortBy": "price",
   "createdAt": "2025-07-03T20:36:57.824243Z",
-  "updatedAt": "2026-11-18T08:57:48.813104Z",
-  "competitive": "0.9461791982976344",
-  "volume24hr": "2831683.597029",
-  "volume1wk": "7569493.883169",
-  "volume1mo": "28132031.456823",
-  "volume1yr": "825839600.1783069",
+  "updatedAt": "2026-11-18T09:57:49.720765Z",
+  "competitive": "0.946605531726076",
+  "volume24hr": "3374463.896051",
+  "volume1wk": "8747649.0659",
+  "volume1mo": "29693131.323976003",
+  "volume1yr": "847731640.4895489",
   "enableOrderBook": "True",
-  "liquidityClob": "64165294.62269",
+  "liquidityClob": "63542773.3464",
   "negRisk": "True",
   "negRiskMarketID": "0x2c3d7e0eee6f058be3006baabf0d54a07da254ba47fe6e3e095e7990c7814700",
   "commentCount": "887",
@@ -202,18 +202,18 @@
   "slug": "will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568",
   "resolutionSource": "",
   "endDate": "2028-11-08T04:59:00Z",
-  "liquidity": "462535.62997",
+  "liquidity": "445522.52986",
   "startDate": "2025-07-11T18:35:56.805Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-gavin-newsom-win-the-2028-us-presidential-election-x9lPL7_gXn--.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-gavin-newsom-win-the-2028-us-presidential-election-x9lPL7_gXn--.png",
   "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this marke",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.1015\", \"0.8985\"]",
-  "volume": "28766664.839828998",
+  "volume": "28766664.83982901",
   "active": "True",
   "closed": "False",
   "createdAt": "2025-07-03T20:36:58.88434Z",
-  "updatedAt": "2026-11-18T08:57:36.36482Z",
+  "updatedAt": "2026-11-18T09:57:35.920749Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
@@ -226,15 +226,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "28766664.839828998",
-  "liquidityNum": "462535.62997",
+  "volumeNum": "28766664.83982901",
+  "liquidityNum": "445522.52986",
   "endDateIso": "2028-11-08",
   "startDateIso": "2025-07-11",
   "hasReviewedDates": "True",
-  "volume24hr": "4620.80532",
+  "volume24hr": "4615.75532",
   "volume1wk": "75968.106688",
-  "volume1mo": "777417.141717",
-  "volume1yr": "25132896.675966997",
+  "volume1mo": "777410.481717",
+  "volume1yr": "25110863.093322005",
   "clobTokenIds": "[\"54533043819946592547517511176940999955633860128497669742211153063842200957669\", \"87854174148074652060467921081181402357467303721471806610111179101805869578687"
  },
  "multi_option_event": {
@@ -290,14 +290,14 @@
   ]
  },
  "category_distribution": {
-  "politics": 294,
-  "tech": 520,
+  "politics": 290,
+  "tech": 518,
   "economy": 96,
-  "culture": 90,
-  "sports": 656,
-  "geopolitics": 188,
-  "crypto": 178,
-  "(空)": 78
+  "culture": 92,
+  "sports": 671,
+  "geopolitics": 187,
+  "crypto": 169,
+  "(空)": 77
  },
  "tag_samples": [
   {
@@ -309,6 +309,17 @@
     "US Election",
     "World Elections",
     "Earn 3.25%"
+   ]
+  },
+  {
+   "title": "Republican Presidential Nominee 2028",
+   "tags": [
+    "United States",
+    "Politics",
+    "US Election",
+    "Elections",
+    "World Elections",
+    "Global Elections"
    ]
   },
   {
@@ -356,17 +367,6 @@
    ]
   },
   {
-   "title": "Republican Presidential Nominee 2028",
-   "tags": [
-    "United States",
-    "Politics",
-    "US Election",
-    "Elections",
-    "World Elections",
-    "Global Elections"
-   ]
-  },
-  {
    "title": "South Shields vs. Harborough Town FC",
    "tags": [
     "Sports",
@@ -376,42 +376,42 @@
    ]
   },
   {
-   "title": "Israel x Iran ceasefire continues through...?",
+   "title": "Next French Presidential Election",
    "tags": [
-    "Iran",
-    "Israel",
-    "Geopolitics",
-    "Israel x Iran",
-    "Israel Election",
-    "Iran Ceasefire"
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
+    "Politics",
+    "Global Elections"
    ]
   }
  ],
  "top_titles": [
   "Democratic Presidential Nominee 2028",
+  "Republican Presidential Nominee 2028",
   "Jensen Huang rejoins NVIDIA by...?",
   "Fed Decision in December?",
   "Next CEO of NVIDIA?",
   "Anthropic IPO Closing Market Cap",
-  "Republican Presidential Nominee 2028",
   "South Shields vs. Harborough Town FC",
-  "Israel x Iran ceasefire continues through...?",
   "Next French Presidential Election",
+  "Israel x Iran ceasefire continues through...?",
   "US x Iran Effective Ceasefire begins by...? (2 week pause)",
   "What price will Bitcoin hit in November?",
   "UEFA Champions League: 2027 Champion",
-  "What price will Bitcoin hit in 2026?",
-  "Presidential Election Winner 2028",
-  "Taipei Mayor Election Winner",
   "Elon Musk # tweets November 13 - November 20, 2026?",
+  "What price will Bitcoin hit in 2026?",
+  "Taipei Mayor Election Winner",
   "NBA: 2027 Champion",
   "Elon Musk # tweets November 16 - November 18, 2026?",
-  "Bitcoin above ___ on November 18?",
+  "Presidential Election Winner 2028",
   "England Tour of Australia ODIs: Australia vs England",
-  "New Zealand Breakers vs. South East Melbourne Phoenix",
-  "Counter-Strike: Inner Circle Esports vs Sangal (BO3) - Stake Ranked Episode 6 Playoffs",
+  "Bitcoin above ___ on November 18?",
+  "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Daniil Medvedev",
   "What price will Bitcoin hit November 16-22?",
-  "South Shields vs. Harborough Town FC - More Markets",
-  "US announces end of Iranian blockade by...?"
+  "Counter-Strike: Nexus vs Iberian Soul (BO3) - RUSH Brno Group A",
+  "New Zealand Breakers vs. South East Melbourne Phoenix",
+  "South Shields vs. Harborough Town FC - More Markets"
  ]
 }
