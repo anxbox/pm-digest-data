@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-18T15:33:11.025379+00:00",
+ "ts": "2026-11-18T16:41:08.180036+00:00",
  "pages_fetched": 21,
- "events_total": 2092,
- "sub_markets_total": 42303,
- "single_game_events": 665,
+ "events_total": 2064,
+ "sub_markets_total": 43128,
+ "single_game_events": 654,
  "event_keys": [
   "active",
   "archived",
@@ -172,19 +172,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "63663086.1891",
-  "volume": "1326877293.281105",
-  "openInterest": "9731764.874281002",
+  "liquidity": "64000906.28273",
+  "volume": "1326918475.606917",
+  "openInterest": "9656595.286888",
   "sortBy": "price",
   "createdAt": "2025-07-03T20:36:57.824243Z",
-  "updatedAt": "2026-11-18T15:29:15.026014Z",
+  "updatedAt": "2026-11-18T16:39:14.098156Z",
   "competitive": "0.946605531726076",
-  "volume24hr": "3589629.124361",
-  "volume1wk": "8096239.610989",
-  "volume1mo": "27531656.717135",
-  "volume1yr": "797196229.959217",
+  "volume24hr": "3587563.346662",
+  "volume1wk": "8131885.610156",
+  "volume1mo": "27569116.713187",
+  "volume1yr": "786672541.133698",
   "enableOrderBook": "True",
-  "liquidityClob": "63663086.1891",
+  "liquidityClob": "64000906.28273",
   "negRisk": "True",
   "negRiskMarketID": "0x2c3d7e0eee6f058be3006baabf0d54a07da254ba47fe6e3e095e7990c7814700",
   "commentCount": "887",
@@ -203,18 +203,18 @@
   "slug": "will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568",
   "resolutionSource": "",
   "endDate": "2028-11-08T04:59:00Z",
-  "liquidity": "473116.43027",
+  "liquidity": "482880.94342",
   "startDate": "2025-07-11T18:35:56.805Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-gavin-newsom-win-the-2028-us-presidential-election-x9lPL7_gXn--.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-gavin-newsom-win-the-2028-us-presidential-election-x9lPL7_gXn--.png",
   "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this marke",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.1005\", \"0.8995\"]",
-  "volume": "28769967.799829",
+  "volume": "28771387.029829",
   "active": "True",
   "closed": "False",
   "createdAt": "2025-07-03T20:36:58.88434Z",
-  "updatedAt": "2026-11-18T15:29:00.681926Z",
+  "updatedAt": "2026-11-18T16:39:00.660078Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
@@ -227,15 +227,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "28769967.799829",
-  "liquidityNum": "473116.43027",
+  "volumeNum": "28771387.029829",
+  "liquidityNum": "482880.94342",
   "endDateIso": "2028-11-08",
   "startDateIso": "2025-07-11",
   "hasReviewedDates": "True",
-  "volume24hr": "6466.106582",
-  "volume1wk": "78016.538506",
-  "volume1mo": "780683.7342969999",
-  "volume1yr": "25110470.717888",
+  "volume24hr": "7485.366582000001",
+  "volume1wk": "78722.861233",
+  "volume1mo": "781702.994297",
+  "volume1yr": "25111263.767362993",
   "clobTokenIds": "[\"54533043819946592547517511176940999955633860128497669742211153063842200957669\", \"87854174148074652060467921081181402357467303721471806610111179101805869578687"
  },
  "multi_option_event": {
@@ -258,7 +258,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.1445\", \"0.8555\"]",
+    "outcomePrices": "[\"0.1435\", \"0.8565\"]",
     "closed": "False"
    },
    {
@@ -291,14 +291,14 @@
   ]
  },
  "category_distribution": {
-  "politics": 297,
+  "politics": 287,
+  "economy": 83,
+  "tech": 508,
   "sports": 693,
-  "economy": 86,
-  "tech": 528,
-  "culture": 89,
-  "geopolitics": 164,
-  "crypto": 159,
-  "(空)": 76
+  "culture": 93,
+  "geopolitics": 162,
+  "crypto": 165,
+  "(空)": 73
  },
  "tag_samples": [
   {
@@ -313,12 +313,14 @@
    ]
   },
   {
-   "title": "Dota 2: Aurora vs PARIVISION (BO3) - 1win Essence Playoffs",
+   "title": "Republican Presidential Nominee 2028",
    "tags": [
-    "Esports",
-    "Dota 2",
-    "Games",
-    "Sports"
+    "United States",
+    "Politics",
+    "US Election",
+    "Elections",
+    "World Elections",
+    "Global Elections"
    ]
   },
   {
@@ -333,13 +335,13 @@
    ]
   },
   {
-   "title": "Republican Presidential Nominee 2028",
+   "title": "Next French Presidential Election",
    "tags": [
-    "United States",
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
     "Politics",
-    "US Election",
-    "Elections",
-    "World Elections",
     "Global Elections"
    ]
   },
@@ -355,14 +357,23 @@
    ]
   },
   {
-   "title": "Next French Presidential Election",
+   "title": "Anthropic IPO Closing Market Cap",
    "tags": [
-    "French Election",
-    "Main Election",
-    "France",
-    "World",
-    "Politics",
-    "Global Elections"
+    "Finance",
+    "Big Tech",
+    "Anthropic",
+    "IPO",
+    "Claude",
+    "IPOs"
+   ]
+  },
+  {
+   "title": "Counter-Strike: UNiTY esports vs GamerLegion (BO3) - Stake Ranked Episode 6 Playoffs",
+   "tags": [
+    "Esports",
+    "counter strike 2",
+    "Games",
+    "Sports"
    ]
   },
   {
@@ -375,44 +386,33 @@
     "Business",
     "Jensen Huang"
    ]
-  },
-  {
-   "title": "Anthropic IPO Closing Market Cap",
-   "tags": [
-    "Finance",
-    "Big Tech",
-    "Anthropic",
-    "IPO",
-    "Claude",
-    "IPOs"
-   ]
   }
  ],
  "top_titles": [
   "Democratic Presidential Nominee 2028",
-  "Dota 2: Aurora vs PARIVISION (BO3) - 1win Essence Playoffs",
-  "Fed Decision in December?",
   "Republican Presidential Nominee 2028",
-  "Jensen Huang rejoins NVIDIA by...?",
+  "Fed Decision in December?",
   "Next French Presidential Election",
-  "Next CEO of NVIDIA?",
+  "Jensen Huang rejoins NVIDIA by...?",
   "Anthropic IPO Closing Market Cap",
+  "Counter-Strike: UNiTY esports vs GamerLegion (BO3) - Stake Ranked Episode 6 Playoffs",
+  "Next CEO of NVIDIA?",
   "South Shields vs. Harborough Town FC",
   "Israel x Iran ceasefire continues through...?",
-  "Counter-Strike: UNiTY esports vs GamerLegion (BO3) - Stake Ranked Episode 6 Playoffs",
+  "Dota 2: Team Spirit vs PARIVISION (BO5) - 1win Essence Playoffs",
   "What price will Bitcoin hit in 2026?",
   "Elon Musk # tweets November 13 - November 20, 2026?",
   "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit in November?",
-  "US x Iran Effective Ceasefire begins by...? (2 week pause)",
   "Bitcoin above ___ on November 18?",
+  "What price will Bitcoin hit on November 18?",
   "Elon Musk # tweets November 16 - November 18, 2026?",
-  "Counter-Strike: Phantom vs Metizport (BO3) - RUSH Brno Group B",
+  "US x Iran Effective Ceasefire begins by...? (2 week pause)",
   "Presidential Election Winner 2028",
   "NBA: 2027 Champion",
   "Taipei Mayor Election Winner",
-  "Helsinki: Laslo Djere vs Jacob Fearnley",
   "Variational FDV above ___ one day after launch?",
-  "What price will Bitcoin hit on November 18?"
+  "Counter-Strike: Inner Circle Esports vs Sangal (BO3) - Stake Ranked Episode 6 Playoffs",
+  "76ers vs. Magic"
  ]
 }
