@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-18T05:23:40.286103+00:00",
+ "ts": "2026-11-18T06:38:48.261847+00:00",
  "pages_fetched": 21,
- "events_total": 2091,
- "sub_markets_total": 39578,
- "single_game_events": 563,
+ "events_total": 2099,
+ "sub_markets_total": 39138,
+ "single_game_events": 566,
  "event_keys": [
   "active",
   "archived",
@@ -172,18 +172,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "2148296.22772",
-  "volume": "4445692.039191",
-  "openInterest": "3817357.4298389996",
+  "liquidity": "1075675.11543",
+  "volume": "5654373.008258",
+  "openInterest": "4495756.207344998",
   "createdAt": "2026-11-03T06:59:26.062167Z",
-  "updatedAt": "2026-11-18T05:21:50.577427Z",
-  "competitive": "0.9999750006249843",
-  "volume24hr": "3908993.8295960003",
-  "volume1wk": "3965849.6276430003",
-  "volume1mo": "3965850.7029",
-  "volume1yr": "3965850.7029",
+  "updatedAt": "2026-11-18T06:34:06.61193Z",
+  "competitive": "0.9993753903810119",
+  "volume24hr": "4932195.612136001",
+  "volume1wk": "5003564.084339",
+  "volume1mo": "5003565.159596",
+  "volume1yr": "5003565.159596",
   "enableOrderBook": "True",
-  "liquidityClob": "2148296.22772",
+  "liquidityClob": "1075675.11543",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 502>",
@@ -203,18 +203,18 @@
   "slug": "nba-cha-lal-2026-11-17",
   "resolutionSource": "https://www.nba.com/",
   "endDate": "2026-11-18T03:00:00Z",
-  "liquidity": "141249.749",
+  "liquidity": "318946.596",
   "startDate": "2026-11-03T06:59:31Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "description": "In the upcoming NBA game between Hornets and Lakers, originally scheduled for Tuesday, November 17, 2026 at 10:00 PM ET (as of creation of the first market rela",
   "outcomes": "[\"Hornets\", \"Lakers\"]",
-  "outcomePrices": "[\"0.545\", \"0.455\"]",
-  "volume": "1235264.827569",
+  "outcomePrices": "[\"0.905\", \"0.095\"]",
+  "volume": "2084546.639522",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-03T06:59:26.344349Z",
-  "updatedAt": "2026-11-18T05:21:35.942213Z",
+  "updatedAt": "2026-11-18T06:33:35.799603Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -226,22 +226,22 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.01",
   "orderMinSize": "5",
-  "volumeNum": "1235264.827569",
-  "liquidityNum": "141249.749",
+  "volumeNum": "2084546.639522",
+  "liquidityNum": "318946.596",
   "endDateIso": "2026-11-18",
   "startDateIso": "2026-11-03",
   "hasReviewedDates": "True",
-  "volume24hr": "698222.0153989999",
-  "volume1wk": "734652.071717",
-  "volume1mo": "734653.1469739999",
-  "volume1yr": "734653.1469739999",
+  "volume24hr": "1339808.614896",
+  "volume1wk": "1382527.8194899997",
+  "volume1mo": "1382528.8947469997",
+  "volume1yr": "1382528.8947469997",
   "gameStartTime": "2026-11-18 04:00:00+00",
   "secondsDelay": "0"
  },
  "multi_option_event": {
   "title": "Hornets vs. Lakers",
   "slug": "nba-cha-lal-2026-11-17",
-  "n_sub": 462,
+  "n_sub": 344,
   "sub_markets": [
    {
     "question": "Hornets vs. Lakers",
@@ -249,7 +249,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Hornets\", \"Lakers\"]",
-    "outcomePrices": "[\"0.545\", \"0.455\"]",
+    "outcomePrices": "[\"0.905\", \"0.095\"]",
     "closed": "False"
    },
    {
@@ -258,7 +258,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Lakers\", \"Hornets\"]",
-    "outcomePrices": "[\"0.08\", \"0.92\"]",
+    "outcomePrices": "[\"0.009\", \"0.991\"]",
     "closed": "False"
    },
    {
@@ -267,7 +267,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.76\", \"0.24\"]",
+    "outcomePrices": "[\"0.195\", \"0.805\"]",
     "closed": "False"
    },
    {
@@ -276,7 +276,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Lakers\", \"Hornets\"]",
-    "outcomePrices": "[\"0.095\", \"0.905\"]",
+    "outcomePrices": "[\"0.0045\", \"0.9955\"]",
     "closed": "False"
    },
    {
@@ -285,33 +285,24 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.805\", \"0.195\"]",
+    "outcomePrices": "[\"0.335\", \"0.665\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 646,
-  "tech": 515,
-  "economy": 107,
-  "culture": 91,
-  "geopolitics": 191,
-  "politics": 293,
-  "crypto": 167,
+  "sports": 644,
+  "tech": 519,
+  "economy": 105,
+  "culture": 92,
+  "geopolitics": 187,
+  "politics": 294,
+  "crypto": 177,
   "(空)": 81
  },
  "tag_samples": [
   {
    "title": "Hornets vs. Lakers",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
-   "title": "Jazz vs. Clippers",
    "tags": [
     "Sports",
     "NBA",
@@ -382,11 +373,21 @@
     "Israel Election",
     "Iran Ceasefire"
    ]
+  },
+  {
+   "title": "Next French Presidential Election",
+   "tags": [
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
+    "Politics",
+    "Global Elections"
+   ]
   }
  ],
  "top_titles": [
   "Hornets vs. Lakers",
-  "Jazz vs. Clippers",
   "Jensen Huang rejoins NVIDIA by...?",
   "Fed Decision in December?",
   "Next CEO of NVIDIA?",
@@ -394,21 +395,22 @@
   "South Shields vs. Harborough Town FC",
   "Israel x Iran ceasefire continues through...?",
   "Next French Presidential Election",
-  "Stars vs. Golden Knights",
-  "Democratic Presidential Nominee 2028",
   "US x Iran Effective Ceasefire begins by...? (2 week pause)",
+  "Democratic Presidential Nominee 2028",
   "What price will Bitcoin hit in November?",
   "UEFA Champions League: 2027 Champion",
-  "Mexico vs. Jamaica - More Markets",
-  "Presidential Election Winner 2028",
   "What price will Bitcoin hit in 2026?",
+  "Presidential Election Winner 2028",
   "Taipei Mayor Election Winner",
   "Alaska Senate Election Winner",
   "Elon Musk # tweets November 13 - November 20, 2026?",
   "Elon Musk # tweets November 16 - November 18, 2026?",
   "NBA: 2027 Champion",
-  "Mexico vs. Jamaica",
   "Predict.fun FDV above ___ one day after launch?",
-  "Will Predict.fun launch a token by ___?"
+  "Bitcoin above ___ on November 18?",
+  "Nicaragua vs. Montserrat",
+  "South Shields vs. Harborough Town FC - More Markets",
+  "Counter-Strike: Inner Circle Esports vs Sangal (BO3) - Stake Ranked Episode 6 Playoffs",
+  "Prime Minister of Israel after the next election?"
  ]
 }
