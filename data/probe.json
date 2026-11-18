@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-18T17:51:10.506745+00:00",
+ "ts": "2026-11-18T18:45:37.844859+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 44757,
- "single_game_events": 683,
+ "sub_markets_total": 45229,
+ "single_game_events": 685,
  "event_keys": [
   "active",
   "archived",
@@ -172,19 +172,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "64004637.78412",
-  "volume": "1326941448.664586",
-  "openInterest": "9696345.164088998",
+  "liquidity": "63728812.58023",
+  "volume": "1327203368.737222",
+  "openInterest": "9702915.975207",
   "sortBy": "price",
   "createdAt": "2025-07-03T20:36:57.824243Z",
-  "updatedAt": "2026-11-18T17:47:15.819818Z",
+  "updatedAt": "2026-11-18T18:43:16.99178Z",
   "competitive": "0.946605531726076",
-  "volume24hr": "3649156.521345",
-  "volume1wk": "8209775.779273",
-  "volume1mo": "29453366.164749",
-  "volume1yr": "833665231.960856",
+  "volume24hr": "3867089.507491",
+  "volume1wk": "8418317.716747",
+  "volume1mo": "29664267.559644",
+  "volume1yr": "827577494.989414",
   "enableOrderBook": "True",
-  "liquidityClob": "64004637.78412",
+  "liquidityClob": "63728812.58023",
   "negRisk": "True",
   "negRiskMarketID": "0x2c3d7e0eee6f058be3006baabf0d54a07da254ba47fe6e3e095e7990c7814700",
   "commentCount": "887",
@@ -203,18 +203,18 @@
   "slug": "will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568",
   "resolutionSource": "",
   "endDate": "2028-11-08T04:59:00Z",
-  "liquidity": "488701.04106",
+  "liquidity": "409531.78576",
   "startDate": "2025-07-11T18:35:56.805Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-gavin-newsom-win-the-2028-us-presidential-election-x9lPL7_gXn--.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-gavin-newsom-win-the-2028-us-presidential-election-x9lPL7_gXn--.png",
   "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this marke",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.1005\", \"0.8995\"]",
-  "volume": "28771390.359829005",
+  "volume": "28771439.864779994",
   "active": "True",
   "closed": "False",
   "createdAt": "2025-07-03T20:36:58.88434Z",
-  "updatedAt": "2026-11-18T17:47:01.768737Z",
+  "updatedAt": "2026-11-18T18:43:02.361508Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
@@ -227,15 +227,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "28771390.359829005",
-  "liquidityNum": "488701.04106",
+  "volumeNum": "28771439.864779994",
+  "liquidityNum": "409531.78576",
   "endDateIso": "2028-11-08",
   "startDateIso": "2025-07-11",
   "hasReviewedDates": "True",
-  "volume24hr": "7379.626582000001",
-  "volume1wk": "78726.191233",
-  "volume1mo": "779429.443309",
-  "volume1yr": "25103250.834207006",
+  "volume24hr": "7429.131533000001",
+  "volume1wk": "78052.325274",
+  "volume1mo": "779473.010017",
+  "volume1yr": "25103288.648632996",
   "clobTokenIds": "[\"54533043819946592547517511176940999955633860128497669742211153063842200957669\", \"87854174148074652060467921081181402357467303721471806610111179101805869578687"
  },
  "multi_option_event": {
@@ -291,14 +291,14 @@
   ]
  },
  "category_distribution": {
-  "politics": 294,
-  "economy": 86,
-  "tech": 513,
-  "sports": 715,
-  "culture": 97,
+  "politics": 296,
+  "sports": 714,
+  "economy": 87,
+  "tech": 507,
+  "culture": 99,
   "geopolitics": 168,
-  "crypto": 153,
-  "(空)": 74
+  "crypto": 154,
+  "(空)": 75
  },
  "tag_samples": [
   {
@@ -310,6 +310,15 @@
     "US Election",
     "World Elections",
     "Earn 3.25%"
+   ]
+  },
+  {
+   "title": "Dota 2: Team Spirit vs PARIVISION (BO5) - 1win Essence Playoffs",
+   "tags": [
+    "Esports",
+    "Dota 2",
+    "Games",
+    "Sports"
    ]
   },
   {
@@ -346,15 +355,6 @@
    ]
   },
   {
-   "title": "Dota 2: Team Spirit vs PARIVISION (BO5) - 1win Essence Playoffs",
-   "tags": [
-    "Esports",
-    "Dota 2",
-    "Games",
-    "Sports"
-   ]
-  },
-  {
    "title": "Anthropic IPO Closing Market Cap",
    "tags": [
     "Finance",
@@ -377,40 +377,42 @@
    ]
   },
   {
-   "title": "South Shields vs. Harborough Town FC",
+   "title": "Next CEO of NVIDIA?",
    "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "National League North"
+    "NVDA",
+    "NVIDIA",
+    "Culture",
+    "Big Tech",
+    "Business",
+    "Jensen Huang"
    ]
   }
  ],
  "top_titles": [
   "Democratic Presidential Nominee 2028",
+  "Dota 2: Team Spirit vs PARIVISION (BO5) - 1win Essence Playoffs",
   "Fed Decision in December?",
   "Republican Presidential Nominee 2028",
   "Next French Presidential Election",
-  "Dota 2: Team Spirit vs PARIVISION (BO5) - 1win Essence Playoffs",
   "Anthropic IPO Closing Market Cap",
   "Jensen Huang rejoins NVIDIA by...?",
-  "South Shields vs. Harborough Town FC",
   "Next CEO of NVIDIA?",
   "Israel x Iran ceasefire continues through...?",
+  "Counter-Strike: Inner Circle Esports vs Sangal (BO3) - Stake Ranked Episode 6 Playoffs",
+  "South Shields vs. Harborough Town FC",
+  "Wizards vs. Raptors",
   "What price will Bitcoin hit in 2026?",
   "Elon Musk # tweets November 13 - November 20, 2026?",
-  "Counter-Strike: Inner Circle Esports vs Sangal (BO3) - Stake Ranked Episode 6 Playoffs",
-  "What price will Bitcoin hit in November?",
-  "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit on November 18?",
-  "Elon Musk # tweets November 16 - November 18, 2026?",
-  "US x Iran Effective Ceasefire begins by...? (2 week pause)",
+  "UEFA Champions League: 2027 Champion",
+  "What price will Bitcoin hit in November?",
   "Counter-Strike: Sinners vs Alliance (BO3) - RUSH Brno Group A",
+  "Elon Musk # tweets November 16 - November 18, 2026?",
+  "Helsinki: James Duckworth vs Eero Vasa",
+  "US x Iran Effective Ceasefire begins by...? (2 week pause)",
+  "Colina: Rebeka Masarova vs Polona Hercog",
   "NBA: 2027 Champion",
   "Taipei Mayor Election Winner",
-  "Variational FDV above ___ one day after launch?",
-  "76ers vs. Magic",
-  "Presidential Election Winner 2028",
-  "What price will Bitcoin hit November 16-22?"
+  "Variational FDV above ___ one day after launch?"
  ]
 }
