@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-18T10:59:44.751127+00:00",
+ "ts": "2026-11-18T11:59:03.303052+00:00",
  "pages_fetched": 21,
- "events_total": 2098,
- "sub_markets_total": 39655,
- "single_game_events": 629,
+ "events_total": 2097,
+ "sub_markets_total": 39809,
+ "single_game_events": 633,
  "event_keys": [
   "active",
   "archived",
@@ -109,6 +109,7 @@
   "negRiskRequestID",
   "new",
   "oneDayPriceChange",
+  "oneHourPriceChange",
   "oneMonthPriceChange",
   "oneWeekPriceChange",
   "oneYearPriceChange",
@@ -172,19 +173,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "63858912.08514",
-  "volume": "1326473009.517035",
-  "openInterest": "10206556.571497",
+  "liquidity": "63951329.48697",
+  "volume": "1326867057.3284419",
+  "openInterest": "10103682.584280998",
   "sortBy": "price",
   "createdAt": "2025-07-03T20:36:57.824243Z",
-  "updatedAt": "2026-11-18T10:53:48.71934Z",
+  "updatedAt": "2026-11-18T11:55:49.579593Z",
   "competitive": "0.946605531726076",
-  "volume24hr": "3599928.692379",
-  "volume1wk": "8954915.060287",
-  "volume1mo": "29900871.642619",
-  "volume1yr": "834632316.274593",
+  "volume24hr": "3753620.870184",
+  "volume1wk": "9048683.807387",
+  "volume1mo": "29275119.428174",
+  "volume1yr": "799066418.656973",
   "enableOrderBook": "True",
-  "liquidityClob": "63858912.08514",
+  "liquidityClob": "63951329.48697",
   "negRisk": "True",
   "negRiskMarketID": "0x2c3d7e0eee6f058be3006baabf0d54a07da254ba47fe6e3e095e7990c7814700",
   "commentCount": "887",
@@ -203,18 +204,18 @@
   "slug": "will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568",
   "resolutionSource": "",
   "endDate": "2028-11-08T04:59:00Z",
-  "liquidity": "450030.44091",
+  "liquidity": "444496.10606",
   "startDate": "2025-07-11T18:35:56.805Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-gavin-newsom-win-the-2028-us-presidential-election-x9lPL7_gXn--.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-gavin-newsom-win-the-2028-us-presidential-election-x9lPL7_gXn--.png",
   "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this marke",
   "outcomes": "[\"Yes\", \"No\"]",
-  "outcomePrices": "[\"0.1015\", \"0.8985\"]",
-  "volume": "28766664.839828998",
+  "outcomePrices": "[\"0.101\", \"0.899\"]",
+  "volume": "28766704.83982901",
   "active": "True",
   "closed": "False",
   "createdAt": "2025-07-03T20:36:58.88434Z",
-  "updatedAt": "2026-11-18T10:53:35.28936Z",
+  "updatedAt": "2026-11-18T11:57:35.75635Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
@@ -227,15 +228,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "28766664.839828998",
-  "liquidityNum": "450030.44091",
+  "volumeNum": "28766704.83982901",
+  "liquidityNum": "444496.10606",
   "endDateIso": "2028-11-08",
   "startDateIso": "2025-07-11",
   "hasReviewedDates": "True",
-  "volume24hr": "4471.1853200000005",
-  "volume1wk": "75765.056688",
-  "volume1mo": "777410.481717",
-  "volume1yr": "25110839.295494",
+  "volume24hr": "4474.18532",
+  "volume1wk": "75803.886688",
+  "volume1mo": "777450.481717",
+  "volume1yr": "25108800.216893006",
   "clobTokenIds": "[\"54533043819946592547517511176940999955633860128497669742211153063842200957669\", \"87854174148074652060467921081181402357467303721471806610111179101805869578687"
  },
  "multi_option_event": {
@@ -249,7 +250,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.1015\", \"0.8985\"]",
+    "outcomePrices": "[\"0.101\", \"0.899\"]",
     "closed": "False"
    },
    {
@@ -291,14 +292,14 @@
   ]
  },
  "category_distribution": {
-  "politics": 287,
-  "tech": 528,
-  "economy": 93,
-  "culture": 92,
-  "sports": 672,
+  "politics": 291,
+  "tech": 534,
+  "economy": 89,
+  "culture": 90,
+  "sports": 675,
   "geopolitics": 182,
-  "crypto": 169,
-  "(空)": 75
+  "crypto": 163,
+  "(空)": 73
  },
  "tag_samples": [
   {
@@ -368,15 +369,6 @@
    ]
   },
   {
-   "title": "South Shields vs. Harborough Town FC",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "National League North"
-   ]
-  },
-  {
    "title": "Next French Presidential Election",
    "tags": [
     "French Election",
@@ -385,6 +377,15 @@
     "World",
     "Politics",
     "Global Elections"
+   ]
+  },
+  {
+   "title": "South Shields vs. Harborough Town FC",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "National League North"
    ]
   }
  ],
@@ -395,24 +396,24 @@
   "Fed Decision in December?",
   "Next CEO of NVIDIA?",
   "Anthropic IPO Closing Market Cap",
-  "South Shields vs. Harborough Town FC",
   "Next French Presidential Election",
+  "South Shields vs. Harborough Town FC",
   "Israel x Iran ceasefire continues through...?",
+  "Counter-Strike: Nexus vs Iberian Soul (BO3) - RUSH Brno Group A",
   "US x Iran Effective Ceasefire begins by...? (2 week pause)",
+  "Elon Musk # tweets November 13 - November 20, 2026?",
   "What price will Bitcoin hit in November?",
   "UEFA Champions League: 2027 Champion",
-  "Elon Musk # tweets November 13 - November 20, 2026?",
   "What price will Bitcoin hit in 2026?",
-  "Counter-Strike: Nexus vs Iberian Soul (BO3) - RUSH Brno Group A",
+  "Elon Musk # tweets November 16 - November 18, 2026?",
   "Taipei Mayor Election Winner",
   "NBA: 2027 Champion",
-  "Elon Musk # tweets November 16 - November 18, 2026?",
-  "England Tour of Australia ODIs: Australia vs England",
   "Presidential Election Winner 2028",
-  "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Daniil Medvedev",
   "Bitcoin above ___ on November 18?",
+  "England Tour of Australia ODIs: Australia vs England",
+  "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Daniil Medvedev",
+  "Counter-Strike: Balkan Outlaws vs WRAITH PCIFIC (BO3) - European Pro League Playoffs",
   "What price will Bitcoin hit November 16-22?",
-  "Counter-Strike: Inner Circle Esports vs Sangal (BO3) - Stake Ranked Episode 6 Playoffs",
-  "South Shields vs. Harborough Town FC - More Markets"
+  "Counter-Strike: UNiTY esports vs GamerLegion (BO3) - Stake Ranked Episode 6 Playoffs"
  ]
 }
