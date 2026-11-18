@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-18T00:56:43.166510+00:00",
+ "ts": "2026-11-18T02:13:21.278349+00:00",
  "pages_fetched": 21,
- "events_total": 2063,
- "sub_markets_total": 40929,
- "single_game_events": 594,
+ "events_total": 2058,
+ "sub_markets_total": 41308,
+ "single_game_events": 599,
  "event_keys": [
   "active",
   "archived",
@@ -172,18 +172,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "2222731.99973",
-  "volume": "2611782.730547",
-  "openInterest": "1939301.0125080012",
+  "liquidity": "2089638.51009",
+  "volume": "3421248.72936",
+  "openInterest": "2472267.1134630004",
   "createdAt": "2026-11-03T06:59:22.299716Z",
-  "updatedAt": "2026-11-18T00:51:37.342764Z",
-  "competitive": "1",
-  "volume24hr": "2667417.353468",
-  "volume1wk": "2669189.178951",
-  "volume1mo": "2669189.178951",
-  "volume1yr": "2669189.178951",
+  "updatedAt": "2026-11-18T02:12:12.056499Z",
+  "competitive": "0.9999750006249843",
+  "volume24hr": "3489361.1067480003",
+  "volume1wk": "3496015.9016000004",
+  "volume1mo": "3496015.9016000004",
+  "volume1yr": "3496015.9016000004",
   "enableOrderBook": "True",
-  "liquidityClob": "2222731.99973",
+  "liquidityClob": "2089638.51009",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 480>",
@@ -203,18 +203,18 @@
   "slug": "nba-nyk-tor-2026-11-17",
   "resolutionSource": "https://www.nba.com/",
   "endDate": "2026-11-18T00:30:00Z",
-  "liquidity": "181677.782",
+  "liquidity": "145753.7356",
   "startDate": "2026-11-03T06:59:30Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "description": "In the upcoming NBA game between Knicks and Raptors, originally scheduled for Tuesday, November 17, 2026 at 7:30 PM ET (as of creation of the first market relat",
   "outcomes": "[\"Knicks\", \"Raptors\"]",
-  "outcomePrices": "[\"0.565\", \"0.435\"]",
-  "volume": "1764993.8254580002",
+  "outcomePrices": "[\"0.455\", \"0.545\"]",
+  "volume": "2128268.7674910002",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-03T06:59:22.662592Z",
-  "updatedAt": "2026-11-18T00:51:35.25647Z",
+  "updatedAt": "2026-11-18T02:11:35.731612Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -226,22 +226,22 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.01",
   "orderMinSize": "5",
-  "volumeNum": "1764993.8254580002",
-  "liquidityNum": "181677.782",
+  "volumeNum": "2128268.7674910002",
+  "liquidityNum": "145753.7356",
   "endDateIso": "2026-11-18",
   "startDateIso": "2026-11-03",
   "hasReviewedDates": "True",
-  "volume24hr": "1784871.6156349995",
-  "volume1wk": "1786908.5993659995",
-  "volume1mo": "1786908.5993659995",
-  "volume1yr": "1786908.5993659995",
+  "volume24hr": "2182347.6881370004",
+  "volume1wk": "2185484.2702550003",
+  "volume1mo": "2185484.2702550003",
+  "volume1yr": "2185484.2702550003",
   "gameStartTime": "2026-11-18 00:30:00+00",
   "secondsDelay": "0"
  },
  "multi_option_event": {
   "title": "Knicks vs. Raptors",
   "slug": "nba-nyk-tor-2026-11-17",
-  "n_sub": 480,
+  "n_sub": 375,
   "sub_markets": [
    {
     "question": "Knicks vs. Raptors",
@@ -249,7 +249,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Knicks\", \"Raptors\"]",
-    "outcomePrices": "[\"0.565\", \"0.435\"]",
+    "outcomePrices": "[\"0.455\", \"0.545\"]",
     "closed": "False"
    },
    {
@@ -258,7 +258,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Knicks\", \"Raptors\"]",
-    "outcomePrices": "[\"0.445\", \"0.555\"]",
+    "outcomePrices": "[\"0.335\", \"0.665\"]",
     "closed": "False"
    },
    {
@@ -267,7 +267,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.495\", \"0.505\"]",
+    "outcomePrices": "[\"0.45\", \"0.55\"]",
     "closed": "False"
    },
    {
@@ -276,7 +276,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Knicks\", \"Raptors\"]",
-    "outcomePrices": "[\"0.415\", \"0.585\"]",
+    "outcomePrices": "[\"0.275\", \"0.725\"]",
     "closed": "False"
    },
    {
@@ -285,24 +285,33 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.545\", \"0.455\"]",
+    "outcomePrices": "[\"0.525\", \"0.475\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 661,
-  "tech": 505,
-  "economy": 99,
+  "sports": 669,
+  "tech": 509,
+  "economy": 101,
   "culture": 93,
-  "geopolitics": 183,
-  "crypto": 173,
+  "geopolitics": 178,
+  "crypto": 162,
   "politics": 274,
-  "(空)": 75
+  "(空)": 72
  },
  "tag_samples": [
   {
    "title": "Knicks vs. Raptors",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
+   "title": "Trail Blazers vs. Timberwolves",
    "tags": [
     "Sports",
     "NBA",
@@ -322,15 +331,6 @@
    ]
   },
   {
-   "title": "Warriors vs. Pelicans",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
    "title": "Fed Decision in December?",
    "tags": [
     "Fed",
@@ -339,15 +339,6 @@
     "Economy",
     "Fed Rates",
     "Kevin Warsh"
-   ]
-  },
-  {
-   "title": "Magic vs. Celtics",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   },
   {
@@ -373,40 +364,49 @@
    ]
   },
   {
-   "title": "Trail Blazers vs. Timberwolves",
+   "title": "Pistons vs. Spurs",
    "tags": [
     "Sports",
     "NBA",
     "Games",
     "Basketball"
    ]
+  },
+  {
+   "title": "South Shields vs. Harborough Town FC",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "National League North"
+   ]
   }
  ],
  "top_titles": [
   "Knicks vs. Raptors",
+  "Trail Blazers vs. Timberwolves",
   "Jensen Huang rejoins NVIDIA by...?",
-  "Warriors vs. Pelicans",
   "Fed Decision in December?",
-  "Magic vs. Celtics",
   "Next CEO of NVIDIA?",
   "Anthropic IPO Closing Market Cap",
-  "Trail Blazers vs. Timberwolves",
-  "South Shields vs. Harborough Town FC",
   "Pistons vs. Spurs",
+  "South Shields vs. Harborough Town FC",
+  "Eastern Michigan vs. Western Michigan",
   "Israel x Iran ceasefire continues through...?",
   "What price will Bitcoin hit on November 17?",
-  "Democratic Presidential Nominee 2028",
-  "Eastern Michigan vs. Western Michigan",
+  "Magic vs. Celtics",
+  "Warriors vs. Pelicans",
   "Next French Presidential Election",
   "Presidential Election Winner 2028",
-  "Bulls vs. Cavaliers",
+  "Democratic Presidential Nominee 2028",
   "US x Iran Effective Ceasefire begins by...? (2 week pause)",
   "What price will Bitcoin hit in November?",
-  "UEFA Champions League: 2027 Champion",
-  "What price will Bitcoin hit in 2026?",
   "Oilers vs. Panthers",
+  "UEFA Champions League: 2027 Champion",
   "Argentina vs. Costa Rica",
+  "Kings vs. Bruins",
+  "Ball State vs. Ohio",
   "Taipei Mayor Election Winner",
-  "Kings vs. Bruins"
+  "What price will Bitcoin hit in 2026?"
  ]
 }
