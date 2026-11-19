@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-19T10:25:01.299721+00:00",
+ "ts": "2026-11-19T11:31:36.769120+00:00",
  "pages_fetched": 21,
- "events_total": 2075,
- "sub_markets_total": 46108,
- "single_game_events": 695,
+ "events_total": 2097,
+ "sub_markets_total": 46844,
+ "single_game_events": 719,
  "event_keys": [
   "active",
   "archived",
@@ -169,19 +169,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "2333601.51174",
-  "volume": "13339592.692569",
-  "openInterest": "2454931.0597200003",
+  "liquidity": "2123312.03094",
+  "volume": "13770357.426967999",
+  "openInterest": "2532023.8925409997",
   "sortBy": "ascending",
   "createdAt": "2026-06-01T18:13:58.184763Z",
-  "updatedAt": "2026-11-19T10:23:14.451527Z",
-  "competitive": "0.9989770475033566",
-  "volume24hr": "3931821.160733",
-  "volume1wk": "7579009.186779",
-  "volume1mo": "11434890.375365999",
-  "volume1yr": "13364290.512939999",
+  "updatedAt": "2026-11-19T11:27:15.873904Z",
+  "competitive": "0.9997598077061987",
+  "volume24hr": "4320236.56327",
+  "volume1wk": "7991938.154945",
+  "volume1mo": "11853899.725306",
+  "volume1yr": "13783349.862879999",
   "enableOrderBook": "True",
-  "liquidityClob": "2333601.51174",
+  "liquidityClob": "2123312.03094",
   "negRisk": "True",
   "negRiskMarketID": "0x4bcf7372694cb3ed70e31369f7602502cf80c6194e348bcba13c20b0a8936400",
   "commentCount": "0",
@@ -199,18 +199,18 @@
   "conditionId": "0x800376dc64e4e2376a495ed0df4a789192256c821bb4d1452acdd5931bca2fa5",
   "slug": "will-anthropics-market-cap-be-less-than-1pt25t-at-market-close-on-ipo-day",
   "endDate": "2028-01-01T04:59:00Z",
-  "liquidity": "125390.91823",
+  "liquidity": "99824.73379",
   "startDate": "2026-06-01T21:07:04.52879Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
   "description": "This market will resolve based on Anthropic's market capitalization at the closing price on its first day of trading.\n\nIf no IPO occurs by December 31, 2027, 11",
   "outcomes": "[\"Yes\", \"No\"]",
-  "outcomePrices": "[\"0.2245\", \"0.7755\"]",
-  "volume": "3219586.7996280002",
+  "outcomePrices": "[\"0.2055\", \"0.7945\"]",
+  "volume": "3303395.625028",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-06-01T18:13:58.593126Z",
-  "updatedAt": "2026-11-19T10:23:00.909459Z",
+  "updatedAt": "2026-11-19T11:27:02.21187Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -223,15 +223,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "3219586.7996280002",
-  "liquidityNum": "125390.91823",
+  "volumeNum": "3303395.625028",
+  "liquidityNum": "99824.73379",
   "endDateIso": "2028-01-01",
   "startDateIso": "2026-06-01",
   "hasReviewedDates": "True",
-  "volume24hr": "1311065.8824029998",
-  "volume1wk": "2391462.730993",
-  "volume1mo": "3064927.0070299995",
-  "volume1yr": "3223554.0992149995",
+  "volume24hr": "1370425.473041",
+  "volume1wk": "2471788.7244979995",
+  "volume1mo": "3145718.297409",
+  "volume1yr": "3304345.3895939994",
   "clobTokenIds": "[\"112320928806010548033202438997015358299610795310513429342055221960679493917\", \"97835730826504088023775585649282026423448935249156759049180415585128284134832\"]",
   "comboStatus": "disabled"
  },
@@ -246,7 +246,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.2245\", \"0.7755\"]",
+    "outcomePrices": "[\"0.2055\", \"0.7945\"]",
     "closed": "False"
    },
    {
@@ -255,7 +255,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.532\", \"0.468\"]",
+    "outcomePrices": "[\"0.5145\", \"0.4855\"]",
     "closed": "False"
    },
    {
@@ -264,7 +264,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.1585\", \"0.8415\"]",
+    "outcomePrices": "[\"0.213\", \"0.787\"]",
     "closed": "False"
    },
    {
@@ -273,7 +273,7 @@
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.039\", \"0.961\"]",
+    "outcomePrices": "[\"0.0445\", \"0.9555\"]",
     "closed": "False"
    },
    {
@@ -282,18 +282,18 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.016\", \"0.984\"]",
+    "outcomePrices": "[\"0.0115\", \"0.9885\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "tech": 491,
-  "economy": 99,
-  "sports": 704,
-  "politics": 302,
-  "geopolitics": 172,
-  "crypto": 145,
+  "tech": 499,
+  "economy": 97,
+  "sports": 726,
+  "politics": 293,
+  "geopolitics": 173,
+  "crypto": 147,
   "culture": 100,
   "(空)": 62
  },
@@ -359,6 +359,15 @@
    ]
   },
   {
+   "title": "Bucks vs. Heat",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
    "title": "Democratic Presidential Nominee 2028",
    "tags": [
     "United States",
@@ -367,15 +376,6 @@
     "US Election",
     "World Elections",
     "Earn 3.25%"
-   ]
-  },
-  {
-   "title": "Bucks vs. Heat",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   }
  ],
@@ -386,24 +386,24 @@
   "Wizards vs. Raptors",
   "Warriors vs. Mavericks",
   "Next French Presidential Election",
-  "Democratic Presidential Nominee 2028",
   "Bucks vs. Heat",
+  "Democratic Presidential Nominee 2028",
   "Israel x Iran ceasefire continues through...?",
   "Jensen Huang rejoins NVIDIA by...?",
   "What price will Bitcoin hit in 2026?",
-  "Next CEO of NVIDIA?",
-  "Elon Musk # tweets November 13 - November 20, 2026?",
   "Anthropic IPO closing market cap above ___ ?",
+  "Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs",
+  "Elon Musk # tweets November 13 - November 20, 2026?",
+  "Next CEO of NVIDIA?",
   "What price will Bitcoin hit in November?",
   "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit November 16-22?",
   "Republican Presidential Nominee 2028",
   "Colts vs. Texans",
-  "NBA: 2027 Champion",
   "Anthropic IPO by __?",
-  "Bitcoin above ___ on November 19?",
-  "Variational FDV above ___ one day after launch?",
-  "What will Anthropic's IPO valuation be?",
-  "Presidential Election Winner 2028"
+  "Big Bash League, Women: Brisbane Heat vs Sydney Thunder",
+  "NBA: 2027 Champion",
+  "Counter-Strike: Walczaki vs KUUSAMO.gg (BO3) - CCT Europe Closed Qualifier: Series #15 Group A",
+  "Bitcoin above ___ on November 19?"
  ]
 }
