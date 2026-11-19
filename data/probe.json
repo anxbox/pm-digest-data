@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-19T19:56:51.612653+00:00",
+ "ts": "2026-11-19T20:48:56.388705+00:00",
  "pages_fetched": 21,
- "events_total": 2088,
- "sub_markets_total": 45216,
- "single_game_events": 695,
+ "events_total": 2100,
+ "sub_markets_total": 45824,
+ "single_game_events": 704,
  "event_keys": [
   "active",
   "archived",
@@ -169,19 +169,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "2423469.86348",
-  "volume": "18128357.384991",
-  "openInterest": "2924281.8490089998",
+  "liquidity": "1893631.9231",
+  "volume": "18394098.341901",
+  "openInterest": "2903760.596782",
   "sortBy": "ascending",
   "createdAt": "2026-06-01T18:13:58.184763Z",
-  "updatedAt": "2026-11-19T19:55:15.961459Z",
-  "competitive": "0.9260920651274245",
-  "volume24hr": "7059240.305125001",
-  "volume1wk": "12260084.28464",
-  "volume1mo": "16133279.444527",
-  "volume1yr": "18054974.948472",
+  "updatedAt": "2026-11-19T20:43:15.884048Z",
+  "competitive": "0.9988790080332347",
+  "volume24hr": "7237980.410143",
+  "volume1wk": "12516866.195326999",
+  "volume1mo": "16397134.295431",
+  "volume1yr": "18325605.07737",
   "enableOrderBook": "True",
-  "liquidityClob": "2423469.86348",
+  "liquidityClob": "1893631.9231",
   "negRisk": "True",
   "negRiskMarketID": "0x4bcf7372694cb3ed70e31369f7602502cf80c6194e348bcba13c20b0a8936400",
   "commentCount": "0",
@@ -199,18 +199,18 @@
   "conditionId": "0x800376dc64e4e2376a495ed0df4a789192256c821bb4d1452acdd5931bca2fa5",
   "slug": "will-anthropics-market-cap-be-less-than-1pt25t-at-market-close-on-ipo-day",
   "endDate": "2028-01-01T04:59:00Z",
-  "liquidity": "65270.76201",
+  "liquidity": "25202.96667",
   "startDate": "2026-06-01T21:07:04.52879Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
   "description": "This market will resolve based on Anthropic's market capitalization at the closing price on its first day of trading.\n\nIf no IPO occurs by December 31, 2027, 11",
   "outcomes": "[\"Yes\", \"No\"]",
-  "outcomePrices": "[\"0.1975\", \"0.8025\"]",
-  "volume": "5483394.850668001",
+  "outcomePrices": "[\"0.393\", \"0.607\"]",
+  "volume": "5651345.323450999",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-06-01T18:13:58.593126Z",
-  "updatedAt": "2026-11-19T19:55:15.692382Z",
+  "updatedAt": "2026-11-19T20:43:01.277422Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -223,15 +223,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "5483394.850668001",
-  "liquidityNum": "65270.76201",
+  "volumeNum": "5651345.323450999",
+  "liquidityNum": "25202.96667",
   "endDateIso": "2028-01-01",
   "startDateIso": "2026-06-01",
   "hasReviewedDates": "True",
-  "volume24hr": "3073946.4050390003",
-  "volume1wk": "4651086.980647",
-  "volume1mo": "5365916.412676999",
-  "volume1yr": "5524610.414862",
+  "volume24hr": "3212352.335906",
+  "volume1wk": "4817144.52998",
+  "volume1mo": "5531740.644743",
+  "volume1yr": "5691032.456927999",
   "clobTokenIds": "[\"112320928806010548033202438997015358299610795310513429342055221960679493917\", \"97835730826504088023775585649282026423448935249156759049180415585128284134832\"]",
   "comboStatus": "disabled"
  },
@@ -246,7 +246,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.1975\", \"0.8025\"]",
+    "outcomePrices": "[\"0.393\", \"0.607\"]",
     "closed": "False"
    },
    {
@@ -255,7 +255,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.781\", \"0.219\"]",
+    "outcomePrices": "[\"0.594\", \"0.406\"]",
     "closed": "False"
    },
    {
@@ -264,7 +264,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0045\", \"0.9955\"]",
+    "outcomePrices": "[\"0.0015\", \"0.9985\"]",
     "closed": "False"
    },
    {
@@ -273,7 +273,7 @@
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0015\", \"0.9985\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
@@ -289,13 +289,13 @@
  },
  "category_distribution": {
   "tech": 525,
-  "economy": 95,
-  "sports": 698,
-  "politics": 270,
-  "geopolitics": 188,
-  "crypto": 135,
+  "economy": 94,
+  "sports": 702,
+  "politics": 273,
+  "geopolitics": 191,
+  "crypto": 137,
   "culture": 103,
-  "(空)": 74
+  "(空)": 75
  },
  "tag_samples": [
   {
@@ -350,6 +350,14 @@
    ]
   },
   {
+   "title": "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils",
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ]
+  },
+  {
    "title": "Democratic Presidential Nominee 2028",
    "tags": [
     "United States",
@@ -370,14 +378,6 @@
     "Politics",
     "Global Elections"
    ]
-  },
-  {
-   "title": "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils",
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ]
   }
  ],
  "top_titles": [
@@ -386,25 +386,25 @@
   "Fed Decision in December?",
   "Pistons vs. Pelicans",
   "Warriors vs. Mavericks",
+  "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils",
   "Democratic Presidential Nominee 2028",
   "Next French Presidential Election",
-  "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils",
   "Israel x Iran ceasefire continues through...?",
   "Jensen Huang rejoins NVIDIA by...?",
-  "Counter-Strike: Sangal vs Luminosity (BO3) - Stake Ranked Episode 6 Playoffs",
   "What price will Bitcoin hit in 2026?",
-  "Elon Musk # tweets November 13 - November 20, 2026?",
-  "Knicks vs. Timberwolves",
-  "Anthropic IPO Closing Market Cap (Middle Brackets)",
-  "Colts vs. Texans",
-  "Metz: Harold Mayot vs Hugo Gaston",
-  "Will Anthropic’s valuation hit __ by December 31?",
   "What price will Bitcoin hit on November 19?",
+  "Anthropic IPO Closing Market Cap (Middle Brackets)",
+  "Knicks vs. Timberwolves",
+  "Elon Musk # tweets November 13 - November 20, 2026?",
+  "Colts vs. Texans",
+  "What price will Bitcoin hit November 16-22?",
+  "Will Anthropic’s valuation hit __ by December 31?",
+  "NBA: 2027 Champion",
   "Warriors vs. Grizzlies",
   "Next CEO of NVIDIA?",
-  "What price will Bitcoin hit November 16-22?",
   "Presidential Election Winner 2028",
-  "NBA: 2027 Champion",
-  "UEFA Champions League: 2027 Champion"
+  "Clippers vs. Spurs",
+  "UEFA Champions League: 2027 Champion",
+  "What price will Bitcoin hit in November?"
  ]
 }
