@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-18T23:43:23.668027+00:00",
+ "ts": "2026-11-19T00:56:01.750062+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 47734,
- "single_game_events": 654,
+ "events_total": 2080,
+ "sub_markets_total": 47572,
+ "single_game_events": 638,
  "event_keys": [
   "active",
   "archived",
@@ -172,19 +172,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "63697655.09508",
-  "volume": "1327900108.262435",
-  "openInterest": "8892271.287563998",
+  "liquidity": "63664289.20968",
+  "volume": "1327940057.5641088",
+  "openInterest": "8841950.791323999",
   "sortBy": "price",
   "createdAt": "2025-07-03T20:36:57.824243Z",
-  "updatedAt": "2026-11-18T23:41:18.466721Z",
+  "updatedAt": "2026-11-19T00:51:18.852434Z",
   "competitive": "0.9461791982976344",
-  "volume24hr": "4480182.22061",
-  "volume1wk": "9974326.275104",
-  "volume1mo": "32890610.88877",
-  "volume1yr": "972450465.266948",
+  "volume24hr": "4504796.568729",
+  "volume1wk": "9911718.80738",
+  "volume1mo": "32918051.445545",
+  "volume1yr": "972460201.2933899",
   "enableOrderBook": "True",
-  "liquidityClob": "63697655.09508",
+  "liquidityClob": "63664289.20968",
   "negRisk": "True",
   "negRiskMarketID": "0x2c3d7e0eee6f058be3006baabf0d54a07da254ba47fe6e3e095e7990c7814700",
   "commentCount": "887",
@@ -203,18 +203,18 @@
   "slug": "will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568",
   "resolutionSource": "",
   "endDate": "2028-11-08T04:59:00Z",
-  "liquidity": "420069.93449",
+  "liquidity": "421433.68609",
   "startDate": "2025-07-11T18:35:56.805Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-gavin-newsom-win-the-2028-us-presidential-election-x9lPL7_gXn--.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-gavin-newsom-win-the-2028-us-presidential-election-x9lPL7_gXn--.png",
   "description": "This market will resolve to “Yes” if the named individual wins and accepts the 2028 nomination of the Democratic Party for U.S. president. Otherwise, this marke",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.1005\", \"0.8995\"]",
-  "volume": "28772889.97142",
+  "volume": "28772889.971419998",
   "active": "True",
   "closed": "False",
   "createdAt": "2025-07-03T20:36:58.88434Z",
-  "updatedAt": "2026-11-18T23:41:01.57107Z",
+  "updatedAt": "2026-11-19T00:51:02.069962Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
@@ -227,15 +227,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "28772889.97142",
-  "liquidityNum": "420069.93449",
+  "volumeNum": "28772889.971419998",
+  "liquidityNum": "421433.68609",
   "endDateIso": "2028-11-08",
   "startDateIso": "2025-07-11",
   "hasReviewedDates": "True",
-  "volume24hr": "7838.709435",
-  "volume1wk": "78513.38247499999",
-  "volume1mo": "778218.45399",
-  "volume1yr": "25095964.122844994",
+  "volume24hr": "7812.709435",
+  "volume1wk": "78481.162475",
+  "volume1mo": "778162.532202",
+  "volume1yr": "25095960.370144002",
   "clobTokenIds": "[\"54533043819946592547517511176940999955633860128497669742211153063842200957669\", \"87854174148074652060467921081181402357467303721471806610111179101805869578687"
  },
  "multi_option_event": {
@@ -276,7 +276,7 @@
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0705\", \"0.9295\"]",
+    "outcomePrices": "[\"0.0645\", \"0.9355\"]",
     "closed": "False"
    },
    {
@@ -291,14 +291,14 @@
   ]
  },
  "category_distribution": {
-  "politics": 309,
-  "economy": 98,
-  "tech": 493,
-  "sports": 695,
-  "geopolitics": 176,
-  "crypto": 157,
+  "politics": 304,
+  "sports": 689,
+  "economy": 99,
+  "tech": 481,
+  "geopolitics": 183,
+  "crypto": 151,
   "culture": 103,
-  "(空)": 69
+  "(空)": 70
  },
  "tag_samples": [
   {
@@ -310,6 +310,15 @@
     "US Election",
     "World Elections",
     "Earn 3.25%"
+   ]
+  },
+  {
+   "title": "76ers vs. Magic",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
    ]
   },
   {
@@ -346,7 +355,7 @@
    ]
   },
   {
-   "title": "76ers vs. Magic",
+   "title": "Pistons vs. Pelicans",
    "tags": [
     "Sports",
     "NBA",
@@ -366,51 +375,40 @@
    ]
   },
   {
-   "title": "Pistons vs. Pelicans",
+   "title": "Wizards vs. Raptors",
    "tags": [
     "Sports",
     "NBA",
     "Games",
     "Basketball"
    ]
-  },
-  {
-   "title": "Israel x Iran ceasefire continues through...?",
-   "tags": [
-    "Iran",
-    "Israel",
-    "Geopolitics",
-    "Israel x Iran",
-    "Israel Election",
-    "Iran Ceasefire"
-   ]
   }
  ],
  "top_titles": [
   "Democratic Presidential Nominee 2028",
+  "76ers vs. Magic",
   "Fed Decision in December?",
   "Anthropic IPO Closing Market Cap",
   "Republican Presidential Nominee 2028",
-  "76ers vs. Magic",
-  "Next French Presidential Election",
   "Pistons vs. Pelicans",
-  "Israel x Iran ceasefire continues through...?",
+  "Next French Presidential Election",
   "Wizards vs. Raptors",
-  "Jazz vs. Lakers",
-  "Counter-Strike: BBL vs Envy (BO3) - RUSH Brno Group B",
-  "What price will Bitcoin hit on November 18?",
-  "What price will Bitcoin hit in 2026?",
-  "Jensen Huang rejoins NVIDIA by...?",
-  "Next CEO of NVIDIA?",
+  "Israel x Iran ceasefire continues through...?",
   "Bucks vs. Heat",
-  "Elon Musk # tweets November 13 - November 20, 2026?",
   "Rockets vs. Pacers",
-  "Warriors vs. Mavericks",
-  "UEFA Champions League: 2027 Champion",
-  "Champaign: Jack Kennedy vs Lui Maxted",
+  "What price will Bitcoin hit on November 18?",
+  "Jazz vs. Lakers",
+  "Jensen Huang rejoins NVIDIA by...?",
+  "What price will Bitcoin hit in 2026?",
   "Grizzlies vs. Cavaliers",
+  "Next CEO of NVIDIA?",
+  "Warriors vs. Mavericks",
+  "Elon Musk # tweets November 13 - November 20, 2026?",
+  "UEFA Champions League: 2027 Champion",
   "Cruzeiro EC vs. SE Palmeiras",
   "What price will Bitcoin hit in November?",
-  "What price will Bitcoin hit November 16-22?"
+  "What price will Bitcoin hit November 16-22?",
+  "Bulls vs. Nets",
+  "Coritiba FBC vs. Santos FC - More Markets"
  ]
 }
