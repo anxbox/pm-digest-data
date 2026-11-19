@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-19T05:38:12.807595+00:00",
+ "ts": "2026-11-19T06:38:51.057923+00:00",
  "pages_fetched": 21,
- "events_total": 2099,
- "sub_markets_total": 47549,
- "single_game_events": 649,
+ "events_total": 2092,
+ "sub_markets_total": 47943,
+ "single_game_events": 651,
  "event_keys": [
   "active",
   "archived",
@@ -173,18 +173,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "39.00872",
-  "volume": "4838418.420676001",
-  "openInterest": "54696.600968",
+  "liquidity": "15.00872",
+  "volume": "4838418.4206759995",
+  "openInterest": "51357.07116299999",
   "createdAt": "2026-11-04T06:59:21.203896Z",
-  "updatedAt": "2026-11-19T05:33:36.373859Z",
-  "competitive": "0.012999450773204833",
-  "volume24hr": "4759302.518210998",
-  "volume1wk": "4836622.941639998",
-  "volume1mo": "4836622.941639998",
-  "volume1yr": "4836622.941639998",
+  "updatedAt": "2026-11-19T06:37:16.008494Z",
+  "competitive": "0.011999568015551439",
+  "volume24hr": "4756106.686591",
+  "volume1wk": "4836622.941640003",
+  "volume1mo": "4836622.941640003",
+  "volume1yr": "4836622.941640003",
   "enableOrderBook": "True",
-  "liquidityClob": "39.00872",
+  "liquidityClob": "15.00872",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 523>",
@@ -210,11 +210,11 @@
   "description": "In the upcoming NBA game between 76ers and Magic, originally scheduled for Wednesday, November 18, 2026 at 7:00 PM ET (as of creation of the first market relate",
   "outcomes": "[\"76ers\", \"Magic\"]",
   "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "3403455.531678001",
+  "volume": "3403455.5316780005",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-04T06:59:21.456823Z",
-  "updatedAt": "2026-11-19T05:21:15.377948Z",
+  "updatedAt": "2026-11-19T06:37:15.150889Z",
   "closedTime": "2026-11-19 02:50:27.339854+00",
   "new": "False",
   "featured": "False",
@@ -229,14 +229,14 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "3403455.531678001",
+  "volumeNum": "3403455.5316780005",
   "endDateIso": "2026-11-19",
   "startDateIso": "2026-11-04",
   "hasReviewedDates": "True",
-  "volume24hr": "3352124.1176269976",
-  "volume1wk": "3403455.5316779977",
-  "volume1mo": "3403455.5316779977",
-  "volume1yr": "3403455.5316779977",
+  "volume24hr": "3349455.9245570013",
+  "volume1wk": "3403455.5316780023",
+  "volume1mo": "3403455.5316780023",
+  "volume1yr": "3403455.5316780023",
   "gameStartTime": "2026-11-19 00:00:00+00"
  },
  "multi_option_event": {
@@ -292,13 +292,13 @@
   ]
  },
  "category_distribution": {
-  "sports": 697,
-  "politics": 315,
+  "sports": 691,
+  "politics": 312,
+  "tech": 494,
   "economy": 97,
-  "tech": 493,
-  "geopolitics": 183,
-  "crypto": 146,
-  "culture": 103,
+  "geopolitics": 177,
+  "crypto": 151,
+  "culture": 105,
   "(空)": 65
  },
  "tag_samples": [
@@ -323,17 +323,6 @@
    ]
   },
   {
-   "title": "Fed Decision in December?",
-   "tags": [
-    "Fed",
-    "fomc",
-    "Trump",
-    "Economy",
-    "Fed Rates",
-    "Kevin Warsh"
-   ]
-  },
-  {
    "title": "Anthropic IPO Closing Market Cap",
    "tags": [
     "Finance",
@@ -342,6 +331,17 @@
     "IPO",
     "Claude",
     "IPOs"
+   ]
+  },
+  {
+   "title": "Fed Decision in December?",
+   "tags": [
+    "Fed",
+    "fomc",
+    "Trump",
+    "Economy",
+    "Fed Rates",
+    "Kevin Warsh"
    ]
   },
   {
@@ -386,8 +386,8 @@
  "top_titles": [
   "76ers vs. Magic",
   "Democratic Presidential Nominee 2028",
-  "Fed Decision in December?",
   "Anthropic IPO Closing Market Cap",
+  "Fed Decision in December?",
   "Pistons vs. Pelicans",
   "Celtics vs. Nuggets",
   "Jazz vs. Lakers",
@@ -402,12 +402,12 @@
   "What price will Bitcoin hit in 2026?",
   "Elon Musk # tweets November 13 - November 20, 2026?",
   "Next CEO of NVIDIA?",
-  "Avalanche vs. Utah",
   "What price will Bitcoin hit in November?",
   "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit November 16-22?",
   "Colts vs. Texans",
+  "Anthropic IPO closing market cap above ___ ?",
   "Presidential Election Winner 2028",
-  "Anthropic IPO closing market cap above ___ ?"
+  "NBA: 2027 Champion"
  ]
 }
