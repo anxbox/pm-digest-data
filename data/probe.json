@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-19T20:48:56.388705+00:00",
+ "ts": "2026-11-19T21:43:15.570691+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 45824,
- "single_game_events": 704,
+ "events_total": 2070,
+ "sub_markets_total": 45792,
+ "single_game_events": 698,
  "event_keys": [
   "active",
   "archived",
@@ -24,7 +24,6 @@
   "estimateValue",
   "eventMetadata",
   "featured",
-  "featuredOrder",
   "gmpChartMode",
   "icon",
   "id",
@@ -66,9 +65,7 @@
   "archived",
   "automaticallyActive",
   "bestAsk",
-  "bestBid",
   "clearBookOnStart",
-  "clobRewards",
   "clobTokenIds",
   "closed",
   "comboStatus",
@@ -135,6 +132,7 @@
   "takerBaseFee",
   "tradingEligible",
   "umaBond",
+  "umaResolutionStatus",
   "umaResolutionStatuses",
   "umaReward",
   "updatedAt",
@@ -167,21 +165,21 @@
   "closed": "False",
   "archived": "False",
   "new": "False",
-  "featured": "True",
+  "featured": "False",
   "restricted": "True",
-  "liquidity": "1893631.9231",
-  "volume": "18394098.341901",
-  "openInterest": "2903760.596782",
+  "liquidity": "2004612.3779",
+  "volume": "19689647.88936",
+  "openInterest": "3337615.0937739997",
   "sortBy": "ascending",
   "createdAt": "2026-06-01T18:13:58.184763Z",
-  "updatedAt": "2026-11-19T20:43:15.884048Z",
-  "competitive": "0.9988790080332347",
-  "volume24hr": "7237980.410143",
-  "volume1wk": "12516866.195326999",
-  "volume1mo": "16397134.295431",
-  "volume1yr": "18325605.07737",
+  "updatedAt": "2026-11-19T21:41:16.054565Z",
+  "competitive": "0.8003199679231757",
+  "volume24hr": "8305508.063305",
+  "volume1wk": "13738019.971939001",
+  "volume1mo": "17628535.22016",
+  "volume1yr": "19565753.245273",
   "enableOrderBook": "True",
-  "liquidityClob": "1893631.9231",
+  "liquidityClob": "2004612.3779",
   "negRisk": "True",
   "negRiskMarketID": "0x4bcf7372694cb3ed70e31369f7602502cf80c6194e348bcba13c20b0a8936400",
   "commentCount": "0",
@@ -199,18 +197,18 @@
   "conditionId": "0x800376dc64e4e2376a495ed0df4a789192256c821bb4d1452acdd5931bca2fa5",
   "slug": "will-anthropics-market-cap-be-less-than-1pt25t-at-market-close-on-ipo-day",
   "endDate": "2028-01-01T04:59:00Z",
-  "liquidity": "25202.96667",
+  "liquidity": "211158.97282",
   "startDate": "2026-06-01T21:07:04.52879Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
   "description": "This market will resolve based on Anthropic's market capitalization at the closing price on its first day of trading.\n\nIf no IPO occurs by December 31, 2027, 11",
   "outcomes": "[\"Yes\", \"No\"]",
-  "outcomePrices": "[\"0.393\", \"0.607\"]",
-  "volume": "5651345.323450999",
+  "outcomePrices": "[\"0.0005\", \"0.9995\"]",
+  "volume": "6429755.465549999",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-06-01T18:13:58.593126Z",
-  "updatedAt": "2026-11-19T20:43:01.277422Z",
+  "updatedAt": "2026-11-19T21:41:02.048044Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -223,22 +221,22 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "5651345.323450999",
-  "liquidityNum": "25202.96667",
+  "umaResolutionStatus": "proposed",
+  "volumeNum": "6429755.465549999",
+  "liquidityNum": "211158.97282",
   "endDateIso": "2028-01-01",
   "startDateIso": "2026-06-01",
   "hasReviewedDates": "True",
-  "volume24hr": "3212352.335906",
-  "volume1wk": "4817144.52998",
-  "volume1mo": "5531740.644743",
-  "volume1yr": "5691032.456927999",
-  "clobTokenIds": "[\"112320928806010548033202438997015358299610795310513429342055221960679493917\", \"97835730826504088023775585649282026423448935249156759049180415585128284134832\"]",
-  "comboStatus": "disabled"
+  "volume24hr": "3920354.186835999",
+  "volume1wk": "5551198.343299",
+  "volume1mo": "6270758.613365001",
+  "volume1yr": "6430050.425550001",
+  "clobTokenIds": "[\"112320928806010548033202438997015358299610795310513429342055221960679493917\", \"97835730826504088023775585649282026423448935249156759049180415585128284134832\"]"
  },
  "multi_option_event": {
   "title": "Anthropic IPO Closing Market Cap",
   "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
-  "n_sub": 10,
+  "n_sub": 9,
   "sub_markets": [
    {
     "question": "Will Anthropic's market cap be less than $1.25T at market close on IPO day?",
@@ -246,7 +244,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.393\", \"0.607\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
@@ -255,7 +253,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.594\", \"0.406\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -264,7 +262,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0015\", \"0.9985\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
@@ -288,14 +286,14 @@
   ]
  },
  "category_distribution": {
-  "tech": 525,
-  "economy": 94,
+  "tech": 491,
+  "economy": 95,
   "sports": 702,
-  "politics": 273,
-  "geopolitics": 191,
-  "crypto": 137,
-  "culture": 103,
-  "(空)": 75
+  "politics": 276,
+  "geopolitics": 188,
+  "crypto": 140,
+  "culture": 104,
+  "(空)": 74
  },
  "tag_samples": [
   {
@@ -332,12 +330,11 @@
    ]
   },
   {
-   "title": "Pistons vs. Pelicans",
+   "title": "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils",
    "tags": [
+    "Tennis",
     "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
+    "Games"
    ]
   },
   {
@@ -347,14 +344,6 @@
     "NBA",
     "Games",
     "Basketball"
-   ]
-  },
-  {
-   "title": "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils",
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
    ]
   },
   {
@@ -378,33 +367,44 @@
     "Politics",
     "Global Elections"
    ]
+  },
+  {
+   "title": "Israel x Iran ceasefire continues through...?",
+   "tags": [
+    "Iran",
+    "Israel",
+    "Geopolitics",
+    "Israel x Iran",
+    "Israel Election",
+    "Iran Ceasefire"
+   ]
   }
  ],
  "top_titles": [
   "Anthropic IPO Closing Market Cap",
   "Anthropic IPO closing market cap above ___ ?",
   "Fed Decision in December?",
-  "Pistons vs. Pelicans",
-  "Warriors vs. Mavericks",
   "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils",
+  "Warriors vs. Mavericks",
   "Democratic Presidential Nominee 2028",
   "Next French Presidential Election",
   "Israel x Iran ceasefire continues through...?",
   "Jensen Huang rejoins NVIDIA by...?",
   "What price will Bitcoin hit in 2026?",
-  "What price will Bitcoin hit on November 19?",
   "Anthropic IPO Closing Market Cap (Middle Brackets)",
+  "What price will Bitcoin hit on November 19?",
   "Knicks vs. Timberwolves",
-  "Elon Musk # tweets November 13 - November 20, 2026?",
   "Colts vs. Texans",
   "What price will Bitcoin hit November 16-22?",
   "Will Anthropic’s valuation hit __ by December 31?",
+  "Elon Musk # tweets November 13 - November 20, 2026?",
   "NBA: 2027 Champion",
   "Warriors vs. Grizzlies",
-  "Next CEO of NVIDIA?",
-  "Presidential Election Winner 2028",
+  "Dota 2: CyberHero vs Froglings (BO3) - DreamLeague Division 2 Playoffs",
+  "Counter-Strike: GamerLegion vs BIG (BO3) - Stake Ranked Episode 6 Playoffs",
   "Clippers vs. Spurs",
-  "UEFA Champions League: 2027 Champion",
-  "What price will Bitcoin hit in November?"
+  "Champaign: Harry Wendelken vs Geoffrey Blancaneaux",
+  "Next CEO of NVIDIA?",
+  "Presidential Election Winner 2028"
  ]
 }
