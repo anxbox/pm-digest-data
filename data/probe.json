@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-19T13:57:03.783318+00:00",
+ "ts": "2026-11-19T14:48:24.266525+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 46238,
- "single_game_events": 728,
+ "sub_markets_total": 45833,
+ "single_game_events": 719,
  "event_keys": [
   "active",
   "archived",
@@ -169,19 +169,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "1960446.45866",
-  "volume": "14308210.548173",
-  "openInterest": "2662549.2488239994",
+  "liquidity": "2334960.72656",
+  "volume": "14499094.734923",
+  "openInterest": "2697535.993791",
   "sortBy": "ascending",
   "createdAt": "2026-06-01T18:13:58.184763Z",
-  "updatedAt": "2026-11-19T13:55:13.908523Z",
-  "competitive": "0.9998677674877497",
-  "volume24hr": "4805557.090962",
-  "volume1wk": "8542100.469789999",
-  "volume1mo": "12418990.711846",
-  "volume1yr": "14354758.139175",
+  "updatedAt": "2026-11-19T14:47:15.344971Z",
+  "competitive": "0.9999997500000625",
+  "volume24hr": "4970447.913773",
+  "volume1wk": "8727353.541171",
+  "volume1mo": "12604767.274426",
+  "volume1yr": "14549295.641755",
   "enableOrderBook": "True",
-  "liquidityClob": "1960446.45866",
+  "liquidityClob": "2334960.72656",
   "negRisk": "True",
   "negRiskMarketID": "0x4bcf7372694cb3ed70e31369f7602502cf80c6194e348bcba13c20b0a8936400",
   "commentCount": "0",
@@ -199,18 +199,18 @@
   "conditionId": "0x800376dc64e4e2376a495ed0df4a789192256c821bb4d1452acdd5931bca2fa5",
   "slug": "will-anthropics-market-cap-be-less-than-1pt25t-at-market-close-on-ipo-day",
   "endDate": "2028-01-01T04:59:00Z",
-  "liquidity": "85249.86347",
+  "liquidity": "138676.08499",
   "startDate": "2026-06-01T21:07:04.52879Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
   "description": "This market will resolve based on Anthropic's market capitalization at the closing price on its first day of trading.\n\nIf no IPO occurs by December 31, 2027, 11",
   "outcomes": "[\"Yes\", \"No\"]",
-  "outcomePrices": "[\"0.2445\", \"0.7555\"]",
-  "volume": "3457805.204493",
+  "outcomePrices": "[\"0.2595\", \"0.7405\"]",
+  "volume": "3522564.4339729995",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-06-01T18:13:58.593126Z",
-  "updatedAt": "2026-11-19T13:55:01.358849Z",
+  "updatedAt": "2026-11-19T14:47:01.439831Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -223,15 +223,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "3457805.204493",
-  "liquidityNum": "85249.86347",
+  "volumeNum": "3522564.4339729995",
+  "liquidityNum": "138676.08499",
   "endDateIso": "2028-01-01",
   "startDateIso": "2026-06-01",
   "hasReviewedDates": "True",
-  "volume24hr": "1529261.7802300001",
-  "volume1wk": "2653345.5963359997",
-  "volume1mo": "3329214.1805619993",
-  "volume1yr": "3487841.272747",
+  "volume24hr": "1572704.453984",
+  "volume1wk": "2695903.069622",
+  "volume1mo": "3375210.280118",
+  "volume1yr": "3533837.3723029997",
   "clobTokenIds": "[\"112320928806010548033202438997015358299610795310513429342055221960679493917\", \"97835730826504088023775585649282026423448935249156759049180415585128284134832\"]",
   "comboStatus": "disabled"
  },
@@ -246,7 +246,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.2445\", \"0.7555\"]",
+    "outcomePrices": "[\"0.2595\", \"0.7405\"]",
     "closed": "False"
    },
    {
@@ -255,7 +255,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.4895\", \"0.5105\"]",
+    "outcomePrices": "[\"0.4975\", \"0.5025\"]",
     "closed": "False"
    },
    {
@@ -264,7 +264,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.188\", \"0.812\"]",
+    "outcomePrices": "[\"0.1725\", \"0.8275\"]",
     "closed": "False"
    },
    {
@@ -273,7 +273,7 @@
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0455\", \"0.9545\"]",
+    "outcomePrices": "[\"0.0395\", \"0.9605\"]",
     "closed": "False"
    },
    {
@@ -282,20 +282,20 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0225\", \"0.9775\"]",
+    "outcomePrices": "[\"0.0165\", \"0.9835\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "tech": 522,
-  "sports": 722,
-  "economy": 96,
-  "politics": 286,
+  "tech": 527,
+  "sports": 710,
+  "economy": 97,
+  "politics": 285,
   "geopolitics": 179,
-  "crypto": 134,
-  "culture": 97,
-  "(空)": 64
+  "crypto": 139,
+  "culture": 96,
+  "(空)": 67
  },
  "tag_samples": [
   {
@@ -319,6 +319,17 @@
    ]
   },
   {
+   "title": "Anthropic IPO closing market cap above ___ ?",
+   "tags": [
+    "AI",
+    "IPO",
+    "IPOs",
+    "Finance",
+    "Big Tech",
+    "Claude 5"
+   ]
+  },
+  {
    "title": "Fed Decision in December?",
    "tags": [
     "Fed",
@@ -327,15 +338,6 @@
     "Economy",
     "Fed Rates",
     "Kevin Warsh"
-   ]
-  },
-  {
-   "title": "Wizards vs. Raptors",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   },
   {
@@ -348,23 +350,11 @@
    ]
   },
   {
-   "title": "Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs",
+   "title": "ATP World Tour Finals, John McEnroe Group: Ben Shelton vs Rafael Jodar",
    "tags": [
-    "Esports",
-    "counter strike 2",
-    "Games",
-    "Sports"
-   ]
-  },
-  {
-   "title": "Anthropic IPO closing market cap above ___ ?",
-   "tags": [
-    "AI",
-    "IPO",
-    "IPOs",
-    "Finance",
-    "Big Tech",
-    "Claude 5"
+    "Tennis",
+    "Sports",
+    "Games"
    ]
   },
   {
@@ -375,33 +365,44 @@
     "Games",
     "Basketball"
    ]
+  },
+  {
+   "title": "Democratic Presidential Nominee 2028",
+   "tags": [
+    "United States",
+    "Elections",
+    "Politics",
+    "US Election",
+    "World Elections",
+    "Earn 3.25%"
+   ]
   }
  ],
  "top_titles": [
   "Anthropic IPO Closing Market Cap",
   "Pistons vs. Pelicans",
-  "Fed Decision in December?",
-  "Wizards vs. Raptors",
-  "Warriors vs. Mavericks",
-  "Counter-Strike: GamerLegion vs Inner Circle Esports (BO3) - Stake Ranked Episode 6 Playoffs",
   "Anthropic IPO closing market cap above ___ ?",
+  "Fed Decision in December?",
+  "Warriors vs. Mavericks",
+  "ATP World Tour Finals, John McEnroe Group: Ben Shelton vs Rafael Jodar",
   "Bucks vs. Heat",
   "Democratic Presidential Nominee 2028",
   "Next French Presidential Election",
   "Israel x Iran ceasefire continues through...?",
   "What price will Bitcoin hit in 2026?",
   "Jensen Huang rejoins NVIDIA by...?",
-  "ATP World Tour Finals, John McEnroe Group: Ben Shelton vs Rafael Jodar",
   "Elon Musk # tweets November 13 - November 20, 2026?",
   "Next CEO of NVIDIA?",
   "What price will Bitcoin hit in November?",
   "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit November 16-22?",
   "NBA: 2027 Champion",
-  "Counter-Strike: Walczaki vs KUUSAMO.gg (BO3) - CCT Europe Closed Qualifier: Series #15 Group A",
+  "Counter-Strike: WBT vs MOUZ NXT (BO3) - European Pro League Playoffs",
   "Republican Presidential Nominee 2028",
   "Colts vs. Texans",
-  "Counter-Strike: WBT vs MOUZ NXT (BO3) - European Pro League Playoffs",
-  "Anthropic IPO by __?"
+  "Bitcoin above ___ on November 19?",
+  "Anthropic IPO by __?",
+  "Knicks vs. Timberwolves",
+  "Anthropic IPO Closing Market Cap (Middle Brackets)"
  ]
 }
