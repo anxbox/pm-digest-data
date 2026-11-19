@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-19T21:43:15.570691+00:00",
+ "ts": "2026-11-19T22:42:01.019602+00:00",
  "pages_fetched": 21,
- "events_total": 2070,
- "sub_markets_total": 45792,
- "single_game_events": 698,
+ "events_total": 2100,
+ "sub_markets_total": 46440,
+ "single_game_events": 691,
  "event_keys": [
   "active",
   "archived",
@@ -105,7 +105,6 @@
   "negRiskRequestID",
   "new",
   "oneDayPriceChange",
-  "oneHourPriceChange",
   "oneMonthPriceChange",
   "oneWeekPriceChange",
   "orderMinSize",
@@ -167,19 +166,19 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "2004612.3779",
-  "volume": "19689647.88936",
-  "openInterest": "3337615.0937739997",
+  "liquidity": "1886031.90389",
+  "volume": "19700635.53936",
+  "openInterest": "3335242.8401909997",
   "sortBy": "ascending",
   "createdAt": "2026-06-01T18:13:58.184763Z",
-  "updatedAt": "2026-11-19T21:41:16.054565Z",
+  "updatedAt": "2026-11-19T22:39:16.460483Z",
   "competitive": "0.8003199679231757",
-  "volume24hr": "8305508.063305",
-  "volume1wk": "13738019.971939001",
-  "volume1mo": "17628535.22016",
-  "volume1yr": "19565753.245273",
+  "volume24hr": "8174983.54899",
+  "volume1wk": "13734796.591646",
+  "volume1mo": "17638682.61016",
+  "volume1yr": "19575900.635273002",
   "enableOrderBook": "True",
-  "liquidityClob": "2004612.3779",
+  "liquidityClob": "1886031.90389",
   "negRisk": "True",
   "negRiskMarketID": "0x4bcf7372694cb3ed70e31369f7602502cf80c6194e348bcba13c20b0a8936400",
   "commentCount": "0",
@@ -197,18 +196,18 @@
   "conditionId": "0x800376dc64e4e2376a495ed0df4a789192256c821bb4d1452acdd5931bca2fa5",
   "slug": "will-anthropics-market-cap-be-less-than-1pt25t-at-market-close-on-ipo-day",
   "endDate": "2028-01-01T04:59:00Z",
-  "liquidity": "211158.97282",
+  "liquidity": "150310.99877",
   "startDate": "2026-06-01T21:07:04.52879Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
   "description": "This market will resolve based on Anthropic's market capitalization at the closing price on its first day of trading.\n\nIf no IPO occurs by December 31, 2027, 11",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.0005\", \"0.9995\"]",
-  "volume": "6429755.465549999",
+  "volume": "6434056.85555",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-06-01T18:13:58.593126Z",
-  "updatedAt": "2026-11-19T21:41:02.048044Z",
+  "updatedAt": "2026-11-19T22:37:01.331062Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -222,15 +221,15 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "proposed",
-  "volumeNum": "6429755.465549999",
-  "liquidityNum": "211158.97282",
+  "volumeNum": "6434056.85555",
+  "liquidityNum": "150310.99877",
   "endDateIso": "2028-01-01",
   "startDateIso": "2026-06-01",
   "hasReviewedDates": "True",
-  "volume24hr": "3920354.186835999",
-  "volume1wk": "5551198.343299",
-  "volume1mo": "6270758.613365001",
-  "volume1yr": "6430050.425550001",
+  "volume24hr": "3845571.9049139996",
+  "volume1wk": "5549777.241899",
+  "volume1mo": "6274765.043365001",
+  "volume1yr": "6434056.85555",
   "clobTokenIds": "[\"112320928806010548033202438997015358299610795310513429342055221960679493917\", \"97835730826504088023775585649282026423448935249156759049180415585128284134832\"]"
  },
  "multi_option_event": {
@@ -286,14 +285,14 @@
   ]
  },
  "category_distribution": {
-  "tech": 491,
-  "economy": 95,
-  "sports": 702,
-  "politics": 276,
-  "geopolitics": 188,
-  "crypto": 140,
-  "culture": 104,
-  "(空)": 74
+  "tech": 507,
+  "economy": 94,
+  "sports": 704,
+  "politics": 278,
+  "geopolitics": 190,
+  "crypto": 147,
+  "culture": 108,
+  "(空)": 72
  },
  "tag_samples": [
   {
@@ -330,31 +329,12 @@
    ]
   },
   {
-   "title": "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils",
-   "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
-   ]
-  },
-  {
    "title": "Warriors vs. Mavericks",
    "tags": [
     "Sports",
     "NBA",
     "Games",
     "Basketball"
-   ]
-  },
-  {
-   "title": "Democratic Presidential Nominee 2028",
-   "tags": [
-    "United States",
-    "Elections",
-    "Politics",
-    "US Election",
-    "World Elections",
-    "Earn 3.25%"
    ]
   },
   {
@@ -369,6 +349,17 @@
    ]
   },
   {
+   "title": "Democratic Presidential Nominee 2028",
+   "tags": [
+    "United States",
+    "Elections",
+    "Politics",
+    "US Election",
+    "World Elections",
+    "Earn 3.25%"
+   ]
+  },
+  {
    "title": "Israel x Iran ceasefire continues through...?",
    "tags": [
     "Iran",
@@ -378,33 +369,44 @@
     "Israel Election",
     "Iran Ceasefire"
    ]
+  },
+  {
+   "title": "What price will Bitcoin hit in 2026?",
+   "tags": [
+    "Bitcoin",
+    "Yearly",
+    "Hit Price",
+    "Crypto Prices",
+    "Crypto",
+    "Earn 3.25%"
+   ]
   }
  ],
  "top_titles": [
   "Anthropic IPO Closing Market Cap",
   "Anthropic IPO closing market cap above ___ ?",
   "Fed Decision in December?",
-  "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Arthur Fils",
   "Warriors vs. Mavericks",
-  "Democratic Presidential Nominee 2028",
   "Next French Presidential Election",
+  "Democratic Presidential Nominee 2028",
   "Israel x Iran ceasefire continues through...?",
-  "Jensen Huang rejoins NVIDIA by...?",
   "What price will Bitcoin hit in 2026?",
+  "Jensen Huang rejoins NVIDIA by...?",
+  "Counter-Strike: GamerLegion vs BIG (BO3) - Stake Ranked Episode 6 Playoffs",
   "Anthropic IPO Closing Market Cap (Middle Brackets)",
   "What price will Bitcoin hit on November 19?",
   "Knicks vs. Timberwolves",
-  "Colts vs. Texans",
-  "What price will Bitcoin hit November 16-22?",
   "Will Anthropic’s valuation hit __ by December 31?",
+  "What price will Bitcoin hit November 16-22?",
+  "Colts vs. Texans",
   "Elon Musk # tweets November 13 - November 20, 2026?",
-  "NBA: 2027 Champion",
   "Warriors vs. Grizzlies",
+  "NBA: 2027 Champion",
   "Dota 2: CyberHero vs Froglings (BO3) - DreamLeague Division 2 Playoffs",
-  "Counter-Strike: GamerLegion vs BIG (BO3) - Stake Ranked Episode 6 Playoffs",
   "Clippers vs. Spurs",
-  "Champaign: Harry Wendelken vs Geoffrey Blancaneaux",
+  "Presidential Election Winner 2028",
   "Next CEO of NVIDIA?",
-  "Presidential Election Winner 2028"
+  "FC Barcelona vs. Servette FC Chênois Féminin - More Markets",
+  "What price will Bitcoin hit in November?"
  ]
 }
