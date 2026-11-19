@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-19T03:11:08.036484+00:00",
+ "ts": "2026-11-19T04:20:41.843168+00:00",
  "pages_fetched": 21,
  "events_total": 2088,
- "sub_markets_total": 47591,
- "single_game_events": 646,
+ "sub_markets_total": 47555,
+ "single_game_events": 637,
  "event_keys": [
   "active",
   "archived",
@@ -173,18 +173,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "11820.078",
-  "volume": "4838225.783454",
-  "openInterest": "66514.86226999998",
+  "liquidity": "211.46457",
+  "volume": "4838418.420676",
+  "openInterest": "55285.671041",
   "createdAt": "2026-11-04T06:59:21.203896Z",
-  "updatedAt": "2026-11-19T03:09:17.111592Z",
-  "competitive": "0.8617716171639915",
-  "volume24hr": "4793656.257950001",
-  "volume1wk": "4836561.874418001",
-  "volume1mo": "4836561.874418001",
-  "volume1yr": "4836561.874418001",
+  "updatedAt": "2026-11-19T04:19:14.199403Z",
+  "competitive": "0.11065914217730835",
+  "volume24hr": "4769059.369584999",
+  "volume1wk": "4836622.941639999",
+  "volume1mo": "4836622.941639999",
+  "volume1yr": "4836622.941639999",
   "enableOrderBook": "True",
-  "liquidityClob": "11820.078",
+  "liquidityClob": "211.46457",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 523>",
@@ -214,7 +214,7 @@
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-04T06:59:21.456823Z",
-  "updatedAt": "2026-11-19T03:07:17.852531Z",
+  "updatedAt": "2026-11-19T04:07:15.487568Z",
   "closedTime": "2026-11-19 02:50:27.339854+00",
   "new": "False",
   "featured": "False",
@@ -233,73 +233,73 @@
   "endDateIso": "2026-11-19",
   "startDateIso": "2026-11-04",
   "hasReviewedDates": "True",
-  "volume24hr": "3366089.023395001",
-  "volume1wk": "3403455.531678001",
-  "volume1mo": "3403455.531678001",
-  "volume1yr": "3403455.531678001",
+  "volume24hr": "3352209.969667999",
+  "volume1wk": "3403455.531677999",
+  "volume1mo": "3403455.531677999",
+  "volume1yr": "3403455.531677999",
   "gameStartTime": "2026-11-19 00:00:00+00"
  },
  "multi_option_event": {
-  "title": "76ers vs. Magic",
-  "slug": "nba-phi-orl-2026-11-18",
-  "n_sub": 33,
+  "title": "Democratic Presidential Nominee 2028",
+  "slug": "democratic-presidential-nominee-2028",
+  "n_sub": 128,
   "sub_markets": [
    {
-    "question": "Anfernee Simons: Rebounds O/U 1.5",
-    "groupItemTitle": "Anfernee Simons: Rebounds O/U 1.5",
-    "groupItemThreshold": "3",
+    "question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+    "groupItemTitle": "Gavin Newsom",
+    "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.9005\", \"0.0995\"]",
+    "outcomePrices": "[\"0.1005\", \"0.8995\"]",
     "closed": "False"
    },
    {
-    "question": "Dean Wade: Assists O/U 1.5",
-    "groupItemTitle": "Dean Wade: Assists O/U 1.5",
-    "groupItemThreshold": "3",
+    "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
+    "groupItemTitle": "Alexandria Ocasio-Cortez",
+    "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.4695\", \"0.5305\"]",
+    "outcomePrices": "[\"0.1425\", \"0.8575\"]",
     "closed": "False"
    },
    {
-    "question": "Anthony Black: Rebounds O/U 1.5",
-    "groupItemTitle": "Anthony Black: Rebounds O/U 1.5",
-    "groupItemThreshold": "3",
+    "question": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
+    "groupItemTitle": "Pete Buttigieg",
+    "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.905\", \"0.095\"]",
+    "outcomePrices": "[\"0.0525\", \"0.9475\"]",
     "closed": "False"
    },
    {
-    "question": "Desmond Bane: Rebounds O/U 3.5",
-    "groupItemTitle": "Desmond Bane: Rebounds O/U 3.5",
+    "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
+    "groupItemTitle": "Josh Shapiro",
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.095\", \"0.905\"]",
+    "outcomePrices": "[\"0.0645\", \"0.9355\"]",
     "closed": "False"
    },
    {
-    "question": "Anthony Black: Assists O/U 5.5",
-    "groupItemTitle": "Anthony Black: Assists O/U 5.5",
-    "groupItemThreshold": "3",
+    "question": "Will Wes Moore win the 2028 Democratic presidential nomination?",
+    "groupItemTitle": "Wes Moore",
+    "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.905\", \"0.095\"]",
+    "outcomePrices": "[\"0.0195\", \"0.9805\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 684,
-  "politics": 313,
-  "economy": 97,
-  "tech": 491,
-  "geopolitics": 187,
-  "crypto": 149,
-  "culture": 100,
-  "(空)": 67
+  "sports": 681,
+  "politics": 316,
+  "economy": 98,
+  "tech": 487,
+  "geopolitics": 183,
+  "crypto": 153,
+  "culture": 104,
+  "(空)": 66
  },
  "tag_samples": [
   {
@@ -334,6 +334,15 @@
    ]
   },
   {
+   "title": "Pistons vs. Pelicans",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
    "title": "Anthropic IPO Closing Market Cap",
    "tags": [
     "Finance",
@@ -342,15 +351,6 @@
     "IPO",
     "Claude",
     "IPOs"
-   ]
-  },
-  {
-   "title": "Pistons vs. Pelicans",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   },
   {
@@ -387,27 +387,27 @@
   "76ers vs. Magic",
   "Democratic Presidential Nominee 2028",
   "Fed Decision in December?",
-  "Anthropic IPO Closing Market Cap",
   "Pistons vs. Pelicans",
+  "Anthropic IPO Closing Market Cap",
   "Republican Presidential Nominee 2028",
   "Wizards vs. Raptors",
   "Warriors vs. Mavericks",
-  "Next French Presidential Election",
   "Hawks vs. Thunder",
-  "Bucks vs. Heat",
-  "Grizzlies vs. Cavaliers",
-  "Israel x Iran ceasefire continues through...?",
   "Jazz vs. Lakers",
-  "Bulls vs. Nets",
   "Celtics vs. Nuggets",
-  "What price will Bitcoin hit on November 18?",
+  "Next French Presidential Election",
+  "Bucks vs. Heat",
   "Suns vs. Kings",
-  "Cruzeiro EC vs. SE Palmeiras",
+  "Israel x Iran ceasefire continues through...?",
+  "What price will Bitcoin hit on November 18?",
   "What price will Bitcoin hit in 2026?",
   "Elon Musk # tweets November 13 - November 20, 2026?",
   "Next CEO of NVIDIA?",
   "Jensen Huang rejoins NVIDIA by...?",
-  "Central Michigan vs. Buffalo",
-  "Akron vs. UMass"
+  "UEFA Champions League: 2027 Champion",
+  "What price will Bitcoin hit in November?",
+  "What price will Bitcoin hit November 16-22?",
+  "Colts vs. Texans",
+  "NBA: 2027 Champion"
  ]
 }
