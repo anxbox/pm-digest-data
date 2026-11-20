@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-20T22:39:59.011480+00:00",
+ "ts": "2026-11-20T23:28:07.194468+00:00",
  "pages_fetched": 21,
  "events_total": 2086,
- "sub_markets_total": 53261,
- "single_game_events": 821,
+ "sub_markets_total": 53322,
+ "single_game_events": 799,
  "event_keys": [
   "active",
   "archived",
@@ -72,10 +72,12 @@
   "approved",
   "archived",
   "automaticallyActive",
+  "automaticallyResolved",
   "bestAsk",
   "clearBookOnStart",
   "clobTokenIds",
   "closed",
+  "closedTime",
   "comboStatus",
   "competitive",
   "conditionId",
@@ -101,6 +103,7 @@
   "id",
   "lastTradePrice",
   "liquidity",
+  "liquidityAmm",
   "liquidityClob",
   "liquidityNum",
   "makerBaseFee",
@@ -138,6 +141,7 @@
   "takerBaseFee",
   "tradingEligible",
   "umaBond",
+  "umaEndDate",
   "umaResolutionStatus",
   "umaResolutionStatuses",
   "umaReward",
@@ -173,19 +177,19 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1247871.24515",
-  "volume": "5996923.732948001",
-  "openInterest": "4567694.940462995",
+  "liquidity": "92385.35131",
+  "volume": "5996933.742948",
+  "openInterest": "4567684.930462995",
   "createdAt": "2026-11-07T08:00:38.346917Z",
-  "updatedAt": "2026-11-20T22:39:28.823498Z",
+  "updatedAt": "2026-11-20T23:23:28.032714Z",
   "competitive": "0.8012794830785799",
-  "volume24hr": "5996923.7329480015",
-  "volume1wk": "5996923.7329480015",
-  "volume1mo": "5996923.7329480015",
-  "volume1yr": "5996923.7329480015",
+  "volume24hr": "5996933.742948",
+  "volume1wk": "5996933.742948",
+  "volume1mo": "5996933.742948",
+  "volume1yr": "5996933.742948",
   "parentEventId": "1330619",
   "enableOrderBook": "True",
-  "liquidityClob": "1247871.24515",
+  "liquidityClob": "92385.35131",
   "negRisk": "True",
   "negRiskMarketID": "0xc0d0a6ea9669ef723495d289e9032bdc3a447b42c9096e27a9f09edf9c0a6c00",
   "commentCount": "0",
@@ -203,16 +207,17 @@
   "conditionId": "0x025eb37a34144aff1081fa53834ce5178279b8b6736118566550d6f927fcb2c9",
   "slug": "fr2-rst-pau-2026-11-20-exact-score-0-0",
   "endDate": "2026-11-20T19:00:00Z",
-  "liquidity": "986760.33779",
+  "liquidity": "0",
   "startDate": "2026-11-07T08:01:24Z",
   "description": "In the upcoming Ligue 2 game between Red Star FC and Pau FC, originally scheduled for Friday, November 20, 2026 at 2:00 PM ET (as of creation of the first marke",
   "outcomes": "[\"Yes\", \"No\"]",
-  "outcomePrices": "[\"0.0005\", \"0.9995\"]",
-  "volume": "5985316.970256001",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "5985326.9802560005",
   "active": "True",
-  "closed": "False",
+  "closed": "True",
   "createdAt": "2026-11-07T08:00:38.457385Z",
-  "updatedAt": "2026-11-20T22:39:14.250847Z",
+  "updatedAt": "2026-11-20T23:21:27.260938Z",
+  "closedTime": "2026-11-20 23:21:19.718632+00",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -222,64 +227,27 @@
   "groupItemTitle": "Red Star FC 0 - 0 Pau FC",
   "groupItemThreshold": "0",
   "questionID": "0xc0d0a6ea9669ef723495d289e9032bdc3a447b42c9096e27a9f09edf9c0a6c00",
+  "umaEndDate": "2026-11-20 23:21:19.718632+00:00:00",
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "umaResolutionStatus": "proposed",
-  "volumeNum": "5985316.970256001",
-  "liquidityNum": "986760.33779",
+  "umaResolutionStatus": "resolved",
+  "volumeNum": "5985326.9802560005",
+  "liquidityNum": "0",
   "endDateIso": "2026-11-20",
   "startDateIso": "2026-11-07",
   "hasReviewedDates": "True",
-  "volume24hr": "5985316.970256001",
-  "volume1wk": "5985316.970256001",
-  "volume1mo": "5985316.970256001",
-  "volume1yr": "5985316.970256001",
-  "gameStartTime": "2026-11-20 19:00:00+00",
-  "secondsDelay": "1",
-  "clobTokenIds": "[\"74715875514923545201741736069124781174568012881864882217011625772613337574019\", \"2693984475799981578626876843405431281984449779686877484974349358412341807697\""
+  "volume24hr": "5985326.980256",
+  "volume1wk": "5985326.980256",
+  "volume1mo": "5985326.980256",
+  "volume1yr": "5985326.980256",
+  "gameStartTime": "2026-11-20 19:00:00+00"
  },
  "multi_option_event": {
   "title": "Red Star FC vs. Pau FC - Exact Score",
   "slug": "fr2-rst-pau-2026-11-20-exact-score",
-  "n_sub": 37,
+  "n_sub": 13,
   "sub_markets": [
-   {
-    "question": "Exact Score: Red Star FC 0 - 0 Pau FC?",
-    "groupItemTitle": "Red Star FC 0 - 0 Pau FC",
-    "groupItemThreshold": "0",
-    "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
-    "closed": "False"
-   },
-   {
-    "question": "Exact Score: Red Star FC 0 - 1 Pau FC?",
-    "groupItemTitle": "Red Star FC 0 - 1 Pau FC",
-    "groupItemThreshold": "1",
-    "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
-    "closed": "False"
-   },
-   {
-    "question": "Exact Score: Red Star FC 1 - 0 Pau FC?",
-    "groupItemTitle": "Red Star FC 1 - 0 Pau FC",
-    "groupItemThreshold": "2",
-    "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
-    "closed": "False"
-   },
-   {
-    "question": "Exact Score: Red Star FC 0 - 2 Pau FC?",
-    "groupItemTitle": "Red Star FC 0 - 2 Pau FC",
-    "groupItemThreshold": "3",
-    "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
-    "closed": "False"
-   },
    {
     "question": "Exact Score: Red Star FC 1 - 1 Pau FC?",
     "groupItemTitle": "Red Star FC 1 - 1 Pau FC",
@@ -288,18 +256,54 @@
     "outcomes": "[\"Yes\", \"No\"]",
     "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
+   },
+   {
+    "question": "Exact Score: Red Star FC 2 - 0 Pau FC?",
+    "groupItemTitle": "Red Star FC 2 - 0 Pau FC",
+    "groupItemThreshold": "5",
+    "shortTitle": "None",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
+    "closed": "False"
+   },
+   {
+    "question": "Exact Score: Red Star FC 1 - 2 Pau FC?",
+    "groupItemTitle": "Red Star FC 1 - 2 Pau FC",
+    "groupItemThreshold": "7",
+    "shortTitle": "None",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
+    "closed": "False"
+   },
+   {
+    "question": "Exact Score: Red Star FC 2 - 1 Pau FC?",
+    "groupItemTitle": "Red Star FC 2 - 1 Pau FC",
+    "groupItemThreshold": "8",
+    "shortTitle": "None",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+    "closed": "False"
+   },
+   {
+    "question": "Exact Score: Red Star FC 3 - 0 Pau FC?",
+    "groupItemTitle": "Red Star FC 3 - 0 Pau FC",
+    "groupItemThreshold": "9",
+    "shortTitle": "None",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
+    "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 789,
-  "economy": 93,
+  "sports": 778,
+  "economy": 94,
   "geopolitics": 168,
-  "crypto": 138,
-  "politics": 304,
-  "tech": 461,
-  "culture": 85,
-  "(空)": 48
+  "crypto": 145,
+  "politics": 308,
+  "tech": 455,
+  "culture": 88,
+  "(空)": 50
  },
  "tag_samples": [
   {
@@ -334,6 +338,15 @@
    ]
   },
   {
+   "title": "Wizards vs. Bulls",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
    "title": "What price will Bitcoin hit in 2026?",
    "tags": [
     "Bitcoin",
@@ -356,12 +369,11 @@
    ]
   },
   {
-   "title": "Wizards vs. Bulls",
+   "title": "Iowa State vs. UCF",
    "tags": [
     "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
+    "CFB (All)",
+    "Games"
    ]
   },
   {
@@ -374,42 +386,31 @@
     "Crypto Prices",
     "Recurring"
    ]
-  },
-  {
-   "title": "Next French Presidential Election",
-   "tags": [
-    "French Election",
-    "Main Election",
-    "France",
-    "World",
-    "Politics",
-    "Global Elections"
-   ]
   }
  ],
  "top_titles": [
   "Red Star FC vs. Pau FC - Exact Score",
   "Fed Decision in December?",
   "Israel x Iran ceasefire continues through...?",
+  "Wizards vs. Bulls",
   "What price will Bitcoin hit in 2026?",
   "Democratic Presidential Nominee 2028",
-  "Wizards vs. Bulls",
+  "Iowa State vs. UCF",
   "What price will Bitcoin hit in November?",
   "Next French Presidential Election",
   "Dota 2: Inner Circle vs CyberHero (BO5) - DreamLeague Division 2 Playoffs",
+  "Hornets vs. Hawks",
   "Republican Presidential Nominee 2028",
   "What price will Bitcoin hit on November 20?",
-  "Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs",
   "Jensen Huang rejoins NVIDIA by...?",
-  "Hornets vs. Hawks",
   "Clarity Act (H.R.3633) signed into law in 2026?",
-  "Will Anthropic’s valuation hit __ by December 31?",
-  "Presidential Election Winner 2028",
   "Suns vs. Jazz",
-  "Iowa State vs. UCF",
-  "What price will Bitcoin hit November 16-22?",
+  "Presidential Election Winner 2028",
+  "Will Anthropic’s valuation hit __ by December 31?",
   "Pacers vs. Cavaliers",
+  "What price will Bitcoin hit November 16-22?",
   "Raptors vs. Pistons",
+  "Colina: Guiomar Maristany vs Andrea Lazaro Garcia",
   "Bitcoin above ___ on November 21?",
   "Next CEO of NVIDIA?",
   "FC Porto vs. USC Paredes - More Markets"
