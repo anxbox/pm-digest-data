@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-20T01:51:52.824537+00:00",
+ "ts": "2026-11-20T02:45:32.442112+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 47916,
- "single_game_events": 688,
+ "events_total": 2098,
+ "sub_markets_total": 47834,
+ "single_game_events": 698,
  "event_keys": [
   "active",
   "archived",
@@ -161,19 +161,19 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "55203.86338",
-  "volume": "5381362.03651",
-  "openInterest": "132777.49254600002",
+  "liquidity": "36572.26147",
+  "volume": "5386486.30151",
+  "openInterest": "112392.85645499997",
   "sortBy": "ascending",
   "createdAt": "2026-08-25T21:28:55.035024Z",
-  "updatedAt": "2026-11-20T01:45:15.916821Z",
-  "competitive": "0.8003199679231757",
-  "volume24hr": "5098584.625877",
-  "volume1wk": "5286348.823406",
-  "volume1mo": "5360813.893777",
-  "volume1yr": "5381362.03651",
+  "updatedAt": "2026-11-20T02:41:18.692182Z",
+  "competitive": "0.8025579125789717",
+  "volume24hr": "5071665.445879",
+  "volume1wk": "5291440.088406",
+  "volume1mo": "5365938.158777",
+  "volume1yr": "5386486.301510001",
   "enableOrderBook": "True",
-  "liquidityClob": "55203.86338",
+  "liquidityClob": "36572.26147",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 16>",
@@ -202,7 +202,7 @@
   "active": "True",
   "closed": "True",
   "createdAt": "2026-08-25T21:28:56.111716Z",
-  "updatedAt": "2026-11-20T01:37:15.490525Z",
+  "updatedAt": "2026-11-20T02:37:18.161933Z",
   "closedTime": "2026-11-19 23:12:01.827028+00",
   "new": "False",
   "featured": "False",
@@ -221,16 +221,16 @@
   "endDateIso": "2028-01-01",
   "startDateIso": "2026-08-25",
   "hasReviewedDates": "True",
-  "volume24hr": "320309.425733",
-  "volume1wk": "390836.292681",
-  "volume1mo": "416017.194281",
+  "volume24hr": "308204.54507099994",
+  "volume1wk": "390836.29268099996",
+  "volume1mo": "416017.19428099995",
   "volume1yr": "419607.797767",
   "clobTokenIds": "[\"52511106538309758320785822679064512584902994979393627814320253612101718719917\", \"11352175872125970510405883997493183334964925602386183746641101392035464709809"
  },
  "multi_option_event": {
   "title": "Warriors vs. Grizzlies",
   "slug": "nba-gsw-mem-2026-11-19",
-  "n_sub": 505,
+  "n_sub": 404,
   "sub_markets": [
    {
     "question": "Warriors vs. Grizzlies",
@@ -238,7 +238,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Warriors\", \"Grizzlies\"]",
-    "outcomePrices": "[\"0.175\", \"0.825\"]",
+    "outcomePrices": "[\"0.045\", \"0.955\"]",
     "closed": "False"
    },
    {
@@ -247,7 +247,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Grizzlies\", \"Warriors\"]",
-    "outcomePrices": "[\"0.615\", \"0.385\"]",
+    "outcomePrices": "[\"0.81\", \"0.19\"]",
     "closed": "False"
    },
    {
@@ -256,7 +256,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.6\", \"0.4\"]",
+    "outcomePrices": "[\"0.44\", \"0.56\"]",
     "closed": "False"
    },
    {
@@ -265,7 +265,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Grizzlies\", \"Warriors\"]",
-    "outcomePrices": "[\"0.645\", \"0.355\"]",
+    "outcomePrices": "[\"0.845\", \"0.155\"]",
     "closed": "False"
    },
    {
@@ -274,20 +274,20 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.64\", \"0.36\"]",
+    "outcomePrices": "[\"0.51\", \"0.49\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "tech": 495,
-  "sports": 703,
-  "economy": 94,
-  "politics": 282,
-  "crypto": 146,
-  "geopolitics": 199,
-  "culture": 107,
-  "(空)": 74
+  "tech": 491,
+  "sports": 709,
+  "economy": 96,
+  "politics": 278,
+  "crypto": 149,
+  "geopolitics": 195,
+  "culture": 104,
+  "(空)": 76
  },
  "tag_samples": [
   {
@@ -379,20 +379,20 @@
   "Next French Presidential Election",
   "Democratic Presidential Nominee 2028",
   "What price will Bitcoin hit in 2026?",
-  "Jensen Huang rejoins NVIDIA by...?",
   "What price will Bitcoin hit on November 19?",
+  "Jensen Huang rejoins NVIDIA by...?",
   "Israel x Iran ceasefire continues through...?",
-  "Warriors vs. Mavericks",
   "Will Anthropic’s valuation hit __ by December 31?",
-  "Elon Musk # tweets November 13 - November 20, 2026?",
   "Canadiens vs. Hurricanes",
+  "Elon Musk # tweets November 13 - November 20, 2026?",
   "NBA: 2027 Champion",
-  "What price will Bitcoin hit November 16-22?",
-  "Presidential Election Winner 2028",
   "What price will Bitcoin hit in November?",
+  "What price will Bitcoin hit November 16-22?",
   "Bitcoin above ___ on November 20?",
-  "US announces end of Iranian blockade by...?",
-  "CR Vasco da Gama vs. SC Internacional - More Markets",
-  "Largest IPO by market cap in 2026?"
+  "Presidential Election Winner 2028",
+  "Warriors vs. Mavericks",
+  "Sydney: Tristan Schoolkate vs Li Tu",
+  "Ducks vs. Avalanche",
+  "US announces end of Iranian blockade by...?"
  ]
 }
