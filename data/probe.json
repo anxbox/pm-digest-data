@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-20T21:40:10.423188+00:00",
+ "ts": "2026-11-20T22:39:59.011480+00:00",
  "pages_fetched": 21,
- "events_total": 2070,
- "sub_markets_total": 52744,
- "single_game_events": 830,
+ "events_total": 2086,
+ "sub_markets_total": 53261,
+ "single_game_events": 821,
  "event_keys": [
   "active",
   "archived",
@@ -112,7 +112,6 @@
   "negRiskRequestID",
   "new",
   "oneDayPriceChange",
-  "oneHourPriceChange",
   "oneWeekPriceChange",
   "orderMinSize",
   "orderPriceMinTickSize",
@@ -174,19 +173,19 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1201512.1956",
-  "volume": "5980430.611605999",
-  "openInterest": "4567694.919163001",
+  "liquidity": "1247871.24515",
+  "volume": "5996923.732948001",
+  "openInterest": "4567694.940462995",
   "createdAt": "2026-11-07T08:00:38.346917Z",
-  "updatedAt": "2026-11-20T21:37:47.180676Z",
+  "updatedAt": "2026-11-20T22:39:28.823498Z",
   "competitive": "0.8012794830785799",
-  "volume24hr": "5992816.732948001",
-  "volume1wk": "5992816.732948001",
-  "volume1mo": "5992816.732948001",
-  "volume1yr": "5992816.732948001",
+  "volume24hr": "5996923.7329480015",
+  "volume1wk": "5996923.7329480015",
+  "volume1mo": "5996923.7329480015",
+  "volume1yr": "5996923.7329480015",
   "parentEventId": "1330619",
   "enableOrderBook": "True",
-  "liquidityClob": "1201512.1956",
+  "liquidityClob": "1247871.24515",
   "negRisk": "True",
   "negRiskMarketID": "0xc0d0a6ea9669ef723495d289e9032bdc3a447b42c9096e27a9f09edf9c0a6c00",
   "commentCount": "0",
@@ -204,16 +203,16 @@
   "conditionId": "0x025eb37a34144aff1081fa53834ce5178279b8b6736118566550d6f927fcb2c9",
   "slug": "fr2-rst-pau-2026-11-20-exact-score-0-0",
   "endDate": "2026-11-20T19:00:00Z",
-  "liquidity": "1000573.24409",
+  "liquidity": "986760.33779",
   "startDate": "2026-11-07T08:01:24Z",
   "description": "In the upcoming Ligue 2 game between Red Star FC and Pau FC, originally scheduled for Friday, November 20, 2026 at 2:00 PM ET (as of creation of the first marke",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.0005\", \"0.9995\"]",
-  "volume": "5984216.970256001",
+  "volume": "5985316.970256001",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-07T08:00:38.457385Z",
-  "updatedAt": "2026-11-20T21:37:30.307521Z",
+  "updatedAt": "2026-11-20T22:39:14.250847Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -227,15 +226,15 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "proposed",
-  "volumeNum": "5984216.970256001",
-  "liquidityNum": "1000573.24409",
+  "volumeNum": "5985316.970256001",
+  "liquidityNum": "986760.33779",
   "endDateIso": "2026-11-20",
   "startDateIso": "2026-11-07",
   "hasReviewedDates": "True",
-  "volume24hr": "5984216.970256001",
-  "volume1wk": "5984216.970256001",
-  "volume1mo": "5984216.970256001",
-  "volume1yr": "5984216.970256001",
+  "volume24hr": "5985316.970256001",
+  "volume1wk": "5985316.970256001",
+  "volume1mo": "5985316.970256001",
+  "volume1yr": "5985316.970256001",
   "gameStartTime": "2026-11-20 19:00:00+00",
   "secondsDelay": "1",
   "clobTokenIds": "[\"74715875514923545201741736069124781174568012881864882217011625772613337574019\", \"2693984475799981578626876843405431281984449779686877484974349358412341807697\""
@@ -293,14 +292,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 790,
-  "economy": 95,
-  "geopolitics": 162,
+  "sports": 789,
+  "economy": 93,
+  "geopolitics": 168,
   "crypto": 138,
-  "politics": 292,
-  "tech": 462,
-  "culture": 84,
-  "(空)": 47
+  "politics": 304,
+  "tech": 461,
+  "culture": 85,
+  "(空)": 48
  },
  "tag_samples": [
   {
@@ -321,24 +320,6 @@
     "Economy",
     "Fed Rates",
     "Kevin Warsh"
-   ]
-  },
-  {
-   "title": "FC Bayern München vs. 1. FC Köln",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "Bundesliga"
-   ]
-  },
-  {
-   "title": "FC Bayern München vs. 1. FC Köln - More Markets",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "Bundesliga"
    ]
   },
   {
@@ -364,15 +345,6 @@
    ]
   },
   {
-   "title": "Wizards vs. Bulls",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
    "title": "Democratic Presidential Nominee 2028",
    "tags": [
     "United States",
@@ -382,33 +354,64 @@
     "World Elections",
     "Earn 3.25%"
    ]
+  },
+  {
+   "title": "Wizards vs. Bulls",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
+   "title": "What price will Bitcoin hit in November?",
+   "tags": [
+    "Bitcoin",
+    "Monthly",
+    "Hit Price",
+    "Crypto",
+    "Crypto Prices",
+    "Recurring"
+   ]
+  },
+  {
+   "title": "Next French Presidential Election",
+   "tags": [
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
+    "Politics",
+    "Global Elections"
+   ]
   }
  ],
  "top_titles": [
   "Red Star FC vs. Pau FC - Exact Score",
   "Fed Decision in December?",
-  "FC Bayern München vs. 1. FC Köln",
-  "FC Bayern München vs. 1. FC Köln - More Markets",
   "Israel x Iran ceasefire continues through...?",
   "What price will Bitcoin hit in 2026?",
-  "Wizards vs. Bulls",
   "Democratic Presidential Nominee 2028",
-  "Dota 2: Inner Circle vs CyberHero (BO5) - DreamLeague Division 2 Playoffs",
+  "Wizards vs. Bulls",
   "What price will Bitcoin hit in November?",
-  "Republican Presidential Nominee 2028",
   "Next French Presidential Election",
+  "Dota 2: Inner Circle vs CyberHero (BO5) - DreamLeague Division 2 Playoffs",
+  "Republican Presidential Nominee 2028",
   "What price will Bitcoin hit on November 20?",
+  "Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs",
   "Jensen Huang rejoins NVIDIA by...?",
   "Hornets vs. Hawks",
-  "Will Anthropic’s valuation hit __ by December 31?",
-  "Counter-Strike: Sinners vs Metizport (BO3) - RUSH Brno Playoffs",
   "Clarity Act (H.R.3633) signed into law in 2026?",
+  "Will Anthropic’s valuation hit __ by December 31?",
   "Presidential Election Winner 2028",
   "Suns vs. Jazz",
+  "Iowa State vs. UCF",
   "What price will Bitcoin hit November 16-22?",
-  "Raptors vs. Pistons",
   "Pacers vs. Cavaliers",
-  "Athletic Club vs. RCD Espanyol de Barcelona",
-  "Athletic Club vs. RCD Espanyol de Barcelona - More Markets"
+  "Raptors vs. Pistons",
+  "Bitcoin above ___ on November 21?",
+  "Next CEO of NVIDIA?",
+  "FC Porto vs. USC Paredes - More Markets"
  ]
 }
