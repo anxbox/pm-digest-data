@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-19T23:37:32.463642+00:00",
+ "ts": "2026-11-20T00:25:16.578986+00:00",
  "pages_fetched": 21,
- "events_total": 2098,
- "sub_markets_total": 47331,
- "single_game_events": 686,
+ "events_total": 2056,
+ "sub_markets_total": 47052,
+ "single_game_events": 656,
  "event_keys": [
   "active",
   "archived",
@@ -165,19 +165,19 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "359163.04558",
-  "volume": "19767519.84936",
-  "openInterest": "1263715.9446790004",
+  "liquidity": "359053.50045",
+  "volume": "19768666.32936",
+  "openInterest": "1206910.2314100002",
   "sortBy": "ascending",
   "createdAt": "2026-06-01T18:13:58.184763Z",
-  "updatedAt": "2026-11-19T23:37:15.974179Z",
+  "updatedAt": "2026-11-20T00:11:19.635788Z",
   "competitive": "0.8003199679231757",
-  "volume24hr": "8087835.750367001",
-  "volume1wk": "13795245.491646001",
-  "volume1mo": "17705348.710160002",
-  "volume1yr": "19642771.525273",
+  "volume24hr": "7963286.285755002",
+  "volume1wk": "13741434.659664001",
+  "volume1mo": "17706456.07016",
+  "volume1yr": "19643878.885273002",
   "enableOrderBook": "True",
-  "liquidityClob": "359163.04558",
+  "liquidityClob": "359053.50045",
   "negRisk": "True",
   "negRiskMarketID": "0x4bcf7372694cb3ed70e31369f7602502cf80c6194e348bcba13c20b0a8936400",
   "commentCount": "0",
@@ -205,7 +205,7 @@
   "active": "True",
   "closed": "True",
   "createdAt": "2026-06-01T18:13:58.593126Z",
-  "updatedAt": "2026-11-19T23:37:15.156275Z",
+  "updatedAt": "2026-11-20T00:07:15.757844Z",
   "closedTime": "2026-11-19 23:07:43.560842+00",
   "new": "False",
   "featured": "False",
@@ -225,10 +225,10 @@
   "endDateIso": "2028-01-01",
   "startDateIso": "2026-06-01",
   "hasReviewedDates": "True",
-  "volume24hr": "3697089.271444",
+  "volume24hr": "3680858.655271001",
   "volume1wk": "5562777.241899",
-  "volume1mo": "6287765.043365",
-  "volume1yr": "6447056.8555499995",
+  "volume1mo": "6287765.043365001",
+  "volume1yr": "6447056.85555",
   "clobTokenIds": "[\"112320928806010548033202438997015358299610795310513429342055221960679493917\", \"97835730826504088023775585649282026423448935249156759049180415585128284134832\"]"
  },
  "multi_option_event": {
@@ -242,7 +242,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
+    "outcomePrices": "[\"0.0015\", \"0.9985\"]",
     "closed": "False"
    },
    {
@@ -269,7 +269,7 @@
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.915\", \"0.085\"]",
+    "outcomePrices": "[\"0.925\", \"0.075\"]",
     "closed": "False"
    },
    {
@@ -284,14 +284,14 @@
   ]
  },
  "category_distribution": {
-  "tech": 502,
-  "economy": 93,
-  "sports": 706,
-  "politics": 282,
-  "crypto": 141,
-  "geopolitics": 193,
-  "culture": 107,
-  "(空)": 74
+  "tech": 482,
+  "economy": 92,
+  "sports": 682,
+  "politics": 288,
+  "geopolitics": 192,
+  "crypto": 142,
+  "culture": 105,
+  "(空)": 73
  },
  "tag_samples": [
   {
@@ -337,6 +337,15 @@
    ]
   },
   {
+   "title": "Knicks vs. Timberwolves",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
    "title": "Next French Presidential Election",
    "tags": [
     "French Election",
@@ -345,6 +354,15 @@
     "World",
     "Politics",
     "Global Elections"
+   ]
+  },
+  {
+   "title": "Warriors vs. Grizzlies",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
    ]
   },
   {
@@ -357,28 +375,6 @@
     "World Elections",
     "Earn 3.25%"
    ]
-  },
-  {
-   "title": "What price will Bitcoin hit in 2026?",
-   "tags": [
-    "Bitcoin",
-    "Yearly",
-    "Hit Price",
-    "Crypto Prices",
-    "Crypto",
-    "Earn 3.25%"
-   ]
-  },
-  {
-   "title": "Israel x Iran ceasefire continues through...?",
-   "tags": [
-    "Iran",
-    "Israel",
-    "Geopolitics",
-    "Israel x Iran",
-    "Israel Election",
-    "Iran Ceasefire"
-   ]
   }
  ],
  "top_titles": [
@@ -386,26 +382,26 @@
   "Anthropic IPO closing market cap above ___ ?",
   "Fed Decision in December?",
   "Warriors vs. Mavericks",
+  "Knicks vs. Timberwolves",
   "Next French Presidential Election",
+  "Warriors vs. Grizzlies",
   "Democratic Presidential Nominee 2028",
-  "What price will Bitcoin hit in 2026?",
   "Israel x Iran ceasefire continues through...?",
+  "What price will Bitcoin hit in 2026?",
   "Jensen Huang rejoins NVIDIA by...?",
   "What price will Bitcoin hit on November 19?",
-  "Knicks vs. Timberwolves",
   "Clippers vs. Spurs",
-  "Colts vs. Texans",
   "Will Anthropic’s valuation hit __ by December 31?",
-  "Warriors vs. Grizzlies",
   "Elon Musk # tweets November 13 - November 20, 2026?",
-  "What price will Bitcoin hit November 16-22?",
   "NBA: 2027 Champion",
-  "Next CEO of NVIDIA?",
-  "Presidential Election Winner 2028",
-  "FC Barcelona vs. Servette FC Chênois Féminin - More Markets",
-  "What price will Bitcoin hit in November?",
   "Montevideo: Henrique Rocha vs Guido Justo",
+  "What price will Bitcoin hit November 16-22?",
+  "Canadiens vs. Hurricanes",
   "Champaign: Jordan Lee vs Andres Martin",
-  "US announces end of Iranian blockade by...?"
+  "Colts vs. Texans",
+  "Presidential Election Winner 2028",
+  "Next CEO of NVIDIA?",
+  "What price will Bitcoin hit in November?",
+  "Bitcoin above ___ on November 20?"
  ]
 }
