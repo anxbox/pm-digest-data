@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-21T14:27:13.988830+00:00",
+ "ts": "2026-11-21T15:24:33.082912+00:00",
  "pages_fetched": 21,
- "events_total": 2070,
- "sub_markets_total": 50896,
- "single_game_events": 947,
+ "events_total": 2053,
+ "sub_markets_total": 51563,
+ "single_game_events": 968,
  "event_keys": [
   "active",
   "archived",
@@ -167,19 +167,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "1997263.97419",
-  "volume": "48616221.117693",
-  "openInterest": "7793080.767228001",
+  "liquidity": "2045979.31197",
+  "volume": "48621049.432844",
+  "openInterest": "7794572.980328",
   "sortBy": "ascending",
   "createdAt": "2026-07-30T00:36:56.42426Z",
-  "updatedAt": "2026-11-21T14:23:31.316726Z",
+  "updatedAt": "2026-11-21T15:19:30.32615Z",
   "competitive": "0.8709094471902284",
-  "volume24hr": "3501623.3437289996",
-  "volume1wk": "14967780.506839",
-  "volume1mo": "44434834.322440006",
-  "volume1yr": "48619228.570595995",
+  "volume24hr": "3416677.812949",
+  "volume1wk": "14918906.248373",
+  "volume1mo": "44446780.978819005",
+  "volume1yr": "48633679.796974994",
   "enableOrderBook": "True",
-  "liquidityClob": "1997263.97419",
+  "liquidityClob": "2045979.31197",
   "negRisk": "True",
   "negRiskMarketID": "0xa74f5328517db0e030a5e62edc800e37bd36ca6e455571b14e8bb2b0dd38d700",
   "commentCount": "0",
@@ -198,18 +198,18 @@
   "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
   "resolutionSource": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
   "endDate": "2026-12-09T23:59:00Z",
-  "liquidity": "212008.44991",
+  "liquidity": "207333.57011",
   "startDate": "2026-07-30T00:53:15.730668Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "description": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.0045\", \"0.9955\"]",
-  "volume": "7822282.785736001",
+  "volume": "7822282.785735998",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-07-30T00:36:56.830135Z",
-  "updatedAt": "2026-11-21T14:23:13.939249Z",
+  "updatedAt": "2026-11-21T15:19:13.498683Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -222,15 +222,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "7822282.785736001",
-  "liquidityNum": "212008.44991",
+  "volumeNum": "7822282.785735998",
+  "liquidityNum": "207333.57011",
   "endDateIso": "2026-12-09",
   "startDateIso": "2026-07-30",
   "hasReviewedDates": "True",
-  "volume24hr": "242649.16575899997",
-  "volume1wk": "2984838.238351",
-  "volume1mo": "7075864.041302001",
-  "volume1yr": "7822282.785735999",
+  "volume24hr": "239732.652425",
+  "volume1wk": "2986222.238351",
+  "volume1mo": "7077868.041302001",
+  "volume1yr": "7824286.785735999",
   "clobTokenIds": "[\"17640596861394454242836532536014033416733783473450136742726948856144855149507\", \"10423673626377530789149720287419191120396356671195972578858475044053097674219"
  },
  "multi_option_event": {
@@ -253,7 +253,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0075\", \"0.9925\"]",
+    "outcomePrices": "[\"0.009\", \"0.991\"]",
     "closed": "False"
    },
    {
@@ -262,7 +262,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0805\", \"0.9195\"]",
+    "outcomePrices": "[\"0.079\", \"0.921\"]",
     "closed": "False"
    },
    {
@@ -286,14 +286,14 @@
   ]
  },
  "category_distribution": {
-  "economy": 82,
+  "economy": 76,
   "crypto": 144,
-  "sports": 911,
-  "geopolitics": 144,
-  "politics": 252,
-  "tech": 395,
+  "sports": 930,
+  "geopolitics": 141,
+  "politics": 244,
+  "tech": 379,
   "culture": 88,
-  "(空)": 54
+  "(空)": 51
  },
  "tag_samples": [
   {
@@ -319,12 +319,13 @@
    ]
   },
   {
-   "title": "Dota 2: Aurora vs Astra Invicta (BO3) - BLAST Slam Group D",
+   "title": "AFC Bournemouth vs. Nottingham Forest FC",
    "tags": [
-    "Esports",
-    "Dota 2",
+    "Sports",
     "Games",
-    "Sports"
+    "Soccer",
+    "Premier League",
+    "EPL"
    ]
   },
   {
@@ -334,6 +335,24 @@
     "NBA",
     "Games",
     "Basketball"
+   ]
+  },
+  {
+   "title": "Tottenham Hotspur FC vs. Ipswich Town FC",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "Premier League",
+    "EPL"
+   ]
+  },
+  {
+   "title": "ATP World Tour Finals, Final Stage: Carlos Alcaraz vs Ben Shelton",
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
    ]
   },
   {
@@ -348,62 +367,40 @@
    ]
   },
   {
-   "title": "Manchester City FC vs. Fulham FC",
+   "title": "Dota 2: Team Nemesis vs GamerLegion (BO3) - BLAST Slam Group B",
    "tags": [
-    "Sports",
+    "Esports",
+    "Dota 2",
     "Games",
-    "Soccer",
-    "Premier League",
-    "EPL"
-   ]
-  },
-  {
-   "title": "Manchester City FC vs. Fulham FC - More Markets",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "Premier League",
-    "EPL"
-   ]
-  },
-  {
-   "title": "Israel x Iran ceasefire continues through...?",
-   "tags": [
-    "Iran",
-    "Israel",
-    "Geopolitics",
-    "Israel x Iran",
-    "Israel Election",
-    "Iran Ceasefire"
+    "Sports"
    ]
   }
  ],
  "top_titles": [
   "Fed Decision in December?",
   "What price will Bitcoin hit in 2026?",
-  "Dota 2: Aurora vs Astra Invicta (BO3) - BLAST Slam Group D",
+  "AFC Bournemouth vs. Nottingham Forest FC",
   "Pelicans vs. Thunder",
+  "Tottenham Hotspur FC vs. Ipswich Town FC",
+  "ATP World Tour Finals, Final Stage: Carlos Alcaraz vs Ben Shelton",
   "What price will Bitcoin hit in November?",
-  "Manchester City FC vs. Fulham FC",
-  "Manchester City FC vs. Fulham FC - More Markets",
+  "Dota 2: Team Nemesis vs GamerLegion (BO3) - BLAST Slam Group B",
   "Israel x Iran ceasefire continues through...?",
   "What price will Bitcoin hit November 16-22?",
-  "Democratic Presidential Nominee 2028",
   "Republican Presidential Nominee 2028",
   "Next French Presidential Election",
-  "Bitcoin above ___ on November 21?",
-  "ATP World Tour Finals, Final Stage: Carlos Alcaraz vs Ben Shelton",
-  "Dota 2: Team Nemesis vs GamerLegion (BO3) - BLAST Slam Group B",
-  "What price will Bitcoin hit on November 21?",
   "Chelsea FC vs. Leeds United FC",
-  "Jensen Huang rejoins NVIDIA by...?",
+  "Democratic Presidential Nominee 2028",
+  "Bitcoin above ___ on November 21?",
+  "What price will Bitcoin hit on November 21?",
+  "Deportivo Alavés vs. RC Deportivo A Coruña - More Markets",
   "NBA: 2027 Champion",
-  "What price will Ethereum hit in 2026?",
-  "PGL Major Singapore 2026: Winner",
-  "UEFA Champions League: 2027 Champion",
+  "Jensen Huang rejoins NVIDIA by...?",
   "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",
-  "Elon Musk # tweets November 19 - November 21, 2026?",
-  "Will China invade Taiwan by end of 2026?"
+  "PGL Major Singapore 2026: Winner",
+  "What price will Ethereum hit in 2026?",
+  "UEFA Champions League: 2027 Champion",
+  "Counter-Strike: Alliance vs Envy (BO3) - RUSH Brno Playoffs",
+  "SS Lazio vs. US Lecce"
  ]
 }
