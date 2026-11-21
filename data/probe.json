@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-21T09:06:12.908843+00:00",
+ "ts": "2026-11-21T10:07:25.789126+00:00",
  "pages_fetched": 21,
- "events_total": 2095,
- "sub_markets_total": 50368,
- "single_game_events": 789,
+ "events_total": 2100,
+ "sub_markets_total": 50669,
+ "single_game_events": 804,
  "event_keys": [
   "active",
   "archived",
@@ -107,6 +107,7 @@
   "negRiskRequestID",
   "new",
   "oneDayPriceChange",
+  "oneHourPriceChange",
   "oneMonthPriceChange",
   "oneWeekPriceChange",
   "orderMinSize",
@@ -168,19 +169,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "2308302.27529",
-  "volume": "48016666.346909",
-  "openInterest": "7845077.358892",
+  "liquidity": "2369504.62779",
+  "volume": "48068454.062237",
+  "openInterest": "7842372.277493",
   "sortBy": "ascending",
   "createdAt": "2026-07-30T00:36:56.42426Z",
-  "updatedAt": "2026-11-21T09:03:27.8745Z",
+  "updatedAt": "2026-11-21T10:05:27.268825Z",
   "competitive": "0.865033195648883",
-  "volume24hr": "3669885.163519",
-  "volume1wk": "14757427.009652",
-  "volume1mo": "43853744.554309",
-  "volume1yr": "48017149.862464994",
+  "volume24hr": "3502643.6322979997",
+  "volume1wk": "14807851.810436001",
+  "volume1mo": "43903207.254081",
+  "volume1yr": "48068656.562236995",
   "enableOrderBook": "True",
-  "liquidityClob": "2308302.27529",
+  "liquidityClob": "2369504.62779",
   "negRisk": "True",
   "negRiskMarketID": "0xa74f5328517db0e030a5e62edc800e37bd36ca6e455571b14e8bb2b0dd38d700",
   "commentCount": "0",
@@ -199,18 +200,18 @@
   "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
   "resolutionSource": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
   "endDate": "2026-12-09T23:59:00Z",
-  "liquidity": "177016.0905",
+  "liquidity": "202476.72626",
   "startDate": "2026-07-30T00:53:15.730668Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "description": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made",
   "outcomes": "[\"Yes\", \"No\"]",
-  "outcomePrices": "[\"0.0035\", \"0.9965\"]",
-  "volume": "7751604.917062999",
+  "outcomePrices": "[\"0.0045\", \"0.9955\"]",
+  "volume": "7764550.283729",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-07-30T00:36:56.830135Z",
-  "updatedAt": "2026-11-21T09:03:13.666273Z",
+  "updatedAt": "2026-11-21T10:05:13.054242Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -223,15 +224,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "7751604.917062999",
-  "liquidityNum": "177016.0905",
+  "volumeNum": "7764550.283729",
+  "liquidityNum": "202476.72626",
   "endDateIso": "2026-12-09",
   "startDateIso": "2026-07-30",
   "hasReviewedDates": "True",
-  "volume24hr": "422424.38025299995",
-  "volume1wk": "2937365.468345",
-  "volume1mo": "7009019.312629",
-  "volume1yr": "7751604.917063001",
+  "volume24hr": "371064.611919",
+  "volume1wk": "2950310.8350110003",
+  "volume1mo": "7019920.679295002",
+  "volume1yr": "7764550.283728999",
   "clobTokenIds": "[\"17640596861394454242836532536014033416733783473450136742726948856144855149507\", \"10423673626377530789149720287419191120396356671195972578858475044053097674219"
  },
  "multi_option_event": {
@@ -245,7 +246,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0035\", \"0.9965\"]",
+    "outcomePrices": "[\"0.0045\", \"0.9955\"]",
     "closed": "False"
    },
    {
@@ -263,7 +264,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0805\", \"0.9195\"]",
+    "outcomePrices": "[\"0.0795\", \"0.9205\"]",
     "closed": "False"
    },
    {
@@ -281,20 +282,20 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0185\", \"0.9815\"]",
+    "outcomePrices": "[\"0.0175\", \"0.9825\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "economy": 92,
-  "crypto": 152,
-  "sports": 788,
-  "geopolitics": 164,
-  "politics": 297,
-  "tech": 449,
-  "culture": 99,
-  "(空)": 54
+  "economy": 95,
+  "crypto": 156,
+  "sports": 804,
+  "geopolitics": 161,
+  "politics": 300,
+  "tech": 434,
+  "culture": 94,
+  "(空)": 56
  },
  "tag_samples": [
   {
@@ -362,17 +363,6 @@
    ]
   },
   {
-   "title": "Next French Presidential Election",
-   "tags": [
-    "French Election",
-    "Main Election",
-    "France",
-    "World",
-    "Politics",
-    "Global Elections"
-   ]
-  },
-  {
    "title": "Republican Presidential Nominee 2028",
    "tags": [
     "United States",
@@ -381,6 +371,17 @@
     "Elections",
     "World Elections",
     "Global Elections"
+   ]
+  },
+  {
+   "title": "What price will Bitcoin hit November 16-22?",
+   "tags": [
+    "Crypto",
+    "Crypto Prices",
+    "Recurring",
+    "Hide From New",
+    "Bitcoin",
+    "Weekly"
    ]
   }
  ],
@@ -391,24 +392,24 @@
   "Israel x Iran ceasefire continues through...?",
   "What price will Bitcoin hit in November?",
   "Democratic Presidential Nominee 2028",
-  "Next French Presidential Election",
   "Republican Presidential Nominee 2028",
   "What price will Bitcoin hit November 16-22?",
+  "Next French Presidential Election",
   "Bitcoin above ___ on November 21?",
-  "Will China invade Taiwan by end of 2026?",
   "Clarity Act (H.R.3633) signed into law in 2026?",
   "Jensen Huang rejoins NVIDIA by...?",
   "Presidential Election Winner 2028",
-  "Will Anthropic’s valuation hit __ by December 31?",
+  "Will China invade Taiwan by end of 2026?",
   "What price will Bitcoin hit on November 21?",
   "What price will Ethereum hit in 2026?",
-  "UEFA Champions League: 2027 Champion",
   "PGL Major Singapore 2026: Winner",
-  "NBA: 2027 Champion",
+  "UEFA Champions League: 2027 Champion",
+  "Elon Musk # tweets November 19 - November 21, 2026?",
+  "Will Anthropic’s valuation hit __ by December 31?",
   "Next CEO of NVIDIA?",
-  "What price will Ethereum hit November 16-22?",
-  "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",
-  "Will the US confirm that aliens exist by...?",
-  "Elon Musk # tweets November 17 - November 24, 2026?"
+  "NBA: 2027 Champion",
+  "Elon Musk # tweets November 17 - November 24, 2026?",
+  "Kai Cenat finishes GTA VI marathon by...?",
+  "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)"
  ]
 }
