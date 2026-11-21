@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-21T19:13:03.910134+00:00",
+ "ts": "2026-11-21T20:00:33.026541+00:00",
  "pages_fetched": 21,
- "events_total": 2075,
- "sub_markets_total": 51219,
- "single_game_events": 924,
+ "events_total": 2100,
+ "sub_markets_total": 51496,
+ "single_game_events": 868,
  "event_keys": [
   "active",
   "archived",
@@ -169,19 +169,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "2402880.01134",
-  "volume": "49069383.781368",
-  "openInterest": "7881433.7430340005",
+  "liquidity": "2268125.53413",
+  "volume": "49114428.48578099",
+  "openInterest": "7896862.3211550005",
   "sortBy": "ascending",
   "createdAt": "2026-07-30T00:36:56.42426Z",
-  "updatedAt": "2026-11-21T19:07:28.764507Z",
+  "updatedAt": "2026-11-21T19:59:27.706131Z",
   "competitive": "0.865033195648883",
-  "volume24hr": "2733916.724076",
-  "volume1wk": "15302169.546524",
-  "volume1mo": "44813576.773838",
-  "volume1yr": "49070343.016296",
+  "volume24hr": "2591809.682974",
+  "volume1wk": "15349857.38953",
+  "volume1mo": "44877652.91845401",
+  "volume1yr": "49134419.160912",
   "enableOrderBook": "True",
-  "liquidityClob": "2402880.01134",
+  "liquidityClob": "2268125.53413",
   "negRisk": "True",
   "negRiskMarketID": "0xa74f5328517db0e030a5e62edc800e37bd36ca6e455571b14e8bb2b0dd38d700",
   "commentCount": "0",
@@ -200,18 +200,18 @@
   "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
   "resolutionSource": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
   "endDate": "2026-12-09T23:59:00Z",
-  "liquidity": "192809.96248",
+  "liquidity": "190134.92291",
   "startDate": "2026-07-30T00:53:15.730668Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "description": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.0065\", \"0.9935\"]",
-  "volume": "7870174.765211999",
+  "volume": "7886121.338961999",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-07-30T00:36:56.830135Z",
-  "updatedAt": "2026-11-21T19:07:14.104189Z",
+  "updatedAt": "2026-11-21T19:59:13.708828Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -224,15 +224,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "7870174.765211999",
-  "liquidityNum": "192809.96248",
+  "volumeNum": "7886121.338961999",
+  "liquidityNum": "190134.92291",
   "endDateIso": "2026-12-09",
   "startDateIso": "2026-07-30",
   "hasReviewedDates": "True",
-  "volume24hr": "264724.37631699996",
-  "volume1wk": "3009006.152908",
-  "volume1mo": "7122901.433534001",
-  "volume1yr": "7886121.338961999",
+  "volume24hr": "264150.231448",
+  "volume1wk": "3009485.344705",
+  "volume1mo": "7130047.288665",
+  "volume1yr": "7893267.194092999",
   "clobTokenIds": "[\"17640596861394454242836532536014033416733783473450136742726948856144855149507\", \"10423673626377530789149720287419191120396356671195972578858475044053097674219"
  },
  "multi_option_event": {
@@ -264,7 +264,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0695\", \"0.9305\"]",
+    "outcomePrices": "[\"0.0715\", \"0.9285\"]",
     "closed": "False"
    },
    {
@@ -282,20 +282,20 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0205\", \"0.9795\"]",
+    "outcomePrices": "[\"0.0195\", \"0.9805\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "economy": 82,
-  "crypto": 151,
-  "sports": 893,
-  "geopolitics": 150,
-  "politics": 250,
-  "tech": 402,
-  "culture": 93,
-  "(空)": 54
+  "economy": 91,
+  "sports": 845,
+  "crypto": 166,
+  "geopolitics": 159,
+  "politics": 262,
+  "tech": 425,
+  "culture": 97,
+  "(空)": 55
  },
  "tag_samples": [
   {
@@ -310,26 +310,6 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit in 2026?",
-   "tags": [
-    "Bitcoin",
-    "Yearly",
-    "Hit Price",
-    "Crypto Prices",
-    "Crypto",
-    "Earn 3.25%"
-   ]
-  },
-  {
-   "title": "Pelicans vs. Thunder",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
    "title": "Dota 2: PlayTime vs OG (BO3) - BLAST Slam Group A",
    "tags": [
     "Esports",
@@ -339,12 +319,14 @@
    ]
   },
   {
-   "title": "FC Utrecht vs. SC Cambuur-Leeuwarden - More Markets",
+   "title": "What price will Bitcoin hit in 2026?",
    "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "Eredivisie"
+    "Bitcoin",
+    "Yearly",
+    "Hit Price",
+    "Crypto Prices",
+    "Crypto",
+    "Earn 3.25%"
    ]
   },
   {
@@ -357,53 +339,66 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit in November?",
+   "title": "Pelicans vs. Thunder",
    "tags": [
-    "Bitcoin",
-    "Monthly",
-    "Hit Price",
-    "Crypto",
-    "Crypto Prices",
-    "Recurring"
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
    ]
   },
   {
-   "title": "Israel x Iran ceasefire continues through...?",
+   "title": "FC Utrecht vs. SC Cambuur-Leeuwarden - More Markets",
    "tags": [
-    "Iran",
-    "Israel",
-    "Geopolitics",
-    "Israel x Iran",
-    "Israel Election",
-    "Iran Ceasefire"
+    "Sports",
+    "Games",
+    "Soccer",
+    "Eredivisie"
+   ]
+  },
+  {
+   "title": "UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card)",
+   "tags": [
+    "Sports",
+    "UFC",
+    "Games"
+   ]
+  },
+  {
+   "title": "Real Madrid CF vs. RC Celta de Vigo",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "La Liga"
    ]
   }
  ],
  "top_titles": [
   "Fed Decision in December?",
-  "What price will Bitcoin hit in 2026?",
-  "Pelicans vs. Thunder",
   "Dota 2: PlayTime vs OG (BO3) - BLAST Slam Group A",
-  "FC Utrecht vs. SC Cambuur-Leeuwarden - More Markets",
+  "What price will Bitcoin hit in 2026?",
   "Bucks vs. 76ers",
+  "Pelicans vs. Thunder",
+  "FC Utrecht vs. SC Cambuur-Leeuwarden - More Markets",
+  "UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card)",
+  "Real Madrid CF vs. RC Celta de Vigo",
   "What price will Bitcoin hit in November?",
   "Israel x Iran ceasefire continues through...?",
+  "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)",
   "What price will Bitcoin hit November 16-22?",
-  "Newcastle United FC vs. Arsenal FC",
-  "Newcastle United FC vs. Arsenal FC - More Markets",
-  "Republican Presidential Nominee 2028",
+  "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - BLAST Slam Group B",
   "Ohio State vs. Nebraska",
-  "Democratic Presidential Nominee 2028",
   "Oilers vs. Hurricanes",
+  "Democratic Presidential Nominee 2028",
   "Texas Tech vs. Baylor",
+  "Republican Presidential Nominee 2028",
   "Next French Presidential Election",
   "Trail Blazers vs. Knicks",
-  "OGC Nice vs. Paris Saint-Germain FC - More Markets",
-  "What price will Bitcoin hit on November 21?",
-  "Real Madrid CF vs. RC Celta de Vigo",
-  "UFC Fight Night: Jirí Procházka vs. Navajo Stirling (Light Heavyweight, Main Card)",
   "BYU vs. Kansas",
-  "Parma Calcio 1913 vs. AS Roma - More Markets",
-  "UFC Fight Night: Aljamain Sterling vs. Kevin Vallejos (Featherweight, Main Card)"
+  "What price will Bitcoin hit on November 21?",
+  "OGC Nice vs. Paris Saint-Germain FC - More Markets",
+  "FC Utrecht vs. SC Cambuur-Leeuwarden",
+  "UEFA Champions League: 2027 Champion"
  ]
 }
