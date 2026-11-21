@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-21T21:39:16.852281+00:00",
+ "ts": "2026-11-21T22:20:29.900460+00:00",
  "pages_fetched": 21,
- "events_total": 2092,
- "sub_markets_total": 49453,
- "single_game_events": 801,
+ "events_total": 2095,
+ "sub_markets_total": 49349,
+ "single_game_events": 770,
  "event_keys": [
   "active",
   "archived",
@@ -26,6 +26,7 @@
   "eventMetadata",
   "eventWeek",
   "featured",
+  "finishedTimestamp",
   "gameId",
   "icon",
   "id",
@@ -144,6 +145,7 @@
   "takerBaseFee",
   "tradingEligible",
   "umaBond",
+  "umaResolutionStatus",
   "umaResolutionStatuses",
   "umaReward",
   "updatedAt",
@@ -178,18 +180,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "317081.6495",
-  "volume": "2790979.9401160004",
-  "openInterest": "2438432.8969819997",
+  "liquidity": "2283798.5554",
+  "volume": "3900027.2866010005",
+  "openInterest": "3247608.522594",
   "createdAt": "2026-11-08T07:00:37.654331Z",
-  "updatedAt": "2026-11-21T21:35:33.005461Z",
-  "competitive": "0.9910557221079755",
-  "volume24hr": "2786736.225468",
-  "volume1wk": "2861695.216273",
-  "volume1mo": "2870981.45274",
-  "volume1yr": "2870981.45274",
+  "updatedAt": "2026-11-21T22:17:25.663683Z",
+  "competitive": "0.8003199679231757",
+  "volume24hr": "4604082.640576",
+  "volume1wk": "4686467.094870001",
+  "volume1mo": "4695753.331337",
+  "volume1yr": "4695753.331337",
   "enableOrderBook": "True",
-  "liquidityClob": "317081.6495",
+  "liquidityClob": "2283798.5554",
   "negRisk": "True",
   "negRiskMarketID": "0x6f1f0343919744f8b0c1e7299b5cdde0977498506acb1d189e9a98ea9eaf8300",
   "commentCount": "0",
@@ -209,18 +211,18 @@
   "slug": "lal-rea-cel-2026-11-21-rea",
   "resolutionSource": "https://www.laliga.com/",
   "endDate": "2026-11-21T20:00:00Z",
-  "liquidity": "139696.1617",
+  "liquidity": "1264153.07571",
   "startDate": "2026-11-08T07:00:46Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/league-lal.png",
   "description": "In the upcoming La Liga game between Real Madrid CF and RC Celta de Vigo, originally scheduled for Saturday, November 21, 2026 at 3:00 PM ET (as of creation of ",
   "outcomes": "[\"Yes\", \"No\"]",
-  "outcomePrices": "[\"0.615\", \"0.385\"]",
-  "volume": "1420699.4288590003",
+  "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+  "volume": "1968427.7452770004",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-08T07:00:37.884418Z",
-  "updatedAt": "2026-11-21T21:35:13.272752Z",
+  "updatedAt": "2026-11-21T22:17:13.112174Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -231,18 +233,18 @@
   "groupItemThreshold": "0",
   "questionID": "0x6f1f0343919744f8b0c1e7299b5cdde0977498506acb1d189e9a98ea9eaf8300",
   "enableOrderBook": "True",
-  "orderPriceMinTickSize": "0.01",
+  "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "1420699.4288590003",
-  "liquidityNum": "139696.1617",
+  "umaResolutionStatus": "proposed",
+  "volumeNum": "1968427.7452770004",
+  "liquidityNum": "1264153.07571",
   "endDateIso": "2026-11-21",
   "startDateIso": "2026-11-08",
   "hasReviewedDates": "True",
-  "volume24hr": "1406138.5943999998",
-  "volume1wk": "1475525.8636689999",
-  "volume1mo": "1483330.072067",
-  "volume1yr": "1483330.072067",
-  "gameStartTime": "2026-11-21 20:00:00+00"
+  "volume24hr": "2652121.695346",
+  "volume1wk": "2728934.4281040006",
+  "volume1mo": "2736738.6365020005",
+  "volume1yr": "2736738.6365020005"
  },
  "multi_option_event": {
   "title": "Real Madrid CF vs. RC Celta de Vigo",
@@ -255,7 +257,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.615\", \"0.385\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -264,7 +266,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.335\", \"0.665\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
@@ -273,20 +275,20 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.055\", \"0.945\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 799,
-  "economy": 99,
+  "sports": 770,
+  "economy": 101,
   "crypto": 163,
-  "geopolitics": 169,
-  "politics": 275,
-  "tech": 433,
-  "culture": 97,
-  "(空)": 57
+  "geopolitics": 176,
+  "politics": 285,
+  "tech": 444,
+  "culture": 98,
+  "(空)": 58
  },
  "tag_samples": [
   {
@@ -310,6 +312,15 @@
    ]
   },
   {
+   "title": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - BLAST Slam Group B",
+   "tags": [
+    "Esports",
+    "Dota 2",
+    "Games",
+    "Sports"
+   ]
+  },
+  {
    "title": "What price will Bitcoin hit in 2026?",
    "tags": [
     "Bitcoin",
@@ -318,15 +329,6 @@
     "Crypto Prices",
     "Crypto",
     "Earn 3.25%"
-   ]
-  },
-  {
-   "title": "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - BLAST Slam Group B",
-   "tags": [
-    "Esports",
-    "Dota 2",
-    "Games",
-    "Sports"
    ]
   },
   {
@@ -339,12 +341,12 @@
    ]
   },
   {
-   "title": "FC Utrecht vs. SC Cambuur-Leeuwarden - More Markets",
+   "title": "Real Madrid CF vs. RC Celta de Vigo - More Markets",
    "tags": [
     "Sports",
     "Games",
     "Soccer",
-    "Eredivisie"
+    "La Liga"
    ]
   },
   {
@@ -359,10 +361,10 @@
    ]
   },
   {
-   "title": "ATP World Tour Finals, Final Stage: Alexander Zverev vs Daniil Medvedev",
+   "title": "Texas Tech vs. Baylor",
    "tags": [
-    "Tennis",
     "Sports",
+    "CFB (All)",
     "Games"
    ]
   }
@@ -370,28 +372,28 @@
  "top_titles": [
   "Real Madrid CF vs. RC Celta de Vigo",
   "Fed Decision in December?",
-  "What price will Bitcoin hit in 2026?",
   "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - BLAST Slam Group B",
+  "What price will Bitcoin hit in 2026?",
   "Pelicans vs. Thunder",
-  "FC Utrecht vs. SC Cambuur-Leeuwarden - More Markets",
-  "What price will Bitcoin hit in November?",
-  "ATP World Tour Finals, Final Stage: Alexander Zverev vs Daniil Medvedev",
-  "Israel x Iran ceasefire continues through...?",
-  "Texas Tech vs. Baylor",
-  "What price will Bitcoin hit November 16-22?",
   "Real Madrid CF vs. RC Celta de Vigo - More Markets",
-  "Republican Presidential Nominee 2028",
+  "What price will Bitcoin hit in November?",
+  "Texas Tech vs. Baylor",
+  "Israel x Iran ceasefire continues through...?",
+  "What price will Bitcoin hit November 16-22?",
   "LSU vs. Tennessee",
+  "Republican Presidential Nominee 2028",
   "Trail Blazers vs. Knicks",
-  "Democratic Presidential Nominee 2028",
   "Next French Presidential Election",
   "Celtics vs. Kings",
   "What price will Bitcoin hit on November 21?",
-  "FC Utrecht vs. SC Cambuur-Leeuwarden",
-  "UEFA Champions League: 2027 Champion",
+  "Democratic Presidential Nominee 2028",
   "Florida International vs. Kennesaw State",
-  "Grizzlies vs. Timberwolves",
+  "UEFA Champions League: 2027 Champion",
+  "Pelicans vs. Spurs",
   "Indiana vs. Washington",
-  "Pelicans vs. Spurs"
+  "Grizzlies vs. Timberwolves",
+  "UCLA vs. Michigan",
+  "PGL Major Singapore 2026: Winner",
+  "What price will Ethereum hit November 16-22?"
  ]
 }
