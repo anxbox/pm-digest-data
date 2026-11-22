@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-22T01:59:28.944597+00:00",
+ "ts": "2026-11-22T02:52:13.020215+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 48763,
- "single_game_events": 701,
+ "events_total": 2099,
+ "sub_markets_total": 48745,
+ "single_game_events": 702,
  "event_keys": [
   "active",
   "archived",
@@ -172,18 +172,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1416507.00295",
-  "volume": "4088354.4699449996",
-  "openInterest": "3165722.242390998",
+  "liquidity": "1114789.60429",
+  "volume": "4485082.499223",
+  "openInterest": "3342109.2057789974",
   "createdAt": "2026-11-07T06:59:22.316234Z",
-  "updatedAt": "2026-11-22T01:59:06.751159Z",
-  "competitive": "0.9996001599360256",
-  "volume24hr": "4080942.345064001",
-  "volume1wk": "4096620.389261001",
-  "volume1mo": "4096634.294099001",
-  "volume1yr": "4096634.294099001",
+  "updatedAt": "2026-11-22T02:49:13.172766Z",
+  "competitive": "0.9999750006249843",
+  "volume24hr": "4546283.321203002",
+  "volume1wk": "4566068.663521001",
+  "volume1mo": "4566082.568359002",
+  "volume1yr": "4566082.568359002",
   "enableOrderBook": "True",
-  "liquidityClob": "1416507.00295",
+  "liquidityClob": "1114789.60429",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 551>",
@@ -203,18 +203,18 @@
   "slug": "nba-por-nyk-2026-11-21",
   "resolutionSource": "https://www.nba.com/",
   "endDate": "2026-11-22T00:30:00Z",
-  "liquidity": "265925.5475",
+  "liquidity": "15118.2946",
   "startDate": "2026-11-07T06:59:30Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "description": "In the upcoming NBA game between Trail Blazers and Knicks, originally scheduled for Saturday, November 21, 2026 at 7:30 PM ET (as of creation of the first marke",
   "outcomes": "[\"Trail Blazers\", \"Knicks\"]",
-  "outcomePrices": "[\"0.145\", \"0.855\"]",
-  "volume": "2705108.8730519996",
+  "outcomePrices": "[\"0.475\", \"0.525\"]",
+  "volume": "2997618.546612",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-07T06:59:22.628589Z",
-  "updatedAt": "2026-11-22T01:57:12.642162Z",
+  "updatedAt": "2026-11-22T02:49:12.860451Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -226,22 +226,22 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.01",
   "orderMinSize": "5",
-  "volumeNum": "2705108.8730519996",
-  "liquidityNum": "265925.5475",
+  "volumeNum": "2997618.546612",
+  "liquidityNum": "15118.2946",
   "endDateIso": "2026-11-22",
   "startDateIso": "2026-11-07",
   "hasReviewedDates": "True",
-  "volume24hr": "2697355.4190940014",
-  "volume1wk": "2712978.4632910006",
-  "volume1mo": "2712992.368129001",
-  "volume1yr": "2712992.368129001",
+  "volume24hr": "3051871.686516002",
+  "volume1wk": "3071582.5948710013",
+  "volume1mo": "3071596.4997090017",
+  "volume1yr": "3071596.4997090017",
   "gameStartTime": "2026-11-22 00:30:00+00",
   "secondsDelay": "0"
  },
  "multi_option_event": {
   "title": "Trail Blazers vs. Knicks",
   "slug": "nba-por-nyk-2026-11-21",
-  "n_sub": 435,
+  "n_sub": 390,
   "sub_markets": [
    {
     "question": "Trail Blazers vs. Knicks",
@@ -249,7 +249,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Trail Blazers\", \"Knicks\"]",
-    "outcomePrices": "[\"0.145\", \"0.855\"]",
+    "outcomePrices": "[\"0.475\", \"0.525\"]",
     "closed": "False"
    },
    {
@@ -258,7 +258,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Knicks\", \"Trail Blazers\"]",
-    "outcomePrices": "[\"0.715\", \"0.285\"]",
+    "outcomePrices": "[\"0.11\", \"0.89\"]",
     "closed": "False"
    },
    {
@@ -267,7 +267,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.265\", \"0.735\"]",
+    "outcomePrices": "[\"0.151\", \"0.849\"]",
     "closed": "False"
    },
    {
@@ -276,7 +276,7 @@
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.8\", \"0.2\"]",
+    "outcomePrices": "[\"0.9\", \"0.1\"]",
     "closed": "False"
    },
    {
@@ -291,14 +291,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 750,
-  "economy": 100,
-  "crypto": 177,
-  "geopolitics": 180,
-  "politics": 302,
-  "tech": 436,
+  "sports": 754,
+  "economy": 96,
+  "crypto": 173,
+  "geopolitics": 186,
+  "politics": 296,
+  "tech": 437,
   "culture": 97,
-  "(空)": 58
+  "(空)": 60
  },
  "tag_samples": [
   {
@@ -351,6 +351,15 @@
    ]
   },
   {
+   "title": "Celtics vs. Kings",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
    "title": "What price will Bitcoin hit in November?",
    "tags": [
     "Bitcoin",
@@ -359,15 +368,6 @@
     "Crypto",
     "Crypto Prices",
     "Recurring"
-   ]
-  },
-  {
-   "title": "Celtics vs. Kings",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   },
   {
@@ -388,25 +388,25 @@
   "Grizzlies vs. Timberwolves",
   "Fed Decision in December?",
   "What price will Bitcoin hit in 2026?",
-  "What price will Bitcoin hit in November?",
   "Celtics vs. Kings",
+  "What price will Bitcoin hit in November?",
   "What price will Bitcoin hit November 16-22?",
-  "Pelicans vs. Thunder",
+  "Clippers vs. Mavericks",
   "Israel x Iran ceasefire continues through...?",
   "Maryland vs. USC",
-  "Clippers vs. Mavericks",
   "What price will Bitcoin hit on November 21?",
-  "Republican Presidential Nominee 2028",
-  "Next French Presidential Election",
-  "UEFA Champions League: 2027 Champion",
   "Virginia Tech vs. Miami (FL)",
-  "Kings vs. Senators",
-  "Democratic Presidential Nominee 2028",
-  "SMU vs. Notre Dame",
+  "Republican Presidential Nominee 2028",
   "Kentucky vs. Missouri",
-  "PGL Major Singapore 2026: Winner",
+  "Pelicans vs. Thunder",
+  "Next French Presidential Election",
+  "Kings vs. Senators",
+  "UEFA Champions League: 2027 Champion",
+  "SMU vs. Notre Dame",
+  "Democratic Presidential Nominee 2028",
+  "UNLV vs. San Jose State",
   "Arizona vs. Kansas State",
-  "EPL: 2027 Champion",
-  "Presidential Election Winner 2028"
+  "PGL Major Singapore 2026: Winner",
+  "Georgia vs. South Carolina"
  ]
 }
