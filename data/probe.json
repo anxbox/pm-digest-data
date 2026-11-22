@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-22T17:23:52.139512+00:00",
+ "ts": "2026-11-22T18:18:44.975687+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 49403,
- "single_game_events": 844,
+ "events_total": 2092,
+ "sub_markets_total": 49570,
+ "single_game_events": 805,
  "event_keys": [
   "active",
   "archived",
@@ -171,18 +171,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "204175.04809",
-  "volume": "2680520.8178460007",
-  "openInterest": "758180.622615",
+  "liquidity": "1100067.27592",
+  "volume": "3440219.034378",
+  "openInterest": "954733.249865",
   "createdAt": "2026-11-20T19:19:12.469774Z",
-  "updatedAt": "2026-11-22T17:23:27.012591Z",
-  "competitive": "0.9880446596186148",
-  "volume24hr": "2825604.553222001",
-  "volume1wk": "2827084.9549990008",
-  "volume1mo": "2827084.9549990008",
-  "volume1yr": "2827084.9549990008",
+  "updatedAt": "2026-11-22T18:13:25.563645Z",
+  "competitive": "0.8003199679231757",
+  "volume24hr": "3448759.1726010013",
+  "volume1wk": "3450315.0443780012",
+  "volume1mo": "3450315.0443780012",
+  "volume1yr": "3450315.0443780012",
   "enableOrderBook": "True",
-  "liquidityClob": "204175.04809",
+  "liquidityClob": "1100067.27592",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 5>",
@@ -208,11 +208,11 @@
   "description": "This market refers to the Dota 2 Winners' match between PARIVISION and Team Liquid in the BLAST Slam Group C, initially scheduled for November 22, 2026 at 9:00 ",
   "outcomes": "[\"PARIVISION\", \"Team Liquid\"]",
   "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "847356.5459700002",
+  "volume": "847356.54597",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-20T19:19:12.726456Z",
-  "updatedAt": "2026-11-22T17:21:25.639773Z",
+  "updatedAt": "2026-11-22T18:07:25.53549Z",
   "closedTime": "2026-11-22 15:26:33.954054+00",
   "new": "False",
   "featured": "False",
@@ -227,14 +227,14 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "847356.5459700002",
+  "volumeNum": "847356.54597",
   "endDateIso": "2026-11-22",
   "startDateIso": "2026-11-20",
   "hasReviewedDates": "True",
-  "volume24hr": "847351.5459700001",
-  "volume1wk": "847356.54597",
-  "volume1mo": "847356.54597",
-  "volume1yr": "847356.54597",
+  "volume24hr": "847351.5459700002",
+  "volume1wk": "847356.5459700002",
+  "volume1mo": "847356.5459700002",
+  "volume1yr": "847356.5459700002",
   "gameStartTime": "2026-11-22 14:00:00+00"
  },
  "multi_option_event": {
@@ -248,7 +248,7 @@
     "groupItemThreshold": "None",
     "shortTitle": "None",
     "outcomes": "[\"PARIVISION\", \"Team Liquid\"]",
-    "outcomePrices": "[\"0.315\", \"0.685\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -272,14 +272,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 888,
+  "sports": 868,
   "economy": 92,
-  "tech": 417,
-  "politics": 244,
-  "geopolitics": 179,
+  "tech": 423,
+  "politics": 253,
+  "geopolitics": 178,
   "crypto": 141,
-  "culture": 88,
-  "(空)": 51
+  "culture": 87,
+  "(空)": 50
  },
  "tag_samples": [
   {
@@ -289,24 +289,6 @@
     "Dota 2",
     "Games",
     "Sports"
-   ]
-  },
-  {
-   "title": "FC Lorient vs. Stade Rennais FC 1901",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "Ligue 1"
-   ]
-  },
-  {
-   "title": "Grizzlies vs. Timberwolves",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   },
   {
@@ -320,15 +302,6 @@
    ]
   },
   {
-   "title": "Dota 2: LEGION vs DO KONCA (BO3) - BLAST Slam Group C",
-   "tags": [
-    "Esports",
-    "Dota 2",
-    "Games",
-    "Sports"
-   ]
-  },
-  {
    "title": "Steelers vs. Eagles",
    "tags": [
     "Sports",
@@ -337,7 +310,32 @@
    ]
   },
   {
-   "title": "Clippers vs. Mavericks",
+   "title": "FC Lorient vs. Stade Rennais FC 1901",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "Ligue 1"
+   ]
+  },
+  {
+   "title": "Ravens vs. Panthers",
+   "tags": [
+    "Sports",
+    "NFL (All)",
+    "Games"
+   ]
+  },
+  {
+   "title": "ATP World Tour Finals, Final Stage: Alexander Zverev vs Carlos Alcaraz",
+   "tags": [
+    "Tennis",
+    "Sports",
+    "Games"
+   ]
+  },
+  {
+   "title": "Grizzlies vs. Timberwolves",
    "tags": [
     "Sports",
     "NBA",
@@ -346,42 +344,40 @@
    ]
   },
   {
-   "title": "Fed Decision in December?",
+   "title": "Dota 2: LEGION vs DO KONCA (BO3) - BLAST Slam Group C",
    "tags": [
-    "Fed",
-    "fomc",
-    "Trump",
-    "Economy",
-    "Fed Rates",
-    "Kevin Warsh"
+    "Esports",
+    "Dota 2",
+    "Games",
+    "Sports"
    ]
   }
  ],
  "top_titles": [
   "Dota 2: PARIVISION vs Team Liquid (BO3) - BLAST Slam Group C",
-  "FC Lorient vs. Stade Rennais FC 1901",
-  "Grizzlies vs. Timberwolves",
   "Liverpool FC vs. Manchester United FC",
-  "Dota 2: LEGION vs DO KONCA (BO3) - BLAST Slam Group C",
   "Steelers vs. Eagles",
-  "Clippers vs. Mavericks",
-  "Fed Decision in December?",
-  "Titans vs. Cowboys",
-  "Liverpool FC vs. Manchester United FC - More Markets",
+  "FC Lorient vs. Stade Rennais FC 1901",
+  "Ravens vs. Panthers",
   "ATP World Tour Finals, Final Stage: Alexander Zverev vs Carlos Alcaraz",
+  "Grizzlies vs. Timberwolves",
+  "Dota 2: LEGION vs DO KONCA (BO3) - BLAST Slam Group C",
+  "Saints vs. Bears",
+  "Buccaneers vs. Lions",
+  "Clippers vs. Mavericks",
+  "Liverpool FC vs. Manchester United FC - More Markets",
+  "Titans vs. Cowboys",
   "Cardinals vs. Chiefs",
+  "Fed Decision in December?",
+  "Dolphins vs. Bills",
   "Jaguars vs. Giants",
   "Next French Presidential Election",
   "Republican Presidential Nominee 2028",
-  "Buccaneers vs. Lions",
-  "Ravens vs. Panthers",
   "Israel x Iran ceasefire continues through...?",
   "What price will Bitcoin hit on November 22?",
-  "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit November 16-22?",
-  "Dolphins vs. Bills",
-  "What price will Bitcoin hit in November?",
-  "Real Racing Club vs. Real Sociedad de Fútbol",
-  "Counter-Strike: Envy vs Sinners (BO3) - RUSH Brno Playoffs"
+  "Counter-Strike: Envy vs Sinners (BO3) - RUSH Brno Playoffs",
+  "UEFA Champions League: 2027 Champion",
+  "AC Milan vs. Frosinone Calcio"
  ]
 }
