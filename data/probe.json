@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-22T15:38:04.533283+00:00",
+ "ts": "2026-11-22T16:26:18.417191+00:00",
  "pages_fetched": 21,
- "events_total": 2097,
- "sub_markets_total": 48844,
- "single_game_events": 874,
+ "events_total": 2073,
+ "sub_markets_total": 48576,
+ "single_game_events": 835,
  "event_keys": [
   "active",
   "archived",
@@ -172,18 +172,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1690.64641",
+  "liquidity": "1709.40295",
   "volume": "2457459.535227",
-  "openInterest": "82375.41465699999",
+  "openInterest": "82371.33302399999",
   "createdAt": "2026-11-07T06:59:24.607574Z",
-  "updatedAt": "2026-11-22T15:37:27.567524Z",
-  "competitive": "0.5619319607079882",
-  "volume24hr": "2308904.39634",
-  "volume1wk": "2457398.1913149995",
-  "volume1mo": "2457402.5352269993",
-  "volume1yr": "2457402.5352269993",
+  "updatedAt": "2026-11-22T16:23:23.512657Z",
+  "competitive": "0.5386211530247264",
+  "volume24hr": "2304748.101978",
+  "volume1wk": "2457392.068865999",
+  "volume1mo": "2457396.4127779994",
+  "volume1yr": "2457396.4127779994",
   "enableOrderBook": "True",
-  "liquidityClob": "1690.64641",
+  "liquidityClob": "1709.40295",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 519>",
@@ -213,7 +213,7 @@
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-07T06:59:24.938709Z",
-  "updatedAt": "2026-11-22T15:37:26.604874Z",
+  "updatedAt": "2026-11-22T16:21:23.46697Z",
   "closedTime": "2026-11-22 03:28:49.441214+00",
   "new": "False",
   "featured": "False",
@@ -232,73 +232,55 @@
   "endDateIso": "2026-11-22",
   "startDateIso": "2026-11-07",
   "hasReviewedDates": "True",
-  "volume24hr": "1325375.0796449995",
+  "volume24hr": "1324382.0181499997",
   "volume1wk": "1345350.1092539993",
   "volume1mo": "1345354.4531659994",
   "volume1yr": "1345354.4531659994",
   "gameStartTime": "2026-11-22 01:00:00+00"
  },
  "multi_option_event": {
-  "title": "Fed Decision in December?",
-  "slug": "fed-decision-in-december-20260729232808632",
-  "n_sub": 5,
+  "title": "FC Lorient vs. Stade Rennais FC 1901",
+  "slug": "fl1-lor-ren-2026-11-22",
+  "n_sub": 3,
   "sub_markets": [
    {
-    "question": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
-    "groupItemTitle": "50+ bps decrease",
+    "question": "Will FC Lorient win on 2026-11-22?",
+    "groupItemTitle": "FC Lorient",
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0045\", \"0.9955\"]",
+    "outcomePrices": "[\"0.235\", \"0.765\"]",
     "closed": "False"
    },
    {
-    "question": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
-    "groupItemTitle": "25 bps decrease",
+    "question": "Will FC Lorient vs. Stade Rennais FC 1901 end in a draw?",
+    "groupItemTitle": "Draw (FC Lorient vs. Stade Rennais FC 1901)",
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0055\", \"0.9945\"]",
+    "outcomePrices": "[\"0.295\", \"0.705\"]",
     "closed": "False"
    },
    {
-    "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-    "groupItemTitle": "No change",
+    "question": "Will Stade Rennais FC 1901 win on 2026-11-22?",
+    "groupItemTitle": "Stade Rennais FC 1901",
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0675\", \"0.9325\"]",
-    "closed": "False"
-   },
-   {
-    "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-    "groupItemTitle": "25 bps increase",
-    "groupItemThreshold": "3",
-    "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.895\", \"0.105\"]",
-    "closed": "False"
-   },
-   {
-    "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-    "groupItemTitle": "50+ bps increase",
-    "groupItemThreshold": "4",
-    "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0215\", \"0.9785\"]",
+    "outcomePrices": "[\"0.475\", \"0.525\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 897,
-  "economy": 88,
-  "tech": 424,
-  "geopolitics": 173,
-  "politics": 233,
-  "crypto": 146,
-  "culture": 86,
-  "(空)": 50
+  "sports": 877,
+  "economy": 85,
+  "tech": 417,
+  "politics": 232,
+  "geopolitics": 175,
+  "crypto": 154,
+  "culture": 84,
+  "(空)": 49
  },
  "tag_samples": [
   {
@@ -308,6 +290,33 @@
     "NBA",
     "Games",
     "Basketball"
+   ]
+  },
+  {
+   "title": "FC Lorient vs. Stade Rennais FC 1901",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "Ligue 1"
+   ]
+  },
+  {
+   "title": "Dota 2: PARIVISION vs Team Liquid (BO3) - BLAST Slam Group C",
+   "tags": [
+    "Esports",
+    "Dota 2",
+    "Games",
+    "Sports"
+   ]
+  },
+  {
+   "title": "Dota 2: LEGION vs DO KONCA (BO3) - BLAST Slam Group C",
+   "tags": [
+    "Esports",
+    "Dota 2",
+    "Games",
+    "Sports"
    ]
   },
   {
@@ -331,25 +340,7 @@
    ]
   },
   {
-   "title": "Dota 2: PARIVISION vs Team Liquid (BO3) - BLAST Slam Group C",
-   "tags": [
-    "Esports",
-    "Dota 2",
-    "Games",
-    "Sports"
-   ]
-  },
-  {
-   "title": "Dota 2: LEGION vs DO KONCA (BO3) - BLAST Slam Group C",
-   "tags": [
-    "Esports",
-    "Dota 2",
-    "Games",
-    "Sports"
-   ]
-  },
-  {
-   "title": "Hull City AFC vs. Brighton & Hove Albion FC",
+   "title": "Liverpool FC vs. Manchester United FC",
    "tags": [
     "Sports",
     "Games",
@@ -368,44 +359,33 @@
     "Politics",
     "Global Elections"
    ]
-  },
-  {
-   "title": "Israel x Iran ceasefire continues through...?",
-   "tags": [
-    "Iran",
-    "Israel",
-    "Geopolitics",
-    "Israel x Iran",
-    "Israel Election",
-    "Iran Ceasefire"
-   ]
   }
  ],
  "top_titles": [
   "Grizzlies vs. Timberwolves",
-  "Clippers vs. Mavericks",
-  "Fed Decision in December?",
+  "FC Lorient vs. Stade Rennais FC 1901",
   "Dota 2: PARIVISION vs Team Liquid (BO3) - BLAST Slam Group C",
   "Dota 2: LEGION vs DO KONCA (BO3) - BLAST Slam Group C",
-  "Hull City AFC vs. Brighton & Hove Albion FC",
+  "Clippers vs. Mavericks",
+  "Fed Decision in December?",
+  "Liverpool FC vs. Manchester United FC",
   "Next French Presidential Election",
-  "Israel x Iran ceasefire continues through...?",
-  "Republican Presidential Nominee 2028",
-  "Bitcoin above ___ on November 22?",
-  "UEFA Champions League: 2027 Champion",
   "Jaguars vs. Giants",
-  "What price will Bitcoin hit in November?",
+  "Republican Presidential Nominee 2028",
+  "Israel x Iran ceasefire continues through...?",
+  "Bitcoin above ___ on November 22?",
   "Ravens vs. Panthers",
-  "What price will Bitcoin hit November 16-22?",
-  "What price will Bitcoin hit on November 22?",
+  "UEFA Champions League: 2027 Champion",
+  "Liverpool FC vs. Manchester United FC - More Markets",
+  "What price will Bitcoin hit in November?",
   "Democratic Presidential Nominee 2028",
-  "What price will Bitcoin hit in 2026?",
+  "What price will Bitcoin hit on November 22?",
+  "What price will Bitcoin hit November 16-22?",
   "Cardinals vs. Chiefs",
+  "What price will Bitcoin hit in 2026?",
   "Titans vs. Cowboys",
-  "Hull City AFC vs. Brighton & Hove Albion FC - More Markets",
   "Buccaneers vs. Lions",
-  "EPL: 2027 Champion",
-  "Songs on GTA VI Radio at Launch?",
-  "Liverpool FC vs. Manchester United FC"
+  "Paris FC vs. Angers SCO - More Markets",
+  "EPL: 2027 Champion"
  ]
 }
