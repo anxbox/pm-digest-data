@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-22T08:08:07.524332+00:00",
+ "ts": "2026-11-22T09:05:38.207672+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 47138,
- "single_game_events": 737,
+ "events_total": 2098,
+ "sub_markets_total": 47588,
+ "single_game_events": 768,
  "event_keys": [
   "active",
   "archived",
@@ -174,11 +174,11 @@
   "restricted": "True",
   "liquidity": "4668.542",
   "volume": "2457403.45833",
-  "openInterest": "86287.177459",
+  "openInterest": "84567.592908",
   "createdAt": "2026-11-07T06:59:24.607574Z",
-  "updatedAt": "2026-11-22T08:05:24.780332Z",
+  "updatedAt": "2026-11-22T08:59:23.088844Z",
   "competitive": "0.572756508063191",
-  "volume24hr": "2437379.2320169997",
+  "volume24hr": "2435479.195498",
   "volume1wk": "2457378.1144179995",
   "volume1mo": "2457382.4583299994",
   "volume1yr": "2457382.4583299994",
@@ -209,11 +209,11 @@
   "description": "In the upcoming NBA game between Grizzlies and Timberwolves, originally scheduled for Saturday, November 21, 2026 at 8:00 PM ET (as of creation of the first mar",
   "outcomes": "[\"Grizzlies\", \"Timberwolves\"]",
   "outcomePrices": "[\"0\", \"1\"]",
-  "volume": "1345354.4531659998",
+  "volume": "1345354.453166",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-07T06:59:24.938709Z",
-  "updatedAt": "2026-11-22T07:51:23.250214Z",
+  "updatedAt": "2026-11-22T08:51:24.725783Z",
   "closedTime": "2026-11-22 03:28:49.441214+00",
   "new": "False",
   "featured": "False",
@@ -228,11 +228,11 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "1345354.4531659998",
+  "volumeNum": "1345354.453166",
   "endDateIso": "2026-11-22",
   "startDateIso": "2026-11-07",
   "hasReviewedDates": "True",
-  "volume24hr": "1332863.1234439996",
+  "volume24hr": "1331677.9514269999",
   "volume1wk": "1345350.1092539993",
   "volume1mo": "1345354.4531659994",
   "volume1yr": "1345354.4531659994",
@@ -258,7 +258,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0075\", \"0.9925\"]",
+    "outcomePrices": "[\"0.0065\", \"0.9935\"]",
     "closed": "False"
    },
    {
@@ -267,7 +267,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0685\", \"0.9315\"]",
+    "outcomePrices": "[\"0.066\", \"0.934\"]",
     "closed": "False"
    },
    {
@@ -291,14 +291,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 791,
-  "economy": 93,
-  "crypto": 169,
+  "sports": 819,
+  "economy": 94,
+  "crypto": 163,
   "geopolitics": 182,
+  "politics": 273,
   "tech": 431,
-  "politics": 296,
-  "culture": 87,
-  "(空)": 51
+  "culture": 84,
+  "(空)": 52
  },
  "tag_samples": [
   {
@@ -342,6 +342,15 @@
    ]
   },
   {
+   "title": "FC Barcelona vs. Villarreal CF",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "La Liga"
+   ]
+  },
+  {
    "title": "Israel x Iran ceasefire continues through...?",
    "tags": [
     "Iran",
@@ -350,28 +359,6 @@
     "Israel x Iran",
     "Israel Election",
     "Iran Ceasefire"
-   ]
-  },
-  {
-   "title": "What price will Bitcoin hit in 2026?",
-   "tags": [
-    "Bitcoin",
-    "Yearly",
-    "Hit Price",
-    "Crypto Prices",
-    "Crypto",
-    "Earn 3.25%"
-   ]
-  },
-  {
-   "title": "Next French Presidential Election",
-   "tags": [
-    "French Election",
-    "Main Election",
-    "France",
-    "World",
-    "Politics",
-    "Global Elections"
    ]
   },
   {
@@ -384,6 +371,17 @@
     "World Elections",
     "Global Elections"
    ]
+  },
+  {
+   "title": "Next French Presidential Election",
+   "tags": [
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
+    "Politics",
+    "Global Elections"
+   ]
   }
  ],
  "top_titles": [
@@ -391,26 +389,26 @@
   "Fed Decision in December?",
   "Clippers vs. Mavericks",
   "What price will Bitcoin hit in November?",
-  "Israel x Iran ceasefire continues through...?",
-  "What price will Bitcoin hit in 2026?",
-  "Next French Presidential Election",
-  "Republican Presidential Nominee 2028",
   "FC Barcelona vs. Villarreal CF",
+  "Israel x Iran ceasefire continues through...?",
+  "Republican Presidential Nominee 2028",
+  "Next French Presidential Election",
   "What price will Bitcoin hit November 16-22?",
+  "What price will Bitcoin hit in 2026?",
   "UEFA Champions League: 2027 Champion",
   "Las Vegas Grand Prix: Driver Winner",
-  "Democratic Presidential Nominee 2028",
   "Bitcoin above ___ on November 22?",
-  "EPL: 2027 Champion",
+  "Democratic Presidential Nominee 2028",
   "FC Barcelona vs. Villarreal CF - More Markets",
+  "EPL: 2027 Champion",
   "Presidential Election Winner 2028",
   "Will the U.S. invade Iran before 2027?",
   "Songs on GTA VI Radio at Launch?",
   "What price will Ethereum hit November 16-22?",
-  "NBA: 2027 Champion",
+  "Playford: Dominik Palan vs Chen Dong",
+  "What price will Bitcoin hit on November 22?",
   "Elon Musk # tweets November 17 - November 24, 2026?",
-  "Jensen Huang rejoins NVIDIA by...?",
-  "Yokohama: David Poljak vs Maxim Zhukov",
-  "PGL Major Singapore 2026: Winner"
+  "NBA: 2027 Champion",
+  "Jensen Huang rejoins NVIDIA by...?"
  ]
 }
