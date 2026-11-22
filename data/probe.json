@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-22T09:05:38.207672+00:00",
+ "ts": "2026-11-22T10:05:40.860542+00:00",
  "pages_fetched": 21,
- "events_total": 2098,
- "sub_markets_total": 47588,
- "single_game_events": 768,
+ "events_total": 2100,
+ "sub_markets_total": 47970,
+ "single_game_events": 780,
  "event_keys": [
   "active",
   "archived",
@@ -172,18 +172,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "4668.542",
-  "volume": "2457403.45833",
-  "openInterest": "84567.592908",
+  "liquidity": "4725.4865",
+  "volume": "2457404.563594",
+  "openInterest": "84527.264366",
   "createdAt": "2026-11-07T06:59:24.607574Z",
-  "updatedAt": "2026-11-22T08:59:23.088844Z",
-  "competitive": "0.572756508063191",
-  "volume24hr": "2435479.195498",
-  "volume1wk": "2457378.1144179995",
-  "volume1mo": "2457382.4583299994",
-  "volume1yr": "2457382.4583299994",
+  "updatedAt": "2026-11-22T10:01:26.618341Z",
+  "competitive": "0.5807418508804796",
+  "volume24hr": "2434617.872594",
+  "volume1wk": "2457379.219681999",
+  "volume1mo": "2457383.5635939995",
+  "volume1yr": "2457383.5635939995",
   "enableOrderBook": "True",
-  "liquidityClob": "4668.542",
+  "liquidityClob": "4725.4865",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 519>",
@@ -213,7 +213,7 @@
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-07T06:59:24.938709Z",
-  "updatedAt": "2026-11-22T08:51:24.725783Z",
+  "updatedAt": "2026-11-22T09:51:22.982291Z",
   "closedTime": "2026-11-22 03:28:49.441214+00",
   "new": "False",
   "featured": "False",
@@ -232,7 +232,7 @@
   "endDateIso": "2026-11-22",
   "startDateIso": "2026-11-07",
   "hasReviewedDates": "True",
-  "volume24hr": "1331677.9514269999",
+  "volume24hr": "1330877.1995329997",
   "volume1wk": "1345350.1092539993",
   "volume1mo": "1345354.4531659994",
   "volume1yr": "1345354.4531659994",
@@ -267,7 +267,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.066\", \"0.934\"]",
+    "outcomePrices": "[\"0.062\", \"0.938\"]",
     "closed": "False"
    },
    {
@@ -285,18 +285,18 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0215\", \"0.9785\"]",
+    "outcomePrices": "[\"0.0225\", \"0.9775\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 819,
-  "economy": 94,
-  "crypto": 163,
-  "geopolitics": 182,
-  "politics": 273,
-  "tech": 431,
+  "sports": 837,
+  "economy": 91,
+  "geopolitics": 183,
+  "crypto": 162,
+  "politics": 258,
+  "tech": 433,
   "culture": 84,
   "(空)": 52
  },
@@ -331,14 +331,14 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit in November?",
+   "title": "Israel x Iran ceasefire continues through...?",
    "tags": [
-    "Bitcoin",
-    "Monthly",
-    "Hit Price",
-    "Crypto",
-    "Crypto Prices",
-    "Recurring"
+    "Iran",
+    "Israel",
+    "Geopolitics",
+    "Israel x Iran",
+    "Israel Election",
+    "Iran Ceasefire"
    ]
   },
   {
@@ -351,14 +351,14 @@
    ]
   },
   {
-   "title": "Israel x Iran ceasefire continues through...?",
+   "title": "What price will Bitcoin hit in November?",
    "tags": [
-    "Iran",
-    "Israel",
-    "Geopolitics",
-    "Israel x Iran",
-    "Israel Election",
-    "Iran Ceasefire"
+    "Bitcoin",
+    "Monthly",
+    "Hit Price",
+    "Crypto",
+    "Crypto Prices",
+    "Recurring"
    ]
   },
   {
@@ -373,14 +373,13 @@
    ]
   },
   {
-   "title": "Next French Presidential Election",
+   "title": "UEFA Champions League: 2027 Champion",
    "tags": [
-    "French Election",
-    "Main Election",
-    "France",
-    "World",
-    "Politics",
-    "Global Elections"
+    "UCL",
+    "Soccer",
+    "Sports",
+    "Champions League",
+    "UCL Matchday"
    ]
   }
  ],
@@ -388,27 +387,27 @@
   "Grizzlies vs. Timberwolves",
   "Fed Decision in December?",
   "Clippers vs. Mavericks",
-  "What price will Bitcoin hit in November?",
-  "FC Barcelona vs. Villarreal CF",
   "Israel x Iran ceasefire continues through...?",
+  "FC Barcelona vs. Villarreal CF",
+  "What price will Bitcoin hit in November?",
   "Republican Presidential Nominee 2028",
+  "UEFA Champions League: 2027 Champion",
   "Next French Presidential Election",
   "What price will Bitcoin hit November 16-22?",
   "What price will Bitcoin hit in 2026?",
-  "UEFA Champions League: 2027 Champion",
   "Las Vegas Grand Prix: Driver Winner",
   "Bitcoin above ___ on November 22?",
   "Democratic Presidential Nominee 2028",
   "FC Barcelona vs. Villarreal CF - More Markets",
   "EPL: 2027 Champion",
+  "Ravens vs. Panthers",
   "Presidential Election Winner 2028",
-  "Will the U.S. invade Iran before 2027?",
   "Songs on GTA VI Radio at Launch?",
-  "What price will Ethereum hit November 16-22?",
-  "Playford: Dominik Palan vs Chen Dong",
+  "Will the U.S. invade Iran before 2027?",
   "What price will Bitcoin hit on November 22?",
-  "Elon Musk # tweets November 17 - November 24, 2026?",
+  "What price will Ethereum hit November 16-22?",
+  "Ankara: S Mert Ozdemir vs Egor Agafonov",
   "NBA: 2027 Champion",
-  "Jensen Huang rejoins NVIDIA by...?"
+  "Elon Musk # tweets November 17 - November 24, 2026?"
  ]
 }
