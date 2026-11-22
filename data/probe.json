@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-22T11:03:31.578323+00:00",
+ "ts": "2026-11-22T11:58:55.778318+00:00",
  "pages_fetched": 21,
- "events_total": 2099,
- "sub_markets_total": 47511,
- "single_game_events": 799,
+ "events_total": 2100,
+ "sub_markets_total": 47697,
+ "single_game_events": 828,
  "event_keys": [
   "active",
   "archived",
@@ -173,12 +173,12 @@
   "featured": "False",
   "restricted": "True",
   "liquidity": "1590.9308",
-  "volume": "2457408.6452269997",
-  "openInterest": "84531.345999",
+  "volume": "2457408.645227",
+  "openInterest": "82993.93865200003",
   "createdAt": "2026-11-07T06:59:24.607574Z",
-  "updatedAt": "2026-11-22T11:01:28.186463Z",
+  "updatedAt": "2026-11-22T11:53:25.00285Z",
   "competitive": "0.5807418508804796",
-  "volume24hr": "2433894.772269",
+  "volume24hr": "2375407.4651199994",
   "volume1wk": "2457383.3013149993",
   "volume1mo": "2457387.6452269997",
   "volume1yr": "2457387.6452269997",
@@ -209,11 +209,11 @@
   "description": "In the upcoming NBA game between Grizzlies and Timberwolves, originally scheduled for Saturday, November 21, 2026 at 8:00 PM ET (as of creation of the first mar",
   "outcomes": "[\"Grizzlies\", \"Timberwolves\"]",
   "outcomePrices": "[\"0\", \"1\"]",
-  "volume": "1345354.4531659998",
+  "volume": "1345354.453166",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-07T06:59:24.938709Z",
-  "updatedAt": "2026-11-22T10:51:25.642865Z",
+  "updatedAt": "2026-11-22T11:51:25.726537Z",
   "closedTime": "2026-11-22 03:28:49.441214+00",
   "new": "False",
   "featured": "False",
@@ -228,77 +228,59 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "1345354.4531659998",
+  "volumeNum": "1345354.453166",
   "endDateIso": "2026-11-22",
   "startDateIso": "2026-11-07",
   "hasReviewedDates": "True",
-  "volume24hr": "1330229.0480169996",
+  "volume24hr": "1329683.5382089992",
   "volume1wk": "1345350.1092539993",
   "volume1mo": "1345354.4531659994",
   "volume1yr": "1345354.4531659994",
   "gameStartTime": "2026-11-22 01:00:00+00"
  },
  "multi_option_event": {
-  "title": "Fed Decision in December?",
-  "slug": "fed-decision-in-december-20260729232808632",
-  "n_sub": 5,
+  "title": "FC Barcelona vs. Villarreal CF",
+  "slug": "lal-bar-vil-2026-11-22",
+  "n_sub": 3,
   "sub_markets": [
    {
-    "question": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
-    "groupItemTitle": "50+ bps decrease",
+    "question": "Will FC Barcelona win on 2026-11-22?",
+    "groupItemTitle": "FC Barcelona",
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0035\", \"0.9965\"]",
+    "outcomePrices": "[\"0.835\", \"0.165\"]",
     "closed": "False"
    },
    {
-    "question": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
-    "groupItemTitle": "25 bps decrease",
+    "question": "Will FC Barcelona vs. Villarreal CF end in a draw?",
+    "groupItemTitle": "Draw (FC Barcelona vs. Villarreal CF)",
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0055\", \"0.9945\"]",
+    "outcomePrices": "[\"0.095\", \"0.905\"]",
     "closed": "False"
    },
    {
-    "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-    "groupItemTitle": "No change",
+    "question": "Will Villarreal CF win on 2026-11-22?",
+    "groupItemTitle": "Villarreal CF",
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0665\", \"0.9335\"]",
-    "closed": "False"
-   },
-   {
-    "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-    "groupItemTitle": "25 bps increase",
-    "groupItemThreshold": "3",
-    "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.895\", \"0.105\"]",
-    "closed": "False"
-   },
-   {
-    "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-    "groupItemTitle": "50+ bps increase",
-    "groupItemThreshold": "4",
-    "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0225\", \"0.9775\"]",
+    "outcomePrices": "[\"0.065\", \"0.935\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 846,
-  "economy": 89,
-  "geopolitics": 177,
-  "crypto": 166,
-  "politics": 251,
-  "tech": 435,
-  "culture": 83,
-  "(空)": 52
+  "sports": 862,
+  "economy": 90,
+  "geopolitics": 174,
+  "tech": 436,
+  "crypto": 163,
+  "politics": 242,
+  "culture": 82,
+  "(空)": 51
  },
  "tag_samples": [
   {
@@ -320,6 +302,15 @@
    ]
   },
   {
+   "title": "FC Barcelona vs. Villarreal CF",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "La Liga"
+   ]
+  },
+  {
    "title": "Fed Decision in December?",
    "tags": [
     "Fed",
@@ -331,15 +322,6 @@
    ]
   },
   {
-   "title": "FC Barcelona vs. Villarreal CF",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "La Liga"
-   ]
-  },
-  {
    "title": "Israel x Iran ceasefire continues through...?",
    "tags": [
     "Iran",
@@ -348,6 +330,17 @@
     "Israel x Iran",
     "Israel Election",
     "Iran Ceasefire"
+   ]
+  },
+  {
+   "title": "Next French Presidential Election",
+   "tags": [
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
+    "Politics",
+    "Global Elections"
    ]
   },
   {
@@ -371,44 +364,33 @@
     "World Elections",
     "Global Elections"
    ]
-  },
-  {
-   "title": "What price will Bitcoin hit November 16-22?",
-   "tags": [
-    "Crypto",
-    "Crypto Prices",
-    "Recurring",
-    "Hide From New",
-    "Bitcoin",
-    "Weekly"
-   ]
   }
  ],
  "top_titles": [
   "Grizzlies vs. Timberwolves",
   "Clippers vs. Mavericks",
-  "Fed Decision in December?",
   "FC Barcelona vs. Villarreal CF",
+  "Fed Decision in December?",
   "Israel x Iran ceasefire continues through...?",
+  "Next French Presidential Election",
   "What price will Bitcoin hit in November?",
   "Republican Presidential Nominee 2028",
   "What price will Bitcoin hit November 16-22?",
   "UEFA Champions League: 2027 Champion",
-  "Next French Presidential Election",
   "Bitcoin above ___ on November 22?",
   "What price will Bitcoin hit in 2026?",
-  "Democratic Presidential Nominee 2028",
-  "FC Barcelona vs. Villarreal CF - More Markets",
-  "EPL: 2027 Champion",
-  "What price will Bitcoin hit on November 22?",
   "Juventus FC vs. Venezia FC",
+  "FC Barcelona vs. Villarreal CF - More Markets",
+  "Democratic Presidential Nominee 2028",
+  "What price will Bitcoin hit on November 22?",
+  "EPL: 2027 Champion",
+  "FC Twente vs. Willem II Tilburg - More Markets",
   "Ravens vs. Panthers",
-  "Presidential Election Winner 2028",
   "Songs on GTA VI Radio at Launch?",
+  "Presidential Election Winner 2028",
   "Will the U.S. invade Iran before 2027?",
   "What price will Ethereum hit November 16-22?",
-  "NBA: 2027 Champion",
   "Elon Musk # tweets November 17 - November 24, 2026?",
-  "Jensen Huang rejoins NVIDIA by...?"
+  "Juventus FC vs. Venezia FC - More Markets"
  ]
 }
