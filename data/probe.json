@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-22T03:47:53.231882+00:00",
+ "ts": "2026-11-22T04:51:54.946646+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 48131,
- "single_game_events": 693,
+ "sub_markets_total": 46851,
+ "single_game_events": 695,
  "event_keys": [
   "active",
   "archived",
@@ -25,7 +25,6 @@
   "eventMetadata",
   "eventWeek",
   "featured",
-  "finishedTimestamp",
   "gameId",
   "icon",
   "id",
@@ -71,13 +70,13 @@
   "approved",
   "archived",
   "automaticallyActive",
-  "automaticallyResolved",
   "bestAsk",
+  "bestBid",
   "clearBookOnStart",
   "clobTokenIds",
   "closed",
-  "closedTime",
   "comboStatus",
+  "competitive",
   "conditionId",
   "createdAt",
   "customLiveness",
@@ -102,6 +101,9 @@
   "id",
   "image",
   "lastTradePrice",
+  "liquidity",
+  "liquidityClob",
+  "liquidityNum",
   "makerBaseFee",
   "manualActivation",
   "negRisk",
@@ -136,8 +138,6 @@
   "takerBaseFee",
   "tradingEligible",
   "umaBond",
-  "umaEndDate",
-  "umaResolutionStatus",
   "umaResolutionStatuses",
   "umaReward",
   "updatedAt",
@@ -155,15 +155,15 @@
   "volumeNum"
  ],
  "sample_event": {
-  "id": "1330305",
-  "ticker": "nba-mem-min-2026-11-21",
-  "slug": "nba-mem-min-2026-11-21",
-  "title": "Grizzlies vs. Timberwolves",
-  "description": "In the upcoming NBA game between Grizzlies and Timberwolves, originally scheduled for Saturday, November 21, 2026 at 8:00 PM ET (as of creation of the first mar",
+  "id": "1330307",
+  "ticker": "nba-bos-sac-2026-11-21",
+  "slug": "nba-bos-sac-2026-11-21",
+  "title": "Celtics vs. Kings",
+  "description": "In the upcoming NBA game between Celtics and Kings, originally scheduled for Saturday, November 21, 2026 at 10:00 PM ET (as of creation of the first market rela",
   "resolutionSource": "https://www.nba.com/",
-  "startDate": "2026-11-07T06:59:32Z",
-  "creationDate": "2026-11-22T01:00:00Z",
-  "endDate": "2026-11-22T01:00:00Z",
+  "startDate": "2026-11-07T06:59:34Z",
+  "creationDate": "2026-11-22T03:00:00Z",
+  "endDate": "2026-11-22T03:00:00Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "active": "True",
@@ -172,21 +172,21 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "624.0187",
-  "volume": "2457305.7456019996",
-  "openInterest": "99245.20506300002",
-  "createdAt": "2026-11-07T06:59:24.607574Z",
-  "updatedAt": "2026-11-22T03:43:23.34685Z",
-  "competitive": "0.4301178044875624",
-  "volume24hr": "2443698.9987609996",
-  "volume1wk": "2457325.8416899997",
-  "volume1mo": "2457330.185602",
-  "volume1yr": "2457330.185602",
+  "liquidity": "1547699.17242",
+  "volume": "3125729.4062250005",
+  "openInterest": "2463565.2931399993",
+  "createdAt": "2026-11-07T06:59:26.910096Z",
+  "updatedAt": "2026-11-22T04:51:25.58865Z",
+  "competitive": "1",
+  "volume24hr": "3186757.566561",
+  "volume1wk": "3208042.15386",
+  "volume1mo": "3208048.59966",
+  "volume1yr": "3208048.59966",
   "enableOrderBook": "True",
-  "liquidityClob": "624.0187",
+  "liquidityClob": "1547699.17242",
   "negRisk": "False",
   "commentCount": "0",
-  "markets": "<list 519>",
+  "markets": "<list 482>",
   "series": "<list 1>",
   "tags": "<list 4>",
   "cyom": "False",
@@ -197,24 +197,24 @@
   "eventDate": "2026-11-21"
  },
  "sample_market": {
-  "id": "6774409",
-  "question": "Grizzlies vs. Timberwolves",
-  "conditionId": "0xd878ee4681a0a960ba658a7c5d67cb682aaa724f3f87c7441da1b486bada3128",
-  "slug": "nba-mem-min-2026-11-21",
+  "id": "6774411",
+  "question": "Celtics vs. Kings",
+  "conditionId": "0x9fe99391f0696e3d14a7d0642b008bbe70be380cabee298f73a13ff690baf5de",
+  "slug": "nba-bos-sac-2026-11-21",
   "resolutionSource": "https://www.nba.com/",
-  "endDate": "2026-11-22T01:00:00Z",
-  "startDate": "2026-11-07T06:59:32Z",
+  "endDate": "2026-11-22T03:00:00Z",
+  "liquidity": "164133.7263",
+  "startDate": "2026-11-07T06:59:34Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
-  "description": "In the upcoming NBA game between Grizzlies and Timberwolves, originally scheduled for Saturday, November 21, 2026 at 8:00 PM ET (as of creation of the first mar",
-  "outcomes": "[\"Grizzlies\", \"Timberwolves\"]",
-  "outcomePrices": "[\"0\", \"1\"]",
-  "volume": "1345354.4531659998",
+  "description": "In the upcoming NBA game between Celtics and Kings, originally scheduled for Saturday, November 21, 2026 at 10:00 PM ET (as of creation of the first market rela",
+  "outcomes": "[\"Celtics\", \"Kings\"]",
+  "outcomePrices": "[\"0.585\", \"0.415\"]",
+  "volume": "1433870.4907490003",
   "active": "True",
-  "closed": "True",
-  "createdAt": "2026-11-07T06:59:24.938709Z",
-  "updatedAt": "2026-11-22T03:37:23.86123Z",
-  "closedTime": "2026-11-22 03:28:49.441214+00",
+  "closed": "False",
+  "createdAt": "2026-11-07T06:59:27.360034Z",
+  "updatedAt": "2026-11-22T04:51:12.04272Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -222,26 +222,26 @@
   "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
   "restricted": "True",
   "groupItemThreshold": "0",
-  "questionID": "0x6fcef0c31ae97c1a712a75fc4445e4528bd88ca14f8ee2fff1f8646012ba5b60",
-  "umaEndDate": "2026-11-22 03:28:49.441214+00:00:00",
+  "questionID": "0xac4415acafab0678f996bcd265d0452581d2b543a9c485d8423d2445148639ce",
   "enableOrderBook": "True",
-  "orderPriceMinTickSize": "0.001",
+  "orderPriceMinTickSize": "0.01",
   "orderMinSize": "5",
-  "umaResolutionStatus": "resolved",
-  "volumeNum": "1345354.4531659998",
+  "volumeNum": "1433870.4907490003",
+  "liquidityNum": "164133.7263",
   "endDateIso": "2026-11-22",
   "startDateIso": "2026-11-07",
   "hasReviewedDates": "True",
-  "volume24hr": "1334753.9336019997",
-  "volume1wk": "1345350.1092539998",
-  "volume1mo": "1345354.4531659998",
-  "volume1yr": "1345354.4531659998",
-  "gameStartTime": "2026-11-22 01:00:00+00"
+  "volume24hr": "1535599.0308730004",
+  "volume1wk": "1550245.5848400004",
+  "volume1mo": "1550252.0306400002",
+  "volume1yr": "1550252.0306400002",
+  "gameStartTime": "2026-11-22 03:00:00+00",
+  "secondsDelay": "0"
  },
  "multi_option_event": {
   "title": "Celtics vs. Kings",
   "slug": "nba-bos-sac-2026-11-21",
-  "n_sub": 479,
+  "n_sub": 373,
   "sub_markets": [
    {
     "question": "Celtics vs. Kings",
@@ -249,7 +249,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Celtics\", \"Kings\"]",
-    "outcomePrices": "[\"0.795\", \"0.205\"]",
+    "outcomePrices": "[\"0.585\", \"0.415\"]",
     "closed": "False"
    },
    {
@@ -258,7 +258,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Celtics\", \"Kings\"]",
-    "outcomePrices": "[\"0.255\", \"0.745\"]",
+    "outcomePrices": "[\"0.0255\", \"0.9745\"]",
     "closed": "False"
    },
    {
@@ -267,7 +267,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.185\", \"0.815\"]",
+    "outcomePrices": "[\"0.0195\", \"0.9805\"]",
     "closed": "False"
    },
    {
@@ -276,7 +276,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Celtics\", \"Kings\"]",
-    "outcomePrices": "[\"0.23\", \"0.77\"]",
+    "outcomePrices": "[\"0.0175\", \"0.9825\"]",
     "closed": "False"
    },
    {
@@ -285,31 +285,22 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.225\", \"0.775\"]",
+    "outcomePrices": "[\"0.0295\", \"0.9705\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 756,
-  "economy": 95,
+  "sports": 760,
+  "economy": 93,
   "crypto": 177,
-  "geopolitics": 184,
-  "politics": 298,
-  "tech": 435,
-  "culture": 97,
-  "(空)": 58
+  "politics": 299,
+  "geopolitics": 183,
+  "tech": 439,
+  "culture": 95,
+  "(空)": 54
  },
  "tag_samples": [
-  {
-   "title": "Grizzlies vs. Timberwolves",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
   {
    "title": "Celtics vs. Kings",
    "tags": [
@@ -320,11 +311,12 @@
    ]
   },
   {
-   "title": "Virginia Tech vs. Miami (FL)",
+   "title": "Grizzlies vs. Timberwolves",
    "tags": [
     "Sports",
-    "CFB (All)",
-    "Games"
+    "NBA",
+    "Games",
+    "Basketball"
    ]
   },
   {
@@ -339,23 +331,20 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit in 2026?",
-   "tags": [
-    "Bitcoin",
-    "Yearly",
-    "Hit Price",
-    "Crypto Prices",
-    "Crypto",
-    "Earn 3.25%"
-   ]
-  },
-  {
    "title": "Clippers vs. Mavericks",
    "tags": [
     "Sports",
     "NBA",
     "Games",
     "Basketball"
+   ]
+  },
+  {
+   "title": "Oklahoma State vs. Arizona State",
+   "tags": [
+    "Sports",
+    "CFB (All)",
+    "Games"
    ]
   },
   {
@@ -370,42 +359,53 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit November 16-22?",
+   "title": "Republican Presidential Nominee 2028",
    "tags": [
-    "Crypto",
-    "Crypto Prices",
-    "Recurring",
-    "Hide From New",
+    "United States",
+    "Politics",
+    "US Election",
+    "Elections",
+    "World Elections",
+    "Global Elections"
+   ]
+  },
+  {
+   "title": "What price will Bitcoin hit in 2026?",
+   "tags": [
     "Bitcoin",
-    "Weekly"
+    "Yearly",
+    "Hit Price",
+    "Crypto Prices",
+    "Crypto",
+    "Earn 3.25%"
    ]
   }
  ],
  "top_titles": [
-  "Grizzlies vs. Timberwolves",
   "Celtics vs. Kings",
-  "Virginia Tech vs. Miami (FL)",
+  "Grizzlies vs. Timberwolves",
   "Fed Decision in December?",
-  "What price will Bitcoin hit in 2026?",
   "Clippers vs. Mavericks",
-  "What price will Bitcoin hit in November?",
-  "What price will Bitcoin hit November 16-22?",
-  "Arizona vs. Kansas State",
   "Oklahoma State vs. Arizona State",
+  "What price will Bitcoin hit in November?",
+  "Republican Presidential Nominee 2028",
+  "What price will Bitcoin hit in 2026?",
   "Israel x Iran ceasefire continues through...?",
   "What price will Bitcoin hit on November 21?",
-  "Republican Presidential Nominee 2028",
-  "Kentucky vs. Missouri",
+  "What price will Bitcoin hit November 16-22?",
   "Next French Presidential Election",
-  "SMU vs. Notre Dame",
   "UEFA Champions League: 2027 Champion",
   "Democratic Presidential Nominee 2028",
-  "Georgia vs. South Carolina",
+  "Presidential Election Winner 2028",
   "PGL Major Singapore 2026: Winner",
   "EPL: 2027 Champion",
+  "Utah vs. TCU",
+  "Las Vegas Grand Prix: Driver Winner",
   "NBA: 2027 Champion",
-  "Presidential Election Winner 2028",
   "Bitcoin above ___ on November 22?",
-  "What price will Ethereum hit November 16-22?"
+  "San Diego State vs. Boise State",
+  "What price will Ethereum hit November 16-22?",
+  "Elon Musk # tweets November 17 - November 24, 2026?",
+  "Ducks vs. Utah"
  ]
 }
