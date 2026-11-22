@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-22T20:04:04.956139+00:00",
+ "ts": "2026-11-22T21:01:29.382197+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 50489,
- "single_game_events": 764,
+ "events_total": 2092,
+ "sub_markets_total": 50059,
+ "single_game_events": 744,
  "event_keys": [
   "active",
   "archived",
@@ -174,18 +174,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "2669598.37845",
-  "volume": "3226145.8489719997",
-  "openInterest": "2964598.491141",
+  "liquidity": "1642048.13607",
+  "volume": "3507453.2444259995",
+  "openInterest": "3154868.4602849996",
   "createdAt": "2026-11-02T13:00:49.200253Z",
-  "updatedAt": "2026-11-22T20:03:49.77217Z",
-  "competitive": "0.9999750006249843",
-  "volume24hr": "3185711.7775759986",
-  "volume1wk": "3254047.486951999",
-  "volume1mo": "3254647.486951999",
-  "volume1yr": "3254647.486951999",
+  "updatedAt": "2026-11-22T20:59:23.75862Z",
+  "competitive": "0.9651578033008397",
+  "volume24hr": "3515275.656854001",
+  "volume1wk": "3583611.366230001",
+  "volume1mo": "3584211.366230001",
+  "volume1yr": "3584211.366230001",
   "enableOrderBook": "True",
-  "liquidityClob": "2669598.37845",
+  "liquidityClob": "1642048.13607",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 305>",
@@ -205,18 +205,18 @@
   "slug": "nfl-pit-phi-2026-11-22",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-22T21:25:00Z",
-  "liquidity": "86435.2369",
+  "liquidity": "303393.0289",
   "startDate": "2026-11-02T13:00:56Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Steelers and Eagles, originally scheduled for Sunday, November 22, 2026 at 4:25 PM ET (as of creation of the first mar",
   "outcomes": "[\"Steelers\", \"Eagles\"]",
-  "outcomePrices": "[\"0.31\", \"0.69\"]",
-  "volume": "1745786.3147779999",
+  "outcomePrices": "[\"0.095\", \"0.905\"]",
+  "volume": "1921409.8936239996",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-02T13:00:49.407829Z",
-  "updatedAt": "2026-11-22T20:03:13.580271Z",
+  "updatedAt": "2026-11-22T21:01:12.918826Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -228,22 +228,22 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.01",
   "orderMinSize": "5",
-  "volumeNum": "1745786.3147779999",
-  "liquidityNum": "86435.2369",
+  "volumeNum": "1921409.8936239996",
+  "liquidityNum": "303393.0289",
   "endDateIso": "2026-11-22",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "1747681.6307619987",
-  "volume1wk": "1755861.564769999",
-  "volume1mo": "1755861.564769999",
-  "volume1yr": "1755861.564769999",
+  "volume24hr": "1982897.270173001",
+  "volume1wk": "1991077.2041810013",
+  "volume1mo": "1991077.2041810013",
+  "volume1yr": "1991077.2041810013",
   "gameStartTime": "2026-11-22 18:00:00+00",
   "secondsDelay": "1"
  },
  "multi_option_event": {
   "title": "Steelers vs. Eagles",
   "slug": "nfl-pit-phi-2026-11-22",
-  "n_sub": 199,
+  "n_sub": 172,
   "sub_markets": [
    {
     "question": "Steelers vs. Eagles",
@@ -251,7 +251,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Steelers\", \"Eagles\"]",
-    "outcomePrices": "[\"0.31\", \"0.69\"]",
+    "outcomePrices": "[\"0.095\", \"0.905\"]",
     "closed": "False"
    },
    {
@@ -260,7 +260,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Steelers\", \"Eagles\"]",
-    "outcomePrices": "[\"0.265\", \"0.735\"]",
+    "outcomePrices": "[\"0.062\", \"0.938\"]",
     "closed": "False"
    },
    {
@@ -269,7 +269,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Steelers\", \"Eagles\"]",
-    "outcomePrices": "[\"0.27\", \"0.73\"]",
+    "outcomePrices": "[\"0.054\", \"0.946\"]",
     "closed": "False"
    },
    {
@@ -278,7 +278,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Steelers\", \"Eagles\"]",
-    "outcomePrices": "[\"0.165\", \"0.835\"]",
+    "outcomePrices": "[\"0.04\", \"0.96\"]",
     "closed": "False"
    },
    {
@@ -287,19 +287,19 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Steelers\", \"Eagles\"]",
-    "outcomePrices": "[\"0.1\", \"0.9\"]",
+    "outcomePrices": "[\"0.03\", \"0.97\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 831,
-  "economy": 94,
-  "tech": 433,
+  "sports": 803,
+  "economy": 95,
   "geopolitics": 184,
+  "tech": 440,
   "politics": 265,
-  "crypto": 147,
-  "culture": 95,
+  "crypto": 157,
+  "culture": 97,
   "(空)": 51
  },
  "tag_samples": [
@@ -328,20 +328,20 @@
    ]
   },
   {
+   "title": "Saints vs. Bears",
+   "tags": [
+    "Sports",
+    "NFL (All)",
+    "Games"
+   ]
+  },
+  {
    "title": "Grizzlies vs. Timberwolves",
    "tags": [
     "Sports",
     "NBA",
     "Games",
     "Basketball"
-   ]
-  },
-  {
-   "title": "Saints vs. Bears",
-   "tags": [
-    "Sports",
-    "NFL (All)",
-    "Games"
    ]
   },
   {
@@ -353,7 +353,7 @@
    ]
   },
   {
-   "title": "Dota 2: 1win vs Aurora (BO3) - BLAST Slam Group D",
+   "title": "Dota 2: LGD Gaming vs Astra Invicta (BO3) - BLAST Slam Group D",
    "tags": [
     "Esports",
     "Dota 2",
@@ -374,27 +374,27 @@
   "Steelers vs. Eagles",
   "Ravens vs. Panthers",
   "Buccaneers vs. Lions",
-  "Grizzlies vs. Timberwolves",
   "Saints vs. Bears",
+  "Grizzlies vs. Timberwolves",
   "Titans vs. Cowboys",
-  "Dota 2: 1win vs Aurora (BO3) - BLAST Slam Group D",
-  "Cardinals vs. Chiefs",
-  "Clippers vs. Mavericks",
   "Dota 2: LGD Gaming vs Astra Invicta (BO3) - BLAST Slam Group D",
+  "Cardinals vs. Chiefs",
   "Dolphins vs. Bills",
+  "Clippers vs. Mavericks",
   "Jaguars vs. Giants",
-  "Fed Decision in December?",
-  "Counter-Strike: Envy vs Sinners (BO3) - RUSH Brno Playoffs",
-  "Next French Presidential Election",
   "Raiders vs. Broncos",
+  "Fed Decision in December?",
   "Israel x Iran ceasefire continues through...?",
+  "Pistons vs. Hawks",
+  "Celtics vs. Warriors",
+  "Next French Presidential Election",
+  "Jets vs. Chargers",
   "Republican Presidential Nominee 2028",
   "What price will Bitcoin hit on November 22?",
   "What price will Bitcoin hit November 16-22?",
   "What price will Bitcoin hit in November?",
+  "Getafe CF vs. Club Atlético de Madrid",
   "UEFA Champions League: 2027 Champion",
-  "Vikings vs. 49ers",
-  "What price will Bitcoin hit in 2026?",
-  "Celtics vs. Warriors"
+  "CA Paranaense vs. Clube do Remo - More Markets"
  ]
 }
