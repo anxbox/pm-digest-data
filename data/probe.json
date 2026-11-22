@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-22T04:51:54.946646+00:00",
+ "ts": "2026-11-22T05:50:38.640065+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 46851,
- "single_game_events": 695,
+ "sub_markets_total": 47404,
+ "single_game_events": 723,
  "event_keys": [
   "active",
   "archived",
@@ -25,6 +25,7 @@
   "eventMetadata",
   "eventWeek",
   "featured",
+  "finishedTimestamp",
   "gameId",
   "icon",
   "id",
@@ -71,7 +72,6 @@
   "archived",
   "automaticallyActive",
   "bestAsk",
-  "bestBid",
   "clearBookOnStart",
   "clobTokenIds",
   "closed",
@@ -138,6 +138,7 @@
   "takerBaseFee",
   "tradingEligible",
   "umaBond",
+  "umaResolutionStatus",
   "umaResolutionStatuses",
   "umaReward",
   "updatedAt",
@@ -172,18 +173,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1547699.17242",
-  "volume": "3125729.4062250005",
-  "openInterest": "2463565.2931399993",
+  "liquidity": "7053812.28675",
+  "volume": "4455068.284639",
+  "openInterest": "3025762.538217999",
   "createdAt": "2026-11-07T06:59:26.910096Z",
-  "updatedAt": "2026-11-22T04:51:25.58865Z",
-  "competitive": "1",
-  "volume24hr": "3186757.566561",
-  "volume1wk": "3208042.15386",
-  "volume1mo": "3208048.59966",
-  "volume1yr": "3208048.59966",
+  "updatedAt": "2026-11-22T05:49:24.611876Z",
+  "competitive": "0.8620689655172414",
+  "volume24hr": "4691299.294580002",
+  "volume1wk": "4714999.203852002",
+  "volume1mo": "4715005.649652001",
+  "volume1yr": "4715005.649652001",
   "enableOrderBook": "True",
-  "liquidityClob": "1547699.17242",
+  "liquidityClob": "7053812.28675",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 482>",
@@ -203,18 +204,18 @@
   "slug": "nba-bos-sac-2026-11-21",
   "resolutionSource": "https://www.nba.com/",
   "endDate": "2026-11-22T03:00:00Z",
-  "liquidity": "164133.7263",
+  "liquidity": "2172141.84813",
   "startDate": "2026-11-07T06:59:34Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/super+cool+basketball+in+red+and+blue+wow.png",
   "description": "In the upcoming NBA game between Celtics and Kings, originally scheduled for Saturday, November 21, 2026 at 10:00 PM ET (as of creation of the first market rela",
   "outcomes": "[\"Celtics\", \"Kings\"]",
-  "outcomePrices": "[\"0.585\", \"0.415\"]",
-  "volume": "1433870.4907490003",
+  "outcomePrices": "[\"0.0005\", \"0.9995\"]",
+  "volume": "2439998.9246799997",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-07T06:59:27.360034Z",
-  "updatedAt": "2026-11-22T04:51:12.04272Z",
+  "updatedAt": "2026-11-22T05:49:12.539345Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -224,24 +225,24 @@
   "groupItemThreshold": "0",
   "questionID": "0xac4415acafab0678f996bcd265d0452581d2b543a9c485d8423d2445148639ce",
   "enableOrderBook": "True",
-  "orderPriceMinTickSize": "0.01",
+  "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "1433870.4907490003",
-  "liquidityNum": "164133.7263",
+  "umaResolutionStatus": "proposed",
+  "volumeNum": "2439998.9246799997",
+  "liquidityNum": "2172141.84813",
   "endDateIso": "2026-11-22",
   "startDateIso": "2026-11-07",
   "hasReviewedDates": "True",
-  "volume24hr": "1535599.0308730004",
-  "volume1wk": "1550245.5848400004",
-  "volume1mo": "1550252.0306400002",
-  "volume1yr": "1550252.0306400002",
-  "gameStartTime": "2026-11-22 03:00:00+00",
-  "secondsDelay": "0"
+  "volume24hr": "2656694.6334380014",
+  "volume1wk": "2671628.187398001",
+  "volume1mo": "2671634.6331980014",
+  "volume1yr": "2671634.6331980014",
+  "gameStartTime": "2026-11-22 03:00:00+00"
  },
  "multi_option_event": {
   "title": "Celtics vs. Kings",
   "slug": "nba-bos-sac-2026-11-21",
-  "n_sub": 373,
+  "n_sub": 318,
   "sub_markets": [
    {
     "question": "Celtics vs. Kings",
@@ -249,7 +250,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Celtics\", \"Kings\"]",
-    "outcomePrices": "[\"0.585\", \"0.415\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
@@ -258,7 +259,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Celtics\", \"Kings\"]",
-    "outcomePrices": "[\"0.0255\", \"0.9745\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
@@ -267,7 +268,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.0195\", \"0.9805\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
@@ -276,7 +277,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Celtics\", \"Kings\"]",
-    "outcomePrices": "[\"0.0175\", \"0.9825\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
@@ -285,20 +286,20 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.0295\", \"0.9705\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 760,
+  "sports": 777,
   "economy": 93,
-  "crypto": 177,
-  "politics": 299,
+  "politics": 296,
+  "crypto": 173,
   "geopolitics": 183,
-  "tech": 439,
-  "culture": 95,
-  "(空)": 54
+  "tech": 434,
+  "culture": 91,
+  "(空)": 53
  },
  "tag_samples": [
   {
@@ -317,6 +318,14 @@
     "NBA",
     "Games",
     "Basketball"
+   ]
+  },
+  {
+   "title": "Oklahoma State vs. Arizona State",
+   "tags": [
+    "Sports",
+    "CFB (All)",
+    "Games"
    ]
   },
   {
@@ -340,11 +349,14 @@
    ]
   },
   {
-   "title": "Oklahoma State vs. Arizona State",
+   "title": "Republican Presidential Nominee 2028",
    "tags": [
-    "Sports",
-    "CFB (All)",
-    "Games"
+    "United States",
+    "Politics",
+    "US Election",
+    "Elections",
+    "World Elections",
+    "Global Elections"
    ]
   },
   {
@@ -356,17 +368,6 @@
     "Crypto",
     "Crypto Prices",
     "Recurring"
-   ]
-  },
-  {
-   "title": "Republican Presidential Nominee 2028",
-   "tags": [
-    "United States",
-    "Politics",
-    "US Election",
-    "Elections",
-    "World Elections",
-    "Global Elections"
    ]
   },
   {
@@ -384,28 +385,28 @@
  "top_titles": [
   "Celtics vs. Kings",
   "Grizzlies vs. Timberwolves",
+  "Oklahoma State vs. Arizona State",
   "Fed Decision in December?",
   "Clippers vs. Mavericks",
-  "Oklahoma State vs. Arizona State",
-  "What price will Bitcoin hit in November?",
   "Republican Presidential Nominee 2028",
+  "What price will Bitcoin hit in November?",
   "What price will Bitcoin hit in 2026?",
   "Israel x Iran ceasefire continues through...?",
-  "What price will Bitcoin hit on November 21?",
+  "San Diego State vs. Boise State",
   "What price will Bitcoin hit November 16-22?",
   "Next French Presidential Election",
   "UEFA Champions League: 2027 Champion",
   "Democratic Presidential Nominee 2028",
+  "Utah vs. TCU",
+  "Las Vegas Grand Prix: Driver Winner",
   "Presidential Election Winner 2028",
   "PGL Major Singapore 2026: Winner",
   "EPL: 2027 Champion",
-  "Utah vs. TCU",
-  "Las Vegas Grand Prix: Driver Winner",
-  "NBA: 2027 Champion",
   "Bitcoin above ___ on November 22?",
-  "San Diego State vs. Boise State",
-  "What price will Ethereum hit November 16-22?",
-  "Elon Musk # tweets November 17 - November 24, 2026?",
-  "Ducks vs. Utah"
+  "NBA: 2027 Champion",
+  "Hawai'i vs. Nevada",
+  "Tigres de la UANL vs. CF América",
+  "FC Barcelona vs. Villarreal CF - More Markets",
+  "What price will Ethereum hit November 16-22?"
  ]
 }
