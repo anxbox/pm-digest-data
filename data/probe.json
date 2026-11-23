@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-23T19:40:54.794826+00:00",
+ "ts": "2026-11-23T20:44:36.188719+00:00",
  "pages_fetched": 21,
- "events_total": 2095,
- "sub_markets_total": 47225,
- "single_game_events": 637,
+ "events_total": 2099,
+ "sub_markets_total": 47733,
+ "single_game_events": 636,
  "event_keys": [
   "active",
   "archived",
@@ -163,22 +163,22 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "635789.56327",
-  "volume": "12119891.410151",
-  "openInterest": "1508786.4504459999",
+  "liquidity": "655999.63249",
+  "volume": "12260012.320151",
+  "openInterest": "1498913.175684",
   "sortBy": "price",
   "createdAt": "2026-11-10T02:14:26.152725Z",
-  "updatedAt": "2026-11-23T19:37:26.564907Z",
+  "updatedAt": "2026-11-23T20:43:27.127198Z",
   "competitive": "0.8003199679231757",
-  "volume24hr": "4925184.280627999",
-  "volume1wk": "8206776.116657",
-  "volume1mo": "12113835.475816",
-  "volume1yr": "12113835.475816",
+  "volume24hr": "5000671.031233998",
+  "volume1wk": "8315208.665558999",
+  "volume1mo": "12251748.145815998",
+  "volume1yr": "12251748.145815998",
   "enableOrderBook": "True",
-  "liquidityClob": "635789.56327",
+  "liquidityClob": "655999.63249",
   "negRisk": "True",
   "negRiskMarketID": "0x6eda8cd8f20e7841f17d8aa3c8727f16e602f3b20c1d9f868cf505f0829cab00",
-  "commentCount": "290",
+  "commentCount": "291",
   "markets": "<list 107>",
   "tags": "<list 7>",
   "cyom": "False",
@@ -204,7 +204,7 @@
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-10T02:14:32.437072Z",
-  "updatedAt": "2026-11-23T19:37:25.726822Z",
+  "updatedAt": "2026-11-23T20:37:26.172557Z",
   "closedTime": "2026-11-23 18:15:37.235353+00",
   "new": "False",
   "featured": "False",
@@ -224,8 +224,8 @@
   "endDateIso": "2029-01-01",
   "startDateIso": "2026-11-10",
   "hasReviewedDates": "True",
-  "volume24hr": "157918.85409900002",
-  "volume1wk": "342578.99409100006",
+  "volume24hr": "157918.854099",
+  "volume1wk": "340400.7616220001",
   "volume1mo": "720418.148263",
   "volume1yr": "720418.148263"
  },
@@ -240,7 +240,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.445\", \"0.555\"]",
+    "outcomePrices": "[\"0.9735\", \"0.0265\"]",
     "closed": "False"
    },
    {
@@ -249,7 +249,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.275\", \"0.725\"]",
+    "outcomePrices": "[\"0.0245\", \"0.9755\"]",
     "closed": "False"
    },
    {
@@ -258,20 +258,20 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.275\", \"0.725\"]",
+    "outcomePrices": "[\"0.0035\", \"0.9965\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "culture": 100,
-  "sports": 695,
-  "economy": 109,
-  "tech": 497,
-  "crypto": 158,
+  "culture": 99,
+  "sports": 703,
+  "economy": 108,
+  "tech": 489,
+  "crypto": 159,
   "geopolitics": 182,
-  "politics": 269,
-  "(空)": 85
+  "politics": 275,
+  "(空)": 84
  },
  "tag_samples": [
   {
@@ -315,15 +315,6 @@
    ]
   },
   {
-   "title": "Dota 2: Team Liquid vs DO KONCA (BO3) - BLAST Slam Group C",
-   "tags": [
-    "Esports",
-    "Dota 2",
-    "Games",
-    "Sports"
-   ]
-  },
-  {
    "title": "New NVIDIA CEO named by December 31, 2026?",
    "tags": [
     "ceo",
@@ -355,6 +346,15 @@
     "Politics",
     "Global Elections"
    ]
+  },
+  {
+   "title": "Trail Blazers vs. 76ers",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
   }
  ],
  "top_titles": [
@@ -362,26 +362,26 @@
   "Brentford FC vs. Everton FC",
   "Jets vs. Chargers",
   "Fed Decision in December?",
-  "Dota 2: Team Liquid vs DO KONCA (BO3) - BLAST Slam Group C",
   "New NVIDIA CEO named by December 31, 2026?",
   "What price will Bitcoin hit in November?",
   "Next French Presidential Election",
-  "Israel x Iran ceasefire continues through...?",
-  "Thunder vs. Pacers",
   "Trail Blazers vs. 76ers",
+  "Bengals vs. Commanders",
+  "Thunder vs. Pacers",
   "What price will Bitcoin hit in 2026?",
-  "Ravens vs. Panthers",
+  "Israel x Iran ceasefire continues through...?",
   "What price will Bitcoin hit on November 23?",
   "NBA: 2027 Champion",
-  "Bengals vs. Commanders",
   "What price will Ethereum hit in November?",
   "Republican Presidential Nominee 2028",
   "UEFA Champions League: 2027 Champion",
   "Democratic Presidential Nominee 2028",
-  "Titans vs. Cowboys",
+  "Brentford FC vs. Everton FC - More Markets",
+  "Ravens vs. Panthers",
   "Largest Company end of December 2026?",
   "Rams Başakşehir FK vs. Çorum FK",
+  "Buenos Aires: Despina Papamichail vs Julia Riera",
   "Elon Musk # tweets November 17 - November 24, 2026?",
-  "Prime Minister of Israel after the next election?"
+  "AD Ceuta FC vs. UD Almería"
  ]
 }
