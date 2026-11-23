@@ -1,16 +1,15 @@
 {
- "ts": "2026-11-23T02:10:22.825444+00:00",
+ "ts": "2026-11-23T03:17:26.015290+00:00",
  "pages_fetched": 21,
- "events_total": 2082,
- "sub_markets_total": 47960,
- "single_game_events": 620,
+ "events_total": 2094,
+ "sub_markets_total": 46918,
+ "single_game_events": 611,
  "event_keys": [
   "active",
   "archived",
   "automaticallyActive",
   "closed",
   "commentCount",
-  "competitive",
   "createdAt",
   "creationDate",
   "cyom",
@@ -30,8 +29,6 @@
   "icon",
   "id",
   "image",
-  "liquidity",
-  "liquidityClob",
   "live",
   "markets",
   "negRisk",
@@ -173,18 +170,15 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "3",
   "volume": "5665829.674517",
-  "openInterest": "92340.87533499999",
+  "openInterest": "92311.042001",
   "createdAt": "2026-11-02T13:00:46.821125Z",
-  "updatedAt": "2026-11-23T02:09:22.700899Z",
-  "competitive": "0.009999750006249844",
-  "volume24hr": "5578904.779007",
+  "updatedAt": "2026-11-23T03:09:24.740768Z",
+  "volume24hr": "5578468.126832001",
   "volume1wk": "5660846.944164",
   "volume1mo": "5661160.333053",
   "volume1yr": "5661160.333053",
   "enableOrderBook": "True",
-  "liquidityClob": "3",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 305>",
@@ -195,7 +189,10 @@
   "showMarketImages": "False",
   "enableNegRisk": "False",
   "automaticallyActive": "True",
-  "eventDate": "2026-11-22"
+  "eventDate": "2026-11-22",
+  "startTime": "2026-11-22T21:25:00Z",
+  "eventWeek": "11",
+  "seriesSlug": "nfl-2026"
  },
  "sample_market": {
   "id": "6577559",
@@ -210,11 +207,11 @@
   "description": "In the upcoming NFL football game between Jaguars and Giants, originally scheduled for Sunday, November 22, 2026 at 1:00 PM ET (as of creation of the first mark",
   "outcomes": "[\"Jaguars\", \"Giants\"]",
   "outcomePrices": "[\"0\", \"1\"]",
-  "volume": "3850198.8154960005",
+  "volume": "3850198.815496",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-02T13:00:47.034947Z",
-  "updatedAt": "2026-11-23T02:07:22.774278Z",
+  "updatedAt": "2026-11-23T03:07:23.487755Z",
   "closedTime": "2026-11-23 01:11:19.551178+00",
   "new": "False",
   "featured": "False",
@@ -229,14 +226,14 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "3850198.8154960005",
+  "volumeNum": "3850198.815496",
   "endDateIso": "2026-11-22",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "3832819.385434",
-  "volume1wk": "3850185.426607",
-  "volume1mo": "3850198.8154960005",
-  "volume1yr": "3850198.8154960005",
+  "volume24hr": "3832609.3854330005",
+  "volume1wk": "3850185.4266070006",
+  "volume1mo": "3850198.815496",
+  "volume1yr": "3850198.815496",
   "gameStartTime": "2026-11-22 21:25:00+00"
  },
  "multi_option_event": {
@@ -250,7 +247,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.505\", \"0.495\"]",
+    "outcomePrices": "[\"0.5\", \"0.5\"]",
     "closed": "False"
    },
    {
@@ -259,7 +256,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.495\", \"0.505\"]",
+    "outcomePrices": "[\"0.5\", \"0.5\"]",
     "closed": "False"
    },
    {
@@ -268,24 +265,32 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.495\", \"0.505\"]",
+    "outcomePrices": "[\"0.5\", \"0.5\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 715,
-  "geopolitics": 198,
-  "economy": 107,
+  "sports": 709,
+  "politics": 272,
+  "geopolitics": 202,
   "crypto": 163,
-  "politics": 266,
+  "economy": 111,
   "tech": 460,
-  "culture": 110,
-  "(空)": 63
+  "culture": 111,
+  "(空)": 66
  },
  "tag_samples": [
   {
    "title": "Jaguars vs. Giants",
+   "tags": [
+    "Sports",
+    "NFL (All)",
+    "Games"
+   ]
+  },
+  {
+   "title": "Vikings vs. 49ers",
    "tags": [
     "Sports",
     "NFL (All)",
@@ -310,14 +315,6 @@
    ]
   },
   {
-   "title": "Vikings vs. 49ers",
-   "tags": [
-    "Sports",
-    "NFL (All)",
-    "Games"
-   ]
-  },
-  {
    "title": "Thunder vs. Heat",
    "tags": [
     "Sports",
@@ -335,7 +332,7 @@
    ]
   },
   {
-   "title": "Magic vs. Wizards",
+   "title": "Celtics vs. Warriors",
    "tags": [
     "Sports",
     "NBA",
@@ -344,7 +341,7 @@
    ]
   },
   {
-   "title": "Celtics vs. Warriors",
+   "title": "Magic vs. Wizards",
    "tags": [
     "Sports",
     "NBA",
@@ -355,29 +352,29 @@
  ],
  "top_titles": [
   "Jaguars vs. Giants",
+  "Vikings vs. 49ers",
   "Pacers vs. Knicks",
   "Jets vs. Chargers",
-  "Vikings vs. 49ers",
   "Thunder vs. Heat",
   "Ravens vs. Panthers",
-  "Magic vs. Wizards",
   "Celtics vs. Warriors",
-  "Mavericks vs. Jazz",
-  "Nuggets vs. Bulls",
+  "Magic vs. Wizards",
   "Titans vs. Cowboys",
-  "Israel x Iran ceasefire continues through...?",
-  "Fed Decision in December?",
-  "What price will Bitcoin hit on November 22?",
   "Republican Presidential Nominee 2028",
-  "Clippers vs. Mavericks",
-  "What price will Bitcoin hit November 16-22?",
-  "Next French Presidential Election",
-  "Democratic Presidential Nominee 2028",
-  "UEFA Champions League: 2027 Champion",
+  "Israel x Iran ceasefire continues through...?",
+  "What price will Bitcoin hit on November 22?",
+  "Fed Decision in December?",
   "What price will Ethereum hit in November?",
+  "What price will Bitcoin hit November 16-22?",
+  "Oilers vs. Blues",
+  "Next French Presidential Election",
   "What price will Bitcoin hit in November?",
+  "UEFA Champions League: 2027 Champion",
+  "Democratic Presidential Nominee 2028",
   "What price will Bitcoin hit in 2026?",
-  "Grizzlies vs. Timberwolves",
-  "Prime Minister of Israel after the next election?"
+  "Prime Minister of Israel after the next election?",
+  "Jensen Huang rejoins NVIDIA by...?",
+  "Next CEO of NVIDIA?",
+  "Clippers vs. Mavericks"
  ]
 }
