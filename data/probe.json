@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-23T16:32:13.404023+00:00",
+ "ts": "2026-11-23T17:34:36.034245+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 46023,
- "single_game_events": 639,
+ "events_total": 2097,
+ "sub_markets_total": 46259,
+ "single_game_events": 638,
  "event_keys": [
   "active",
   "archived",
@@ -103,7 +103,6 @@
   "negRiskRequestID",
   "new",
   "oneDayPriceChange",
-  "oneHourPriceChange",
   "oneWeekPriceChange",
   "orderMinSize",
   "orderPriceMinTickSize",
@@ -165,22 +164,22 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1879853.58709",
-  "volume": "11577289.482042998",
-  "openInterest": "2218813.8232420003",
+  "liquidity": "2141897.73481",
+  "volume": "11881739.960151",
+  "openInterest": "2229987.279585",
   "sortBy": "price",
   "createdAt": "2026-11-10T02:14:26.152725Z",
-  "updatedAt": "2026-11-23T16:31:31.495947Z",
+  "updatedAt": "2026-11-23T17:33:24.405375Z",
   "competitive": "0.8003199679231757",
-  "volume24hr": "4677127.472243999",
-  "volume1wk": "8085845.505991",
-  "volume1mo": "11716066.805815998",
-  "volume1yr": "11716066.805815998",
+  "volume24hr": "4797991.473786001",
+  "volume1wk": "8227087.492642001",
+  "volume1mo": "11874593.285816003",
+  "volume1yr": "11874593.285816003",
   "enableOrderBook": "True",
-  "liquidityClob": "1879853.58709",
+  "liquidityClob": "2141897.73481",
   "negRisk": "True",
   "negRiskMarketID": "0x6eda8cd8f20e7841f17d8aa3c8727f16e602f3b20c1d9f868cf505f0829cab00",
-  "commentCount": "282",
+  "commentCount": "285",
   "markets": "<list 107>",
   "tags": "<list 7>",
   "cyom": "False",
@@ -196,18 +195,18 @@
   "slug": "will-colette-kress-be-the-next-ceo-of-nvidia",
   "resolutionSource": "",
   "endDate": "2029-01-01T04:59:00Z",
-  "liquidity": "115403.7541",
+  "liquidity": "104935.69973",
   "startDate": "2026-11-10T02:18:38Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nvidia-ceo-colette-kress-55d0cd3dfb.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nvidia-ceo-colette-kress-55d0cd3dfb.jpg",
   "description": "This market will resolve according to the first individual who is officially announced as the successor to Jensen Huang as CEO of NVIDIA Corporation by December",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.0005\", \"0.9995\"]",
-  "volume": "691712.016263",
+  "volume": "719418.148263",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-10T02:14:32.437072Z",
-  "updatedAt": "2026-11-23T16:29:13.233996Z",
+  "updatedAt": "2026-11-23T17:27:13.624295Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -221,15 +220,15 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "proposed",
-  "volumeNum": "691712.016263",
-  "liquidityNum": "115403.7541",
+  "volumeNum": "719418.148263",
+  "liquidityNum": "104935.69973",
   "endDateIso": "2029-01-01",
   "startDateIso": "2026-11-10",
   "hasReviewedDates": "True",
-  "volume24hr": "130203.732485",
-  "volume1wk": "314905.5719740001",
-  "volume1mo": "692314.298263",
-  "volume1yr": "692314.298263"
+  "volume24hr": "158307.58248500002",
+  "volume1wk": "342884.42197300005",
+  "volume1mo": "720418.148263",
+  "volume1yr": "720418.148263"
  },
  "multi_option_event": {
   "title": "Next CEO of NVIDIA?",
@@ -284,14 +283,14 @@
   ]
  },
  "category_distribution": {
-  "culture": 108,
-  "sports": 704,
-  "economy": 110,
-  "crypto": 169,
-  "geopolitics": 178,
-  "tech": 494,
-  "politics": 255,
-  "(空)": 82
+  "culture": 99,
+  "sports": 705,
+  "economy": 107,
+  "crypto": 153,
+  "tech": 491,
+  "geopolitics": 183,
+  "politics": 273,
+  "(空)": 86
  },
  "tag_samples": [
   {
@@ -333,7 +332,7 @@
    ]
   },
   {
-   "title": "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A",
+   "title": "Dota 2: Team Liquid vs DO KONCA (BO3) - BLAST Slam Group C",
    "tags": [
     "Esports",
     "Dota 2",
@@ -342,31 +341,36 @@
    ]
   },
   {
-   "title": "Dota 2: Team Nemesis vs Xtreme Gaming (BO3) - BLAST Slam Group B",
-   "tags": [
-    "Esports",
-    "Dota 2",
-    "Games",
-    "Sports"
-   ]
-  },
-  {
-   "title": "Titans vs. Cowboys",
-   "tags": [
-    "Sports",
-    "NFL (All)",
-    "Games"
-   ]
-  },
-  {
-   "title": "Bitcoin above ___ on November 23?",
+   "title": "What price will Bitcoin hit in November?",
    "tags": [
     "Bitcoin",
-    "Weekly",
-    "Multi Strikes",
+    "Monthly",
+    "Hit Price",
     "Crypto",
     "Crypto Prices",
     "Recurring"
+   ]
+  },
+  {
+   "title": "New NVIDIA CEO named by December 31, 2026?",
+   "tags": [
+    "ceo",
+    "Tech",
+    "NVIDIA",
+    "Finance",
+    "Big Tech",
+    "Business"
+   ]
+  },
+  {
+   "title": "Israel x Iran ceasefire continues through...?",
+   "tags": [
+    "Iran",
+    "Israel",
+    "Geopolitics",
+    "Israel x Iran",
+    "Israel Election",
+    "Iran Ceasefire"
    ]
   }
  ],
@@ -375,26 +379,26 @@
   "Jets vs. Chargers",
   "Ravens vs. Panthers",
   "Fed Decision in December?",
-  "Dota 2: Natus Vincere vs OG (BO3) - BLAST Slam Group A",
-  "Dota 2: Team Nemesis vs Xtreme Gaming (BO3) - BLAST Slam Group B",
-  "Titans vs. Cowboys",
-  "Bitcoin above ___ on November 23?",
+  "Dota 2: Team Liquid vs DO KONCA (BO3) - BLAST Slam Group C",
   "What price will Bitcoin hit in November?",
+  "New NVIDIA CEO named by December 31, 2026?",
   "Israel x Iran ceasefire continues through...?",
   "Next French Presidential Election",
+  "Titans vs. Cowboys",
+  "Trail Blazers vs. 76ers",
   "What price will Bitcoin hit in 2026?",
   "What price will Ethereum hit in November?",
-  "NBA: 2027 Champion",
   "What price will Bitcoin hit on November 23?",
+  "NBA: 2027 Champion",
   "UEFA Champions League: 2027 Champion",
-  "Republican Presidential Nominee 2028",
   "Bengals vs. Commanders",
-  "Prime Minister of Israel after the next election?",
-  "FK Neftchi Fargona vs. Al Hilal SFC",
+  "Republican Presidential Nominee 2028",
   "Elon Musk # tweets November 21 - November 23, 2026?",
-  "New NVIDIA CEO named by December 31, 2026?",
+  "FK Neftchi Fargona vs. Al Hilal SFC",
   "Largest Company end of December 2026?",
   "Elon Musk # tweets November 17 - November 24, 2026?",
+  "Prime Minister of Israel after the next election?",
+  "Dota 2: Aurora vs LGD Gaming (BO3) - BLAST Slam Group D",
   "Pro Football: 2027 Champion"
  ]
 }
