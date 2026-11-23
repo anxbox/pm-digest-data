@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-23T05:43:56.569003+00:00",
+ "ts": "2026-11-23T07:18:18.828871+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 45959,
- "single_game_events": 599,
+ "events_total": 2087,
+ "sub_markets_total": 45760,
+ "single_game_events": 603,
  "event_keys": [
   "active",
   "archived",
@@ -171,14 +171,14 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "volume": "4287919.506413001",
-  "openInterest": "1006.9717129999999",
+  "volume": "4287919.506413",
+  "openInterest": "977.7344259999999",
   "createdAt": "2026-11-02T13:00:47.619712Z",
-  "updatedAt": "2026-11-23T05:39:25.000503Z",
-  "volume24hr": "4233352.513675001",
-  "volume1wk": "4284098.795101002",
-  "volume1mo": "4285245.506413002",
-  "volume1yr": "4285245.506413002",
+  "updatedAt": "2026-11-23T07:09:23.998071Z",
+  "volume24hr": "4233304.515101001",
+  "volume1wk": "4284082.207799",
+  "volume1mo": "4285245.506413001",
+  "volume1yr": "4285245.506413001",
   "enableOrderBook": "True",
   "negRisk": "False",
   "commentCount": "0",
@@ -208,11 +208,11 @@
   "description": "In the upcoming NFL football game between Jets and Chargers, originally scheduled for Sunday, November 22, 2026 at 4:05 PM ET (as of creation of the first marke",
   "outcomes": "[\"Jets\", \"Chargers\"]",
   "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "3542453.4209060003",
+  "volume": "3542453.420906",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-02T13:00:47.86341Z",
-  "updatedAt": "2026-11-23T05:37:27.358324Z",
+  "updatedAt": "2026-11-23T07:07:26.027797Z",
   "closedTime": "2026-11-23 00:02:46.998763+00",
   "new": "False",
   "featured": "False",
@@ -227,14 +227,14 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "3542453.4209060003",
+  "volumeNum": "3542453.420906",
   "endDateIso": "2026-11-22",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "3527384.8987010014",
-  "volume1wk": "3542256.7095940015",
-  "volume1mo": "3542453.4209060017",
-  "volume1yr": "3542453.4209060017",
+  "volume24hr": "3527353.1609970005",
+  "volume1wk": "3542240.122292",
+  "volume1mo": "3542453.4209060003",
+  "volume1yr": "3542453.4209060003",
   "gameStartTime": "2026-11-22 21:05:00+00"
  },
  "multi_option_event": {
@@ -257,7 +257,7 @@
     "groupItemThreshold": "43",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.925\", \"0.075\"]",
+    "outcomePrices": "[\"0.935\", \"0.065\"]",
     "closed": "False"
    },
    {
@@ -266,7 +266,7 @@
     "groupItemThreshold": "44",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.785\", \"0.215\"]",
+    "outcomePrices": "[\"0.775\", \"0.225\"]",
     "closed": "False"
    },
    {
@@ -290,14 +290,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 683,
-  "geopolitics": 205,
+  "sports": 689,
+  "geopolitics": 198,
+  "economy": 111,
   "tech": 464,
-  "economy": 113,
-  "crypto": 167,
-  "politics": 285,
-  "culture": 115,
-  "(空)": 68
+  "crypto": 159,
+  "politics": 278,
+  "culture": 118,
+  "(空)": 70
  },
  "tag_samples": [
   {
@@ -345,17 +345,6 @@
    ]
   },
   {
-   "title": "Jensen Huang rejoins NVIDIA by...?",
-   "tags": [
-    "Tech",
-    "NVIDIA",
-    "Big Tech",
-    "Business",
-    "Jensen Huang",
-    "NVIDIA Earnings"
-   ]
-  },
-  {
    "title": "Fed Decision in December?",
    "tags": [
     "Fed",
@@ -367,9 +356,20 @@
    ]
   },
   {
-   "title": "What price will Ethereum hit in November?",
+   "title": "Jensen Huang rejoins NVIDIA by...?",
    "tags": [
-    "Ethereum",
+    "Tech",
+    "NVIDIA",
+    "Big Tech",
+    "Business",
+    "Jensen Huang",
+    "NVIDIA Earnings"
+   ]
+  },
+  {
+   "title": "What price will Bitcoin hit in November?",
+   "tags": [
+    "Bitcoin",
     "Monthly",
     "Hit Price",
     "Crypto",
@@ -384,25 +384,25 @@
   "Ravens vs. Panthers",
   "Titans vs. Cowboys",
   "Israel x Iran ceasefire continues through...?",
-  "Jensen Huang rejoins NVIDIA by...?",
   "Fed Decision in December?",
-  "What price will Ethereum hit in November?",
-  "Republican Presidential Nominee 2028",
+  "Jensen Huang rejoins NVIDIA by...?",
   "What price will Bitcoin hit in November?",
+  "What price will Ethereum hit in November?",
   "Next French Presidential Election",
+  "Republican Presidential Nominee 2028",
+  "Next CEO of NVIDIA?",
   "Prime Minister of Israel after the next election?",
   "UEFA Champions League: 2027 Champion",
-  "Next CEO of NVIDIA?",
   "What price will Bitcoin hit in 2026?",
   "Democratic Presidential Nominee 2028",
-  "xQc finishes GTA VI by...?",
   "Elon Musk # tweets November 21 - November 23, 2026?",
-  "Elon Musk # tweets November 17 - November 24, 2026?",
   "Bitcoin above ___ on November 23?",
-  "Will the U.S. invade Iran before 2027?",
+  "Elon Musk # tweets November 17 - November 24, 2026?",
+  "xQc finishes GTA VI by...?",
   "Pro Football: 2027 Champion",
   "Venezuela leader end of 2026?",
   "Bengals vs. Commanders",
-  "NBA: 2027 Champion"
+  "Will the U.S. invade Iran before 2027?",
+  "Taipei Mayor Election Winner"
  ]
 }
