@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-23T12:39:25.759809+00:00",
+ "ts": "2026-11-23T14:03:32.019209+00:00",
  "pages_fetched": 21,
- "events_total": 2084,
- "sub_markets_total": 43582,
- "single_game_events": 630,
+ "events_total": 2100,
+ "sub_markets_total": 45005,
+ "single_game_events": 649,
  "event_keys": [
   "active",
   "archived",
@@ -172,13 +172,13 @@
   "featured": "False",
   "restricted": "True",
   "volume": "4287919.506413001",
-  "openInterest": "829.70163",
+  "openInterest": "828.45163",
   "createdAt": "2026-11-02T13:00:47.619712Z",
-  "updatedAt": "2026-11-23T12:33:31.201732Z",
-  "volume24hr": "4230910.515699001",
-  "volume1wk": "4284072.207799",
-  "volume1mo": "4285235.506413001",
-  "volume1yr": "4285235.506413001",
+  "updatedAt": "2026-11-23T14:00:25.208989Z",
+  "volume24hr": "4226451.704489001",
+  "volume1wk": "4284064.643696",
+  "volume1mo": "4285230.506413001",
+  "volume1yr": "4285230.506413001",
   "enableOrderBook": "True",
   "negRisk": "False",
   "commentCount": "0",
@@ -208,11 +208,11 @@
   "description": "In the upcoming NFL football game between Jets and Chargers, originally scheduled for Sunday, November 22, 2026 at 4:05 PM ET (as of creation of the first marke",
   "outcomes": "[\"Jets\", \"Chargers\"]",
   "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "3542453.4209060003",
+  "volume": "3542453.420906001",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-02T13:00:47.86341Z",
-  "updatedAt": "2026-11-23T12:21:24.169773Z",
+  "updatedAt": "2026-11-23T13:51:24.234359Z",
   "closedTime": "2026-11-23 00:02:46.998763+00",
   "new": "False",
   "featured": "False",
@@ -227,12 +227,12 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "3542453.4209060003",
+  "volumeNum": "3542453.420906001",
   "endDateIso": "2026-11-22",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "3526440.4679650012",
-  "volume1wk": "3542240.122292",
+  "volume24hr": "3522291.172885001",
+  "volume1wk": "3542237.5581890005",
   "volume1mo": "3542453.4209060003",
   "volume1yr": "3542453.4209060003",
   "gameStartTime": "2026-11-22 21:05:00+00"
@@ -257,7 +257,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0055\", \"0.9945\"]",
+    "outcomePrices": "[\"0.0045\", \"0.9955\"]",
     "closed": "False"
    },
    {
@@ -266,7 +266,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0525\", \"0.9475\"]",
+    "outcomePrices": "[\"0.0505\", \"0.9495\"]",
     "closed": "False"
    },
    {
@@ -284,20 +284,20 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0135\", \"0.9865\"]",
+    "outcomePrices": "[\"0.02\", \"0.98\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 682,
+  "sports": 698,
   "economy": 103,
-  "tech": 485,
-  "culture": 112,
-  "crypto": 167,
-  "geopolitics": 192,
-  "politics": 269,
-  "(空)": 74
+  "culture": 114,
+  "tech": 496,
+  "geopolitics": 186,
+  "crypto": 163,
+  "politics": 268,
+  "(空)": 72
  },
  "tag_samples": [
   {
@@ -336,17 +336,6 @@
    ]
   },
   {
-   "title": "Jensen Huang rejoins NVIDIA by...?",
-   "tags": [
-    "Tech",
-    "NVIDIA",
-    "Big Tech",
-    "Business",
-    "Jensen Huang",
-    "NVIDIA Earnings"
-   ]
-  },
-  {
    "title": "Next CEO of NVIDIA?",
    "tags": [
     "NVDA",
@@ -358,14 +347,14 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit in November?",
+   "title": "Jensen Huang rejoins NVIDIA by...?",
    "tags": [
-    "Bitcoin",
-    "Monthly",
-    "Hit Price",
-    "Crypto",
-    "Crypto Prices",
-    "Recurring"
+    "Tech",
+    "NVIDIA",
+    "Big Tech",
+    "Business",
+    "Jensen Huang",
+    "NVIDIA Earnings"
    ]
   },
   {
@@ -378,6 +367,17 @@
     "Israel Election",
     "Iran Ceasefire"
    ]
+  },
+  {
+   "title": "What price will Bitcoin hit in November?",
+   "tags": [
+    "Bitcoin",
+    "Monthly",
+    "Hit Price",
+    "Crypto",
+    "Crypto Prices",
+    "Recurring"
+   ]
   }
  ],
  "top_titles": [
@@ -385,26 +385,26 @@
   "Ravens vs. Panthers",
   "Titans vs. Cowboys",
   "Fed Decision in December?",
-  "Jensen Huang rejoins NVIDIA by...?",
   "Next CEO of NVIDIA?",
-  "What price will Bitcoin hit in November?",
+  "Jensen Huang rejoins NVIDIA by...?",
   "Israel x Iran ceasefire continues through...?",
+  "What price will Bitcoin hit in November?",
   "What price will Ethereum hit in November?",
   "Next French Presidential Election",
   "Counter-Strike: Phantom vs Betclic Apogee Esports (BO3) - NODWIN Clutch Series Playoffs",
-  "Republican Presidential Nominee 2028",
-  "Prime Minister of Israel after the next election?",
-  "UEFA Champions League: 2027 Champion",
   "Bitcoin above ___ on November 23?",
+  "Prime Minister of Israel after the next election?",
+  "Republican Presidential Nominee 2028",
+  "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit in 2026?",
   "Bengals vs. Commanders",
   "Pro Football: 2027 Champion",
+  "Ankara: Gabi Boitan vs Robin Catry",
   "Democratic Presidential Nominee 2028",
   "Elon Musk # tweets November 21 - November 23, 2026?",
   "Elon Musk # tweets November 17 - November 24, 2026?",
-  "Venezuela leader end of 2026?",
   "US announces end of Iranian blockade by...?",
-  "NBA: 2027 Champion",
-  "Will the U.S. invade Iran before 2027?"
+  "Venezuela leader end of 2026?",
+  "Trail Blazers vs. 76ers"
  ]
 }
