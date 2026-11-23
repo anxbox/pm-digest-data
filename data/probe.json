@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-23T08:51:46.667804+00:00",
+ "ts": "2026-11-23T10:05:52.230218+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 44707,
- "single_game_events": 610,
+ "sub_markets_total": 44940,
+ "single_game_events": 619,
  "event_keys": [
   "active",
   "archived",
@@ -172,10 +172,10 @@
   "featured": "False",
   "restricted": "True",
   "volume": "4287919.506413001",
-  "openInterest": "976.364564",
+  "openInterest": "975.2151409999999",
   "createdAt": "2026-11-02T13:00:47.619712Z",
-  "updatedAt": "2026-11-23T08:39:24.866685Z",
-  "volume24hr": "4232097.451993001",
+  "updatedAt": "2026-11-23T09:53:24.88046Z",
+  "volume24hr": "4231575.201993",
   "volume1wk": "4284082.207799",
   "volume1mo": "4285245.506413001",
   "volume1yr": "4285245.506413001",
@@ -208,11 +208,11 @@
   "description": "In the upcoming NFL football game between Jets and Chargers, originally scheduled for Sunday, November 22, 2026 at 4:05 PM ET (as of creation of the first marke",
   "outcomes": "[\"Jets\", \"Chargers\"]",
   "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "3542453.4209060003",
+  "volume": "3542453.420906001",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-02T13:00:47.86341Z",
-  "updatedAt": "2026-11-23T08:51:25.092796Z",
+  "updatedAt": "2026-11-23T09:51:24.435454Z",
   "closedTime": "2026-11-23 00:02:46.998763+00",
   "new": "False",
   "featured": "False",
@@ -227,11 +227,11 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "3542453.4209060003",
+  "volumeNum": "3542453.420906001",
   "endDateIso": "2026-11-22",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "3526780.135997002",
+  "volume24hr": "3526757.8859969997",
   "volume1wk": "3542240.122292",
   "volume1mo": "3542453.4209060003",
   "volume1yr": "3542453.4209060003",
@@ -248,7 +248,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Ryo Ono\", \"Lennon Roark Jones\"]",
-    "outcomePrices": "[\"0.465\", \"0.535\"]",
+    "outcomePrices": "[\"0.485\", \"0.515\"]",
     "closed": "False"
    },
    {
@@ -257,7 +257,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Ryo Ono\", \"Lennon Roark Jones\"]",
-    "outcomePrices": "[\"0.475\", \"0.525\"]",
+    "outcomePrices": "[\"0.48\", \"0.52\"]",
     "closed": "False"
    },
    {
@@ -266,7 +266,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Ryo Ono\", \"Lennon Roark Jones\"]",
-    "outcomePrices": "[\"0.465\", \"0.535\"]",
+    "outcomePrices": "[\"0.485\", \"0.515\"]",
     "closed": "False"
    },
    {
@@ -275,7 +275,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Over 2.5\", \"Under 2.5\"]",
-    "outcomePrices": "[\"0.43\", \"0.57\"]",
+    "outcomePrices": "[\"0.475\", \"0.525\"]",
     "closed": "False"
    },
    {
@@ -284,20 +284,20 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.63\", \"0.37\"]",
+    "outcomePrices": "[\"0.625\", \"0.375\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 692,
-  "economy": 112,
-  "geopolitics": 202,
-  "tech": 472,
-  "crypto": 156,
-  "politics": 280,
+  "sports": 694,
+  "economy": 109,
+  "tech": 477,
+  "crypto": 155,
+  "geopolitics": 197,
   "culture": 114,
-  "(空)": 72
+  "politics": 280,
+  "(空)": 74
  },
  "tag_samples": [
   {
@@ -309,18 +309,18 @@
    ]
   },
   {
-   "title": "Ravens vs. Panthers",
-   "tags": [
-    "Sports",
-    "NFL (All)",
-    "Games"
-   ]
-  },
-  {
    "title": "Yokohama: Ryo Ono vs Lennon Roark Jones",
    "tags": [
     "Tennis",
     "Sports",
+    "Games"
+   ]
+  },
+  {
+   "title": "Ravens vs. Panthers",
+   "tags": [
+    "Sports",
+    "NFL (All)",
     "Games"
    ]
   },
@@ -344,17 +344,6 @@
    ]
   },
   {
-   "title": "Israel x Iran ceasefire continues through...?",
-   "tags": [
-    "Iran",
-    "Israel",
-    "Geopolitics",
-    "Israel x Iran",
-    "Israel Election",
-    "Iran Ceasefire"
-   ]
-  },
-  {
    "title": "Jensen Huang rejoins NVIDIA by...?",
    "tags": [
     "Tech",
@@ -375,33 +364,44 @@
     "Crypto Prices",
     "Recurring"
    ]
+  },
+  {
+   "title": "Israel x Iran ceasefire continues through...?",
+   "tags": [
+    "Iran",
+    "Israel",
+    "Geopolitics",
+    "Israel x Iran",
+    "Israel Election",
+    "Iran Ceasefire"
+   ]
   }
  ],
  "top_titles": [
   "Jets vs. Chargers",
-  "Ravens vs. Panthers",
   "Yokohama: Ryo Ono vs Lennon Roark Jones",
+  "Ravens vs. Panthers",
   "Titans vs. Cowboys",
   "Fed Decision in December?",
-  "Israel x Iran ceasefire continues through...?",
   "Jensen Huang rejoins NVIDIA by...?",
   "What price will Bitcoin hit in November?",
+  "Israel x Iran ceasefire continues through...?",
   "What price will Ethereum hit in November?",
+  "Next CEO of NVIDIA?",
   "Republican Presidential Nominee 2028",
   "Next French Presidential Election",
-  "Next CEO of NVIDIA?",
   "Prime Minister of Israel after the next election?",
   "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit in 2026?",
   "Bitcoin above ___ on November 23?",
   "Democratic Presidential Nominee 2028",
   "Elon Musk # tweets November 21 - November 23, 2026?",
-  "Elon Musk # tweets November 17 - November 24, 2026?",
   "Pro Football: 2027 Champion",
+  "Elon Musk # tweets November 17 - November 24, 2026?",
   "Bengals vs. Commanders",
+  "Counter-Strike: Phantom vs Betclic Apogee Esports (BO3) - NODWIN Clutch Series Playoffs",
   "Venezuela leader end of 2026?",
   "US announces end of Iranian blockade by...?",
-  "NBA: 2027 Champion",
-  "Taipei Mayor Election Winner"
+  "Will the U.S. invade Iran before 2027?"
  ]
 }
