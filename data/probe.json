@@ -1,8 +1,8 @@
 {
- "ts": "2026-11-23T11:20:38.853614+00:00",
+ "ts": "2026-11-23T12:39:25.759809+00:00",
  "pages_fetched": 21,
- "events_total": 2097,
- "sub_markets_total": 44027,
+ "events_total": 2084,
+ "sub_markets_total": 43582,
  "single_game_events": 630,
  "event_keys": [
   "active",
@@ -172,10 +172,10 @@
   "featured": "False",
   "restricted": "True",
   "volume": "4287919.506413001",
-  "openInterest": "910.2151409999998",
+  "openInterest": "829.70163",
   "createdAt": "2026-11-02T13:00:47.619712Z",
-  "updatedAt": "2026-11-23T11:09:23.672053Z",
-  "volume24hr": "4231319.300355",
+  "updatedAt": "2026-11-23T12:33:31.201732Z",
+  "volume24hr": "4230910.515699001",
   "volume1wk": "4284072.207799",
   "volume1mo": "4285235.506413001",
   "volume1yr": "4285235.506413001",
@@ -212,7 +212,7 @@
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-02T13:00:47.86341Z",
-  "updatedAt": "2026-11-23T11:07:24.180183Z",
+  "updatedAt": "2026-11-23T12:21:24.169773Z",
   "closedTime": "2026-11-23 00:02:46.998763+00",
   "new": "False",
   "featured": "False",
@@ -231,73 +231,73 @@
   "endDateIso": "2026-11-22",
   "startDateIso": "2026-11-02",
   "hasReviewedDates": "True",
-  "volume24hr": "3526511.984359001",
+  "volume24hr": "3526440.4679650012",
   "volume1wk": "3542240.122292",
   "volume1mo": "3542453.4209060003",
   "volume1yr": "3542453.4209060003",
   "gameStartTime": "2026-11-22 21:05:00+00"
  },
  "multi_option_event": {
-  "title": "Yokohama: Ryo Ono vs Lennon Roark Jones",
-  "slug": "atp-ono-lennonr-2026-11-22",
-  "n_sub": 9,
+  "title": "Fed Decision in December?",
+  "slug": "fed-decision-in-december-20260729232808632",
+  "n_sub": 5,
   "sub_markets": [
    {
-    "question": "Yokohama: Ryo Ono vs Lennon Roark Jones",
-    "groupItemTitle": "None",
+    "question": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+    "groupItemTitle": "50+ bps decrease",
     "groupItemThreshold": "0",
     "shortTitle": "None",
-    "outcomes": "[\"Ryo Ono\", \"Lennon Roark Jones\"]",
-    "outcomePrices": "[\"0.475\", \"0.525\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0025\", \"0.9975\"]",
     "closed": "False"
    },
    {
-    "question": "Set 1 Winner: Ryo Ono vs Lennon Roark Jones",
-    "groupItemTitle": "Yokohama: Ryo Ono vs Lennon Roark Jones Set 1 Winner",
+    "question": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+    "groupItemTitle": "25 bps decrease",
     "groupItemThreshold": "1",
     "shortTitle": "None",
-    "outcomes": "[\"Ryo Ono\", \"Lennon Roark Jones\"]",
-    "outcomePrices": "[\"0.47\", \"0.53\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0055\", \"0.9945\"]",
     "closed": "False"
    },
    {
-    "question": "Set 2 Winner: Ryo Ono vs Lennon Roark Jones",
-    "groupItemTitle": "Yokohama: Ryo Ono vs Lennon Roark Jones Set 2 Winner",
-    "groupItemThreshold": "1",
+    "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+    "groupItemTitle": "No change",
+    "groupItemThreshold": "2",
     "shortTitle": "None",
-    "outcomes": "[\"Ryo Ono\", \"Lennon Roark Jones\"]",
-    "outcomePrices": "[\"0.485\", \"0.515\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0525\", \"0.9475\"]",
     "closed": "False"
    },
    {
-    "question": "Ryo Ono vs. Lennon Roark Jones: Total Sets O/U 2.5",
-    "groupItemTitle": "Yokohama: Ryo Ono vs Lennon Roark Jones Total Sets: O/U 2.5",
-    "groupItemThreshold": "1",
+    "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+    "groupItemTitle": "25 bps increase",
+    "groupItemThreshold": "3",
     "shortTitle": "None",
-    "outcomes": "[\"Over 2.5\", \"Under 2.5\"]",
-    "outcomePrices": "[\"0.475\", \"0.525\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.925\", \"0.075\"]",
     "closed": "False"
    },
    {
-    "question": "Ono vs. Jones: Match O/U 21.5",
-    "groupItemTitle": "Yokohama: Ryo Ono vs Lennon Roark Jones Match O/U 21.5",
-    "groupItemThreshold": "1",
+    "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+    "groupItemTitle": "50+ bps increase",
+    "groupItemThreshold": "4",
     "shortTitle": "None",
-    "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.625\", \"0.375\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0135\", \"0.9865\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 684,
-  "economy": 105,
-  "tech": 492,
-  "crypto": 161,
+  "sports": 682,
+  "economy": 103,
+  "tech": 485,
+  "culture": 112,
+  "crypto": 167,
   "geopolitics": 192,
-  "culture": 111,
-  "politics": 274,
-  "(空)": 78
+  "politics": 269,
+  "(空)": 74
  },
  "tag_samples": [
   {
@@ -305,14 +305,6 @@
    "tags": [
     "Sports",
     "NFL (All)",
-    "Games"
-   ]
-  },
-  {
-   "title": "Yokohama: Ryo Ono vs Lennon Roark Jones",
-   "tags": [
-    "Tennis",
-    "Sports",
     "Games"
    ]
   },
@@ -355,6 +347,17 @@
    ]
   },
   {
+   "title": "Next CEO of NVIDIA?",
+   "tags": [
+    "NVDA",
+    "NVIDIA",
+    "Culture",
+    "Big Tech",
+    "Business",
+    "Jensen Huang"
+   ]
+  },
+  {
    "title": "What price will Bitcoin hit in November?",
    "tags": [
     "Bitcoin",
@@ -379,29 +382,29 @@
  ],
  "top_titles": [
   "Jets vs. Chargers",
-  "Yokohama: Ryo Ono vs Lennon Roark Jones",
   "Ravens vs. Panthers",
   "Titans vs. Cowboys",
   "Fed Decision in December?",
   "Jensen Huang rejoins NVIDIA by...?",
+  "Next CEO of NVIDIA?",
   "What price will Bitcoin hit in November?",
   "Israel x Iran ceasefire continues through...?",
   "What price will Ethereum hit in November?",
-  "Next CEO of NVIDIA?",
-  "Prime Minister of Israel after the next election?",
-  "Republican Presidential Nominee 2028",
-  "UEFA Champions League: 2027 Champion",
   "Next French Presidential Election",
-  "What price will Bitcoin hit in 2026?",
-  "Bitcoin above ___ on November 23?",
-  "Bengals vs. Commanders",
   "Counter-Strike: Phantom vs Betclic Apogee Esports (BO3) - NODWIN Clutch Series Playoffs",
+  "Republican Presidential Nominee 2028",
+  "Prime Minister of Israel after the next election?",
+  "UEFA Champions League: 2027 Champion",
+  "Bitcoin above ___ on November 23?",
+  "What price will Bitcoin hit in 2026?",
+  "Bengals vs. Commanders",
+  "Pro Football: 2027 Champion",
   "Democratic Presidential Nominee 2028",
   "Elon Musk # tweets November 21 - November 23, 2026?",
   "Elon Musk # tweets November 17 - November 24, 2026?",
-  "Pro Football: 2027 Champion",
   "Venezuela leader end of 2026?",
   "US announces end of Iranian blockade by...?",
-  "Hersonissos 4: Alexander Vasilev vs Leo Raquillet"
+  "NBA: 2027 Champion",
+  "Will the U.S. invade Iran before 2027?"
  ]
 }
