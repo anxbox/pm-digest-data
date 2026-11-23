@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-23T17:34:36.034245+00:00",
+ "ts": "2026-11-23T18:30:30.158723+00:00",
  "pages_fetched": 21,
- "events_total": 2097,
- "sub_markets_total": 46259,
- "single_game_events": 638,
+ "events_total": 2100,
+ "sub_markets_total": 46580,
+ "single_game_events": 635,
  "event_keys": [
   "active",
   "archived",
@@ -62,12 +62,13 @@
   "approved",
   "archived",
   "automaticallyActive",
+  "automaticallyResolved",
   "bestAsk",
   "clearBookOnStart",
   "clobTokenIds",
   "closed",
+  "closedTime",
   "comboStatus",
-  "competitive",
   "conditionId",
   "createdAt",
   "customLiveness",
@@ -92,9 +93,6 @@
   "id",
   "image",
   "lastTradePrice",
-  "liquidity",
-  "liquidityClob",
-  "liquidityNum",
   "makerBaseFee",
   "manualActivation",
   "negRisk",
@@ -129,6 +127,7 @@
   "takerBaseFee",
   "tradingEligible",
   "umaBond",
+  "umaEndDate",
   "umaResolutionStatus",
   "umaResolutionStatuses",
   "umaReward",
@@ -164,22 +163,22 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "2141897.73481",
-  "volume": "11881739.960151",
-  "openInterest": "2229987.279585",
+  "liquidity": "320779.8158",
+  "volume": "11944978.330151",
+  "openInterest": "1643959.6701900002",
   "sortBy": "price",
   "createdAt": "2026-11-10T02:14:26.152725Z",
-  "updatedAt": "2026-11-23T17:33:24.405375Z",
+  "updatedAt": "2026-11-23T18:29:26.158774Z",
   "competitive": "0.8003199679231757",
-  "volume24hr": "4797991.473786001",
-  "volume1wk": "8227087.492642001",
-  "volume1mo": "11874593.285816003",
-  "volume1yr": "11874593.285816003",
+  "volume24hr": "4828629.493578999",
+  "volume1wk": "8088395.896763999",
+  "volume1mo": "11937525.095816",
+  "volume1yr": "11937525.095816",
   "enableOrderBook": "True",
-  "liquidityClob": "2141897.73481",
+  "liquidityClob": "320779.8158",
   "negRisk": "True",
   "negRiskMarketID": "0x6eda8cd8f20e7841f17d8aa3c8727f16e602f3b20c1d9f868cf505f0829cab00",
-  "commentCount": "285",
+  "commentCount": "287",
   "markets": "<list 107>",
   "tags": "<list 7>",
   "cyom": "False",
@@ -195,18 +194,18 @@
   "slug": "will-colette-kress-be-the-next-ceo-of-nvidia",
   "resolutionSource": "",
   "endDate": "2029-01-01T04:59:00Z",
-  "liquidity": "104935.69973",
   "startDate": "2026-11-10T02:18:38Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nvidia-ceo-colette-kress-55d0cd3dfb.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nvidia-ceo-colette-kress-55d0cd3dfb.jpg",
   "description": "This market will resolve according to the first individual who is officially announced as the successor to Jensen Huang as CEO of NVIDIA Corporation by December",
   "outcomes": "[\"Yes\", \"No\"]",
-  "outcomePrices": "[\"0.0005\", \"0.9995\"]",
-  "volume": "719418.148263",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "720418.148263",
   "active": "True",
-  "closed": "False",
+  "closed": "True",
   "createdAt": "2026-11-10T02:14:32.437072Z",
-  "updatedAt": "2026-11-23T17:27:13.624295Z",
+  "updatedAt": "2026-11-23T18:21:25.787597Z",
+  "closedTime": "2026-11-23 18:15:37.235353+00",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -216,81 +215,81 @@
   "groupItemTitle": "Colette Kress",
   "groupItemThreshold": "1",
   "questionID": "0x6eda8cd8f20e7841f17d8aa3c8727f16e602f3b20c1d9f868cf505f0829cab00",
+  "umaEndDate": "2026-11-23 18:15:37.235353+00:00:00",
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "umaResolutionStatus": "proposed",
-  "volumeNum": "719418.148263",
-  "liquidityNum": "104935.69973",
+  "umaResolutionStatus": "resolved",
+  "volumeNum": "720418.148263",
   "endDateIso": "2029-01-01",
   "startDateIso": "2026-11-10",
   "hasReviewedDates": "True",
-  "volume24hr": "158307.58248500002",
-  "volume1wk": "342884.42197300005",
+  "volume24hr": "157987.10055700003",
+  "volume1wk": "342679.67409100005",
   "volume1mo": "720418.148263",
   "volume1yr": "720418.148263"
  },
  "multi_option_event": {
-  "title": "Next CEO of NVIDIA?",
-  "slug": "next-ceo-of-nvidia",
-  "n_sub": 107,
+  "title": "Fed Decision in December?",
+  "slug": "fed-decision-in-december-20260729232808632",
+  "n_sub": 5,
   "sub_markets": [
    {
-    "question": "Will Colette Kress be the next CEO of NVIDIA?",
-    "groupItemTitle": "Colette Kress",
+    "question": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+    "groupItemTitle": "50+ bps decrease",
+    "groupItemThreshold": "0",
+    "shortTitle": "None",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0015\", \"0.9985\"]",
+    "closed": "False"
+   },
+   {
+    "question": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+    "groupItemTitle": "25 bps decrease",
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
+    "outcomePrices": "[\"0.0035\", \"0.9965\"]",
     "closed": "False"
    },
    {
-    "question": "Will Jay Puri be the next CEO of NVIDIA?",
-    "groupItemTitle": "Jay Puri",
+    "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+    "groupItemTitle": "No change",
+    "groupItemThreshold": "2",
+    "shortTitle": "None",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0265\", \"0.9735\"]",
+    "closed": "False"
+   },
+   {
+    "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+    "groupItemTitle": "25 bps increase",
+    "groupItemThreshold": "3",
+    "shortTitle": "None",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.935\", \"0.065\"]",
+    "closed": "False"
+   },
+   {
+    "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+    "groupItemTitle": "50+ bps increase",
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
-    "closed": "False"
-   },
-   {
-    "question": "Will Madison Huang be the next CEO of NVIDIA?",
-    "groupItemTitle": "Madison Huang",
-    "groupItemThreshold": "9",
-    "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
-    "closed": "False"
-   },
-   {
-    "question": "Will Bill Dally be the next CEO of NVIDIA?",
-    "groupItemTitle": "Bill Dally",
-    "groupItemThreshold": "16",
-    "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
-    "closed": "False"
-   },
-   {
-    "question": "Will Debora Shoquist be the next CEO of NVIDIA?",
-    "groupItemTitle": "Debora Shoquist",
-    "groupItemThreshold": "6",
-    "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
+    "outcomePrices": "[\"0.0365\", \"0.9635\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "culture": 99,
-  "sports": 705,
+  "culture": 100,
+  "sports": 702,
   "economy": 107,
-  "crypto": 153,
-  "tech": 491,
-  "geopolitics": 183,
-  "politics": 273,
-  "(空)": 86
+  "crypto": 152,
+  "tech": 494,
+  "geopolitics": 184,
+  "politics": 274,
+  "(空)": 87
  },
  "tag_samples": [
   {
@@ -306,14 +305,6 @@
   },
   {
    "title": "Jets vs. Chargers",
-   "tags": [
-    "Sports",
-    "NFL (All)",
-    "Games"
-   ]
-  },
-  {
-   "title": "Ravens vs. Panthers",
    "tags": [
     "Sports",
     "NFL (All)",
@@ -341,6 +332,23 @@
    ]
   },
   {
+   "title": "Dota 2: Aurora vs LGD Gaming (BO3) - BLAST Slam Group D",
+   "tags": [
+    "Esports",
+    "Dota 2",
+    "Games",
+    "Sports"
+   ]
+  },
+  {
+   "title": "Ravens vs. Panthers",
+   "tags": [
+    "Sports",
+    "NFL (All)",
+    "Games"
+   ]
+  },
+  {
    "title": "What price will Bitcoin hit in November?",
    "tags": [
     "Bitcoin",
@@ -361,44 +369,33 @@
     "Big Tech",
     "Business"
    ]
-  },
-  {
-   "title": "Israel x Iran ceasefire continues through...?",
-   "tags": [
-    "Iran",
-    "Israel",
-    "Geopolitics",
-    "Israel x Iran",
-    "Israel Election",
-    "Iran Ceasefire"
-   ]
   }
  ],
  "top_titles": [
   "Next CEO of NVIDIA?",
   "Jets vs. Chargers",
-  "Ravens vs. Panthers",
   "Fed Decision in December?",
   "Dota 2: Team Liquid vs DO KONCA (BO3) - BLAST Slam Group C",
+  "Dota 2: Aurora vs LGD Gaming (BO3) - BLAST Slam Group D",
+  "Ravens vs. Panthers",
   "What price will Bitcoin hit in November?",
   "New NVIDIA CEO named by December 31, 2026?",
   "Israel x Iran ceasefire continues through...?",
   "Next French Presidential Election",
-  "Titans vs. Cowboys",
   "Trail Blazers vs. 76ers",
   "What price will Bitcoin hit in 2026?",
-  "What price will Ethereum hit in November?",
   "What price will Bitcoin hit on November 23?",
   "NBA: 2027 Champion",
+  "What price will Ethereum hit in November?",
+  "Titans vs. Cowboys",
   "UEFA Champions League: 2027 Champion",
   "Bengals vs. Commanders",
+  "Thunder vs. Pacers",
   "Republican Presidential Nominee 2028",
   "Elon Musk # tweets November 21 - November 23, 2026?",
-  "FK Neftchi Fargona vs. Al Hilal SFC",
   "Largest Company end of December 2026?",
-  "Elon Musk # tweets November 17 - November 24, 2026?",
   "Prime Minister of Israel after the next election?",
-  "Dota 2: Aurora vs LGD Gaming (BO3) - BLAST Slam Group D",
-  "Pro Football: 2027 Champion"
+  "Elon Musk # tweets November 17 - November 24, 2026?",
+  "Bitcoin above ___ on November 24?"
  ]
 }
