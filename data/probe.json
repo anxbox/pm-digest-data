@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-24T03:12:22.750345+00:00",
+ "ts": "2026-11-24T04:22:32.208975+00:00",
  "pages_fetched": 21,
- "events_total": 2096,
- "sub_markets_total": 47039,
- "single_game_events": 593,
+ "events_total": 2092,
+ "sub_markets_total": 44103,
+ "single_game_events": 592,
  "event_keys": [
   "active",
   "archived",
@@ -72,7 +72,6 @@
   "archived",
   "automaticallyActive",
   "bestAsk",
-  "bestBid",
   "clearBookOnStart",
   "clobRewards",
   "clobTokenIds",
@@ -140,6 +139,7 @@
   "takerBaseFee",
   "tradingEligible",
   "umaBond",
+  "umaResolutionStatus",
   "umaResolutionStatuses",
   "umaReward",
   "updatedAt",
@@ -174,18 +174,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1090004.12958",
-  "volume": "8343601.410109999",
-  "openInterest": "7599126.406625999",
+  "liquidity": "1918633.07642",
+  "volume": "9438720.406423999",
+  "openInterest": "8600605.353055",
   "createdAt": "2026-11-03T13:00:42.180987Z",
-  "updatedAt": "2026-11-24T03:07:26.18174Z",
-  "competitive": "0.9999750006249843",
-  "volume24hr": "8241146.939653",
-  "volume1wk": "8347345.2945799995",
-  "volume1mo": "8350620.176451",
-  "volume1yr": "8350620.176451",
+  "updatedAt": "2026-11-24T04:19:25.312848Z",
+  "competitive": "0.9919650828290844",
+  "volume24hr": "9622928.703153",
+  "volume1wk": "9834752.621716",
+  "volume1mo": "9845130.277713",
+  "volume1yr": "9845130.277713",
   "enableOrderBook": "True",
-  "liquidityClob": "1090004.12958",
+  "liquidityClob": "1918633.07642",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 305>",
@@ -205,18 +205,18 @@
   "slug": "nfl-cin-was-2026-11-24",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-24T01:15:00Z",
-  "liquidity": "412177.8608",
+  "liquidity": "964213.7405",
   "startDate": "2026-11-03T13:00:50Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Bengals and Commanders, originally scheduled for Monday, November 23, 2026 at 8:15 PM ET (as of creation of the first ",
   "outcomes": "[\"Bengals\", \"Commanders\"]",
-  "outcomePrices": "[\"0.705\", \"0.295\"]",
-  "volume": "2225080.9961170005",
+  "outcomePrices": "[\"0.005\", \"0.995\"]",
+  "volume": "2670820.4200629997",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-03T13:00:42.396826Z",
-  "updatedAt": "2026-11-24T03:09:13.496668Z",
+  "updatedAt": "2026-11-24T04:19:43.959268Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -226,24 +226,24 @@
   "groupItemThreshold": "0",
   "questionID": "0x197f3593eb563030d48a7256802c4f03f3628665d06024d8d52f39df5c9af4bc",
   "enableOrderBook": "True",
-  "orderPriceMinTickSize": "0.01",
+  "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "2225080.9961170005",
-  "liquidityNum": "412177.8608",
+  "umaResolutionStatus": "proposed",
+  "volumeNum": "2670820.4200629997",
+  "liquidityNum": "964213.7405",
   "endDateIso": "2026-11-24",
   "startDateIso": "2026-11-03",
   "hasReviewedDates": "True",
-  "volume24hr": "2245099.234883",
-  "volume1wk": "2269426.7675389997",
-  "volume1mo": "2269433.267535",
-  "volume1yr": "2269433.267535",
-  "gameStartTime": "2026-11-24 01:15:00+00",
-  "secondsDelay": "1"
+  "volume24hr": "2874310.719288",
+  "volume1wk": "2899348.402632",
+  "volume1mo": "2899418.5190600003",
+  "volume1yr": "2899418.5190600003",
+  "gameStartTime": "2026-11-24 01:15:00+00"
  },
  "multi_option_event": {
   "title": "Bengals vs. Commanders",
   "slug": "nfl-cin-was-2026-11-24",
-  "n_sub": 201,
+  "n_sub": 157,
   "sub_markets": [
    {
     "question": "Bengals vs. Commanders",
@@ -251,7 +251,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Bengals\", \"Commanders\"]",
-    "outcomePrices": "[\"0.705\", \"0.295\"]",
+    "outcomePrices": "[\"0.005\", \"0.995\"]",
     "closed": "False"
    },
    {
@@ -260,7 +260,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bengals\", \"Commanders\"]",
-    "outcomePrices": "[\"0.685\", \"0.315\"]",
+    "outcomePrices": "[\"0.005\", \"0.995\"]",
     "closed": "False"
    },
    {
@@ -269,7 +269,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bengals\", \"Commanders\"]",
-    "outcomePrices": "[\"0.655\", \"0.345\"]",
+    "outcomePrices": "[\"0.005\", \"0.995\"]",
     "closed": "False"
    },
    {
@@ -278,7 +278,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bengals\", \"Commanders\"]",
-    "outcomePrices": "[\"0.565\", \"0.435\"]",
+    "outcomePrices": "[\"0.005\", \"0.995\"]",
     "closed": "False"
    },
    {
@@ -287,19 +287,19 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bengals\", \"Commanders\"]",
-    "outcomePrices": "[\"0.47\", \"0.53\"]",
+    "outcomePrices": "[\"0.005\", \"0.995\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 665,
-  "economy": 109,
-  "tech": 481,
-  "crypto": 161,
-  "politics": 311,
-  "geopolitics": 183,
-  "culture": 99,
+  "sports": 661,
+  "economy": 107,
+  "tech": 485,
+  "crypto": 151,
+  "politics": 315,
+  "geopolitics": 185,
+  "culture": 101,
   "(空)": 87
  },
  "tag_samples": [
@@ -323,7 +323,7 @@
    ]
   },
   {
-   "title": "Thunder vs. Pacers",
+   "title": "Spurs vs. Kings",
    "tags": [
     "Sports",
     "NBA",
@@ -340,24 +340,6 @@
     "Finance",
     "Big Tech",
     "Business"
-   ]
-  },
-  {
-   "title": "Spurs vs. Kings",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
-   "title": "Cavaliers vs. Bulls",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   },
   {
@@ -381,33 +363,53 @@
     "Politics",
     "Global Elections"
    ]
+  },
+  {
+   "title": "Democratic Presidential Nominee 2028",
+   "tags": [
+    "United States",
+    "Elections",
+    "Politics",
+    "US Election",
+    "World Elections",
+    "Earn 3.25%"
+   ]
+  },
+  {
+   "title": "Jazz vs. Lakers",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
   }
  ],
  "top_titles": [
   "Bengals vs. Commanders",
   "Fed Decision in December?",
-  "Thunder vs. Pacers",
-  "New NVIDIA CEO named by December 31, 2026?",
   "Spurs vs. Kings",
-  "Cavaliers vs. Bulls",
+  "New NVIDIA CEO named by December 31, 2026?",
   "What price will Bitcoin hit in November?",
   "Next French Presidential Election",
-  "Nets vs. Timberwolves",
   "Democratic Presidential Nominee 2028",
-  "Bucks vs. Raptors",
-  "Suns vs. Pelicans",
+  "Jazz vs. Lakers",
   "What price will Bitcoin hit on November 23?",
-  "SC Internacional vs. EC Vitória - More Markets",
-  "Israel x Iran ceasefire continues through...?",
+  "Counter-Strike: 9z vs Lynn Vision (BO1) - PGL Major Singapore Stage 1",
   "What price will Bitcoin hit in 2026?",
   "NBA: 2027 Champion",
-  "Bitcoin above ___ on November 24?",
+  "Israel x Iran ceasefire continues through...?",
   "UEFA Champions League: 2027 Champion",
+  "Bitcoin above ___ on November 24?",
+  "Wild vs. Sharks",
   "Largest Company end of December 2026?",
-  "Flames vs. Senators",
-  "Santos FC vs. Grêmio FBPA - More Markets",
   "Presidential Election Winner 2028",
   "What price will Ethereum hit in November?",
-  "Clippers vs. Rockets"
+  "Counter-Strike: Heroic vs Imperial (BO1) - PGL Major Singapore Stage 1",
+  "What price will Bitcoin hit November 23-29?",
+  "Republican Presidential Nominee 2028",
+  "Fourth Jensen Huang affair reported by...?",
+  "US announces end of Iranian blockade by...?",
+  "B200 average rental price in December 2026?"
  ]
 }
