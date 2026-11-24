@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-23T23:43:43.669100+00:00",
+ "ts": "2026-11-24T00:54:00.704225+00:00",
  "pages_fetched": 21,
- "events_total": 2077,
- "sub_markets_total": 46499,
- "single_game_events": 605,
+ "events_total": 2090,
+ "sub_markets_total": 47081,
+ "single_game_events": 597,
  "event_keys": [
   "active",
   "archived",
@@ -109,6 +109,7 @@
   "oneDayPriceChange",
   "oneHourPriceChange",
   "oneMonthPriceChange",
+  "oneWeekPriceChange",
   "orderMinSize",
   "orderPriceMinTickSize",
   "outcomePrices",
@@ -168,19 +169,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "2967472.28156",
-  "volume": "53941763.114082",
-  "openInterest": "8457976.821692",
+  "liquidity": "3268793.81744",
+  "volume": "54275138.097106",
+  "openInterest": "8423525.212438",
   "sortBy": "ascending",
   "createdAt": "2026-07-30T00:36:56.42426Z",
-  "updatedAt": "2026-11-23T23:41:25.167684Z",
+  "updatedAt": "2026-11-24T00:53:25.04093Z",
   "competitive": "0.8408837688410519",
-  "volume24hr": "3892691.2921140003",
-  "volume1wk": "18239259.100423",
-  "volume1mo": "49453777.574968",
-  "volume1yr": "53942946.055130996",
+  "volume24hr": "4209982.657246999",
+  "volume1wk": "18588879.52339",
+  "volume1mo": "49807476.466853",
+  "volume1yr": "54297122.947016",
   "enableOrderBook": "True",
-  "liquidityClob": "2967472.28156",
+  "liquidityClob": "3268793.81744",
   "negRisk": "True",
   "negRiskMarketID": "0xa74f5328517db0e030a5e62edc800e37bd36ca6e455571b14e8bb2b0dd38d700",
   "commentCount": "0",
@@ -199,18 +200,18 @@
   "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
   "resolutionSource": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
   "endDate": "2026-12-09T23:59:00Z",
-  "liquidity": "181519.17244",
+  "liquidity": "292984.21329",
   "startDate": "2026-07-30T00:53:15.730668Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "description": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made",
   "outcomes": "[\"Yes\", \"No\"]",
-  "outcomePrices": "[\"0.0025\", \"0.9975\"]",
-  "volume": "8474632.625928",
+  "outcomePrices": "[\"0.0015\", \"0.9985\"]",
+  "volume": "8484988.615928",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-07-30T00:36:56.830135Z",
-  "updatedAt": "2026-11-23T23:41:13.562399Z",
+  "updatedAt": "2026-11-24T00:53:14.019395Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -223,15 +224,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "8474632.625928",
-  "liquidityNum": "181519.17244",
+  "volumeNum": "8484988.615928",
+  "liquidityNum": "292984.21329",
   "endDateIso": "2026-12-09",
   "startDateIso": "2026-07-30",
   "hasReviewedDates": "True",
-  "volume24hr": "336476.566332",
-  "volume1wk": "3290005.86945",
-  "volume1mo": "7689390.260583",
-  "volume1yr": "8474705.625928",
+  "volume24hr": "347754.44099900004",
+  "volume1wk": "3300254.3204500005",
+  "volume1mo": "7700673.250583",
+  "volume1yr": "8485988.615928",
   "clobTokenIds": "[\"17640596861394454242836532536014033416733783473450136742726948856144855149507\", \"10423673626377530789149720287419191120396356671195972578858475044053097674219"
  },
  "multi_option_event": {
@@ -245,7 +246,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0025\", \"0.9975\"]",
+    "outcomePrices": "[\"0.0015\", \"0.9985\"]",
     "closed": "False"
    },
    {
@@ -263,7 +264,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0315\", \"0.9685\"]",
+    "outcomePrices": "[\"0.027\", \"0.973\"]",
     "closed": "False"
    },
    {
@@ -281,18 +282,18 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0355\", \"0.9645\"]",
+    "outcomePrices": "[\"0.037\", \"0.963\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "economy": 104,
-  "sports": 671,
-  "tech": 473,
-  "crypto": 156,
-  "politics": 313,
-  "geopolitics": 181,
+  "economy": 105,
+  "sports": 670,
+  "tech": 475,
+  "crypto": 162,
+  "politics": 314,
+  "geopolitics": 185,
   "culture": 95,
   "(空)": 84
  },
@@ -326,6 +327,15 @@
    ]
   },
   {
+   "title": "Thunder vs. Pacers",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
    "title": "New NVIDIA CEO named by December 31, 2026?",
    "tags": [
     "ceo",
@@ -337,7 +347,7 @@
    ]
   },
   {
-   "title": "Thunder vs. Pacers",
+   "title": "Grizzlies vs. Hornets",
    "tags": [
     "Sports",
     "NBA",
@@ -366,44 +376,33 @@
     "World Elections",
     "Earn 3.25%"
    ]
-  },
-  {
-   "title": "Next French Presidential Election",
-   "tags": [
-    "French Election",
-    "Main Election",
-    "France",
-    "World",
-    "Politics",
-    "Global Elections"
-   ]
   }
  ],
  "top_titles": [
   "Fed Decision in December?",
   "Bengals vs. Commanders",
   "Trail Blazers vs. 76ers",
-  "New NVIDIA CEO named by December 31, 2026?",
   "Thunder vs. Pacers",
+  "New NVIDIA CEO named by December 31, 2026?",
+  "Grizzlies vs. Hornets",
   "What price will Bitcoin hit in November?",
   "Democratic Presidential Nominee 2028",
   "Next French Presidential Election",
   "What price will Bitcoin hit on November 23?",
+  "Nets vs. Timberwolves",
+  "SC Internacional vs. EC Vitória - More Markets",
   "What price will Bitcoin hit in 2026?",
   "Israel x Iran ceasefire continues through...?",
   "NBA: 2027 Champion",
-  "Grizzlies vs. Hornets",
-  "What price will Ethereum hit in November?",
+  "SC Internacional vs. EC Vitória",
+  "Playford: Alafia Ayeni vs Alex Bolt",
   "UEFA Champions League: 2027 Champion",
   "Republican Presidential Nominee 2028",
-  "SC Internacional vs. EC Vitória - More Markets",
+  "Cavaliers vs. Bulls",
+  "Flames vs. Senators",
   "Largest Company end of December 2026?",
-  "Presidential Election Winner 2028",
-  "Nets vs. Timberwolves",
-  "Bitcoin above ___ on November 24?",
-  "Will Anthropic’s valuation hit __ by December 31?",
-  "Elon Musk # tweets November 17 - November 24, 2026?",
-  "US announces end of Iranian blockade by...?",
-  "SC Internacional vs. EC Vitória"
+  "What price will Ethereum hit in November?",
+  "Bucks vs. Raptors",
+  "Presidential Election Winner 2028"
  ]
 }
