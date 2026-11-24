@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-24T22:50:47.187263+00:00",
+ "ts": "2026-11-24T23:43:11.204690+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 48673,
- "single_game_events": 772,
+ "events_total": 2097,
+ "sub_markets_total": 48384,
+ "single_game_events": 768,
  "event_keys": [
   "active",
   "archived",
@@ -96,6 +96,7 @@
   "negRisk",
   "negRiskOther",
   "new",
+  "oneDayPriceChange",
   "oneWeekPriceChange",
   "orderMinSize",
   "orderPriceMinTickSize",
@@ -157,21 +158,21 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "564387.59114",
-  "volume": "5740727.121652",
-  "openInterest": "4845489.747391",
+  "liquidity": "547092.29826",
+  "volume": "5872775.931814",
+  "openInterest": "4941577.247391",
   "sortBy": "ascending",
   "createdAt": "2026-11-12T00:25:22.54954Z",
-  "updatedAt": "2026-11-24T22:45:28.744047Z",
+  "updatedAt": "2026-11-24T23:39:29.438056Z",
   "competitive": "0.8009597099244316",
-  "volume24hr": "3510645.997549",
-  "volume1wk": "5628139.363028",
-  "volume1mo": "5740727.121652",
-  "volume1yr": "5740727.121652",
+  "volume24hr": "3642974.382717",
+  "volume1wk": "5764844.517032",
+  "volume1mo": "5880040.93682",
+  "volume1yr": "5880040.93682",
   "enableOrderBook": "True",
-  "liquidityClob": "564387.59114",
+  "liquidityClob": "547092.29826",
   "negRisk": "False",
-  "commentCount": "99",
+  "commentCount": "100",
   "markets": "<list 1>",
   "tags": "<list 7>",
   "cyom": "False",
@@ -188,18 +189,18 @@
   "slug": "new-nvidia-ceo-named-by-december-31-2026",
   "resolutionSource": "",
   "endDate": "2027-01-01T04:59:00Z",
-  "liquidity": "581497.79097",
+  "liquidity": "544213.10326",
   "startDate": "2026-11-12T00:25:48Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "description": "This market will resolve to \"Yes\" if NVIDIA Corporation officially announces a successor to Jensen Huang as CEO of NVIDIA by December 31, 2026, 11:59 PM ET. Oth",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.9985\", \"0.0015\"]",
-  "volume": "5740727.121652",
+  "volume": "5872775.931814",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-12T00:25:23.405385Z",
-  "updatedAt": "2026-11-24T22:45:15.738601Z",
+  "updatedAt": "2026-11-24T23:39:14.53425Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -211,15 +212,15 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "disputed",
-  "volumeNum": "5740727.121652",
-  "liquidityNum": "581497.79097",
+  "volumeNum": "5872775.931814",
+  "liquidityNum": "544213.10326",
   "endDateIso": "2027-01-01",
   "startDateIso": "2026-11-12",
   "hasReviewedDates": "True",
-  "volume24hr": "3510645.997549",
-  "volume1wk": "5628139.363028",
-  "volume1mo": "5740727.121652",
-  "volume1yr": "5740727.121652",
+  "volume24hr": "3642974.382717",
+  "volume1wk": "5764844.517032",
+  "volume1mo": "5880040.93682",
+  "volume1yr": "5880040.93682",
   "clobTokenIds": "[\"44558631181975413784524040138198113866542690797483755072260383831719409876660\", \"2850080638485078487119156792065577759676622346318773387984061906346610063157\"",
   "comboStatus": "disabled"
  },
@@ -252,7 +253,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.038\", \"0.962\"]",
+    "outcomePrices": "[\"0.04\", \"0.96\"]",
     "closed": "False"
    },
    {
@@ -270,20 +271,20 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.025\", \"0.975\"]",
+    "outcomePrices": "[\"0.0235\", \"0.9765\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "tech": 478,
-  "economy": 84,
-  "sports": 786,
-  "crypto": 159,
-  "geopolitics": 162,
-  "politics": 296,
+  "tech": 473,
+  "economy": 83,
+  "sports": 781,
+  "crypto": 168,
+  "geopolitics": 166,
+  "politics": 292,
   "culture": 78,
-  "(空)": 57
+  "(空)": 56
  },
  "tag_samples": [
   {
@@ -309,6 +310,15 @@
    ]
   },
   {
+   "title": "Pistons vs. Magic",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
    "title": "UEFA Champions League: 2027 Champion",
    "tags": [
     "UCL",
@@ -330,17 +340,6 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit in November?",
-   "tags": [
-    "Bitcoin",
-    "Monthly",
-    "Hit Price",
-    "Crypto",
-    "Crypto Prices",
-    "Recurring"
-   ]
-  },
-  {
    "title": "Fourth Jensen Huang affair reported by...?",
    "tags": [
     "AI",
@@ -352,50 +351,50 @@
    ]
   },
   {
-   "title": "Yokohama: Jie Cui vs Benjamin Hassan",
+   "title": "What price will Bitcoin hit in November?",
    "tags": [
-    "Tennis",
-    "Sports",
-    "Games"
+    "Bitcoin",
+    "Monthly",
+    "Hit Price",
+    "Crypto",
+    "Crypto Prices",
+    "Recurring"
    ]
   },
   {
-   "title": "What price will Bitcoin hit on November 24?",
+   "title": "Miami (OH) vs. Western Michigan",
    "tags": [
-    "Crypto",
-    "Crypto Prices",
-    "Recurring",
-    "Hide From New",
-    "Bitcoin",
-    "Daily"
+    "Sports",
+    "CFB",
+    "Games"
    ]
   }
  ],
  "top_titles": [
   "New NVIDIA CEO named by December 31, 2026?",
   "Fed Decision in December?",
+  "Pistons vs. Magic",
   "UEFA Champions League: 2027 Champion",
   "Next French Presidential Election",
-  "What price will Bitcoin hit in November?",
   "Fourth Jensen Huang affair reported by...?",
+  "What price will Bitcoin hit in November?",
+  "Miami (OH) vs. Western Michigan",
   "Yokohama: Jie Cui vs Benjamin Hassan",
   "What price will Bitcoin hit on November 24?",
-  "Miami (OH) vs. Western Michigan",
-  "Pistons vs. Magic",
   "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
+  "H100 average rental price in January 2027?",
+  "Jensen Huang admits to another affair with a woman by December 31?",
   "Israel x Iran ceasefire continues through...?",
   "Jensen Huang out as NVIDIA CEO again by...?",
-  "H100 average rental price in January 2027?",
   "Yokohama: Rio Noguchi vs Maximus Jones",
-  "Jensen Huang admits to another affair with a woman by December 31?",
+  "Mavericks vs. Nuggets",
   "Prime Minister of Israel after the next election?",
   "What price will Bitcoin hit in 2026?",
-  "Mavericks vs. Nuggets",
+  "Celtics vs. Wizards",
   "Yokohama: Constantin Bittoun Kouzmine vs Yusuke Takahashi",
   "Florianopolis: Juan Manuel La Serna vs Santiago De La Fuente",
   "Anthropic closes below IPO price ($83) by...?",
   "Taipei Mayor Election Winner",
-  "Republican Presidential Nominee 2028",
   "PGL Major Singapore 2026: Winner"
  ]
 }
