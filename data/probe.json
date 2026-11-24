@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-24T18:51:03.856146+00:00",
+ "ts": "2026-11-24T19:56:40.386357+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 48384,
- "single_game_events": 783,
+ "events_total": 2095,
+ "sub_markets_total": 47793,
+ "single_game_events": 788,
  "event_keys": [
   "active",
   "archived",
@@ -96,6 +96,8 @@
   "negRisk",
   "negRiskOther",
   "new",
+  "oneDayPriceChange",
+  "oneHourPriceChange",
   "oneWeekPriceChange",
   "orderMinSize",
   "orderPriceMinTickSize",
@@ -157,19 +159,19 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1071358.37017",
-  "volume": "4535488.254102999",
-  "openInterest": "3714931.347391",
+  "liquidity": "411932.58129",
+  "volume": "5230217.704102999",
+  "openInterest": "4404579.647391",
   "sortBy": "ascending",
   "createdAt": "2026-11-12T00:25:22.54954Z",
-  "updatedAt": "2026-11-24T18:45:28.390295Z",
-  "competitive": "0.8003199679231757",
-  "volume24hr": "3265250.4489999996",
-  "volume1wk": "4427367.445471",
-  "volume1mo": "4536488.254102999",
-  "volume1yr": "4536488.254102999",
+  "updatedAt": "2026-11-24T19:53:28.536184Z",
+  "competitive": "0.8006398713852111",
+  "volume24hr": "3323898.989",
+  "volume1wk": "5120065.159755999",
+  "volume1mo": "5230217.704103",
+  "volume1yr": "5230217.704103",
   "enableOrderBook": "True",
-  "liquidityClob": "1071358.37017",
+  "liquidityClob": "411932.58129",
   "negRisk": "False",
   "commentCount": "98",
   "markets": "<list 1>",
@@ -188,18 +190,18 @@
   "slug": "new-nvidia-ceo-named-by-december-31-2026",
   "resolutionSource": "",
   "endDate": "2027-01-01T04:59:00Z",
-  "liquidity": "1068391.34017",
+  "liquidity": "411837.48129",
   "startDate": "2026-11-12T00:25:48Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "description": "This market will resolve to \"Yes\" if NVIDIA Corporation officially announces a successor to Jensen Huang as CEO of NVIDIA by December 31, 2026, 11:59 PM ET. Oth",
   "outcomes": "[\"Yes\", \"No\"]",
-  "outcomePrices": "[\"0.9995\", \"0.0005\"]",
-  "volume": "4535488.254102999",
+  "outcomePrices": "[\"0.999\", \"0.001\"]",
+  "volume": "5230217.704102999",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-12T00:25:23.405385Z",
-  "updatedAt": "2026-11-24T18:47:14.612823Z",
+  "updatedAt": "2026-11-24T19:55:14.815237Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -211,79 +213,70 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "disputed",
-  "volumeNum": "4535488.254102999",
-  "liquidityNum": "1068391.34017",
+  "volumeNum": "5230217.704102999",
+  "liquidityNum": "411837.48129",
   "endDateIso": "2027-01-01",
   "startDateIso": "2026-11-12",
   "hasReviewedDates": "True",
-  "volume24hr": "3265250.4489999996",
-  "volume1wk": "4427367.445471",
-  "volume1mo": "4536488.254102999",
-  "volume1yr": "4536488.254102999",
+  "volume24hr": "3323898.989",
+  "volume1wk": "5120065.159755999",
+  "volume1mo": "5230217.704103",
+  "volume1yr": "5230217.704103",
   "clobTokenIds": "[\"44558631181975413784524040138198113866542690797483755072260383831719409876660\", \"2850080638485078487119156792065577759676622346318773387984061906346610063157\"",
   "comboStatus": "disabled"
  },
  "multi_option_event": {
-  "title": "Fed Decision in December?",
-  "slug": "fed-decision-in-december-20260729232808632",
-  "n_sub": 5,
+  "title": "Dota 2: Xtreme Gaming vs Team Liquid (BO3) - BLAST Slam Last Chance Qualifier",
+  "slug": "dota2-xtreme-liquid-2026-11-24",
+  "n_sub": 4,
   "sub_markets": [
    {
-    "question": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
-    "groupItemTitle": "50+ bps decrease",
-    "groupItemThreshold": "0",
+    "question": "Dota 2: Xtreme Gaming vs Team Liquid (BO3) - BLAST Slam Last Chance Qualifier",
+    "groupItemTitle": "Match Winner",
+    "groupItemThreshold": "None",
     "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0015\", \"0.9985\"]",
+    "outcomes": "[\"Xtreme Gaming\", \"Team Liquid\"]",
+    "outcomePrices": "[\"0.016\", \"0.984\"]",
     "closed": "False"
    },
    {
-    "question": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
-    "groupItemTitle": "25 bps decrease",
-    "groupItemThreshold": "1",
+    "question": "Games Total: O/U 2.5",
+    "groupItemTitle": "O/U 2.5 Games",
+    "groupItemThreshold": "None",
     "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0025\", \"0.9975\"]",
+    "outcomes": "[\"Over\", \"Under\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
-    "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-    "groupItemTitle": "No change",
-    "groupItemThreshold": "2",
+    "question": "Game Handicap: Liquid (-1.5) vs Xtreme Gaming (+1.5)",
+    "groupItemTitle": "Game Handicap: Liquid (-1.5) vs Xtreme Gaming (+1.5)",
+    "groupItemThreshold": "None",
     "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0395\", \"0.9605\"]",
+    "outcomes": "[\"Team Liquid\", \"Xtreme Gaming\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
-    "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-    "groupItemTitle": "25 bps increase",
-    "groupItemThreshold": "3",
+    "question": "Game Handicap: Xtreme (-1.5) vs Team Liquid (+1.5)",
+    "groupItemTitle": "Game Handicap: Xtreme (-1.5) vs Team Liquid (+1.5)",
+    "groupItemThreshold": "None",
     "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.935\", \"0.065\"]",
-    "closed": "False"
-   },
-   {
-    "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-    "groupItemTitle": "50+ bps increase",
-    "groupItemThreshold": "4",
-    "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0225\", \"0.9775\"]",
+    "outcomes": "[\"Xtreme Gaming\", \"Team Liquid\"]",
+    "outcomePrices": "[\"0.015\", \"0.985\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "tech": 462,
+  "tech": 471,
+  "sports": 795,
   "economy": 83,
-  "sports": 793,
-  "politics": 312,
-  "crypto": 149,
-  "culture": 90,
-  "geopolitics": 156,
-  "(空)": 55
+  "politics": 292,
+  "crypto": 155,
+  "geopolitics": 155,
+  "culture": 88,
+  "(空)": 56
  },
  "tag_samples": [
   {
@@ -295,17 +288,6 @@
     "Finance",
     "Big Tech",
     "Business"
-   ]
-  },
-  {
-   "title": "Fed Decision in December?",
-   "tags": [
-    "Fed",
-    "fomc",
-    "Trump",
-    "Economy",
-    "Fed Rates",
-    "Kevin Warsh"
    ]
   },
   {
@@ -327,6 +309,17 @@
    ]
   },
   {
+   "title": "Fed Decision in December?",
+   "tags": [
+    "Fed",
+    "fomc",
+    "Trump",
+    "Economy",
+    "Fed Rates",
+    "Kevin Warsh"
+   ]
+  },
+  {
    "title": "Galatasaray SK vs. Aston Villa FC",
    "tags": [
     "Sports",
@@ -336,14 +329,21 @@
    ]
   },
   {
-   "title": "Democratic Presidential Nominee 2028",
+   "title": "FK Bodø/Glimt vs. LASK Linz - More Markets",
    "tags": [
-    "United States",
-    "Elections",
-    "Politics",
-    "US Election",
-    "World Elections",
-    "Earn 3.25%"
+    "Sports",
+    "Games",
+    "Soccer",
+    "UCL"
+   ]
+  },
+  {
+   "title": "Galatasaray SK vs. Aston Villa FC - More Markets",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "UCL"
    ]
   },
   {
@@ -356,42 +356,33 @@
     "Politics",
     "Global Elections"
    ]
-  },
-  {
-   "title": "FK Bodø/Glimt vs. LASK Linz - More Markets",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "UCL"
-   ]
   }
  ],
  "top_titles": [
   "New NVIDIA CEO named by December 31, 2026?",
-  "Fed Decision in December?",
   "Dota 2: Xtreme Gaming vs Team Liquid (BO3) - BLAST Slam Last Chance Qualifier",
   "Dota 2: OG vs Aurora (BO3) - BLAST Slam Last Chance Qualifier",
+  "Fed Decision in December?",
   "Galatasaray SK vs. Aston Villa FC",
-  "Democratic Presidential Nominee 2028",
-  "Next French Presidential Election",
   "FK Bodø/Glimt vs. LASK Linz - More Markets",
   "Galatasaray SK vs. Aston Villa FC - More Markets",
-  "What price will Bitcoin hit in November?",
+  "Next French Presidential Election",
+  "UEFA Champions League: 2027 Champion",
+  "Democratic Presidential Nominee 2028",
+  "Feyenoord Rotterdam vs. FC Porto",
   "Fourth Jensen Huang affair reported by...?",
   "Yokohama: Jie Cui vs Benjamin Hassan",
-  "Elon Musk # tweets November 17 - November 24, 2026?",
-  "UEFA Champions League: 2027 Champion",
-  "Israel x Iran ceasefire continues through...?",
-  "Jensen Huang out as NVIDIA CEO again by...?",
+  "Real Madrid CF vs. PSV - More Markets",
+  "What price will Bitcoin hit in November?",
   "Miami (OH) vs. Western Michigan",
   "What price will Bitcoin hit on November 24?",
-  "What price will Bitcoin hit in 2026?",
-  "FK Bodø/Glimt vs. LASK Linz",
+  "Jensen Huang out as NVIDIA CEO again by...?",
   "Presidential Election Winner 2028",
+  "What price will Bitcoin hit in 2026?",
+  "Israel x Iran ceasefire continues through...?",
   "H100 average rental price in January 2027?",
+  "Real Madrid CF vs. PSV",
   "Yokohama: Rio Noguchi vs Maximus Jones",
-  "PGL Major Singapore 2026: Winner",
-  "Jensen Huang admits to another affair with a woman by December 31?"
+  "PGL Major Singapore 2026: Winner"
  ]
 }
