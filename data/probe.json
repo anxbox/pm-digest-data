@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-24T02:10:49.666370+00:00",
+ "ts": "2026-11-24T03:12:22.750345+00:00",
  "pages_fetched": 21,
- "events_total": 2082,
- "sub_markets_total": 47331,
- "single_game_events": 591,
+ "events_total": 2096,
+ "sub_markets_total": 47039,
+ "single_game_events": 593,
  "event_keys": [
   "active",
   "archived",
@@ -174,18 +174,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "2324820.95232",
-  "volume": "7709882.209610999",
-  "openInterest": "7201912.130833999",
+  "liquidity": "1090004.12958",
+  "volume": "8343601.410109999",
+  "openInterest": "7599126.406625999",
   "createdAt": "2026-11-03T13:00:42.180987Z",
-  "updatedAt": "2026-11-24T02:05:28.366498Z",
-  "competitive": "0.9999000099990001",
-  "volume24hr": "7696518.467971",
-  "volume1wk": "7801404.04227",
-  "volume1mo": "7804678.924141",
-  "volume1yr": "7804678.924141",
+  "updatedAt": "2026-11-24T03:07:26.18174Z",
+  "competitive": "0.9999750006249843",
+  "volume24hr": "8241146.939653",
+  "volume1wk": "8347345.2945799995",
+  "volume1mo": "8350620.176451",
+  "volume1yr": "8350620.176451",
   "enableOrderBook": "True",
-  "liquidityClob": "2324820.95232",
+  "liquidityClob": "1090004.12958",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 305>",
@@ -205,18 +205,18 @@
   "slug": "nfl-cin-was-2026-11-24",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-24T01:15:00Z",
-  "liquidity": "552361.3049",
+  "liquidity": "412177.8608",
   "startDate": "2026-11-03T13:00:50Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Bengals and Commanders, originally scheduled for Monday, November 23, 2026 at 8:15 PM ET (as of creation of the first ",
   "outcomes": "[\"Bengals\", \"Commanders\"]",
-  "outcomePrices": "[\"0.745\", \"0.255\"]",
-  "volume": "1942593.089247",
+  "outcomePrices": "[\"0.705\", \"0.295\"]",
+  "volume": "2225080.9961170005",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-03T13:00:42.396826Z",
-  "updatedAt": "2026-11-24T02:05:12.964948Z",
+  "updatedAt": "2026-11-24T03:09:13.496668Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -228,22 +228,22 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.01",
   "orderMinSize": "5",
-  "volumeNum": "1942593.089247",
-  "liquidityNum": "552361.3049",
+  "volumeNum": "2225080.9961170005",
+  "liquidityNum": "412177.8608",
   "endDateIso": "2026-11-24",
   "startDateIso": "2026-11-03",
   "hasReviewedDates": "True",
-  "volume24hr": "2006192.2737159997",
-  "volume1wk": "2029593.4365169997",
-  "volume1mo": "2029599.9365129997",
-  "volume1yr": "2029599.9365129997",
+  "volume24hr": "2245099.234883",
+  "volume1wk": "2269426.7675389997",
+  "volume1mo": "2269433.267535",
+  "volume1yr": "2269433.267535",
   "gameStartTime": "2026-11-24 01:15:00+00",
   "secondsDelay": "1"
  },
  "multi_option_event": {
   "title": "Bengals vs. Commanders",
   "slug": "nfl-cin-was-2026-11-24",
-  "n_sub": 280,
+  "n_sub": 201,
   "sub_markets": [
    {
     "question": "Bengals vs. Commanders",
@@ -251,7 +251,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Bengals\", \"Commanders\"]",
-    "outcomePrices": "[\"0.745\", \"0.255\"]",
+    "outcomePrices": "[\"0.705\", \"0.295\"]",
     "closed": "False"
    },
    {
@@ -260,7 +260,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bengals\", \"Commanders\"]",
-    "outcomePrices": "[\"0.715\", \"0.285\"]",
+    "outcomePrices": "[\"0.685\", \"0.315\"]",
     "closed": "False"
    },
    {
@@ -269,7 +269,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bengals\", \"Commanders\"]",
-    "outcomePrices": "[\"0.695\", \"0.305\"]",
+    "outcomePrices": "[\"0.655\", \"0.345\"]",
     "closed": "False"
    },
    {
@@ -278,7 +278,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bengals\", \"Commanders\"]",
-    "outcomePrices": "[\"0.595\", \"0.405\"]",
+    "outcomePrices": "[\"0.565\", \"0.435\"]",
     "closed": "False"
    },
    {
@@ -287,20 +287,20 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bengals\", \"Commanders\"]",
-    "outcomePrices": "[\"0.555\", \"0.445\"]",
+    "outcomePrices": "[\"0.47\", \"0.53\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 661,
+  "sports": 665,
   "economy": 109,
   "tech": 481,
-  "crypto": 152,
-  "politics": 312,
+  "crypto": 161,
+  "politics": 311,
   "geopolitics": 183,
-  "culture": 98,
-  "(空)": 86
+  "culture": 99,
+  "(空)": 87
  },
  "tag_samples": [
   {
@@ -320,15 +320,6 @@
     "Economy",
     "Fed Rates",
     "Kevin Warsh"
-   ]
-  },
-  {
-   "title": "Trail Blazers vs. 76ers",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   },
   {
@@ -352,7 +343,16 @@
    ]
   },
   {
-   "title": "Grizzlies vs. Hornets",
+   "title": "Spurs vs. Kings",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
+   "title": "Cavaliers vs. Bulls",
    "tags": [
     "Sports",
     "NBA",
@@ -372,40 +372,42 @@
    ]
   },
   {
-   "title": "Cavaliers vs. Bulls",
+   "title": "Next French Presidential Election",
    "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
+    "Politics",
+    "Global Elections"
    ]
   }
  ],
  "top_titles": [
   "Bengals vs. Commanders",
   "Fed Decision in December?",
-  "Trail Blazers vs. 76ers",
   "Thunder vs. Pacers",
   "New NVIDIA CEO named by December 31, 2026?",
-  "Grizzlies vs. Hornets",
-  "What price will Bitcoin hit in November?",
-  "Cavaliers vs. Bulls",
-  "Next French Presidential Election",
-  "Democratic Presidential Nominee 2028",
   "Spurs vs. Kings",
+  "Cavaliers vs. Bulls",
+  "What price will Bitcoin hit in November?",
+  "Next French Presidential Election",
   "Nets vs. Timberwolves",
+  "Democratic Presidential Nominee 2028",
+  "Bucks vs. Raptors",
+  "Suns vs. Pelicans",
   "What price will Bitcoin hit on November 23?",
-  "What price will Bitcoin hit in 2026?",
   "SC Internacional vs. EC Vitória - More Markets",
   "Israel x Iran ceasefire continues through...?",
-  "Republican Presidential Nominee 2028",
+  "What price will Bitcoin hit in 2026?",
   "NBA: 2027 Champion",
-  "Suns vs. Pelicans",
-  "SC Internacional vs. EC Vitória",
-  "Bucks vs. Raptors",
-  "UEFA Champions League: 2027 Champion",
   "Bitcoin above ___ on November 24?",
+  "UEFA Champions League: 2027 Champion",
+  "Largest Company end of December 2026?",
   "Flames vs. Senators",
-  "Largest Company end of December 2026?"
+  "Santos FC vs. Grêmio FBPA - More Markets",
+  "Presidential Election Winner 2028",
+  "What price will Ethereum hit in November?",
+  "Clippers vs. Rockets"
  ]
 }
