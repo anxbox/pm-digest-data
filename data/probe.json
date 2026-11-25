@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-24T23:43:11.204690+00:00",
+ "ts": "2026-11-25T00:57:21.638727+00:00",
  "pages_fetched": 21,
- "events_total": 2097,
- "sub_markets_total": 48384,
- "single_game_events": 768,
+ "events_total": 2100,
+ "sub_markets_total": 47481,
+ "single_game_events": 664,
  "event_keys": [
   "active",
   "archived",
@@ -158,19 +158,19 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "547092.29826",
-  "volume": "5872775.931814",
-  "openInterest": "4941577.247391",
+  "liquidity": "337732.5296",
+  "volume": "6082087.937821999",
+  "openInterest": "5127243.247391",
   "sortBy": "ascending",
   "createdAt": "2026-11-12T00:25:22.54954Z",
-  "updatedAt": "2026-11-24T23:39:29.438056Z",
+  "updatedAt": "2026-11-25T00:53:26.853276Z",
   "competitive": "0.8009597099244316",
-  "volume24hr": "3642974.382717",
-  "volume1wk": "5764844.517032",
-  "volume1mo": "5880040.93682",
-  "volume1yr": "5880040.93682",
+  "volume24hr": "3845785.754961",
+  "volume1wk": "5976409.759276",
+  "volume1mo": "6091664.179063999",
+  "volume1yr": "6091664.179063999",
   "enableOrderBook": "True",
-  "liquidityClob": "547092.29826",
+  "liquidityClob": "337732.5296",
   "negRisk": "False",
   "commentCount": "100",
   "markets": "<list 1>",
@@ -189,18 +189,18 @@
   "slug": "new-nvidia-ceo-named-by-december-31-2026",
   "resolutionSource": "",
   "endDate": "2027-01-01T04:59:00Z",
-  "liquidity": "544213.10326",
+  "liquidity": "337732.5296",
   "startDate": "2026-11-12T00:25:48Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "description": "This market will resolve to \"Yes\" if NVIDIA Corporation officially announces a successor to Jensen Huang as CEO of NVIDIA by December 31, 2026, 11:59 PM ET. Oth",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.9985\", \"0.0015\"]",
-  "volume": "5872775.931814",
+  "volume": "6082087.937821999",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-12T00:25:23.405385Z",
-  "updatedAt": "2026-11-24T23:39:14.53425Z",
+  "updatedAt": "2026-11-25T00:53:14.249164Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -212,79 +212,79 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "disputed",
-  "volumeNum": "5872775.931814",
-  "liquidityNum": "544213.10326",
+  "volumeNum": "6082087.937821999",
+  "liquidityNum": "337732.5296",
   "endDateIso": "2027-01-01",
   "startDateIso": "2026-11-12",
   "hasReviewedDates": "True",
-  "volume24hr": "3642974.382717",
-  "volume1wk": "5764844.517032",
-  "volume1mo": "5880040.93682",
-  "volume1yr": "5880040.93682",
+  "volume24hr": "3845785.754961",
+  "volume1wk": "5976409.759276",
+  "volume1mo": "6091664.179063999",
+  "volume1yr": "6091664.179063999",
   "clobTokenIds": "[\"44558631181975413784524040138198113866542690797483755072260383831719409876660\", \"2850080638485078487119156792065577759676622346318773387984061906346610063157\"",
   "comboStatus": "disabled"
  },
  "multi_option_event": {
-  "title": "Fed Decision in December?",
-  "slug": "fed-decision-in-december-20260729232808632",
-  "n_sub": 5,
+  "title": "Pistons vs. Magic",
+  "slug": "nba-det-orl-2026-11-24",
+  "n_sub": 479,
   "sub_markets": [
    {
-    "question": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
-    "groupItemTitle": "50+ bps decrease",
+    "question": "Pistons vs. Magic",
+    "groupItemTitle": "None",
     "groupItemThreshold": "0",
     "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0015\", \"0.9985\"]",
+    "outcomes": "[\"Pistons\", \"Magic\"]",
+    "outcomePrices": "[\"0.56\", \"0.44\"]",
     "closed": "False"
    },
    {
-    "question": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
-    "groupItemTitle": "25 bps decrease",
+    "question": "Spread: Pistons (-2.5)",
+    "groupItemTitle": "Spread -2.5",
     "groupItemThreshold": "1",
     "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0025\", \"0.9975\"]",
+    "outcomes": "[\"Pistons\", \"Magic\"]",
+    "outcomePrices": "[\"0.47\", \"0.53\"]",
     "closed": "False"
    },
    {
-    "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-    "groupItemTitle": "No change",
+    "question": "Pistons vs. Magic: O/U 214.5",
+    "groupItemTitle": "O/U 214.5",
     "groupItemThreshold": "2",
     "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.04\", \"0.96\"]",
+    "outcomes": "[\"Over\", \"Under\"]",
+    "outcomePrices": "[\"0.05\", \"0.95\"]",
     "closed": "False"
    },
    {
-    "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-    "groupItemTitle": "25 bps increase",
-    "groupItemThreshold": "3",
+    "question": "Spread: Pistons (-3.5)",
+    "groupItemTitle": "Spread -3.5",
+    "groupItemThreshold": "1",
     "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.935\", \"0.065\"]",
+    "outcomes": "[\"Pistons\", \"Magic\"]",
+    "outcomePrices": "[\"0.47\", \"0.53\"]",
     "closed": "False"
    },
    {
-    "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-    "groupItemTitle": "50+ bps increase",
-    "groupItemThreshold": "4",
+    "question": "Pistons vs. Magic: O/U 212.5",
+    "groupItemTitle": "O/U 212.5",
+    "groupItemThreshold": "2",
     "shortTitle": "None",
-    "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0235\", \"0.9765\"]",
+    "outcomes": "[\"Over\", \"Under\"]",
+    "outcomePrices": "[\"0.06\", \"0.94\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "tech": 473,
-  "economy": 83,
-  "sports": 781,
-  "crypto": 168,
-  "geopolitics": 166,
-  "politics": 292,
-  "culture": 78,
-  "(空)": 56
+  "tech": 489,
+  "sports": 698,
+  "economy": 86,
+  "crypto": 183,
+  "geopolitics": 185,
+  "politics": 310,
+  "culture": 85,
+  "(空)": 64
  },
  "tag_samples": [
   {
@@ -299,6 +299,15 @@
    ]
   },
   {
+   "title": "Pistons vs. Magic",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
    "title": "Fed Decision in December?",
    "tags": [
     "Fed",
@@ -307,15 +316,6 @@
     "Economy",
     "Fed Rates",
     "Kevin Warsh"
-   ]
-  },
-  {
-   "title": "Pistons vs. Magic",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   },
   {
@@ -329,14 +329,11 @@
    ]
   },
   {
-   "title": "Next French Presidential Election",
+   "title": "Miami (OH) vs. Western Michigan",
    "tags": [
-    "French Election",
-    "Main Election",
-    "France",
-    "World",
-    "Politics",
-    "Global Elections"
+    "Sports",
+    "CFB",
+    "Games"
    ]
   },
   {
@@ -351,18 +348,18 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit in November?",
+   "title": "Next French Presidential Election",
    "tags": [
-    "Bitcoin",
-    "Monthly",
-    "Hit Price",
-    "Crypto",
-    "Crypto Prices",
-    "Recurring"
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
+    "Politics",
+    "Global Elections"
    ]
   },
   {
-   "title": "Miami (OH) vs. Western Michigan",
+   "title": "Kent State vs. Eastern Michigan",
    "tags": [
     "Sports",
     "CFB",
@@ -372,29 +369,29 @@
  ],
  "top_titles": [
   "New NVIDIA CEO named by December 31, 2026?",
-  "Fed Decision in December?",
   "Pistons vs. Magic",
+  "Fed Decision in December?",
   "UEFA Champions League: 2027 Champion",
-  "Next French Presidential Election",
-  "Fourth Jensen Huang affair reported by...?",
-  "What price will Bitcoin hit in November?",
   "Miami (OH) vs. Western Michigan",
+  "Fourth Jensen Huang affair reported by...?",
+  "Next French Presidential Election",
+  "Kent State vs. Eastern Michigan",
+  "What price will Bitcoin hit in November?",
   "Yokohama: Jie Cui vs Benjamin Hassan",
   "What price will Bitcoin hit on November 24?",
-  "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
-  "H100 average rental price in January 2027?",
-  "Jensen Huang admits to another affair with a woman by December 31?",
-  "Israel x Iran ceasefire continues through...?",
-  "Jensen Huang out as NVIDIA CEO again by...?",
-  "Yokohama: Rio Noguchi vs Maximus Jones",
-  "Mavericks vs. Nuggets",
-  "Prime Minister of Israel after the next election?",
-  "What price will Bitcoin hit in 2026?",
   "Celtics vs. Wizards",
+  "Jensen Huang admits to another affair with a woman by December 31?",
+  "H100 average rental price in January 2027?",
+  "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
+  "Jensen Huang out as NVIDIA CEO again by...?",
+  "Mavericks vs. Nuggets",
+  "Israel x Iran ceasefire continues through...?",
+  "Yokohama: Rio Noguchi vs Maximus Jones",
+  "What price will Bitcoin hit in 2026?",
+  "Prime Minister of Israel after the next election?",
+  "Golden Knights vs. Oilers",
   "Yokohama: Constantin Bittoun Kouzmine vs Yusuke Takahashi",
-  "Florianopolis: Juan Manuel La Serna vs Santiago De La Fuente",
   "Anthropic closes below IPO price ($83) by...?",
-  "Taipei Mayor Election Winner",
-  "PGL Major Singapore 2026: Winner"
+  "Florianopolis: Juan Manuel La Serna vs Santiago De La Fuente"
  ]
 }
