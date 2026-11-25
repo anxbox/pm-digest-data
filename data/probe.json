@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-25T10:02:22.117689+00:00",
+ "ts": "2026-11-25T11:18:16.888531+00:00",
  "pages_fetched": 21,
- "events_total": 2095,
- "sub_markets_total": 47386,
- "single_game_events": 727,
+ "events_total": 2099,
+ "sub_markets_total": 47335,
+ "single_game_events": 763,
  "event_keys": [
   "active",
   "archived",
@@ -97,7 +97,6 @@
   "negRiskOther",
   "new",
   "oneDayPriceChange",
-  "oneHourPriceChange",
   "oneWeekPriceChange",
   "orderMinSize",
   "orderPriceMinTickSize",
@@ -159,21 +158,21 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1582882.23885",
-  "volume": "9173192.711887999",
-  "openInterest": "7386025.687391",
+  "liquidity": "1511390.12797",
+  "volume": "9340236.899888",
+  "openInterest": "7509319.875391",
   "sortBy": "ascending",
   "createdAt": "2026-11-12T00:25:22.54954Z",
-  "updatedAt": "2026-11-25T10:01:30.546029Z",
+  "updatedAt": "2026-11-25T11:17:28.040931Z",
   "competitive": "0.8009597099244316",
-  "volume24hr": "5787488.167785001",
-  "volume1wk": "9057718.292099",
-  "volume1mo": "9173192.711888",
-  "volume1yr": "9173192.711888",
+  "volume24hr": "5954394.355784999",
+  "volume1wk": "9235304.921276",
+  "volume1mo": "9354646.899888001",
+  "volume1yr": "9354646.899888001",
   "enableOrderBook": "True",
-  "liquidityClob": "1582882.23885",
+  "liquidityClob": "1511390.12797",
   "negRisk": "False",
-  "commentCount": "110",
+  "commentCount": "111",
   "markets": "<list 1>",
   "tags": "<list 7>",
   "cyom": "False",
@@ -190,18 +189,18 @@
   "slug": "new-nvidia-ceo-named-by-december-31-2026",
   "resolutionSource": "",
   "endDate": "2027-01-01T04:59:00Z",
-  "liquidity": "1582851.0946",
+  "liquidity": "1511390.12797",
   "startDate": "2026-11-12T00:25:48Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "description": "This market will resolve to \"Yes\" if NVIDIA Corporation officially announces a successor to Jensen Huang as CEO of NVIDIA by December 31, 2026, 11:59 PM ET. Oth",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.9985\", \"0.0015\"]",
-  "volume": "9173192.711887999",
+  "volume": "9340236.899888",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-12T00:25:23.405385Z",
-  "updatedAt": "2026-11-25T10:01:14.413826Z",
+  "updatedAt": "2026-11-25T11:11:14.747734Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -213,79 +212,79 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "disputed",
-  "volumeNum": "9173192.711887999",
-  "liquidityNum": "1582851.0946",
+  "volumeNum": "9340236.899888",
+  "liquidityNum": "1511390.12797",
   "endDateIso": "2027-01-01",
   "startDateIso": "2026-11-12",
   "hasReviewedDates": "True",
-  "volume24hr": "5787488.167785001",
-  "volume1wk": "9057718.292099",
-  "volume1mo": "9173192.711888",
-  "volume1yr": "9173192.711888",
+  "volume24hr": "5954394.355784999",
+  "volume1wk": "9235304.921276",
+  "volume1mo": "9354646.899888001",
+  "volume1yr": "9354646.899888001",
   "clobTokenIds": "[\"44558631181975413784524040138198113866542690797483755072260383831719409876660\", \"2850080638485078487119156792065577759676622346318773387984061906346610063157\"",
   "comboStatus": "disabled"
  },
  "multi_option_event": {
-  "title": "Counter-Strike: Imperial vs FlyQuest (BO3) - PGL Major Singapore Stage 1",
-  "slug": "cs2-imp11-fly-2026-11-25",
-  "n_sub": 13,
+  "title": "Fed Decision in December?",
+  "slug": "fed-decision-in-december-20260729232808632",
+  "n_sub": 5,
   "sub_markets": [
    {
-    "question": "Counter-Strike: Imperial vs FlyQuest - Map 2 Winner",
-    "groupItemTitle": "Map 2 Winner",
-    "groupItemThreshold": "None",
+    "question": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+    "groupItemTitle": "50+ bps decrease",
+    "groupItemThreshold": "0",
     "shortTitle": "None",
-    "outcomes": "[\"Imperial\", \"FlyQuest\"]",
-    "outcomePrices": "[\"0.775\", \"0.225\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0015\", \"0.9985\"]",
     "closed": "False"
    },
    {
-    "question": "Counter-Strike: Imperial vs FlyQuest (BO3) - PGL Major Singapore Stage 1",
-    "groupItemTitle": "Match Winner",
-    "groupItemThreshold": "None",
+    "question": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+    "groupItemTitle": "25 bps decrease",
+    "groupItemThreshold": "1",
     "shortTitle": "None",
-    "outcomes": "[\"Imperial\", \"FlyQuest\"]",
-    "outcomePrices": "[\"0.445\", \"0.555\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0025\", \"0.9975\"]",
     "closed": "False"
    },
    {
-    "question": "Games Total: O/U 2.5",
-    "groupItemTitle": "O/U 2.5 Games",
-    "groupItemThreshold": "None",
+    "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+    "groupItemTitle": "No change",
+    "groupItemThreshold": "2",
     "shortTitle": "None",
-    "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.785\", \"0.215\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.044\", \"0.956\"]",
     "closed": "False"
    },
    {
-    "question": "Map Handicap: FLY (-1.5) vs Imperial (+1.5)",
-    "groupItemTitle": "Map Handicap: FLY (-1.5) vs Imperial (+1.5)",
-    "groupItemThreshold": "None",
+    "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+    "groupItemTitle": "25 bps increase",
+    "groupItemThreshold": "3",
     "shortTitle": "None",
-    "outcomes": "[\"FlyQuest\", \"Imperial\"]",
-    "outcomePrices": "[\"0.225\", \"0.775\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.935\", \"0.065\"]",
     "closed": "False"
    },
    {
-    "question": "Map 2 Total Rounds: Over/Under 21.5",
-    "groupItemTitle": "Map 2 Total Rounds: Over/Under 21.5",
-    "groupItemThreshold": "None",
+    "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+    "groupItemTitle": "50+ bps increase",
+    "groupItemThreshold": "4",
     "shortTitle": "None",
-    "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.5\", \"0.5\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0225\", \"0.9775\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "tech": 481,
-  "sports": 749,
+  "tech": 492,
   "economy": 97,
-  "crypto": 173,
-  "geopolitics": 185,
-  "culture": 85,
-  "politics": 256,
-  "(空)": 69
+  "sports": 760,
+  "crypto": 170,
+  "geopolitics": 182,
+  "culture": 83,
+  "politics": 251,
+  "(空)": 64
  },
  "tag_samples": [
   {
@@ -300,17 +299,6 @@
    ]
   },
   {
-   "title": "Counter-Strike: Imperial vs FlyQuest (BO3) - PGL Major Singapore Stage 1",
-   "tags": [
-    "Esports",
-    "counter strike 2",
-    "Games",
-    "Sports",
-    "PGL Major Singapore 2026",
-    "Swiss Stage"
-   ]
-  },
-  {
    "title": "Fed Decision in December?",
    "tags": [
     "Fed",
@@ -322,7 +310,18 @@
    ]
   },
   {
-   "title": "Counter-Strike: 9z vs DENDELE CS (BO3) - PGL Major Singapore Stage 1",
+   "title": "Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1",
+   "tags": [
+    "Esports",
+    "counter strike 2",
+    "Games",
+    "Sports",
+    "PGL Major Singapore 2026",
+    "Swiss Stage"
+   ]
+  },
+  {
+   "title": "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
    "tags": [
     "Esports",
     "counter strike 2",
@@ -354,17 +353,6 @@
    ]
   },
   {
-   "title": "Fourth Jensen Huang affair reported by...?",
-   "tags": [
-    "AI",
-    "Tech",
-    "NVIDIA",
-    "Culture",
-    "Finance",
-    "Celebrities"
-   ]
-  },
-  {
    "title": "Next French Presidential Election",
    "tags": [
     "French Election",
@@ -374,33 +362,44 @@
     "Politics",
     "Global Elections"
    ]
+  },
+  {
+   "title": "Fourth Jensen Huang affair reported by...?",
+   "tags": [
+    "AI",
+    "Tech",
+    "NVIDIA",
+    "Culture",
+    "Finance",
+    "Celebrities"
+   ]
   }
  ],
  "top_titles": [
   "New NVIDIA CEO named by December 31, 2026?",
-  "Counter-Strike: Imperial vs FlyQuest (BO3) - PGL Major Singapore Stage 1",
   "Fed Decision in December?",
-  "Counter-Strike: 9z vs DENDELE CS (BO3) - PGL Major Singapore Stage 1",
+  "Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1",
+  "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
   "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit in November?",
-  "Fourth Jensen Huang affair reported by...?",
   "Next French Presidential Election",
+  "Fourth Jensen Huang affair reported by...?",
   "H100 average rental price in January 2027?",
   "Jensen Huang admits to another affair with a woman by December 31?",
   "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
   "Bitcoin above ___ on November 25?",
   "What price will Bitcoin hit in 2026?",
   "Prime Minister of Israel after the next election?",
-  "Ankara: Jelle Sels vs Max Wiskandt",
   "Israel x Iran ceasefire continues through...?",
-  "Anthropic closes below IPO price ($83) by...?",
+  "Taipei Mayor Election Winner",
   "Florianopolis: Juan Manuel La Serna vs Santiago De La Fuente",
+  "Anthropic closes below IPO price ($83) by...?",
   "What price will Ethereum hit in November?",
-  "FK Shakhtar Donetsk vs. Fenerbahçe SK",
-  "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
+  "Jensen Huang out as NVIDIA CEO again by...?",
   "Elon Musk # tweets November 23 - November 25, 2026?",
+  "FK Shakhtar Donetsk vs. Fenerbahçe SK",
+  "B200 average rental price in December 2026?",
   "Ankara: Thomas Faurel vs Nikita Bilozertsev",
-  "Elon Musk # tweets November 20 - November 27, 2026?",
-  "Jensen Huang out as NVIDIA CEO again by...?"
+  "Elon Musk # tweets November 20 - November 27, 2026?"
  ]
 }
