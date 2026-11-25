@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-25T20:16:07.216824+00:00",
+ "ts": "2026-11-25T21:18:13.901388+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 50981,
- "single_game_events": 694,
+ "sub_markets_total": 50614,
+ "single_game_events": 712,
  "event_keys": [
   "active",
   "archived",
@@ -166,19 +166,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "3236021.11843",
-  "volume": "61384941.1107",
-  "openInterest": "9345058.174065001",
+  "liquidity": "3242647.76252",
+  "volume": "61423699.654111",
+  "openInterest": "9360835.234881999",
   "sortBy": "ascending",
   "createdAt": "2026-07-30T00:36:56.42426Z",
-  "updatedAt": "2026-11-25T20:13:43.203782Z",
+  "updatedAt": "2026-11-25T21:13:42.050976Z",
   "competitive": "0.8408837688410519",
-  "volume24hr": "5687048.904502999",
-  "volume1wk": "20911006.303879",
-  "volume1mo": "56718346.377926",
-  "volume1yr": "61391187.16666599",
+  "volume24hr": "5459757.3297190005",
+  "volume1wk": "20881608.797878",
+  "volume1mo": "56751016.652359",
+  "volume1yr": "61424217.441098996",
   "enableOrderBook": "True",
-  "liquidityClob": "3236021.11843",
+  "liquidityClob": "3242647.76252",
   "negRisk": "True",
   "negRiskMarketID": "0xa74f5328517db0e030a5e62edc800e37bd36ca6e455571b14e8bb2b0dd38d700",
   "commentCount": "0",
@@ -197,18 +197,18 @@
   "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
   "resolutionSource": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
   "endDate": "2026-12-09T23:59:00Z",
-  "liquidity": "390548.6825",
+  "liquidity": "382670.3838",
   "startDate": "2026-07-30T00:53:15.730668Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "description": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.0015\", \"0.9985\"]",
-  "volume": "9072444.660928",
+  "volume": "9075125.133927999",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-07-30T00:36:56.830135Z",
-  "updatedAt": "2026-11-25T20:13:29.917481Z",
+  "updatedAt": "2026-11-25T21:13:28.939738Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -221,15 +221,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "9072444.660928",
-  "liquidityNum": "390548.6825",
+  "volumeNum": "9075125.133927999",
+  "liquidityNum": "382670.3838",
   "endDateIso": "2026-12-09",
   "startDateIso": "2026-07-30",
   "hasReviewedDates": "True",
-  "volume24hr": "301553.957",
-  "volume1wk": "2754020.997118",
-  "volume1mo": "8267501.045417",
-  "volume1yr": "9073532.003927998",
+  "volume24hr": "300375.909",
+  "volume1wk": "2755602.015118",
+  "volume1mo": "8268924.1754169995",
+  "volume1yr": "9075125.133927997",
   "clobTokenIds": "[\"17640596861394454242836532536014033416733783473450136742726948856144855149507\", \"10423673626377530789149720287419191120396356671195972578858475044053097674219"
  },
  "multi_option_event": {
@@ -261,7 +261,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.044\", \"0.956\"]",
+    "outcomePrices": "[\"0.043\", \"0.957\"]",
     "closed": "False"
    },
    {
@@ -285,13 +285,13 @@
   ]
  },
  "category_distribution": {
-  "economy": 100,
-  "tech": 511,
-  "crypto": 165,
-  "sports": 706,
-  "politics": 256,
-  "culture": 88,
-  "geopolitics": 194,
+  "economy": 97,
+  "tech": 514,
+  "sports": 719,
+  "crypto": 166,
+  "politics": 252,
+  "culture": 85,
+  "geopolitics": 187,
   "(空)": 80
  },
  "tag_samples": [
@@ -318,6 +318,15 @@
    ]
   },
   {
+   "title": "Lille OSC vs. FC Bayern München",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "UCL"
+   ]
+  },
+  {
    "title": "What price will Bitcoin hit in November?",
    "tags": [
     "Bitcoin",
@@ -338,14 +347,12 @@
    ]
   },
   {
-   "title": "Fourth Jensen Huang affair reported by...?",
+   "title": "Club Atlético de Madrid vs. Viking FK",
    "tags": [
-    "AI",
-    "Tech",
-    "NVIDIA",
-    "Culture",
-    "Finance",
-    "Celebrities"
+    "Sports",
+    "Games",
+    "Soccer",
+    "UCL"
    ]
   },
   {
@@ -359,51 +366,40 @@
    ]
   },
   {
-   "title": "Lille OSC vs. FC Bayern München",
+   "title": "FK Shakhtar Donetsk vs. Fenerbahçe SK",
    "tags": [
     "Sports",
     "Games",
     "Soccer",
     "UCL"
    ]
-  },
-  {
-   "title": "Next French Presidential Election",
-   "tags": [
-    "French Election",
-    "Main Election",
-    "France",
-    "World",
-    "Politics",
-    "Global Elections"
-   ]
   }
  ],
  "top_titles": [
   "Fed Decision in December?",
   "New NVIDIA CEO named by December 31, 2026?",
+  "Lille OSC vs. FC Bayern München",
   "What price will Bitcoin hit in November?",
   "Paris Saint-Germain FC vs. AS Roma - More Markets",
-  "Fourth Jensen Huang affair reported by...?",
+  "Club Atlético de Madrid vs. Viking FK",
   "UEFA Champions League: 2027 Champion",
-  "Lille OSC vs. FC Bayern München",
-  "Next French Presidential Election",
-  "Packers vs. Rams",
   "FK Shakhtar Donetsk vs. Fenerbahçe SK",
+  "Heat vs. 76ers",
+  "Fourth Jensen Huang affair reported by...?",
+  "Next French Presidential Election",
+  "Paris Saint-Germain FC vs. AS Roma",
+  "Club Atlético de Madrid vs. Viking FK - More Markets",
+  "Packers vs. Rams",
   "Jensen Huang admits to another affair with a woman by December 31?",
   "Cavaliers vs. Knicks",
   "H100 average rental price in January 2027?",
-  "Club Atlético de Madrid vs. Viking FK",
   "What price will Bitcoin hit in 2026?",
-  "Club Atlético de Madrid vs. Viking FK - More Markets",
-  "What price will Bitcoin hit on November 25?",
-  "Dota 2: Spirit Academy vs angry birds (BO3) - European Pro League Playoffs",
-  "Taipei Mayor Election Winner",
   "Club Brugge KV vs. Liverpool FC",
-  "Democratic Presidential Nominee 2028",
-  "Elon Musk # tweets November 20 - November 27, 2026?",
-  "What price will Ethereum hit in November?",
+  "What price will Bitcoin hit on November 25?",
   "FC Internazionale Milano vs. VfB Stuttgart - More Markets",
-  "Prime Minister of Israel after the next election?"
+  "Sporting CP vs. Manchester United FC",
+  "Next Prime Minister of Spain?",
+  "Taipei Mayor Election Winner",
+  "Dota 2: Spirit Academy vs angry birds (BO3) - European Pro League Playoffs"
  ]
 }
