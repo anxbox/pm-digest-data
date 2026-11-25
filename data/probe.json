@@ -1,8 +1,8 @@
 {
- "ts": "2026-11-25T18:06:06.298124+00:00",
+ "ts": "2026-11-25T19:18:03.392214+00:00",
  "pages_fetched": 21,
- "events_total": 2095,
- "sub_markets_total": 49962,
+ "events_total": 2100,
+ "sub_markets_total": 50161,
  "single_game_events": 707,
  "event_keys": [
   "active",
@@ -157,19 +157,19 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "4343049.03509",
-  "volume": "10547415.179887999",
-  "openInterest": "8389925.015391",
+  "liquidity": "4283141.2632",
+  "volume": "10759452.319888",
+  "openInterest": "8557695.015391",
   "sortBy": "ascending",
   "createdAt": "2026-11-12T00:25:22.54954Z",
-  "updatedAt": "2026-11-25T18:03:45.857012Z",
+  "updatedAt": "2026-11-25T19:11:42.725632Z",
   "competitive": "0.8003199679231757",
-  "volume24hr": "6392428.705784999",
-  "volume1wk": "10495506.741396",
-  "volume1mo": "10619705.179887999",
-  "volume1yr": "10619705.179887999",
+  "volume24hr": "6226265.735785",
+  "volume1wk": "10662220.401959",
+  "volume1mo": "10787482.319887998",
+  "volume1yr": "10787482.319887998",
   "enableOrderBook": "True",
-  "liquidityClob": "4343049.03509",
+  "liquidityClob": "4283141.2632",
   "negRisk": "False",
   "commentCount": "117",
   "markets": "<list 1>",
@@ -188,18 +188,18 @@
   "slug": "new-nvidia-ceo-named-by-december-31-2026",
   "resolutionSource": "",
   "endDate": "2027-01-01T04:59:00Z",
-  "liquidity": "4343049.03509",
+  "liquidity": "4278146.2632",
   "startDate": "2026-11-12T00:25:48Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "description": "This market will resolve to \"Yes\" if NVIDIA Corporation officially announces a successor to Jensen Huang as CEO of NVIDIA by December 31, 2026, 11:59 PM ET. Oth",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.9995\", \"0.0005\"]",
-  "volume": "10547415.179887999",
+  "volume": "10759452.319888",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-12T00:25:23.405385Z",
-  "updatedAt": "2026-11-25T18:01:30.145467Z",
+  "updatedAt": "2026-11-25T19:11:29.876003Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -211,15 +211,15 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "disputed",
-  "volumeNum": "10547415.179887999",
-  "liquidityNum": "4343049.03509",
+  "volumeNum": "10759452.319888",
+  "liquidityNum": "4278146.2632",
   "endDateIso": "2027-01-01",
   "startDateIso": "2026-11-12",
   "hasReviewedDates": "True",
-  "volume24hr": "6392428.705784999",
-  "volume1wk": "10495506.741396",
-  "volume1mo": "10619705.179887999",
-  "volume1yr": "10619705.179887999",
+  "volume24hr": "6226265.735785",
+  "volume1wk": "10662220.401959",
+  "volume1mo": "10787482.319887998",
+  "volume1yr": "10787482.319887998",
   "clobTokenIds": "[\"44558631181975413784524040138198113866542690797483755072260383831719409876660\", \"2850080638485078487119156792065577759676622346318773387984061906346610063157\"",
   "comboStatus": "disabled"
  },
@@ -252,7 +252,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.047\", \"0.953\"]",
+    "outcomePrices": "[\"0.045\", \"0.955\"]",
     "closed": "False"
    },
    {
@@ -261,7 +261,7 @@
     "groupItemThreshold": "3",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.925\", \"0.075\"]",
+    "outcomePrices": "[\"0.935\", \"0.065\"]",
     "closed": "False"
    },
    {
@@ -270,20 +270,20 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0235\", \"0.9765\"]",
+    "outcomePrices": "[\"0.0225\", \"0.9775\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "tech": 515,
-  "economy": 101,
-  "sports": 709,
-  "crypto": 165,
-  "culture": 85,
-  "politics": 253,
-  "geopolitics": 188,
-  "(空)": 79
+  "tech": 514,
+  "economy": 98,
+  "sports": 717,
+  "crypto": 166,
+  "politics": 250,
+  "culture": 88,
+  "geopolitics": 190,
+  "(空)": 77
  },
  "tag_samples": [
   {
@@ -318,13 +318,21 @@
    ]
   },
   {
-   "title": "UEFA Champions League: 2027 Champion",
+   "title": "Sabah FK vs. FC Barcelona - More Markets",
    "tags": [
-    "UCL",
-    "Soccer",
     "Sports",
-    "Champions League",
-    "UCL Matchday"
+    "Games",
+    "Soccer",
+    "UCL"
+   ]
+  },
+  {
+   "title": "SK Slavia Praha vs. Villarreal CF",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "UCL"
    ]
   },
   {
@@ -339,6 +347,16 @@
    ]
   },
   {
+   "title": "UEFA Champions League: 2027 Champion",
+   "tags": [
+    "UCL",
+    "Soccer",
+    "Sports",
+    "Champions League",
+    "UCL Matchday"
+   ]
+  },
+  {
    "title": "Fourth Jensen Huang affair reported by...?",
    "tags": [
     "AI",
@@ -348,53 +366,33 @@
     "Finance",
     "Celebrities"
    ]
-  },
-  {
-   "title": "Next French Presidential Election",
-   "tags": [
-    "French Election",
-    "Main Election",
-    "France",
-    "World",
-    "Politics",
-    "Global Elections"
-   ]
-  },
-  {
-   "title": "Sabah FK vs. FC Barcelona - More Markets",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "UCL"
-   ]
   }
  ],
  "top_titles": [
   "New NVIDIA CEO named by December 31, 2026?",
   "Fed Decision in December?",
   "Sabah FK vs. FC Barcelona",
-  "UEFA Champions League: 2027 Champion",
+  "Sabah FK vs. FC Barcelona - More Markets",
+  "SK Slavia Praha vs. Villarreal CF",
   "What price will Bitcoin hit in November?",
+  "UEFA Champions League: 2027 Champion",
   "Fourth Jensen Huang affair reported by...?",
   "Next French Presidential Election",
-  "Sabah FK vs. FC Barcelona - More Markets",
   "Packers vs. Rams",
-  "SK Slavia Praha vs. Villarreal CF",
-  "Jensen Huang admits to another affair with a woman by December 31?",
-  "Florianopolis: Matheus Pucinelli de Almeida vs Carlos Maria Zarate",
-  "H100 average rental price in January 2027?",
-  "Cavaliers vs. Knicks",
   "Lille OSC vs. FC Bayern München",
-  "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
-  "Elon Musk # tweets November 23 - November 25, 2026?",
-  "Taipei Mayor Election Winner",
+  "Jensen Huang admits to another affair with a woman by December 31?",
+  "Cavaliers vs. Knicks",
+  "H100 average rental price in January 2027?",
+  "Paris Saint-Germain FC vs. AS Roma - More Markets",
   "What price will Bitcoin hit in 2026?",
-  "Prime Minister of Israel after the next election?",
-  "Democratic Presidential Nominee 2028",
-  "Sabah FK vs. FC Barcelona - Exact Score",
+  "FK Shakhtar Donetsk vs. Fenerbahçe SK",
+  "SK Slavia Praha vs. Villarreal CF - More Markets",
   "What price will Bitcoin hit on November 25?",
-  "Elon Musk # tweets November 20 - November 27, 2026?",
-  "FK Shakhtar Donetsk vs. Fenerbahçe SK"
+  "Taipei Mayor Election Winner",
+  "Sabah FK vs. FC Barcelona - Exact Score",
+  "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
+  "Club Atlético de Madrid vs. Viking FK - More Markets",
+  "Democratic Presidential Nominee 2028",
+  "Elon Musk # tweets November 20 - November 27, 2026?"
  ]
 }
