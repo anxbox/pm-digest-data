@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-25T12:25:03.464270+00:00",
+ "ts": "2026-11-25T13:56:26.072074+00:00",
  "pages_fetched": 21,
- "events_total": 2037,
- "sub_markets_total": 46216,
- "single_game_events": 732,
+ "events_total": 2100,
+ "sub_markets_total": 47773,
+ "single_game_events": 757,
  "event_keys": [
   "active",
   "archived",
@@ -158,21 +158,21 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1533513.49328",
-  "volume": "9404356.899888",
-  "openInterest": "7516044.156391",
+  "liquidity": "1455245.69558",
+  "volume": "9599163.858888",
+  "openInterest": "7630297.289391",
   "sortBy": "ascending",
   "createdAt": "2026-11-12T00:25:22.54954Z",
-  "updatedAt": "2026-11-25T12:21:29.115471Z",
+  "updatedAt": "2026-11-25T13:53:49.700406Z",
   "competitive": "0.8009597099244316",
-  "volume24hr": "6017473.415785",
-  "volume1wk": "9304124.787179",
-  "volume1mo": "9424356.899888001",
-  "volume1yr": "9424356.899888001",
+  "volume24hr": "5943705.785785",
+  "volume1wk": "9507720.066803",
+  "volume1mo": "9628034.969888002",
+  "volume1yr": "9628034.969888002",
   "enableOrderBook": "True",
-  "liquidityClob": "1533513.49328",
+  "liquidityClob": "1455245.69558",
   "negRisk": "False",
-  "commentCount": "111",
+  "commentCount": "113",
   "markets": "<list 1>",
   "tags": "<list 7>",
   "cyom": "False",
@@ -189,18 +189,18 @@
   "slug": "new-nvidia-ceo-named-by-december-31-2026",
   "resolutionSource": "",
   "endDate": "2027-01-01T04:59:00Z",
-  "liquidity": "1530525.49328",
+  "liquidity": "1434563.25344",
   "startDate": "2026-11-12T00:25:48Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "description": "This market will resolve to \"Yes\" if NVIDIA Corporation officially announces a successor to Jensen Huang as CEO of NVIDIA by December 31, 2026, 11:59 PM ET. Oth",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.9985\", \"0.0015\"]",
-  "volume": "9429656.899888",
+  "volume": "9599163.858888",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-12T00:25:23.405385Z",
-  "updatedAt": "2026-11-25T12:21:14.625354Z",
+  "updatedAt": "2026-11-25T13:53:35.330552Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -212,79 +212,79 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "disputed",
-  "volumeNum": "9429656.899888",
-  "liquidityNum": "1530525.49328",
+  "volumeNum": "9599163.858888",
+  "liquidityNum": "1434563.25344",
   "endDateIso": "2027-01-01",
   "startDateIso": "2026-11-12",
   "hasReviewedDates": "True",
-  "volume24hr": "5914489.116785",
-  "volume1wk": "9391735.158179002",
-  "volume1mo": "9511973.300888002",
-  "volume1yr": "9511973.300888002",
+  "volume24hr": "5943705.785785",
+  "volume1wk": "9507720.066803",
+  "volume1mo": "9628034.969888002",
+  "volume1yr": "9628034.969888002",
   "clobTokenIds": "[\"44558631181975413784524040138198113866542690797483755072260383831719409876660\", \"2850080638485078487119156792065577759676622346318773387984061906346610063157\"",
   "comboStatus": "disabled"
  },
  "multi_option_event": {
-  "title": "Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1",
-  "slug": "cs2-nip-tl1-2026-11-25",
-  "n_sub": 16,
+  "title": "Fed Decision in December?",
+  "slug": "fed-decision-in-december-20260729232808632",
+  "n_sub": 5,
   "sub_markets": [
    {
-    "question": "Counter-Strike: NIP vs Liquid - Map 2 Winner",
-    "groupItemTitle": "Map 2 Winner",
-    "groupItemThreshold": "None",
+    "question": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+    "groupItemTitle": "50+ bps decrease",
+    "groupItemThreshold": "0",
     "shortTitle": "None",
-    "outcomes": "[\"NIP\", \"Liquid\"]",
-    "outcomePrices": "[\"0.725\", \"0.275\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0015\", \"0.9985\"]",
     "closed": "False"
    },
    {
-    "question": "Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1",
-    "groupItemTitle": "Match Winner",
-    "groupItemThreshold": "None",
+    "question": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+    "groupItemTitle": "25 bps decrease",
+    "groupItemThreshold": "1",
     "shortTitle": "None",
-    "outcomes": "[\"NIP\", \"Liquid\"]",
-    "outcomePrices": "[\"0.8605\", \"0.1395\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0025\", \"0.9975\"]",
     "closed": "False"
    },
    {
-    "question": "Games Total: O/U 2.5",
-    "groupItemTitle": "O/U 2.5 Games",
-    "groupItemThreshold": "None",
+    "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+    "groupItemTitle": "No change",
+    "groupItemThreshold": "2",
     "shortTitle": "None",
-    "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.275\", \"0.725\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.039\", \"0.961\"]",
     "closed": "False"
    },
    {
-    "question": "Map Handicap: TL (-1.5) vs NIP (+1.5)",
-    "groupItemTitle": "Map Handicap: TL (-1.5) vs NIP (+1.5)",
-    "groupItemThreshold": "None",
+    "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+    "groupItemTitle": "25 bps increase",
+    "groupItemThreshold": "3",
     "shortTitle": "None",
-    "outcomes": "[\"Liquid\", \"NIP\"]",
-    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.935\", \"0.065\"]",
     "closed": "False"
    },
    {
-    "question": "Map 2 Rounds Handicap: NIP (-3.5) vs Liquid (+3.5)",
-    "groupItemTitle": "Map 2 Rounds Handicap: NIP (-3.5) vs Liquid (+3.5)",
-    "groupItemThreshold": "None",
+    "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+    "groupItemTitle": "50+ bps increase",
+    "groupItemThreshold": "4",
     "shortTitle": "None",
-    "outcomes": "[\"NIP\", \"Liquid\"]",
-    "outcomePrices": "[\"0.475\", \"0.525\"]",
+    "outcomes": "[\"Yes\", \"No\"]",
+    "outcomePrices": "[\"0.0265\", \"0.9735\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "tech": 471,
-  "sports": 735,
-  "economy": 98,
-  "crypto": 169,
-  "geopolitics": 174,
-  "culture": 78,
-  "politics": 250,
-  "(空)": 62
+  "tech": 506,
+  "economy": 101,
+  "sports": 743,
+  "crypto": 175,
+  "culture": 80,
+  "geopolitics": 176,
+  "politics": 254,
+  "(空)": 65
  },
  "tag_samples": [
   {
@@ -299,17 +299,6 @@
    ]
   },
   {
-   "title": "Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1",
-   "tags": [
-    "Esports",
-    "counter strike 2",
-    "Games",
-    "Sports",
-    "PGL Major Singapore 2026",
-    "Swiss Stage"
-   ]
-  },
-  {
    "title": "Fed Decision in December?",
    "tags": [
     "Fed",
@@ -318,17 +307,6 @@
     "Economy",
     "Fed Rates",
     "Kevin Warsh"
-   ]
-  },
-  {
-   "title": "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
-   "tags": [
-    "Esports",
-    "counter strike 2",
-    "Games",
-    "Sports",
-    "PGL Major Singapore 2026",
-    "Swiss Stage"
    ]
   },
   {
@@ -353,6 +331,15 @@
    ]
   },
   {
+   "title": "Sabah FK vs. FC Barcelona",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "UCL"
+   ]
+  },
+  {
    "title": "Next French Presidential Election",
    "tags": [
     "French Election",
@@ -373,33 +360,44 @@
     "Finance",
     "Celebrities"
    ]
+  },
+  {
+   "title": "H100 average rental price in January 2027?",
+   "tags": [
+    "AI",
+    "H100",
+    "Ornn",
+    "Tech",
+    "NVIDIA",
+    "Compute"
+   ]
   }
  ],
  "top_titles": [
   "New NVIDIA CEO named by December 31, 2026?",
-  "Counter-Strike: NIP vs Liquid (BO3) - PGL Major Singapore Stage 1",
   "Fed Decision in December?",
-  "Counter-Strike: GOSH vs Chinggis Warriors (BO3) - PGL Major Singapore Stage 1",
   "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit in November?",
+  "Sabah FK vs. FC Barcelona",
   "Next French Presidential Election",
   "Fourth Jensen Huang affair reported by...?",
   "H100 average rental price in January 2027?",
   "Jensen Huang admits to another affair with a woman by December 31?",
   "Bitcoin above ___ on November 25?",
+  "Monastir 2: Kimmer Coppejans vs Branko Djuric",
   "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
   "What price will Bitcoin hit in 2026?",
   "Prime Minister of Israel after the next election?",
-  "Israel x Iran ceasefire continues through...?",
-  "Sabah FK vs. FC Barcelona",
+  "Ankara: Diego Dedura-Palomero vs Oleg Prihodko",
+  "FK Shakhtar Donetsk vs. Fenerbahçe SK",
+  "Elon Musk # tweets November 23 - November 25, 2026?",
   "Anthropic closes below IPO price ($83) by...?",
+  "Israel x Iran ceasefire continues through...?",
   "Florianopolis: Juan Manuel La Serna vs Santiago De La Fuente",
   "What price will Ethereum hit in November?",
   "Taipei Mayor Election Winner",
-  "Jensen Huang out as NVIDIA CEO again by...?",
-  "Elon Musk # tweets November 23 - November 25, 2026?",
-  "FK Shakhtar Donetsk vs. Fenerbahçe SK",
+  "Elon Musk # tweets November 20 - November 27, 2026?",
   "B200 average rental price in December 2026?",
-  "Elon Musk # tweets November 20 - November 27, 2026?"
+  "What price will Bitcoin hit on November 25?"
  ]
 }
