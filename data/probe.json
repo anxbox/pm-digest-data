@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-25T03:22:53.329348+00:00",
+ "ts": "2026-11-25T04:43:40.523730+00:00",
  "pages_fetched": 21,
- "events_total": 2098,
- "sub_markets_total": 47299,
- "single_game_events": 668,
+ "events_total": 2075,
+ "sub_markets_total": 46460,
+ "single_game_events": 662,
  "event_keys": [
   "active",
   "archived",
@@ -158,21 +158,21 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "727046.36805",
-  "volume": "6230851.721898001",
-  "openInterest": "5236169.677391",
+  "liquidity": "1638136.53087",
+  "volume": "6514810.784887999",
+  "openInterest": "5139273.240391",
   "sortBy": "ascending",
   "createdAt": "2026-11-12T00:25:22.54954Z",
-  "updatedAt": "2026-11-25T03:21:29.231655Z",
+  "updatedAt": "2026-11-25T04:41:26.454868Z",
   "competitive": "0.8009597099244316",
-  "volume24hr": "3826078.0327899996",
-  "volume1wk": "6116025.718156999",
-  "volume1mo": "6231431.7168930005",
-  "volume1yr": "6231431.7168930005",
+  "volume24hr": "3960807.310785",
+  "volume1wk": "6399352.154573",
+  "volume1mo": "6514810.784888",
+  "volume1yr": "6514810.784888",
   "enableOrderBook": "True",
-  "liquidityClob": "727046.36805",
+  "liquidityClob": "1638136.53087",
   "negRisk": "False",
-  "commentCount": "101",
+  "commentCount": "102",
   "markets": "<list 1>",
   "tags": "<list 7>",
   "cyom": "False",
@@ -189,18 +189,18 @@
   "slug": "new-nvidia-ceo-named-by-december-31-2026",
   "resolutionSource": "",
   "endDate": "2027-01-01T04:59:00Z",
-  "liquidity": "727046.36805",
+  "liquidity": "1638110.42798",
   "startDate": "2026-11-12T00:25:48Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "description": "This market will resolve to \"Yes\" if NVIDIA Corporation officially announces a successor to Jensen Huang as CEO of NVIDIA by December 31, 2026, 11:59 PM ET. Oth",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.9985\", \"0.0015\"]",
-  "volume": "6231431.716892999",
+  "volume": "6514810.784887999",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-12T00:25:23.405385Z",
-  "updatedAt": "2026-11-25T03:21:14.958592Z",
+  "updatedAt": "2026-11-25T04:43:14.421104Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -212,78 +212,78 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "disputed",
-  "volumeNum": "6231431.716892999",
-  "liquidityNum": "727046.36805",
+  "volumeNum": "6514810.784887999",
+  "liquidityNum": "1638110.42798",
   "endDateIso": "2027-01-01",
   "startDateIso": "2026-11-12",
   "hasReviewedDates": "True",
-  "volume24hr": "3813285.1077849995",
-  "volume1wk": "6118550.713151999",
-  "volume1mo": "6233956.711888",
-  "volume1yr": "6233956.711888",
+  "volume24hr": "3960807.310785",
+  "volume1wk": "6399352.154573",
+  "volume1mo": "6514810.784888",
+  "volume1yr": "6514810.784888",
   "clobTokenIds": "[\"44558631181975413784524040138198113866542690797483755072260383831719409876660\", \"2850080638485078487119156792065577759676622346318773387984061906346610063157\"",
   "comboStatus": "disabled"
  },
  "multi_option_event": {
-  "title": "Celtics vs. Wizards",
-  "slug": "nba-bos-was-2026-11-24",
-  "n_sub": 345,
+  "title": "Mavericks vs. Nuggets",
+  "slug": "nba-dal-den-2026-11-24",
+  "n_sub": 392,
   "sub_markets": [
    {
-    "question": "Celtics vs. Wizards",
+    "question": "Mavericks vs. Nuggets",
     "groupItemTitle": "None",
     "groupItemThreshold": "0",
     "shortTitle": "None",
-    "outcomes": "[\"Celtics\", \"Wizards\"]",
-    "outcomePrices": "[\"0.9725\", \"0.0275\"]",
+    "outcomes": "[\"Mavericks\", \"Nuggets\"]",
+    "outcomePrices": "[\"0.515\", \"0.485\"]",
     "closed": "False"
    },
    {
-    "question": "Spread: Celtics (-8.5)",
+    "question": "Spread: Nuggets (-8.5)",
     "groupItemTitle": "Spread -8.5",
     "groupItemThreshold": "1",
     "shortTitle": "None",
-    "outcomes": "[\"Celtics\", \"Wizards\"]",
-    "outcomePrices": "[\"0.719\", \"0.281\"]",
+    "outcomes": "[\"Nuggets\", \"Mavericks\"]",
+    "outcomePrices": "[\"0.155\", \"0.845\"]",
     "closed": "False"
    },
    {
-    "question": "Celtics vs. Wizards: O/U 213.5",
-    "groupItemTitle": "O/U 213.5",
+    "question": "Mavericks vs. Nuggets: O/U 232.5",
+    "groupItemTitle": "O/U 232.5",
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+    "outcomePrices": "[\"0.16\", \"0.84\"]",
     "closed": "False"
    },
    {
-    "question": "Spread: Celtics (-9.5)",
-    "groupItemTitle": "Spread -9.5",
+    "question": "Spread: Nuggets (-7.5)",
+    "groupItemTitle": "Spread -7.5",
     "groupItemThreshold": "1",
     "shortTitle": "None",
-    "outcomes": "[\"Celtics\", \"Wizards\"]",
-    "outcomePrices": "[\"0.653\", \"0.347\"]",
+    "outcomes": "[\"Nuggets\", \"Mavericks\"]",
+    "outcomePrices": "[\"0.185\", \"0.815\"]",
     "closed": "False"
    },
    {
-    "question": "Celtics vs. Wizards: O/U 211.5",
-    "groupItemTitle": "O/U 211.5",
+    "question": "Mavericks vs. Nuggets: O/U 230.5",
+    "groupItemTitle": "O/U 230.5",
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+    "outcomePrices": "[\"0.205\", \"0.795\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
   "tech": 492,
-  "sports": 702,
+  "sports": 699,
   "economy": 89,
-  "crypto": 173,
-  "geopolitics": 192,
-  "politics": 301,
-  "culture": 86,
+  "crypto": 177,
+  "geopolitics": 191,
+  "culture": 85,
+  "politics": 279,
   "(空)": 63
  },
  "tag_samples": [
@@ -299,7 +299,7 @@
    ]
   },
   {
-   "title": "Celtics vs. Wizards",
+   "title": "Mavericks vs. Nuggets",
    "tags": [
     "Sports",
     "NBA",
@@ -319,31 +319,6 @@
    ]
   },
   {
-   "title": "Mavericks vs. Nuggets",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
-   "title": "Kent State vs. Eastern Michigan",
-   "tags": [
-    "Sports",
-    "CFB",
-    "Games"
-   ]
-  },
-  {
-   "title": "Miami (OH) vs. Western Michigan",
-   "tags": [
-    "Sports",
-    "CFB",
-    "Games"
-   ]
-  },
-  {
    "title": "UEFA Champions League: 2027 Champion",
    "tags": [
     "UCL",
@@ -351,6 +326,28 @@
     "Sports",
     "Champions League",
     "UCL Matchday"
+   ]
+  },
+  {
+   "title": "What price will Bitcoin hit in November?",
+   "tags": [
+    "Bitcoin",
+    "Monthly",
+    "Hit Price",
+    "Crypto",
+    "Crypto Prices",
+    "Recurring"
+   ]
+  },
+  {
+   "title": "Next French Presidential Election",
+   "tags": [
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
+    "Politics",
+    "Global Elections"
    ]
   },
   {
@@ -363,33 +360,44 @@
     "Finance",
     "Celebrities"
    ]
+  },
+  {
+   "title": "What price will Bitcoin hit on November 24?",
+   "tags": [
+    "Crypto",
+    "Crypto Prices",
+    "Recurring",
+    "Hide From New",
+    "Bitcoin",
+    "Daily"
+   ]
   }
  ],
  "top_titles": [
   "New NVIDIA CEO named by December 31, 2026?",
-  "Celtics vs. Wizards",
-  "Fed Decision in December?",
   "Mavericks vs. Nuggets",
-  "Kent State vs. Eastern Michigan",
-  "Miami (OH) vs. Western Michigan",
+  "Fed Decision in December?",
   "UEFA Champions League: 2027 Champion",
-  "Fourth Jensen Huang affair reported by...?",
-  "Next French Presidential Election",
   "What price will Bitcoin hit in November?",
+  "Next French Presidential Election",
+  "Fourth Jensen Huang affair reported by...?",
   "What price will Bitcoin hit on November 24?",
   "H100 average rental price in January 2027?",
-  "Golden Knights vs. Oilers",
-  "Jensen Huang admits to another affair with a woman by December 31?",
   "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
-  "What price will Bitcoin hit in 2026?",
+  "Jensen Huang admits to another affair with a woman by December 31?",
   "Israel x Iran ceasefire continues through...?",
-  "Jensen Huang out as NVIDIA CEO again by...?",
+  "What price will Bitcoin hit in 2026?",
   "Prime Minister of Israel after the next election?",
-  "Florianopolis: Juan Manuel La Serna vs Santiago De La Fuente",
+  "Jensen Huang out as NVIDIA CEO again by...?",
   "Bitcoin above ___ on November 25?",
+  "Florianopolis: Juan Manuel La Serna vs Santiago De La Fuente",
   "Anthropic closes below IPO price ($83) by...?",
+  "What price will Ethereum hit in November?",
   "B300 average rental price in December 2026?",
   "Taipei Mayor Election Winner",
-  "What price will Ethereum hit in November?"
+  "NBA: 2027 Champion",
+  "Counter-Strike: Wildcard vs Lynn Vision (BO1) - PGL Major Singapore Stage 1",
+  "Dancing with the Stars S35: Winner?",
+  "Marco Rubio out as Secretary of State by...?"
  ]
 }
