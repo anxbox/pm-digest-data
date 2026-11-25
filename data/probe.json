@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-25T07:04:45.125178+00:00",
+ "ts": "2026-11-25T08:43:07.099342+00:00",
  "pages_fetched": 21,
- "events_total": 2088,
- "sub_markets_total": 46591,
- "single_game_events": 682,
+ "events_total": 2089,
+ "sub_markets_total": 47471,
+ "single_game_events": 695,
  "event_keys": [
   "active",
   "archived",
@@ -157,21 +157,21 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1474845.59638",
-  "volume": "8541026.425887998",
-  "openInterest": "7048675.549091",
+  "liquidity": "1527376.67971",
+  "volume": "8743760.725887999",
+  "openInterest": "7154154.709091",
   "sortBy": "ascending",
   "createdAt": "2026-11-12T00:25:22.54954Z",
-  "updatedAt": "2026-11-25T07:01:29.395337Z",
+  "updatedAt": "2026-11-25T08:39:27.627388Z",
   "competitive": "0.8003199679231757",
-  "volume24hr": "5970893.951785",
-  "volume1wk": "8425562.532415",
-  "volume1mo": "8541026.425888002",
-  "volume1yr": "8541026.425888002",
+  "volume24hr": "6129458.421784999",
+  "volume1wk": "8628296.832415",
+  "volume1mo": "8743760.725888",
+  "volume1yr": "8743760.725888",
   "enableOrderBook": "True",
-  "liquidityClob": "1474845.59638",
+  "liquidityClob": "1527376.67971",
   "negRisk": "False",
-  "commentCount": "105",
+  "commentCount": "110",
   "markets": "<list 1>",
   "tags": "<list 7>",
   "cyom": "False",
@@ -188,18 +188,18 @@
   "slug": "new-nvidia-ceo-named-by-december-31-2026",
   "resolutionSource": "",
   "endDate": "2027-01-01T04:59:00Z",
-  "liquidity": "1482037.59638",
+  "liquidity": "1527376.67971",
   "startDate": "2026-11-12T00:25:48Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "description": "This market will resolve to \"Yes\" if NVIDIA Corporation officially announces a successor to Jensen Huang as CEO of NVIDIA by December 31, 2026, 11:59 PM ET. Oth",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.9995\", \"0.0005\"]",
-  "volume": "8541026.425887998",
+  "volume": "8743760.725887999",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-12T00:25:23.405385Z",
-  "updatedAt": "2026-11-25T07:01:14.668577Z",
+  "updatedAt": "2026-11-25T08:37:14.555101Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -211,15 +211,15 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "disputed",
-  "volumeNum": "8541026.425887998",
-  "liquidityNum": "1482037.59638",
+  "volumeNum": "8743760.725887999",
+  "liquidityNum": "1527376.67971",
   "endDateIso": "2027-01-01",
   "startDateIso": "2026-11-12",
   "hasReviewedDates": "True",
-  "volume24hr": "5970893.951785",
-  "volume1wk": "8425562.532415",
-  "volume1mo": "8541026.425888002",
-  "volume1yr": "8541026.425888002",
+  "volume24hr": "6129458.421784999",
+  "volume1wk": "8628296.832415",
+  "volume1mo": "8743760.725888",
+  "volume1yr": "8743760.725888",
   "clobTokenIds": "[\"44558631181975413784524040138198113866542690797483755072260383831719409876660\", \"2850080638485078487119156792065577759676622346318773387984061906346610063157\"",
   "comboStatus": "disabled"
  },
@@ -252,7 +252,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0455\", \"0.9545\"]",
+    "outcomePrices": "[\"0.0445\", \"0.9555\"]",
     "closed": "False"
    },
    {
@@ -276,14 +276,14 @@
   ]
  },
  "category_distribution": {
-  "tech": 495,
-  "economy": 93,
-  "sports": 710,
-  "crypto": 175,
-  "geopolitics": 184,
-  "culture": 84,
-  "politics": 280,
-  "(空)": 67
+  "tech": 474,
+  "economy": 99,
+  "sports": 729,
+  "crypto": 186,
+  "geopolitics": 186,
+  "culture": 83,
+  "politics": 263,
+  "(空)": 69
  },
  "tag_samples": [
   {
@@ -309,6 +309,17 @@
    ]
   },
   {
+   "title": "Counter-Strike: Imperial vs FlyQuest (BO3) - PGL Major Singapore Stage 1",
+   "tags": [
+    "Esports",
+    "counter strike 2",
+    "Games",
+    "Sports",
+    "PGL Major Singapore 2026",
+    "Swiss Stage"
+   ]
+  },
+  {
    "title": "UEFA Champions League: 2027 Champion",
    "tags": [
     "UCL",
@@ -330,14 +341,14 @@
    ]
   },
   {
-   "title": "Fourth Jensen Huang affair reported by...?",
+   "title": "Counter-Strike: 9z vs DENDELE CS (BO3) - PGL Major Singapore Stage 1",
    "tags": [
-    "AI",
-    "Tech",
-    "NVIDIA",
-    "Culture",
-    "Finance",
-    "Celebrities"
+    "Esports",
+    "counter strike 2",
+    "Games",
+    "Sports",
+    "PGL Major Singapore 2026",
+    "Swiss Stage"
    ]
   },
   {
@@ -352,53 +363,42 @@
    ]
   },
   {
-   "title": "Counter-Strike: Heroic vs M80 (BO1) - PGL Major Singapore Stage 1",
-   "tags": [
-    "Esports",
-    "counter strike 2",
-    "Games",
-    "Sports",
-    "PGL Major Singapore 2026",
-    "Swiss Stage"
-   ]
-  },
-  {
-   "title": "H100 average rental price in January 2027?",
+   "title": "Fourth Jensen Huang affair reported by...?",
    "tags": [
     "AI",
-    "H100",
-    "Ornn",
     "Tech",
     "NVIDIA",
-    "Compute"
+    "Culture",
+    "Finance",
+    "Celebrities"
    ]
   }
  ],
  "top_titles": [
   "New NVIDIA CEO named by December 31, 2026?",
   "Fed Decision in December?",
+  "Counter-Strike: Imperial vs FlyQuest (BO3) - PGL Major Singapore Stage 1",
   "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit in November?",
-  "Fourth Jensen Huang affair reported by...?",
+  "Counter-Strike: 9z vs DENDELE CS (BO3) - PGL Major Singapore Stage 1",
   "Next French Presidential Election",
-  "Counter-Strike: Heroic vs M80 (BO1) - PGL Major Singapore Stage 1",
+  "Fourth Jensen Huang affair reported by...?",
   "H100 average rental price in January 2027?",
   "Jensen Huang admits to another affair with a woman by December 31?",
   "Buenos Aires: Solana Sierra vs Victoria Jimenez Kasintseva",
-  "Counter-Strike: Wildcard vs Lynn Vision (BO1) - PGL Major Singapore Stage 1",
-  "Counter-Strike: Imperial vs FlyQuest (BO3) - PGL Major Singapore Stage 1",
-  "Prime Minister of Israel after the next election?",
-  "Bitcoin above ___ on November 25?",
   "What price will Bitcoin hit in 2026?",
-  "Anthropic closes below IPO price ($83) by...?",
+  "Bitcoin above ___ on November 25?",
+  "Prime Minister of Israel after the next election?",
   "Israel x Iran ceasefire continues through...?",
+  "Anthropic closes below IPO price ($83) by...?",
   "Florianopolis: Juan Manuel La Serna vs Santiago De La Fuente",
-  "B300 average rental price in December 2026?",
   "What price will Ethereum hit in November?",
-  "Taipei Mayor Election Winner",
-  "NBA: 2027 Champion",
-  "Yokohama: Kasidit Samrej vs Ognjen Milic",
+  "FK Shakhtar Donetsk vs. Fenerbahçe SK",
   "Jensen Huang out as NVIDIA CEO again by...?",
-  "Elon Musk # tweets November 23 - November 25, 2026?"
+  "Taipei Mayor Election Winner",
+  "Elon Musk # tweets November 23 - November 25, 2026?",
+  "Elon Musk # tweets November 20 - November 27, 2026?",
+  "NBA: 2027 Champion",
+  "B200 average rental price in December 2026?"
  ]
 }
