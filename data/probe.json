@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-26T08:40:23.864562+00:00",
+ "ts": "2026-11-26T10:00:05.248544+00:00",
  "pages_fetched": 21,
- "events_total": 2063,
- "sub_markets_total": 42000,
- "single_game_events": 653,
+ "events_total": 2098,
+ "sub_markets_total": 43132,
+ "single_game_events": 690,
  "event_keys": [
   "active",
   "archived",
@@ -107,6 +107,7 @@
   "negRiskRequestID",
   "new",
   "oneDayPriceChange",
+  "oneHourPriceChange",
   "oneMonthPriceChange",
   "oneWeekPriceChange",
   "orderMinSize",
@@ -168,19 +169,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "3534236.89048",
-  "volume": "62199637.871860005",
-  "openInterest": "9493370.757757",
+  "liquidity": "3604157.5341",
+  "volume": "62269556.915851995",
+  "openInterest": "9500736.764785",
   "sortBy": "ascending",
   "createdAt": "2026-07-30T00:36:56.42426Z",
-  "updatedAt": "2026-11-26T08:35:42.037806Z",
+  "updatedAt": "2026-11-26T09:53:41.133739Z",
   "competitive": "0.8408837688410519",
-  "volume24hr": "5255493.618036999",
-  "volume1wk": "21382600.737347",
-  "volume1mo": "57498296.844168",
-  "volume1yr": "62199834.21874999",
+  "volume24hr": "5161344.478069001",
+  "volume1wk": "21389338.229163",
+  "volume1mo": "57572229.567367",
+  "volume1yr": "62273809.651949",
   "enableOrderBook": "True",
-  "liquidityClob": "3534236.89048",
+  "liquidityClob": "3604157.5341",
   "negRisk": "True",
   "negRiskMarketID": "0xa74f5328517db0e030a5e62edc800e37bd36ca6e455571b14e8bb2b0dd38d700",
   "commentCount": "0",
@@ -199,18 +200,18 @@
   "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
   "resolutionSource": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
   "endDate": "2026-12-09T23:59:00Z",
-  "liquidity": "179480.80517",
+  "liquidity": "175067.59517",
   "startDate": "2026-07-30T00:53:15.730668Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "description": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made",
   "outcomes": "[\"Yes\", \"No\"]",
-  "outcomePrices": "[\"0.0025\", \"0.9975\"]",
-  "volume": "9366312.687915001",
+  "outcomePrices": "[\"0.0035\", \"0.9965\"]",
+  "volume": "9382906.930415",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-07-30T00:36:56.830135Z",
-  "updatedAt": "2026-11-26T08:35:28.861614Z",
+  "updatedAt": "2026-11-26T09:53:28.998144Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -223,15 +224,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "9366312.687915001",
-  "liquidityNum": "179480.80517",
+  "volumeNum": "9382906.930415",
+  "liquidityNum": "175067.59517",
   "endDateIso": "2026-12-09",
   "startDateIso": "2026-07-30",
   "hasReviewedDates": "True",
-  "volume24hr": "512604.100987",
-  "volume1wk": "3014226.007105",
-  "volume1mo": "8559845.179404",
-  "volume1yr": "9366312.687915",
+  "volume24hr": "503332.273487",
+  "volume1wk": "2995808.6456049997",
+  "volume1mo": "8576439.421903998",
+  "volume1yr": "9382906.930414999",
   "clobTokenIds": "[\"17640596861394454242836532536014033416733783473450136742726948856144855149507\", \"10423673626377530789149720287419191120396356671195972578858475044053097674219"
  },
  "multi_option_event": {
@@ -245,7 +246,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0025\", \"0.9975\"]",
+    "outcomePrices": "[\"0.0035\", \"0.9965\"]",
     "closed": "False"
    },
    {
@@ -263,7 +264,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.037\", \"0.963\"]",
+    "outcomePrices": "[\"0.0385\", \"0.9615\"]",
     "closed": "False"
    },
    {
@@ -281,20 +282,20 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.021\", \"0.979\"]",
+    "outcomePrices": "[\"0.0205\", \"0.9795\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "economy": 107,
-  "tech": 487,
-  "sports": 686,
-  "crypto": 160,
-  "politics": 263,
-  "culture": 91,
-  "geopolitics": 167,
-  "(空)": 102
+  "economy": 108,
+  "tech": 503,
+  "sports": 699,
+  "crypto": 165,
+  "politics": 258,
+  "culture": 93,
+  "geopolitics": 169,
+  "(空)": 103
  },
  "tag_samples": [
   {
@@ -320,7 +321,7 @@
    ]
   },
   {
-   "title": "Counter-Strike: Heroic vs FaZe (BO3) - PGL Major Singapore Stage 1",
+   "title": "Counter-Strike: Lynn Vision vs PVISION (BO3) - PGL Major Singapore Stage 1",
    "tags": [
     "Esports",
     "counter strike 2",
@@ -340,34 +341,12 @@
    ]
   },
   {
-   "title": "Counter-Strike: M80 vs Eternal Fire (BO3) - PGL Major Singapore Stage 1",
-   "tags": [
-    "Esports",
-    "counter strike 2",
-    "Games",
-    "Sports",
-    "PGL Major Singapore 2026",
-    "Swiss Stage"
-   ]
-  },
-  {
    "title": "Bulls vs. Hornets",
    "tags": [
     "Sports",
     "NBA",
     "Games",
     "Basketball"
-   ]
-  },
-  {
-   "title": "Counter-Strike: Lynn Vision vs PVISION (BO3) - PGL Major Singapore Stage 1",
-   "tags": [
-    "Esports",
-    "counter strike 2",
-    "Games",
-    "Sports",
-    "PGL Major Singapore 2026",
-    "Swiss Stage"
    ]
   },
   {
@@ -379,32 +358,54 @@
     "Champions League",
     "UCL Matchday"
    ]
+  },
+  {
+   "title": "Next French Presidential Election",
+   "tags": [
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
+    "Politics",
+    "Global Elections"
+   ]
+  },
+  {
+   "title": "What price will Bitcoin hit in November?",
+   "tags": [
+    "Bitcoin",
+    "Monthly",
+    "Hit Price",
+    "Crypto",
+    "Crypto Prices",
+    "Recurring"
+   ]
   }
  ],
  "top_titles": [
   "Fed Decision in December?",
   "New NVIDIA CEO named by December 31, 2026?",
-  "Counter-Strike: Heroic vs FaZe (BO3) - PGL Major Singapore Stage 1",
-  "Suns vs. Rockets",
-  "Counter-Strike: M80 vs Eternal Fire (BO3) - PGL Major Singapore Stage 1",
-  "Bulls vs. Hornets",
   "Counter-Strike: Lynn Vision vs PVISION (BO3) - PGL Major Singapore Stage 1",
+  "Suns vs. Rockets",
+  "Bulls vs. Hornets",
   "UEFA Champions League: 2027 Champion",
-  "What price will Bitcoin hit in November?",
   "Next French Presidential Election",
+  "What price will Bitcoin hit in November?",
+  "Counter-Strike: 100 Thieves vs 9z (BO3) - PGL Major Singapore Stage 1",
   "Taipei Mayor Election Winner",
-  "Fourth Jensen Huang affair reported by...?",
   "Jensen Huang out as NVIDIA CEO again by...?",
-  "Will the US confirm that aliens exist by...?",
-  "Next Prime Minister of Spain?",
   "Bitcoin above ___ on November 26?",
-  "Elon Musk # tweets November 20 - November 27, 2026?",
+  "Fourth Jensen Huang affair reported by...?",
+  "Will the US confirm that aliens exist by...?",
   "What price will Bitcoin hit in 2026?",
-  "Prime Minister of Israel after the next election?",
+  "Elon Musk # tweets November 20 - November 27, 2026?",
+  "Next Prime Minister of Spain?",
   "What price will Bitcoin hit November 23-29?",
+  "Bears vs. Lions",
+  "Prime Minister of Israel after the next election?",
   "Democratic Presidential Nominee 2028",
-  "Israel x Iran ceasefire continues through...?",
   "Jensen Huang admits to another affair with a woman by December 31?",
+  "Israel x Iran ceasefire continues through...?",
   "B200 average rental price in June 2027?",
   "Fed Decision in January?"
  ]
