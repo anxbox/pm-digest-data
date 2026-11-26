@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-26T20:51:03.399303+00:00",
+ "ts": "2026-11-26T21:46:43.139797+00:00",
  "pages_fetched": 21,
- "events_total": 2098,
- "sub_markets_total": 45287,
- "single_game_events": 758,
+ "events_total": 2091,
+ "sub_markets_total": 45415,
+ "single_game_events": 721,
  "event_keys": [
   "active",
   "archived",
@@ -25,6 +25,7 @@
   "eventMetadata",
   "eventWeek",
   "featured",
+  "finishedTimestamp",
   "gameId",
   "icon",
   "id",
@@ -74,7 +75,6 @@
   "bestAsk",
   "bestBid",
   "clearBookOnStart",
-  "clobRewards",
   "clobTokenIds",
   "closed",
   "comboStatus",
@@ -112,6 +112,7 @@
   "negRiskOther",
   "new",
   "oneDayPriceChange",
+  "oneHourPriceChange",
   "oneWeekPriceChange",
   "orderMinSize",
   "orderPriceMinTickSize",
@@ -139,6 +140,7 @@
   "takerBaseFee",
   "tradingEligible",
   "umaBond",
+  "umaResolutionStatus",
   "umaResolutionStatuses",
   "umaReward",
   "updatedAt",
@@ -173,18 +175,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "3462597.0378",
-  "volume": "5775378.827796",
-  "openInterest": "5117371.712668003",
+  "liquidity": "2026320.8926",
+  "volume": "7305672.505676001",
+  "openInterest": "4712018.864770999",
   "createdAt": "2026-11-06T13:00:43.779385Z",
-  "updatedAt": "2026-11-26T20:49:37.72832Z",
-  "competitive": "0.9997750506136119",
-  "volume24hr": "5875227.22638",
-  "volume1wk": "6002598.051663999",
-  "volume1mo": "6005861.740842",
-  "volume1yr": "6005861.740842",
+  "updatedAt": "2026-11-26T21:43:35.51428Z",
+  "competitive": "0.8620689655172414",
+  "volume24hr": "7422385.917604",
+  "volume1wk": "7555716.8608140005",
+  "volume1mo": "7559780.549992",
+  "volume1yr": "7559780.549992",
   "enableOrderBook": "True",
-  "liquidityClob": "3462597.0378",
+  "liquidityClob": "2026320.8926",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 305>",
@@ -204,18 +206,18 @@
   "slug": "nfl-chi-det-2026-11-26",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-26T18:00:00Z",
-  "liquidity": "214303.8947",
+  "liquidity": "588291.11128",
   "startDate": "2026-11-06T13:00:53Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Bears and Lions, originally scheduled for Thursday, November 26, 2026 at 1:00 PM ET (as of creation of the first marke",
   "outcomes": "[\"Bears\", \"Lions\"]",
-  "outcomePrices": "[\"0.295\", \"0.705\"]",
-  "volume": "3520833.605839",
+  "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+  "volume": "4419509.272983001",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-06T13:00:44.058925Z",
-  "updatedAt": "2026-11-26T20:49:21.674478Z",
+  "updatedAt": "2026-11-26T21:43:20.612895Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -225,24 +227,24 @@
   "groupItemThreshold": "0",
   "questionID": "0x8e69e1cb23e6315db1a5ca6e8ce63072d2016259c6ec5bbee57afbd19bb13ca9",
   "enableOrderBook": "True",
-  "orderPriceMinTickSize": "0.01",
+  "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "3520833.605839",
-  "liquidityNum": "214303.8947",
+  "umaResolutionStatus": "proposed",
+  "volumeNum": "4419509.272983001",
+  "liquidityNum": "588291.11128",
   "endDateIso": "2026-11-26",
   "startDateIso": "2026-11-06",
   "hasReviewedDates": "True",
-  "volume24hr": "3467785.6697259997",
-  "volume1wk": "3563524.6252099993",
-  "volume1mo": "3563675.0790949995",
-  "volume1yr": "3563675.0790949995",
-  "gameStartTime": "2026-11-26 18:00:00+00",
-  "secondsDelay": "1"
+  "volume24hr": "4572024.211531",
+  "volume1wk": "4667837.284941001",
+  "volume1mo": "4667987.738826",
+  "volume1yr": "4667987.738826",
+  "gameStartTime": "2026-11-26 18:00:00+00"
  },
  "multi_option_event": {
   "title": "Bears vs. Lions",
   "slug": "nfl-chi-det-2026-11-26",
-  "n_sub": 161,
+  "n_sub": 111,
   "sub_markets": [
    {
     "question": "Bears vs. Lions",
@@ -250,7 +252,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Bears\", \"Lions\"]",
-    "outcomePrices": "[\"0.295\", \"0.705\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -259,7 +261,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bears\", \"Lions\"]",
-    "outcomePrices": "[\"0.23\", \"0.77\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -268,7 +270,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bears\", \"Lions\"]",
-    "outcomePrices": "[\"0.18\", \"0.82\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -277,7 +279,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bears\", \"Lions\"]",
-    "outcomePrices": "[\"0.095\", \"0.905\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -286,20 +288,20 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bears\", \"Lions\"]",
-    "outcomePrices": "[\"0.065\", \"0.935\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 761,
-  "tech": 511,
-  "crypto": 138,
+  "sports": 729,
+  "crypto": 145,
+  "tech": 514,
   "economy": 118,
-  "culture": 99,
-  "politics": 221,
-  "geopolitics": 164,
-  "(空)": 86
+  "culture": 100,
+  "politics": 231,
+  "geopolitics": 169,
+  "(空)": 85
  },
  "tag_samples": [
   {
@@ -309,17 +311,6 @@
     "NFL",
     "Games",
     "Thanksgiving"
-   ]
-  },
-  {
-   "title": "New NVIDIA CEO named by December 31, 2026?",
-   "tags": [
-    "ceo",
-    "Tech",
-    "NVIDIA",
-    "Finance",
-    "Big Tech",
-    "Business"
    ]
   },
   {
@@ -334,6 +325,17 @@
    ]
   },
   {
+   "title": "New NVIDIA CEO named by December 31, 2026?",
+   "tags": [
+    "ceo",
+    "Tech",
+    "NVIDIA",
+    "Finance",
+    "Big Tech",
+    "Business"
+   ]
+  },
+  {
    "title": "Suns vs. Rockets",
    "tags": [
     "Sports",
@@ -343,21 +345,21 @@
    ]
   },
   {
+   "title": "Eagles vs. Cowboys",
+   "tags": [
+    "Sports",
+    "NFL",
+    "Games",
+    "Thanksgiving"
+   ]
+  },
+  {
    "title": "Bulls vs. Hornets",
    "tags": [
     "Sports",
     "NBA",
     "Games",
     "Basketball"
-   ]
-  },
-  {
-   "title": "RC Celta de Vigo vs. AFC Bournemouth",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "UEL"
    ]
   },
   {
@@ -372,41 +374,40 @@
    ]
   },
   {
-   "title": "UEFA Champions League: 2027 Champion",
+   "title": "Crystal Palace FC vs. Real Sociedad de Fútbol",
    "tags": [
-    "UCL",
-    "Soccer",
     "Sports",
-    "Champions League",
-    "UCL Matchday"
+    "Games",
+    "Soccer",
+    "UEL"
    ]
   }
  ],
  "top_titles": [
   "Bears vs. Lions",
-  "New NVIDIA CEO named by December 31, 2026?",
   "Bitcoin price on November 27?",
+  "New NVIDIA CEO named by December 31, 2026?",
   "Suns vs. Rockets",
-  "Bulls vs. Hornets",
-  "RC Celta de Vigo vs. AFC Bournemouth",
-  "Fed Decision in December?",
-  "UEFA Champions League: 2027 Champion",
-  "Taipei Mayor Election Winner",
   "Eagles vs. Cowboys",
-  "Olympiakós SFP vs. AC Milan",
+  "Bulls vs. Hornets",
+  "Fed Decision in December?",
+  "Crystal Palace FC vs. Real Sociedad de Fútbol",
+  "Taipei Mayor Election Winner",
+  "UEFA Champions League: 2027 Champion",
   "Next French Presidential Election",
   "What price will Bitcoin hit in November?",
-  "Crystal Palace FC vs. Real Sociedad de Fútbol",
-  "Next Prime Minister of Spain?",
   "Beşiktaş JK vs. MH Hapoel Be'er Sheva",
-  "Olympiakós SFP vs. AC Milan - More Markets",
   "Chiefs vs. Bills",
   "Prime Minister of Israel after the next election?",
-  "FC Viktoria Plzeň vs. Sport Lisboa e Benfica",
-  "Elon Musk # tweets November 20 - November 27, 2026?",
-  "Beşiktaş JK vs. MH Hapoel Be'er Sheva - More Markets",
+  "Olympiakós SFP vs. AC Milan - More Markets",
   "What price will Bitcoin hit on November 26?",
+  "Beşiktaş JK vs. MH Hapoel Be'er Sheva - More Markets",
+  "Elon Musk # tweets November 20 - November 27, 2026?",
   "Will the US confirm that aliens exist by...?",
-  "B200 average rental price in June 2027?"
+  "Next Prime Minister of Spain?",
+  "Juventus FC vs. AS Omónoia Leukosías",
+  "B200 average rental price in June 2027?",
+  "Crystal Palace FC vs. Real Sociedad de Fútbol - More Markets",
+  "RC Celta de Vigo vs. AFC Bournemouth - More Markets"
  ]
 }
