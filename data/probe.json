@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-26T22:49:27.731879+00:00",
+ "ts": "2026-11-26T23:47:35.966989+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 45447,
- "single_game_events": 694,
+ "sub_markets_total": 45795,
+ "single_game_events": 693,
  "event_keys": [
   "active",
   "archived",
@@ -174,18 +174,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "2741821.61232",
-  "volume": "3356020.561637",
-  "openInterest": "3139131.103920999",
+  "liquidity": "5823313.0707",
+  "volume": "4217967.894559001",
+  "openInterest": "3678849.7919499986",
   "createdAt": "2026-11-06T13:00:42.559931Z",
-  "updatedAt": "2026-11-26T22:46:53.409701Z",
-  "competitive": "0.9996001599360256",
-  "volume24hr": "3475828.6222589994",
-  "volume1wk": "3535819.8449659995",
-  "volume1mo": "3538305.0244769994",
-  "volume1yr": "3538305.0244769994",
+  "updatedAt": "2026-11-26T23:45:34.707429Z",
+  "competitive": "0.9999000099990001",
+  "volume24hr": "4226397.747131",
+  "volume1wk": "4290918.329908",
+  "volume1mo": "4293403.509419001",
+  "volume1yr": "4293403.509419001",
   "enableOrderBook": "True",
-  "liquidityClob": "2741821.61232",
+  "liquidityClob": "5823313.0707",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 306>",
@@ -205,18 +205,18 @@
   "slug": "nfl-phi-dal-2026-11-26",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-26T21:30:00Z",
-  "liquidity": "622560.5429",
+  "liquidity": "1508861.75811",
   "startDate": "2026-11-06T13:00:53Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Eagles and Cowboys, originally scheduled for Thursday, November 26, 2026 at 4:30 PM ET (as of creation of the first ma",
   "outcomes": "[\"Eagles\", \"Cowboys\"]",
-  "outcomePrices": "[\"0.065\", \"0.935\"]",
-  "volume": "955824.379129",
+  "outcomePrices": "[\"0.0355\", \"0.9645\"]",
+  "volume": "1430849.22057",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-06T13:00:42.839243Z",
-  "updatedAt": "2026-11-26T22:45:20.89595Z",
+  "updatedAt": "2026-11-26T23:45:21.092712Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -226,24 +226,24 @@
   "groupItemThreshold": "0",
   "questionID": "0x9482504b4e9df94907029319707309ab9a18ba961a7ba661ade66919cd318054",
   "enableOrderBook": "True",
-  "orderPriceMinTickSize": "0.01",
+  "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "955824.379129",
-  "liquidityNum": "622560.5429",
+  "volumeNum": "1430849.22057",
+  "liquidityNum": "1508861.75811",
   "endDateIso": "2026-11-26",
   "startDateIso": "2026-11-06",
   "hasReviewedDates": "True",
-  "volume24hr": "1035272.8691509995",
-  "volume1wk": "1060455.3521879993",
-  "volume1mo": "1060536.5316989995",
-  "volume1yr": "1060536.5316989995",
+  "volume24hr": "1434777.0635620002",
+  "volume1wk": "1459993.5465990002",
+  "volume1mo": "1460074.7261100002",
+  "volume1yr": "1460074.7261100002",
   "gameStartTime": "2026-11-26 21:30:00+00",
   "secondsDelay": "1"
  },
  "multi_option_event": {
   "title": "Eagles vs. Cowboys",
   "slug": "nfl-phi-dal-2026-11-26",
-  "n_sub": 274,
+  "n_sub": 186,
   "sub_markets": [
    {
     "question": "Eagles vs. Cowboys",
@@ -251,7 +251,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Eagles\", \"Cowboys\"]",
-    "outcomePrices": "[\"0.065\", \"0.935\"]",
+    "outcomePrices": "[\"0.0355\", \"0.9645\"]",
     "closed": "False"
    },
    {
@@ -260,7 +260,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Eagles\", \"Cowboys\"]",
-    "outcomePrices": "[\"0.055\", \"0.945\"]",
+    "outcomePrices": "[\"0.022\", \"0.978\"]",
     "closed": "False"
    },
    {
@@ -269,7 +269,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Eagles\", \"Cowboys\"]",
-    "outcomePrices": "[\"0.0455\", \"0.9545\"]",
+    "outcomePrices": "[\"0.017\", \"0.983\"]",
     "closed": "False"
    },
    {
@@ -278,7 +278,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Eagles\", \"Cowboys\"]",
-    "outcomePrices": "[\"0.032\", \"0.968\"]",
+    "outcomePrices": "[\"0.012\", \"0.988\"]",
     "closed": "False"
    },
    {
@@ -287,20 +287,20 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Eagles\", \"Cowboys\"]",
-    "outcomePrices": "[\"0.021\", \"0.979\"]",
+    "outcomePrices": "[\"0.0045\", \"0.9955\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 707,
-  "crypto": 148,
-  "tech": 522,
+  "sports": 717,
+  "crypto": 147,
+  "tech": 509,
   "economy": 118,
-  "culture": 102,
-  "politics": 245,
-  "geopolitics": 172,
-  "(空)": 86
+  "politics": 246,
+  "culture": 104,
+  "geopolitics": 175,
+  "(空)": 84
  },
  "tag_samples": [
   {
@@ -324,15 +324,6 @@
    ]
   },
   {
-   "title": "Suns vs. Rockets",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
    "title": "New NVIDIA CEO named by December 31, 2026?",
    "tags": [
     "ceo",
@@ -341,6 +332,15 @@
     "Finance",
     "Big Tech",
     "Business"
+   ]
+  },
+  {
+   "title": "Suns vs. Rockets",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
    ]
   },
   {
@@ -373,42 +373,42 @@
    ]
   },
   {
-   "title": "Next French Presidential Election",
+   "title": "Taipei Mayor Election Winner",
    "tags": [
-    "French Election",
-    "Main Election",
-    "France",
-    "World",
+    "Taiwan",
     "Politics",
-    "Global Elections"
+    "Elections",
+    "Main Election",
+    "Global Elections",
+    "Taiwan Elections"
    ]
   }
  ],
  "top_titles": [
   "Eagles vs. Cowboys",
   "Bitcoin price on November 27?",
-  "Suns vs. Rockets",
   "New NVIDIA CEO named by December 31, 2026?",
+  "Suns vs. Rockets",
   "Bulls vs. Hornets",
   "Fed Decision in December?",
   "Crystal Palace FC vs. Real Sociedad de Fútbol",
-  "Next French Presidential Election",
   "Taipei Mayor Election Winner",
-  "What price will Bitcoin hit in November?",
   "Chiefs vs. Bills",
-  "UEFA Champions League: 2027 Champion",
+  "Next French Presidential Election",
+  "What price will Bitcoin hit in November?",
   "San Salvador: Lucas Da Silva vs Diego Duran",
-  "Crystal Palace FC vs. Real Sociedad de Fútbol - More Markets",
+  "UEFA Champions League: 2027 Champion",
   "Prime Minister of Israel after the next election?",
+  "Crystal Palace FC vs. Real Sociedad de Fútbol - More Markets",
   "What price will Bitcoin hit on November 26?",
-  "Next Prime Minister of Spain?",
-  "Elon Musk # tweets November 20 - November 27, 2026?",
   "Juventus FC vs. AS Omónoia Leukosías",
+  "Next Prime Minister of Spain?",
   "Will the US confirm that aliens exist by...?",
   "B200 average rental price in June 2027?",
+  "Elon Musk # tweets November 20 - November 27, 2026?",
   "What price will Bitcoin hit in 2026?",
-  "Broncos vs. Steelers",
   "Dota 2: Spirit Academy vs Inner Circle (BO3) - European Pro League Playoffs",
+  "Broncos vs. Steelers",
   "Jensen Huang admits to another affair with a woman by December 31?"
  ]
 }
