@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-26T02:49:17.207593+00:00",
+ "ts": "2026-11-26T03:51:50.547842+00:00",
  "pages_fetched": 21,
- "events_total": 2093,
- "sub_markets_total": 48937,
- "single_game_events": 660,
+ "events_total": 2100,
+ "sub_markets_total": 46706,
+ "single_game_events": 648,
  "event_keys": [
   "active",
   "archived",
@@ -174,18 +174,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "3510462.14129",
-  "volume": "8340557.371774999",
-  "openInterest": "6170087.070904001",
+  "liquidity": "3297167.48081",
+  "volume": "10357379.277296",
+  "openInterest": "7272107.206405002",
   "createdAt": "2026-11-05T13:00:42.288743Z",
-  "updatedAt": "2026-11-26T02:45:42.038316Z",
-  "competitive": "0.9999750006249843",
-  "volume24hr": "8107296.313575001",
-  "volume1wk": "8357805.656222",
-  "volume1mo": "8360293.975737",
-  "volume1yr": "8360293.975737",
+  "updatedAt": "2026-11-26T03:50:16.109495Z",
+  "competitive": "0.9993753903810119",
+  "volume24hr": "10141937.282372",
+  "volume1wk": "10412534.064618",
+  "volume1mo": "10415022.384133",
+  "volume1yr": "10415022.384133",
   "enableOrderBook": "True",
-  "liquidityClob": "3510462.14129",
+  "liquidityClob": "3297167.48081",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 305>",
@@ -205,18 +205,18 @@
   "slug": "nfl-gb-la-2026-11-26",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-26T01:00:00Z",
-  "liquidity": "1347358.288",
+  "liquidity": "661348.2544",
   "startDate": "2026-11-05T13:00:51Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Packers and Rams, originally scheduled for Wednesday, November 25, 2026 at 8:00 PM ET (as of creation of the first mar",
   "outcomes": "[\"Packers\", \"Rams\"]",
-  "outcomePrices": "[\"0.455\", \"0.545\"]",
-  "volume": "6505451.188612999",
+  "outcomePrices": "[\"0.145\", \"0.855\"]",
+  "volume": "8239076.255507",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-05T13:00:42.537471Z",
-  "updatedAt": "2026-11-26T02:45:29.427341Z",
+  "updatedAt": "2026-11-26T03:49:29.336771Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -228,22 +228,22 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.01",
   "orderMinSize": "5",
-  "volumeNum": "6505451.188612999",
-  "liquidityNum": "1347358.288",
+  "volumeNum": "8239076.255507",
+  "liquidityNum": "661348.2544",
   "endDateIso": "2026-11-26",
   "startDateIso": "2026-11-05",
   "hasReviewedDates": "True",
-  "volume24hr": "6448386.323855001",
-  "volume1wk": "6521664.063897",
-  "volume1mo": "6522038.684783",
-  "volume1yr": "6522038.684783",
+  "volume24hr": "8179249.369568001",
+  "volume1wk": "8271689.649058",
+  "volume1mo": "8272064.269943999",
+  "volume1yr": "8272064.269943999",
   "gameStartTime": "2026-11-26 01:00:00+00",
   "secondsDelay": "1"
  },
  "multi_option_event": {
   "title": "Packers vs. Rams",
   "slug": "nfl-gb-la-2026-11-26",
-  "n_sub": 266,
+  "n_sub": 186,
   "sub_markets": [
    {
     "question": "Packers vs. Rams",
@@ -251,7 +251,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Packers\", \"Rams\"]",
-    "outcomePrices": "[\"0.455\", \"0.545\"]",
+    "outcomePrices": "[\"0.145\", \"0.855\"]",
     "closed": "False"
    },
    {
@@ -260,7 +260,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Packers\", \"Rams\"]",
-    "outcomePrices": "[\"0.435\", \"0.565\"]",
+    "outcomePrices": "[\"0.115\", \"0.885\"]",
     "closed": "False"
    },
    {
@@ -269,7 +269,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Packers\", \"Rams\"]",
-    "outcomePrices": "[\"0.405\", \"0.595\"]",
+    "outcomePrices": "[\"0.105\", \"0.895\"]",
     "closed": "False"
    },
    {
@@ -278,7 +278,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Packers\", \"Rams\"]",
-    "outcomePrices": "[\"0.305\", \"0.695\"]",
+    "outcomePrices": "[\"0.045\", \"0.955\"]",
     "closed": "False"
    },
    {
@@ -287,20 +287,20 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Packers\", \"Rams\"]",
-    "outcomePrices": "[\"0.245\", \"0.755\"]",
+    "outcomePrices": "[\"0.0375\", \"0.9625\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 690,
-  "tech": 493,
-  "economy": 101,
-  "crypto": 168,
-  "culture": 91,
-  "politics": 269,
-  "geopolitics": 185,
-  "(空)": 96
+  "sports": 688,
+  "tech": 494,
+  "economy": 108,
+  "crypto": 169,
+  "culture": 95,
+  "politics": 267,
+  "geopolitics": 182,
+  "(空)": 97
  },
  "tag_samples": [
   {
@@ -352,7 +352,7 @@
    ]
   },
   {
-   "title": "Timberwolves vs. Thunder",
+   "title": "Suns vs. Rockets",
    "tags": [
     "Sports",
     "NBA",
@@ -361,7 +361,7 @@
    ]
   },
   {
-   "title": "Suns vs. Rockets",
+   "title": "Spurs vs. Trail Blazers",
    "tags": [
     "Sports",
     "NBA",
@@ -387,25 +387,25 @@
   "Fed Decision in December?",
   "Cavaliers vs. Knicks",
   "Bulls vs. Hornets",
-  "Timberwolves vs. Thunder",
   "Suns vs. Rockets",
+  "Spurs vs. Trail Blazers",
   "What price will Bitcoin hit in November?",
   "UEFA Champions League: 2027 Champion",
-  "Clippers vs. Grizzlies",
-  "Fourth Jensen Huang affair reported by...?",
   "Next French Presidential Election",
-  "Spurs vs. Trail Blazers",
-  "Nets vs. Bucks",
-  "CA Mineiro vs. SC Corinthians Paulista",
+  "Fourth Jensen Huang affair reported by...?",
+  "Kings vs. Warriors",
   "What price will Bitcoin hit on November 25?",
-  "Jensen Huang admits to another affair with a woman by December 31?",
   "Taipei Mayor Election Winner",
-  "What price will Bitcoin hit in 2026?",
   "Deportivo Toluca FC vs. Atlas FC - More Markets",
+  "Jensen Huang admits to another affair with a woman by December 31?",
+  "What price will Bitcoin hit in 2026?",
   "Next Prime Minister of Spain?",
   "Utah vs. Wild",
   "H100 average rental price in January 2027?",
+  "Elon Musk # tweets November 20 - November 27, 2026?",
   "Jensen Huang out as NVIDIA CEO again by...?",
-  "Hurricanes vs. Lightning"
+  "Counter-Strike: M80 vs Eternal Fire (BO3) - PGL Major Singapore Stage 1",
+  "B200 average rental price in June 2027?",
+  "Bitcoin above ___ on November 26?"
  ]
 }
