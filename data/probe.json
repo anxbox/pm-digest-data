@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-26T19:57:08.437273+00:00",
+ "ts": "2026-11-26T20:51:03.399303+00:00",
  "pages_fetched": 21,
- "events_total": 2081,
- "sub_markets_total": 44755,
- "single_game_events": 734,
+ "events_total": 2098,
+ "sub_markets_total": 45287,
+ "single_game_events": 758,
  "event_keys": [
   "active",
   "archived",
@@ -112,7 +112,6 @@
   "negRiskOther",
   "new",
   "oneDayPriceChange",
-  "oneHourPriceChange",
   "oneWeekPriceChange",
   "orderMinSize",
   "orderPriceMinTickSize",
@@ -174,18 +173,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "7913795.49832",
-  "volume": "4498936.221401",
-  "openInterest": "4088064.4760080012",
+  "liquidity": "3462597.0378",
+  "volume": "5775378.827796",
+  "openInterest": "5117371.712668003",
   "createdAt": "2026-11-06T13:00:43.779385Z",
-  "updatedAt": "2026-11-26T19:51:36.384655Z",
-  "competitive": "0.9999000099990001",
-  "volume24hr": "4512742.135099",
-  "volume1wk": "4638880.600791",
-  "volume1mo": "4642138.839969",
-  "volume1yr": "4642138.839969",
+  "updatedAt": "2026-11-26T20:49:37.72832Z",
+  "competitive": "0.9997750506136119",
+  "volume24hr": "5875227.22638",
+  "volume1wk": "6002598.051663999",
+  "volume1mo": "6005861.740842",
+  "volume1yr": "6005861.740842",
   "enableOrderBook": "True",
-  "liquidityClob": "7913795.49832",
+  "liquidityClob": "3462597.0378",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 305>",
@@ -205,18 +204,18 @@
   "slug": "nfl-chi-det-2026-11-26",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-26T18:00:00Z",
-  "liquidity": "2177253.2207",
+  "liquidity": "214303.8947",
   "startDate": "2026-11-06T13:00:53Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Bears and Lions, originally scheduled for Thursday, November 26, 2026 at 1:00 PM ET (as of creation of the first marke",
   "outcomes": "[\"Bears\", \"Lions\"]",
   "outcomePrices": "[\"0.295\", \"0.705\"]",
-  "volume": "2932129.404356",
+  "volume": "3520833.605839",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-06T13:00:44.058925Z",
-  "updatedAt": "2026-11-26T19:51:20.385311Z",
+  "updatedAt": "2026-11-26T20:49:21.674478Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -228,22 +227,22 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.01",
   "orderMinSize": "5",
-  "volumeNum": "2932129.404356",
-  "liquidityNum": "2177253.2207",
+  "volumeNum": "3520833.605839",
+  "liquidityNum": "214303.8947",
   "endDateIso": "2026-11-26",
   "startDateIso": "2026-11-06",
   "hasReviewedDates": "True",
-  "volume24hr": "2860493.224043999",
-  "volume1wk": "2956143.879525999",
-  "volume1mo": "2956288.883410999",
-  "volume1yr": "2956288.883410999",
+  "volume24hr": "3467785.6697259997",
+  "volume1wk": "3563524.6252099993",
+  "volume1mo": "3563675.0790949995",
+  "volume1yr": "3563675.0790949995",
   "gameStartTime": "2026-11-26 18:00:00+00",
   "secondsDelay": "1"
  },
  "multi_option_event": {
   "title": "Bears vs. Lions",
   "slug": "nfl-chi-det-2026-11-26",
-  "n_sub": 257,
+  "n_sub": 161,
   "sub_markets": [
    {
     "question": "Bears vs. Lions",
@@ -260,7 +259,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bears\", \"Lions\"]",
-    "outcomePrices": "[\"0.225\", \"0.775\"]",
+    "outcomePrices": "[\"0.23\", \"0.77\"]",
     "closed": "False"
    },
    {
@@ -269,7 +268,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bears\", \"Lions\"]",
-    "outcomePrices": "[\"0.205\", \"0.795\"]",
+    "outcomePrices": "[\"0.18\", \"0.82\"]",
     "closed": "False"
    },
    {
@@ -278,7 +277,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bears\", \"Lions\"]",
-    "outcomePrices": "[\"0.135\", \"0.865\"]",
+    "outcomePrices": "[\"0.095\", \"0.905\"]",
     "closed": "False"
    },
    {
@@ -287,20 +286,20 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Bears\", \"Lions\"]",
-    "outcomePrices": "[\"0.105\", \"0.895\"]",
+    "outcomePrices": "[\"0.065\", \"0.935\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 742,
-  "tech": 497,
-  "crypto": 144,
-  "economy": 119,
-  "politics": 225,
-  "culture": 102,
+  "sports": 761,
+  "tech": 511,
+  "crypto": 138,
+  "economy": 118,
+  "culture": 99,
+  "politics": 221,
   "geopolitics": 164,
-  "(空)": 88
+  "(空)": 86
  },
  "tag_samples": [
   {
@@ -353,6 +352,15 @@
    ]
   },
   {
+   "title": "RC Celta de Vigo vs. AFC Bournemouth",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "UEL"
+   ]
+  },
+  {
    "title": "Fed Decision in December?",
    "tags": [
     "Fed",
@@ -361,15 +369,6 @@
     "Economy",
     "Fed Rates",
     "Kevin Warsh"
-   ]
-  },
-  {
-   "title": "RC Celta de Vigo vs. AFC Bournemouth",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "UEL"
    ]
   },
   {
@@ -389,25 +388,25 @@
   "Bitcoin price on November 27?",
   "Suns vs. Rockets",
   "Bulls vs. Hornets",
-  "Fed Decision in December?",
   "RC Celta de Vigo vs. AFC Bournemouth",
+  "Fed Decision in December?",
   "UEFA Champions League: 2027 Champion",
   "Taipei Mayor Election Winner",
   "Eagles vs. Cowboys",
+  "Olympiakós SFP vs. AC Milan",
   "Next French Presidential Election",
   "What price will Bitcoin hit in November?",
-  "Olympiakós SFP vs. AC Milan",
+  "Crystal Palace FC vs. Real Sociedad de Fútbol",
   "Next Prime Minister of Spain?",
-  "Chiefs vs. Bills",
-  "Will the US confirm that aliens exist by...?",
-  "Jensen Huang out as NVIDIA CEO again by...?",
-  "FC Viktoria Plzeň vs. Sport Lisboa e Benfica",
-  "Prime Minister of Israel after the next election?",
-  "Elon Musk # tweets November 20 - November 27, 2026?",
+  "Beşiktaş JK vs. MH Hapoel Be'er Sheva",
   "Olympiakós SFP vs. AC Milan - More Markets",
+  "Chiefs vs. Bills",
+  "Prime Minister of Israel after the next election?",
+  "FC Viktoria Plzeň vs. Sport Lisboa e Benfica",
+  "Elon Musk # tweets November 20 - November 27, 2026?",
+  "Beşiktaş JK vs. MH Hapoel Be'er Sheva - More Markets",
   "What price will Bitcoin hit on November 26?",
-  "Fourth Jensen Huang affair reported by...?",
-  "Georgia Bulldogs vs. Cincinnati Bearcats",
-  "Crystal Palace FC vs. Real Sociedad de Fútbol"
+  "Will the US confirm that aliens exist by...?",
+  "B200 average rental price in June 2027?"
  ]
 }
