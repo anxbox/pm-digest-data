@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-26T00:06:41.003696+00:00",
+ "ts": "2026-11-26T01:43:47.677488+00:00",
  "pages_fetched": 21,
- "events_total": 2095,
- "sub_markets_total": 50997,
- "single_game_events": 666,
+ "events_total": 2100,
+ "sub_markets_total": 49730,
+ "single_game_events": 674,
  "event_keys": [
   "active",
   "archived",
@@ -158,21 +158,21 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "3655388.5555",
-  "volume": "11391932.709888",
-  "openInterest": "9137655.015391",
+  "liquidity": "3411993.41174",
+  "volume": "11629522.709888002",
+  "openInterest": "9378245.015391",
   "sortBy": "ascending",
   "createdAt": "2026-11-12T00:25:22.54954Z",
-  "updatedAt": "2026-11-26T00:01:47.040901Z",
+  "updatedAt": "2026-11-26T01:41:41.914862Z",
   "competitive": "0.8003199679231757",
-  "volume24hr": "5445415.772066",
-  "volume1wk": "11265009.560143",
-  "volume1mo": "11391932.709887998",
-  "volume1yr": "11391932.709887998",
+  "volume24hr": "5480965.58788",
+  "volume1wk": "11505111.230143",
+  "volume1mo": "11632522.709887998",
+  "volume1yr": "11632522.709887998",
   "enableOrderBook": "True",
-  "liquidityClob": "3655388.5555",
+  "liquidityClob": "3411993.41174",
   "negRisk": "False",
-  "commentCount": "121",
+  "commentCount": "127",
   "markets": "<list 1>",
   "tags": "<list 7>",
   "cyom": "False",
@@ -189,18 +189,18 @@
   "slug": "new-nvidia-ceo-named-by-december-31-2026",
   "resolutionSource": "",
   "endDate": "2027-01-01T04:59:00Z",
-  "liquidity": "3605488.5555",
+  "liquidity": "3381034.40174",
   "startDate": "2026-11-12T00:25:48Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-jensen-huang-be-richest-person-on-december-31-iU8eWlv0KU_b.jpg",
   "description": "This market will resolve to \"Yes\" if NVIDIA Corporation officially announces a successor to Jensen Huang as CEO of NVIDIA by December 31, 2026, 11:59 PM ET. Oth",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.9995\", \"0.0005\"]",
-  "volume": "11391932.709888",
+  "volume": "11629522.709888002",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-12T00:25:23.405385Z",
-  "updatedAt": "2026-11-26T00:01:29.580616Z",
+  "updatedAt": "2026-11-26T01:41:29.108361Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -212,15 +212,15 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "disputed",
-  "volumeNum": "11391932.709888",
-  "liquidityNum": "3605488.5555",
+  "volumeNum": "11629522.709888002",
+  "liquidityNum": "3381034.40174",
   "endDateIso": "2027-01-01",
   "startDateIso": "2026-11-12",
   "hasReviewedDates": "True",
-  "volume24hr": "5445415.772066",
-  "volume1wk": "11265009.560143",
-  "volume1mo": "11391932.709887998",
-  "volume1yr": "11391932.709887998",
+  "volume24hr": "5480965.58788",
+  "volume1wk": "11505111.230143",
+  "volume1mo": "11632522.709887998",
+  "volume1yr": "11632522.709887998",
   "clobTokenIds": "[\"44558631181975413784524040138198113866542690797483755072260383831719409876660\", \"2850080638485078487119156792065577759676622346318773387984061906346610063157\"",
   "comboStatus": "disabled"
  },
@@ -253,7 +253,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0425\", \"0.9575\"]",
+    "outcomePrices": "[\"0.042\", \"0.958\"]",
     "closed": "False"
    },
    {
@@ -271,20 +271,20 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0235\", \"0.9765\"]",
+    "outcomePrices": "[\"0.023\", \"0.977\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "tech": 493,
-  "economy": 105,
-  "sports": 695,
-  "crypto": 166,
-  "culture": 93,
-  "politics": 267,
-  "geopolitics": 192,
-  "(空)": 84
+  "tech": 485,
+  "economy": 107,
+  "sports": 704,
+  "crypto": 172,
+  "culture": 90,
+  "politics": 268,
+  "geopolitics": 185,
+  "(空)": 89
  },
  "tag_samples": [
   {
@@ -307,15 +307,6 @@
     "Economy",
     "Fed Rates",
     "Kevin Warsh"
-   ]
-  },
-  {
-   "title": "Heat vs. 76ers",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   },
   {
@@ -347,52 +338,58 @@
    ]
   },
   {
-   "title": "UEFA Champions League: 2027 Champion",
+   "title": "Bulls vs. Hornets",
    "tags": [
-    "UCL",
-    "Soccer",
     "Sports",
-    "Champions League",
-    "UCL Matchday"
+    "NBA",
+    "Games",
+    "Basketball"
    ]
   },
   {
-   "title": "Fourth Jensen Huang affair reported by...?",
+   "title": "Timberwolves vs. Thunder",
    "tags": [
-    "AI",
-    "Tech",
-    "NVIDIA",
-    "Culture",
-    "Finance",
-    "Celebrities"
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
+   "title": "Suns vs. Rockets",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
    ]
   }
  ],
  "top_titles": [
   "New NVIDIA CEO named by December 31, 2026?",
   "Fed Decision in December?",
-  "Heat vs. 76ers",
   "Packers vs. Rams",
   "Cavaliers vs. Knicks",
   "What price will Bitcoin hit in November?",
+  "Bulls vs. Hornets",
+  "Timberwolves vs. Thunder",
+  "Suns vs. Rockets",
   "UEFA Champions League: 2027 Champion",
   "Fourth Jensen Huang affair reported by...?",
   "Next French Presidential Election",
+  "Clippers vs. Grizzlies",
+  "CA Mineiro vs. SC Corinthians Paulista",
   "Jensen Huang admits to another affair with a woman by December 31?",
+  "What price will Bitcoin hit on November 25?",
   "What price will Bitcoin hit in 2026?",
   "H100 average rental price in January 2027?",
-  "What price will Bitcoin hit on November 25?",
-  "Next Prime Minister of Spain?",
-  "Bulls vs. Hornets",
   "Taipei Mayor Election Winner",
-  "Timberwolves vs. Thunder",
-  "Jensen Huang out as NVIDIA CEO again by...?",
-  "CA Mineiro vs. SC Corinthians Paulista",
+  "Nets vs. Bucks",
+  "Next Prime Minister of Spain?",
+  "Utah vs. Wild",
+  "Deportivo Toluca FC vs. Atlas FC - More Markets",
   "Elon Musk # tweets November 20 - November 27, 2026?",
-  "Hurricanes vs. Lightning",
-  "Democratic Presidential Nominee 2028",
-  "Suns vs. Rockets",
-  "Flyers vs. Capitals",
-  "Counter-Strike: M80 vs Eternal Fire (BO3) - PGL Major Singapore Stage 1"
+  "Jensen Huang out as NVIDIA CEO again by...?",
+  "Hurricanes vs. Lightning"
  ]
 }
