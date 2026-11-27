@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-27T16:44:14.256627+00:00",
+ "ts": "2026-11-27T17:50:26.666457+00:00",
  "pages_fetched": 21,
- "events_total": 2092,
- "sub_markets_total": 52511,
- "single_game_events": 831,
+ "events_total": 2100,
+ "sub_markets_total": 53088,
+ "single_game_events": 852,
  "event_keys": [
   "active",
   "archived",
@@ -167,19 +167,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "4550602.98551",
-  "volume": "65715032.109718",
-  "openInterest": "9815584.153970998",
+  "liquidity": "4149842.81982",
+  "volume": "65838423.616409",
+  "openInterest": "9813196.546127",
   "sortBy": "ascending",
   "createdAt": "2026-07-30T00:36:56.42426Z",
-  "updatedAt": "2026-11-27T16:41:37.345317Z",
+  "updatedAt": "2026-11-27T17:49:34.787598Z",
   "competitive": "0.8347071221385196",
-  "volume24hr": "3083474.089076",
-  "volume1wk": "19998317.643436998",
-  "volume1mo": "60925673.152021",
-  "volume1yr": "65726447.055273995",
+  "volume24hr": "3323321.63203",
+  "volume1wk": "19845880.2495",
+  "volume1mo": "61172606.316847004",
+  "volume1yr": "65977026.85318899",
   "enableOrderBook": "True",
-  "liquidityClob": "4550602.98551",
+  "liquidityClob": "4149842.81982",
   "negRisk": "True",
   "negRiskMarketID": "0xa74f5328517db0e030a5e62edc800e37bd36ca6e455571b14e8bb2b0dd38d700",
   "commentCount": "0",
@@ -198,18 +198,18 @@
   "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
   "resolutionSource": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
   "endDate": "2026-12-09T23:59:00Z",
-  "liquidity": "277283.44865",
+  "liquidity": "303921.93127",
   "startDate": "2026-07-30T00:53:15.730668Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "description": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.0015\", \"0.9985\"]",
-  "volume": "9636961.380415998",
+  "volume": "9639478.770416",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-07-30T00:36:56.830135Z",
-  "updatedAt": "2026-11-27T16:41:21.450411Z",
+  "updatedAt": "2026-11-27T17:49:21.176866Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -222,15 +222,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "9636961.380415998",
-  "liquidityNum": "277283.44865",
+  "volumeNum": "9639478.770416",
+  "liquidityNum": "303921.93127",
   "endDateIso": "2026-12-09",
   "startDateIso": "2026-07-30",
   "hasReviewedDates": "True",
-  "volume24hr": "212475.898",
-  "volume1wk": "2051591.5371049999",
-  "volume1mo": "8825700.612846998",
-  "volume1yr": "9636961.380415998",
+  "volume24hr": "214998.288",
+  "volume1wk": "2030289.4671049998",
+  "volume1mo": "8827931.772846999",
+  "volume1yr": "9639483.770415999",
   "clobTokenIds": "[\"17640596861394454242836532536014033416733783473450136742726948856144855149507\", \"10423673626377530789149720287419191120396356671195972578858475044053097674219"
  },
  "multi_option_event": {
@@ -262,7 +262,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0345\", \"0.9655\"]",
+    "outcomePrices": "[\"0.0415\", \"0.9585\"]",
     "closed": "False"
    },
    {
@@ -280,20 +280,20 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0185\", \"0.9815\"]",
+    "outcomePrices": "[\"0.0175\", \"0.9825\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "economy": 98,
-  "crypto": 143,
-  "sports": 819,
-  "tech": 519,
+  "economy": 99,
+  "sports": 834,
+  "tech": 527,
   "politics": 210,
-  "culture": 92,
+  "crypto": 128,
+  "culture": 88,
   "geopolitics": 152,
-  "(空)": 59
+  "(空)": 62
  },
  "tag_samples": [
   {
@@ -305,17 +305,6 @@
     "Economy",
     "Fed Rates",
     "Kevin Warsh"
-   ]
-  },
-  {
-   "title": "Bitcoin price on November 27?",
-   "tags": [
-    "Bitcoin",
-    "Weekly",
-    "Neg Risk",
-    "Crypto",
-    "Crypto Prices",
-    "Recurring"
    ]
   },
   {
@@ -350,11 +339,30 @@
    ]
   },
   {
-   "title": "Bitcoin above ___ on November 27?",
+   "title": "Nottingham Forest FC vs. Chelsea FC",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "Premier League",
+    "EPL"
+   ]
+  },
+  {
+   "title": "Broncos vs. Steelers",
+   "tags": [
+    "Sports",
+    "NFL",
+    "Games",
+    "Thanksgiving"
+   ]
+  },
+  {
+   "title": "What price will Bitcoin hit in November?",
    "tags": [
     "Bitcoin",
-    "Weekly",
-    "Multi Strikes",
+    "Monthly",
+    "Hit Price",
     "Crypto",
     "Crypto Prices",
     "Recurring"
@@ -370,43 +378,33 @@
     "Politics",
     "Global Elections"
    ]
-  },
-  {
-   "title": "Nottingham Forest FC vs. Chelsea FC",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "Premier League",
-    "EPL"
-   ]
   }
  ],
  "top_titles": [
   "Fed Decision in December?",
-  "Bitcoin price on November 27?",
   "Dota 2: Aurora vs PARIVISION (BO3) - BLAST Slam Playoffs",
   "Taipei Mayor Election Winner",
   "Democratic Presidential Nominee 2028",
-  "Bitcoin above ___ on November 27?",
-  "Next French Presidential Election",
   "Nottingham Forest FC vs. Chelsea FC",
-  "What price will Bitcoin hit in November?",
   "Broncos vs. Steelers",
+  "What price will Bitcoin hit in November?",
+  "Next French Presidential Election",
   "Next Prime Minister of Spain?",
-  "What price will Bitcoin hit on November 27?",
-  "Prime Minister of Israel after the next election?",
   "Heat vs. Knicks",
+  "What price will Bitcoin hit on November 27?",
   "Elon Musk # tweets November 20 - November 27, 2026?",
-  "UEFA Champions League: 2027 Champion",
+  "Prime Minister of Israel after the next election?",
   "What price will Bitcoin hit in 2026?",
+  "Minnesota vs. Wisconsin",
+  "UEFA Champions League: 2027 Champion",
   "B300 average rental price in January 2027?",
   "B200 average rental price in December 2026?",
-  "Minnesota vs. Wisconsin",
-  "VVV Venlo vs. RKC Waalwijk",
+  "Nebraska vs. Iowa",
   "What price will Bitcoin hit November 23-29?",
+  "76ers vs. Pacers",
+  "VVV Venlo vs. RKC Waalwijk",
   "B300 average rental price in December 2026?",
-  "Next Prime Minister of Sweden",
-  "76ers vs. Pacers"
+  "H100 average rental price in December 2026?",
+  "H200 average rental price in January 2027?"
  ]
 }
