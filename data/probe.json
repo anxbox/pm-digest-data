@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-27T10:54:43.121531+00:00",
+ "ts": "2026-11-27T11:50:42.890064+00:00",
  "pages_fetched": 21,
- "events_total": 2090,
- "sub_markets_total": 47467,
- "single_game_events": 763,
+ "events_total": 2098,
+ "sub_markets_total": 48524,
+ "single_game_events": 785,
  "event_keys": [
   "active",
   "archived",
@@ -170,21 +170,21 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "848937.32036",
-  "volume": "2254068.246459",
-  "openInterest": "1315797.7901090002",
+  "liquidity": "1065480.43774",
+  "volume": "3302643.0875750007",
+  "openInterest": "1406866.323377",
   "createdAt": "2026-11-26T15:45:18.975896Z",
-  "updatedAt": "2026-11-27T10:51:21.884341Z",
-  "competitive": "0.9999750006249843",
-  "volume24hr": "2337300.857248",
-  "volume1wk": "2337300.857248",
-  "volume1mo": "2337300.857248",
-  "volume1yr": "2337300.857248",
+  "updatedAt": "2026-11-27T11:49:38.695295Z",
+  "competitive": "0.8003199679231757",
+  "volume24hr": "3371280.9737499985",
+  "volume1wk": "3371280.9737499985",
+  "volume1mo": "3371280.9737499985",
+  "volume1yr": "3371280.9737499985",
   "enableOrderBook": "True",
-  "liquidityClob": "848937.32036",
+  "liquidityClob": "1065480.43774",
   "negRisk": "False",
   "commentCount": "0",
-  "markets": "<list 28>",
+  "markets": "<list 32>",
   "series": "<list 1>",
   "tags": "<list 8>",
   "cyom": "False",
@@ -207,11 +207,11 @@
   "description": "This market refers to the Counter-Strike Round 5 match between Imperial and Wildcard in the PGL Major Singapore Stage 1, initially scheduled for November 27, 20",
   "outcomes": "[\"Imperial\", \"Wildcard\"]",
   "outcomePrices": "[\"1\", \"0\"]",
-  "volume": "554547.28775",
+  "volume": "554547.2877500001",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-26T15:45:19.26167Z",
-  "updatedAt": "2026-11-27T10:37:36.493289Z",
+  "updatedAt": "2026-11-27T11:37:37.485355Z",
   "closedTime": "2026-11-27 09:45:27.787822+00",
   "new": "False",
   "featured": "False",
@@ -226,7 +226,7 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "554547.28775",
+  "volumeNum": "554547.2877500001",
   "endDateIso": "2026-11-27",
   "startDateIso": "2026-11-26",
   "hasReviewedDates": "True",
@@ -239,24 +239,15 @@
  "multi_option_event": {
   "title": "Counter-Strike: Imperial vs Wildcard (BO3) - PGL Major Singapore Stage 1",
   "slug": "cs2-imp11-wc1-2026-11-27",
-  "n_sub": 20,
+  "n_sub": 10,
   "sub_markets": [
-   {
-    "question": "Counter-Strike: Imperial vs Wildcard - Map 2 Winner",
-    "groupItemTitle": "Map 2 Winner",
-    "groupItemThreshold": "None",
-    "shortTitle": "None",
-    "outcomes": "[\"Imperial\", \"Wildcard\"]",
-    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
-    "closed": "False"
-   },
    {
     "question": "Counter-Strike: Imperial vs Wildcard (BO3) - PGL Major Singapore Stage 1",
     "groupItemTitle": "Match Winner",
     "groupItemThreshold": "None",
     "shortTitle": "None",
     "outcomes": "[\"Imperial\", \"Wildcard\"]",
-    "outcomePrices": "[\"0.595\", \"0.405\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -278,25 +269,34 @@
     "closed": "False"
    },
    {
-    "question": "Map 2 Total Rounds: Over/Under 21.5",
-    "groupItemTitle": "Map 2 Total Rounds: Over/Under 21.5",
+    "question": "Map 3 Rounds Handicap: Imperial (-3.5) vs Wildcard (+3.5)",
+    "groupItemTitle": "Map 3 Rounds Handicap: Imperial (-3.5) vs Wildcard (+3.5)",
+    "groupItemThreshold": "None",
+    "shortTitle": "None",
+    "outcomes": "[\"Imperial\", \"Wildcard\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+    "closed": "False"
+   },
+   {
+    "question": "Map 3 Total Rounds: Over/Under 21.5",
+    "groupItemTitle": "Map 3 Total Rounds: Over/Under 21.5",
     "groupItemThreshold": "None",
     "shortTitle": "None",
     "outcomes": "[\"Over\", \"Under\"]",
-    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 768,
-  "economy": 112,
-  "crypto": 147,
-  "tech": 526,
-  "culture": 99,
-  "politics": 219,
-  "geopolitics": 170,
-  "(空)": 49
+  "sports": 777,
+  "economy": 110,
+  "crypto": 140,
+  "tech": 534,
+  "culture": 97,
+  "politics": 223,
+  "geopolitics": 169,
+  "(空)": 48
  },
  "tag_samples": [
   {
@@ -308,6 +308,15 @@
     "Sports",
     "PGL Major Singapore 2026",
     "Swiss Stage"
+   ]
+  },
+  {
+   "title": "Dota 2: PARIVISION vs Team Liquid (BO3) - BLAST Slam Playoffs",
+   "tags": [
+    "Esports",
+    "Dota 2",
+    "Games",
+    "Sports"
    ]
   },
   {
@@ -333,12 +342,12 @@
    ]
   },
   {
-   "title": "Dota 2: PARIVISION vs Team Liquid (BO3) - BLAST Slam Playoffs",
+   "title": "AFC Eskilstuna vs. Enkopings SK - More Markets",
    "tags": [
-    "Esports",
-    "Dota 2",
+    "Sports",
     "Games",
-    "Sports"
+    "Soccer",
+    "Club Friendlies"
    ]
   },
   {
@@ -373,43 +382,33 @@
     "Crypto Prices",
     "Recurring"
    ]
-  },
-  {
-   "title": "Nottingham Forest FC vs. Chelsea FC",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "Premier League",
-    "EPL"
-   ]
   }
  ],
  "top_titles": [
   "Counter-Strike: Imperial vs Wildcard (BO3) - PGL Major Singapore Stage 1",
+  "Dota 2: PARIVISION vs Team Liquid (BO3) - BLAST Slam Playoffs",
   "Fed Decision in December?",
   "Bitcoin price on November 27?",
-  "Dota 2: PARIVISION vs Team Liquid (BO3) - BLAST Slam Playoffs",
+  "AFC Eskilstuna vs. Enkopings SK - More Markets",
   "Taipei Mayor Election Winner",
   "Next Prime Minister of Spain?",
   "What price will Bitcoin hit in November?",
   "Nottingham Forest FC vs. Chelsea FC",
-  "Prime Minister of Israel after the next election?",
   "Next French Presidential Election",
-  "What price will Bitcoin hit in 2026?",
   "Bitcoin above ___ on November 27?",
-  "UEFA Champions League: 2027 Champion",
+  "What price will Bitcoin hit in 2026?",
+  "Prime Minister of Israel after the next election?",
   "Broncos vs. Steelers",
+  "UEFA Champions League: 2027 Champion",
   "Elon Musk # tweets November 20 - November 27, 2026?",
-  "B200 average rental price in March 2027?",
   "B200 average rental price in December 2026?",
+  "B200 average rental price in March 2027?",
   "Macarthur FC vs. Melbourne City FC - More Markets",
-  "Republican Presidential Nominee 2028",
   "Counter-Strike: M80 vs 100 Thieves (BO3) - PGL Major Singapore Stage 1",
+  "Republican Presidential Nominee 2028",
   "Democratic Presidential Nominee 2028",
   "Next Prime Minister of Sweden",
-  "H100 average rental price in March 2027?",
-  "H200 average rental price in January 2027?",
-  "B300 average rental price in January 2027?"
+  "B300 average rental price in January 2027?",
+  "Presidential Election Winner 2028"
  ]
 }
