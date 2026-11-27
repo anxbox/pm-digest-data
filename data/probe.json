@@ -1,8 +1,8 @@
 {
- "ts": "2026-11-27T02:22:05.196536+00:00",
+ "ts": "2026-11-27T03:38:38.614855+00:00",
  "pages_fetched": 21,
- "events_total": 2099,
- "sub_markets_total": 46033,
+ "events_total": 2096,
+ "sub_markets_total": 46034,
  "single_game_events": 648,
  "event_keys": [
   "active",
@@ -174,18 +174,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "4584847.30494",
-  "volume": "3800472.7421560003",
-  "openInterest": "4286969.011451999",
+  "liquidity": "3921156.60162",
+  "volume": "5955842.792799",
+  "openInterest": "5248877.078224999",
   "createdAt": "2026-11-06T13:00:44.754821Z",
-  "updatedAt": "2026-11-27T02:21:42.567039Z",
+  "updatedAt": "2026-11-27T03:34:00.830504Z",
   "competitive": "0.9999750006249843",
-  "volume24hr": "4276611.925201001",
-  "volume1wk": "4385702.567678",
-  "volume1mo": "4388181.055600001",
-  "volume1yr": "4388181.055600001",
+  "volume24hr": "5957950.201005001",
+  "volume1wk": "6072586.664083",
+  "volume1mo": "6075065.152005",
+  "volume1yr": "6075065.152005",
   "enableOrderBook": "True",
-  "liquidityClob": "4584847.30494",
+  "liquidityClob": "3921156.60162",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 306>",
@@ -205,18 +205,18 @@
   "slug": "nfl-kc-buf-2026-11-27",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-27T01:20:00Z",
-  "liquidity": "610451.452",
+  "liquidity": "718863.7857",
   "startDate": "2026-11-06T13:00:53Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Chiefs and Bills, originally scheduled for Thursday, November 26, 2026 at 8:20 PM ET (as of creation of the first mark",
   "outcomes": "[\"Chiefs\", \"Bills\"]",
-  "outcomePrices": "[\"0.165\", \"0.835\"]",
-  "volume": "2461142.7071310007",
+  "outcomePrices": "[\"0.495\", \"0.505\"]",
+  "volume": "3368091.092933",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-06T13:00:45.057618Z",
-  "updatedAt": "2026-11-27T02:21:20.410545Z",
+  "updatedAt": "2026-11-27T03:33:20.686776Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -228,22 +228,22 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.01",
   "orderMinSize": "5",
-  "volumeNum": "2461142.7071310007",
-  "liquidityNum": "610451.452",
+  "volumeNum": "3368091.092933",
+  "liquidityNum": "718863.7857",
   "endDateIso": "2026-11-27",
   "startDateIso": "2026-11-06",
   "hasReviewedDates": "True",
-  "volume24hr": "2438160.3402010007",
-  "volume1wk": "2486040.810327",
-  "volume1mo": "2486311.298249",
-  "volume1yr": "2486311.298249",
+  "volume24hr": "3398644.5049220007",
+  "volume1wk": "3446541.5343690002",
+  "volume1mo": "3446812.022291",
+  "volume1yr": "3446812.022291",
   "gameStartTime": "2026-11-27 01:20:00+00",
   "secondsDelay": "1"
  },
  "multi_option_event": {
   "title": "Chiefs vs. Bills",
   "slug": "nfl-kc-buf-2026-11-27",
-  "n_sub": 281,
+  "n_sub": 199,
   "sub_markets": [
    {
     "question": "Chiefs vs. Bills",
@@ -251,7 +251,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Chiefs\", \"Bills\"]",
-    "outcomePrices": "[\"0.165\", \"0.835\"]",
+    "outcomePrices": "[\"0.495\", \"0.505\"]",
     "closed": "False"
    },
    {
@@ -260,7 +260,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Chiefs\", \"Bills\"]",
-    "outcomePrices": "[\"0.145\", \"0.855\"]",
+    "outcomePrices": "[\"0.485\", \"0.515\"]",
     "closed": "False"
    },
    {
@@ -269,7 +269,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Chiefs\", \"Bills\"]",
-    "outcomePrices": "[\"0.13\", \"0.87\"]",
+    "outcomePrices": "[\"0.44\", \"0.56\"]",
     "closed": "False"
    },
    {
@@ -278,7 +278,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Chiefs\", \"Bills\"]",
-    "outcomePrices": "[\"0.08\", \"0.92\"]",
+    "outcomePrices": "[\"0.26\", \"0.74\"]",
     "closed": "False"
    },
    {
@@ -287,19 +287,19 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Chiefs\", \"Bills\"]",
-    "outcomePrices": "[\"0.065\", \"0.935\"]",
+    "outcomePrices": "[\"0.235\", \"0.765\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 677,
-  "crypto": 147,
-  "economy": 119,
-  "tech": 530,
+  "sports": 682,
+  "crypto": 154,
+  "economy": 120,
+  "tech": 524,
   "culture": 107,
-  "geopolitics": 181,
-  "politics": 259,
+  "geopolitics": 177,
+  "politics": 253,
   "(空)": 79
  },
  "tag_samples": [
@@ -335,15 +335,6 @@
    ]
   },
   {
-   "title": "Suns vs. Rockets",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
    "title": "Next French Presidential Election",
    "tags": [
     "French Election",
@@ -366,15 +357,6 @@
    ]
   },
   {
-   "title": "São Paulo FC vs. Clube do Remo - More Markets",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "Brazil Serie A"
-   ]
-  },
-  {
    "title": "Prime Minister of Israel after the next election?",
    "tags": [
     "Main Election",
@@ -384,33 +366,55 @@
     "Israel",
     "Geopolitics"
    ]
+  },
+  {
+   "title": "What price will Bitcoin hit in November?",
+   "tags": [
+    "Bitcoin",
+    "Monthly",
+    "Hit Price",
+    "Crypto",
+    "Crypto Prices",
+    "Recurring"
+   ]
+  },
+  {
+   "title": "What price will Bitcoin hit on November 26?",
+   "tags": [
+    "Crypto",
+    "Crypto Prices",
+    "Recurring",
+    "Hide From New",
+    "Bitcoin",
+    "Daily"
+   ]
   }
  ],
  "top_titles": [
   "Chiefs vs. Bills",
   "Bitcoin price on November 27?",
   "Fed Decision in December?",
-  "Suns vs. Rockets",
   "Next French Presidential Election",
   "Taipei Mayor Election Winner",
-  "São Paulo FC vs. Clube do Remo - More Markets",
   "Prime Minister of Israel after the next election?",
-  "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit in November?",
   "What price will Bitcoin hit on November 26?",
+  "Suns vs. Rockets",
+  "UEFA Champions League: 2027 Champion",
   "Next Prime Minister of Spain?",
-  "Bulls vs. Hornets",
+  "CF Pachuca vs. CD Guadalajara - More Markets",
   "Elon Musk # tweets November 20 - November 27, 2026?",
   "B200 average rental price in March 2027?",
   "What price will Bitcoin hit in 2026?",
-  "Broncos vs. Steelers",
-  "São Paulo FC vs. Clube do Remo",
   "TCU vs. Texas Tech",
+  "Broncos vs. Steelers",
+  "Bitcoin above ___ on November 27?",
   "B200 average rental price in December 2026?",
   "What price will Bitcoin hit November 23-29?",
+  "Counter-Strike: Lynn Vision vs Heroic (BO3) - PGL Major Singapore Stage 1",
   "Israel x Iran ceasefire continues through...?",
   "Presidential Election Winner 2028",
-  "B200 average rental price in June 2027?",
-  "New Taipei Mayor Election Winner"
+  "New Taipei Mayor Election Winner",
+  "Republican Presidential Nominee 2028"
  ]
 }
