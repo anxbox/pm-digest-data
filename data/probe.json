@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-27T21:48:46.491129+00:00",
+ "ts": "2026-11-27T22:50:15.138678+00:00",
  "pages_fetched": 21,
- "events_total": 2097,
- "sub_markets_total": 53666,
- "single_game_events": 822,
+ "events_total": 2100,
+ "sub_markets_total": 53566,
+ "single_game_events": 798,
  "event_keys": [
   "active",
   "archived",
@@ -72,9 +72,7 @@
   "archived",
   "automaticallyActive",
   "bestAsk",
-  "bestBid",
   "clearBookOnStart",
-  "clobRewards",
   "clobTokenIds",
   "closed",
   "comboStatus",
@@ -174,18 +172,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "3217650.08812",
-  "volume": "7339724.757153",
-  "openInterest": "5455018.281858001",
+  "liquidity": "2757444.39229",
+  "volume": "8086887.194239",
+  "openInterest": "5916067.239071",
   "createdAt": "2026-11-07T13:00:44.13111Z",
-  "updatedAt": "2026-11-27T21:48:13.244388Z",
-  "competitive": "0.9999750006249843",
-  "volume24hr": "6710002.862637001",
-  "volume1wk": "7268382.012656001",
-  "volume1mo": "7270843.552656001",
-  "volume1yr": "7270843.552656001",
+  "updatedAt": "2026-11-27T22:45:14.274814Z",
+  "competitive": "0.9986695225286113",
+  "volume24hr": "7451930.034572",
+  "volume1wk": "8011079.619557",
+  "volume1mo": "8013541.159557",
+  "volume1yr": "8013541.159557",
   "enableOrderBook": "True",
-  "liquidityClob": "3217650.08812",
+  "liquidityClob": "2757444.39229",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 306>",
@@ -205,18 +203,18 @@
   "slug": "nfl-den-pit-2026-11-27",
   "resolutionSource": "https://www.nfl.com/scores",
   "endDate": "2026-11-27T20:00:00Z",
-  "liquidity": "419997.8242",
+  "liquidity": "923367.92325",
   "startDate": "2026-11-07T13:00:50Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nfl.png",
   "description": "In the upcoming NFL football game between Broncos and Steelers, originally scheduled for Friday, November 27, 2026 at 3:00 PM ET (as of creation of the first ma",
   "outcomes": "[\"Broncos\", \"Steelers\"]",
-  "outcomePrices": "[\"0.055\", \"0.945\"]",
-  "volume": "4957772.277435",
+  "outcomePrices": "[\"0.0005\", \"0.9995\"]",
+  "volume": "5415843.117085",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-11-07T13:00:44.471385Z",
-  "updatedAt": "2026-11-27T21:47:22.320717Z",
+  "updatedAt": "2026-11-27T22:45:21.577135Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
@@ -226,24 +224,24 @@
   "groupItemThreshold": "0",
   "questionID": "0xcba4673081d8b3db0cfef963096e7b4d55978cb5e33243e6596626655bc9de82",
   "enableOrderBook": "True",
-  "orderPriceMinTickSize": "0.01",
+  "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "4957772.277435",
-  "liquidityNum": "419997.8242",
+  "volumeNum": "5415843.117085",
+  "liquidityNum": "923367.92325",
   "endDateIso": "2026-11-27",
   "startDateIso": "2026-11-07",
   "hasReviewedDates": "True",
-  "volume24hr": "4807037.895863001",
-  "volume1wk": "4980133.656483001",
-  "volume1mo": "4980243.196483001",
-  "volume1yr": "4980243.196483001",
+  "volume24hr": "5273126.827153",
+  "volume1wk": "5446596.760837001",
+  "volume1mo": "5446706.300837",
+  "volume1yr": "5446706.300837",
   "gameStartTime": "2026-11-27 20:00:00+00",
   "secondsDelay": "1"
  },
  "multi_option_event": {
   "title": "Broncos vs. Steelers",
   "slug": "nfl-den-pit-2026-11-27",
-  "n_sub": 192,
+  "n_sub": 165,
   "sub_markets": [
    {
     "question": "Broncos vs. Steelers",
@@ -251,7 +249,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Broncos\", \"Steelers\"]",
-    "outcomePrices": "[\"0.055\", \"0.945\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
@@ -260,7 +258,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Broncos\", \"Steelers\"]",
-    "outcomePrices": "[\"0.05\", \"0.95\"]",
+    "outcomePrices": "[\"0.003\", \"0.997\"]",
     "closed": "False"
    },
    {
@@ -269,7 +267,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Broncos\", \"Steelers\"]",
-    "outcomePrices": "[\"0.04\", \"0.96\"]",
+    "outcomePrices": "[\"0.003\", \"0.997\"]",
     "closed": "False"
    },
    {
@@ -278,7 +276,7 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Broncos\", \"Steelers\"]",
-    "outcomePrices": "[\"0.0445\", \"0.9555\"]",
+    "outcomePrices": "[\"0.0035\", \"0.9965\"]",
     "closed": "False"
    },
    {
@@ -287,20 +285,20 @@
     "groupItemThreshold": "1",
     "shortTitle": "None",
     "outcomes": "[\"Broncos\", \"Steelers\"]",
-    "outcomePrices": "[\"0.0155\", \"0.9845\"]",
+    "outcomePrices": "[\"0.005\", \"0.995\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "sports": 822,
-  "economy": 100,
-  "tech": 516,
-  "politics": 219,
-  "crypto": 138,
-  "culture": 89,
-  "geopolitics": 161,
-  "(空)": 52
+  "sports": 801,
+  "economy": 103,
+  "tech": 519,
+  "politics": 225,
+  "crypto": 146,
+  "culture": 91,
+  "geopolitics": 164,
+  "(空)": 51
  },
  "tag_samples": [
   {
@@ -321,16 +319,6 @@
     "Economy",
     "Fed Rates",
     "Kevin Warsh"
-   ]
-  },
-  {
-   "title": "Nottingham Forest FC vs. Chelsea FC",
-   "tags": [
-    "Sports",
-    "Games",
-    "Soccer",
-    "Premier League",
-    "EPL"
    ]
   },
   {
@@ -383,12 +371,22 @@
     "Games",
     "Basketball"
    ]
+  },
+  {
+   "title": "Next Prime Minister of Spain?",
+   "tags": [
+    "Spain",
+    "Politics",
+    "Elections",
+    "parliament",
+    "Main Election",
+    "Pedro Sanchez"
+   ]
   }
  ],
  "top_titles": [
   "Broncos vs. Steelers",
   "Fed Decision in December?",
-  "Nottingham Forest FC vs. Chelsea FC",
   "Taipei Mayor Election Winner",
   "Democratic Presidential Nominee 2028",
   "Next French Presidential Election",
@@ -396,20 +394,21 @@
   "Heat vs. Knicks",
   "Next Prime Minister of Spain?",
   "AFC Asian Cup 2027: Group F Winner",
-  "Nottingham Forest FC vs. Chelsea FC - More Markets",
   "What price will Bitcoin hit on November 27?",
   "What price will Bitcoin hit in November?",
   "Lakers vs. Spurs",
   "What price will Bitcoin hit in 2026?",
   "Mavericks vs. Suns",
   "Minnesota vs. Wisconsin",
-  "UEFA Champions League: 2027 Champion",
+  "Rangers vs. Blackhawks",
   "Red Wings vs. Blue Jackets",
-  "B300 average rental price in January 2027?",
-  "Prime Minister of Israel after the next election?",
+  "UEFA Champions League: 2027 Champion",
   "Kings vs. Ducks",
+  "B300 average rental price in January 2027?",
   "B200 average rental price in December 2026?",
+  "Prime Minister of Israel after the next election?",
   "Grizzlies vs. Timberwolves",
+  "Senators vs. Lightning",
   "What price will Bitcoin hit November 23-29?"
  ]
 }
