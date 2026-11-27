@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-27T18:49:12.989372+00:00",
+ "ts": "2026-11-27T19:52:19.979767+00:00",
  "pages_fetched": 21,
- "events_total": 2094,
- "sub_markets_total": 53047,
- "single_game_events": 869,
+ "events_total": 2100,
+ "sub_markets_total": 53416,
+ "single_game_events": 868,
  "event_keys": [
   "active",
   "archived",
@@ -169,18 +169,18 @@
   "new": "False",
   "featured": "False",
   "restricted": "True",
-  "liquidity": "1331354.82079",
-  "volume": "3491213.0743690003",
-  "openInterest": "885382.910885",
+  "liquidity": "928405.39764",
+  "volume": "4423731.255434999",
+  "openInterest": "711673.7294739999",
   "createdAt": "2026-11-27T13:39:12.175305Z",
-  "updatedAt": "2026-11-27T18:48:30.680457Z",
-  "competitive": "0.9734965562559322",
-  "volume24hr": "3648133.125961004",
-  "volume1wk": "3648133.125961004",
-  "volume1mo": "3648133.125961004",
-  "volume1yr": "3648133.125961004",
+  "updatedAt": "2026-11-27T19:49:38.417169Z",
+  "competitive": "0.8003199679231757",
+  "volume24hr": "4460610.966932999",
+  "volume1wk": "4460610.966932999",
+  "volume1mo": "4460610.966932999",
+  "volume1yr": "4460610.966932999",
   "enableOrderBook": "True",
-  "liquidityClob": "1331354.82079",
+  "liquidityClob": "928405.39764",
   "negRisk": "False",
   "commentCount": "0",
   "markets": "<list 6>",
@@ -206,11 +206,11 @@
   "description": "This market refers to the Dota 2 Lower Bracket Quarterfinal 2 match between Aurora and PARIVISION in the BLAST Slam Playoffs, initially scheduled for November 2",
   "outcomes": "[\"Aurora\", \"PARIVISION\"]",
   "outcomePrices": "[\"0\", \"1\"]",
-  "volume": "2136462.4455520003",
+  "volume": "2136462.445552",
   "active": "True",
   "closed": "True",
   "createdAt": "2026-11-27T13:39:12.452066Z",
-  "updatedAt": "2026-11-27T18:37:37.422518Z",
+  "updatedAt": "2026-11-27T19:37:39.467116Z",
   "closedTime": "2026-11-27 17:31:57.69854+00",
   "new": "False",
   "featured": "False",
@@ -225,37 +225,28 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "resolved",
-  "volumeNum": "2136462.4455520003",
+  "volumeNum": "2136462.445552",
   "endDateIso": "2026-11-27",
   "startDateIso": "2026-11-27",
   "hasReviewedDates": "True",
-  "volume24hr": "2136462.4455520026",
-  "volume1wk": "2136462.4455520026",
-  "volume1mo": "2136462.4455520026",
-  "volume1yr": "2136462.4455520026",
+  "volume24hr": "2136462.445551998",
+  "volume1wk": "2136462.445551998",
+  "volume1mo": "2136462.445551998",
+  "volume1yr": "2136462.445551998",
   "gameStartTime": "2026-11-27 16:00:00+00"
  },
  "multi_option_event": {
   "title": "Dota 2: Aurora vs PARIVISION (BO3) - BLAST Slam Playoffs",
   "slug": "dota2-aur1-pari-2026-11-27",
-  "n_sub": 5,
+  "n_sub": 4,
   "sub_markets": [
-   {
-    "question": "Dota 2: Aurora vs PARIVISION - Game 2 Winner",
-    "groupItemTitle": "Game 2 Winner",
-    "groupItemThreshold": "None",
-    "shortTitle": "None",
-    "outcomes": "[\"Aurora\", \"PARIVISION\"]",
-    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
-    "closed": "False"
-   },
    {
     "question": "Dota 2: Aurora vs PARIVISION (BO3) - BLAST Slam Playoffs",
     "groupItemTitle": "Match Winner",
     "groupItemThreshold": "None",
     "shortTitle": "None",
     "outcomes": "[\"Aurora\", \"PARIVISION\"]",
-    "outcomePrices": "[\"0.345\", \"0.655\"]",
+    "outcomePrices": "[\"0.0005\", \"0.9995\"]",
     "closed": "False"
    },
    {
@@ -288,14 +279,14 @@
   ]
  },
  "category_distribution": {
-  "sports": 848,
+  "sports": 854,
   "economy": 98,
-  "tech": 513,
-  "politics": 212,
-  "crypto": 129,
+  "tech": 514,
+  "politics": 209,
+  "crypto": 136,
+  "geopolitics": 151,
   "culture": 85,
-  "geopolitics": 155,
-  "(空)": 54
+  "(空)": 53
  },
  "tag_samples": [
   {
@@ -330,6 +321,16 @@
    ]
   },
   {
+   "title": "Nottingham Forest FC vs. Chelsea FC",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "Premier League",
+    "EPL"
+   ]
+  },
+  {
    "title": "Democratic Presidential Nominee 2028",
    "tags": [
     "United States",
@@ -341,13 +342,12 @@
    ]
   },
   {
-   "title": "Nottingham Forest FC vs. Chelsea FC",
+   "title": "Broncos vs. Steelers",
    "tags": [
     "Sports",
+    "NFL",
     "Games",
-    "Soccer",
-    "Premier League",
-    "EPL"
+    "Thanksgiving"
    ]
   },
   {
@@ -362,23 +362,14 @@
    ]
   },
   {
-   "title": "Broncos vs. Steelers",
+   "title": "Next Prime Minister of Spain?",
    "tags": [
-    "Sports",
-    "NFL",
-    "Games",
-    "Thanksgiving"
-   ]
-  },
-  {
-   "title": "What price will Bitcoin hit in November?",
-   "tags": [
-    "Bitcoin",
-    "Monthly",
-    "Hit Price",
-    "Crypto",
-    "Crypto Prices",
-    "Recurring"
+    "Spain",
+    "Politics",
+    "Elections",
+    "parliament",
+    "Main Election",
+    "Pedro Sanchez"
    ]
   }
  ],
@@ -386,27 +377,27 @@
   "Dota 2: Aurora vs PARIVISION (BO3) - BLAST Slam Playoffs",
   "Fed Decision in December?",
   "Taipei Mayor Election Winner",
-  "Democratic Presidential Nominee 2028",
   "Nottingham Forest FC vs. Chelsea FC",
-  "Next French Presidential Election",
+  "Democratic Presidential Nominee 2028",
   "Broncos vs. Steelers",
+  "Next French Presidential Election",
+  "Next Prime Minister of Spain?",
+  "Warriors vs. Trail Blazers",
   "What price will Bitcoin hit in November?",
   "Heat vs. Knicks",
-  "Next Prime Minister of Spain?",
   "What price will Bitcoin hit on November 27?",
+  "Nebraska vs. Iowa",
   "Utah vs. Predators",
   "What price will Bitcoin hit in 2026?",
-  "Warriors vs. Trail Blazers",
-  "Nebraska vs. Iowa",
+  "Mavericks vs. Suns",
+  "B300 average rental price in January 2027?",
+  "Lakers vs. Spurs",
   "Minnesota vs. Wisconsin",
-  "Elon Musk # tweets November 20 - November 27, 2026?",
   "Prime Minister of Israel after the next election?",
   "UEFA Champions League: 2027 Champion",
-  "B300 average rental price in January 2027?",
   "B200 average rental price in December 2026?",
-  "76ers vs. Pacers",
-  "Texas vs. Texas A&M",
-  "VVV Venlo vs. RKC Waalwijk",
-  "What price will Bitcoin hit November 23-29?"
+  "Tulsa vs. UTSA",
+  "What price will Bitcoin hit November 23-29?",
+  "76ers vs. Pacers"
  ]
 }
