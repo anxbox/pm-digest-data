@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-28T03:14:18.014721+00:00",
+ "ts": "2026-11-28T04:19:48.934006+00:00",
  "pages_fetched": 21,
- "events_total": 2085,
- "sub_markets_total": 53003,
- "single_game_events": 737,
+ "events_total": 2099,
+ "sub_markets_total": 51605,
+ "single_game_events": 739,
  "event_keys": [
   "active",
   "archived",
@@ -167,19 +167,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "5491589.73115",
-  "volume": "67352791.33138199",
-  "openInterest": "10011485.743746",
+  "liquidity": "5518037.33018",
+  "volume": "67375464.10588899",
+  "openInterest": "10004429.749973",
   "sortBy": "ascending",
   "createdAt": "2026-07-30T00:36:56.42426Z",
-  "updatedAt": "2026-11-28T03:11:36.076454Z",
+  "updatedAt": "2026-11-28T04:13:35.669475Z",
   "competitive": "0.8347071221385196",
-  "volume24hr": "4485766.6164690005",
-  "volume1wk": "19675608.376187",
-  "volume1mo": "62360600.416932",
-  "volume1yr": "67368209.644522",
+  "volume24hr": "4474773.923644999",
+  "volume1wk": "19668915.506562",
+  "volume1mo": "62318315.508327",
+  "volume1yr": "67375977.808917",
   "enableOrderBook": "True",
-  "liquidityClob": "5491589.73115",
+  "liquidityClob": "5518037.33018",
   "negRisk": "True",
   "negRiskMarketID": "0xa74f5328517db0e030a5e62edc800e37bd36ca6e455571b14e8bb2b0dd38d700",
   "commentCount": "0",
@@ -198,18 +198,18 @@
   "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
   "resolutionSource": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
   "endDate": "2026-12-09T23:59:00Z",
-  "liquidity": "440945.82748",
+  "liquidity": "437339.5966",
   "startDate": "2026-07-30T00:53:15.730668Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "description": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.0015\", \"0.9985\"]",
-  "volume": "9931271.919416",
+  "volume": "9931771.919416001",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-07-30T00:36:56.830135Z",
-  "updatedAt": "2026-11-28T03:11:21.482875Z",
+  "updatedAt": "2026-11-28T04:13:21.185117Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -222,15 +222,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "9931271.919416",
-  "liquidityNum": "440945.82748",
+  "volumeNum": "9931771.919416001",
+  "liquidityNum": "437339.5966",
   "endDateIso": "2026-12-09",
   "startDateIso": "2026-07-30",
   "hasReviewedDates": "True",
-  "volume24hr": "449720.382",
-  "volume1wk": "2230145.719603",
-  "volume1mo": "9094220.944247",
-  "volume1yr": "9931271.919416",
+  "volume24hr": "446394.582",
+  "volume1wk": "2227312.386269",
+  "volume1mo": "9094014.875246998",
+  "volume1yr": "9931771.919416",
   "clobTokenIds": "[\"17640596861394454242836532536014033416733783473450136742726948856144855149507\", \"10423673626377530789149720287419191120396356671195972578858475044053097674219"
  },
  "multi_option_event": {
@@ -262,7 +262,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.036\", \"0.964\"]",
+    "outcomePrices": "[\"0.039\", \"0.961\"]",
     "closed": "False"
    },
    {
@@ -286,14 +286,14 @@
   ]
  },
  "category_distribution": {
-  "economy": 108,
-  "sports": 746,
-  "tech": 531,
-  "politics": 219,
-  "crypto": 150,
-  "culture": 98,
-  "geopolitics": 177,
-  "(空)": 56
+  "economy": 105,
+  "sports": 753,
+  "tech": 536,
+  "politics": 220,
+  "crypto": 152,
+  "culture": 97,
+  "geopolitics": 179,
+  "(空)": 57
  },
  "tag_samples": [
   {
@@ -305,15 +305,6 @@
     "Economy",
     "Fed Rates",
     "Kevin Warsh"
-   ]
-  },
-  {
-   "title": "76ers vs. Pacers",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
    ]
   },
   {
@@ -364,40 +355,48 @@
    ]
   },
   {
-   "title": "Bucks vs. Pistons",
+   "title": "Warriors vs. Trail Blazers",
    "tags": [
     "Sports",
     "NBA",
     "Games",
     "Basketball"
    ]
+  },
+  {
+   "title": "Texas vs. Texas A&M",
+   "tags": [
+    "Sports",
+    "CFB",
+    "Games"
+   ]
   }
  ],
  "top_titles": [
   "Fed Decision in December?",
-  "76ers vs. Pacers",
   "Lakers vs. Spurs",
   "Grizzlies vs. Timberwolves",
   "Mavericks vs. Suns",
   "Hawks vs. Celtics",
   "Taipei Mayor Election Winner",
-  "Bucks vs. Pistons",
-  "Texas vs. Texas A&M",
-  "Minnesota vs. Wisconsin",
   "Warriors vs. Trail Blazers",
-  "Democratic Presidential Nominee 2028",
-  "Next Prime Minister of Spain?",
+  "Texas vs. Texas A&M",
   "Nuggets vs. Jazz",
-  "Nets vs. Raptors",
-  "Next French Presidential Election",
+  "Democratic Presidential Nominee 2028",
   "Pelicans vs. Clippers",
+  "Next Prime Minister of Spain?",
+  "Next French Presidential Election",
   "What price will Bitcoin hit on November 27?",
   "West Virginia vs. Utah",
   "What price will Bitcoin hit in November?",
   "What price will Bitcoin hit in 2026?",
-  "Columbus Crew vs. Inter Miami CF",
   "UEFA Champions League: 2027 Champion",
+  "Counter-Strike: FUT Esports vs FlyQuest (BO1) - PGL Major Singapore Stage 2",
   "B300 average rental price in January 2027?",
-  "Columbus Crew vs. Inter Miami CF - More Markets"
+  "B200 average rental price in December 2026?",
+  "What price will Bitcoin hit November 23-29?",
+  "Bitcoin above ___ on November 28?",
+  "Elon Musk # tweets November 26 - November 28, 2026?",
+  "H100 average rental price in January 2027?"
  ]
 }
