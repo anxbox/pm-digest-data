@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-28T15:39:18.037460+00:00",
+ "ts": "2026-11-28T16:28:42.887084+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 52129,
- "single_game_events": 1000,
+ "events_total": 2096,
+ "sub_markets_total": 51729,
+ "single_game_events": 998,
  "event_keys": [
   "active",
   "archived",
@@ -106,7 +106,6 @@
   "negRiskRequestID",
   "new",
   "oneDayPriceChange",
-  "oneHourPriceChange",
   "oneMonthPriceChange",
   "oneWeekPriceChange",
   "orderMinSize",
@@ -169,22 +168,22 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "1495157.58421",
-  "volume": "14979517.285462001",
-  "openInterest": "4672106.333932",
+  "liquidity": "1519288.1498",
+  "volume": "14995887.165461998",
+  "openInterest": "4669032.543932",
   "sortBy": "price",
   "createdAt": "2026-08-14T12:24:28.93129Z",
-  "updatedAt": "2026-11-28T15:35:39.596091Z",
+  "updatedAt": "2026-11-28T16:27:37.644693Z",
   "competitive": "0.8003199679231757",
-  "volume24hr": "4975829.465405",
-  "volume1wk": "7881347.188559",
-  "volume1mo": "12761216.929335002",
-  "volume1yr": "14977556.011259",
+  "volume24hr": "4935526.271632001",
+  "volume1wk": "7900525.477848001",
+  "volume1mo": "12779765.889771001",
+  "volume1yr": "14996907.551259002",
   "enableOrderBook": "True",
-  "liquidityClob": "1495157.58421",
+  "liquidityClob": "1519288.1498",
   "negRisk": "True",
   "negRiskMarketID": "0xbbc8f10af9974f899d491e7d457a30d0cbb60c12a84eef0145226da84b415a00",
-  "commentCount": "615",
+  "commentCount": "620",
   "markets": "<list 30>",
   "tags": "<list 6>",
   "cyom": "False",
@@ -200,18 +199,18 @@
   "slug": "will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
   "resolutionSource": "https://db.cec.gov.tw/",
   "endDate": "2026-11-29T04:59:00Z",
-  "liquidity": "409597.39715",
+  "liquidity": "447068.43772",
   "startDate": "2026-08-14T12:25:31Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tw2026-chiang-wan-an-taipei-v3-db4706c7ae.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tw2026-chiang-wan-an-taipei-v3-db4706c7ae.jpg",
   "description": "Taiwanese local elections are scheduled to be held on November 28, 2026.\n\nThis market will resolve according to the candidate who becomes the next Mayor of Taip",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.9995\", \"0.0005\"]",
-  "volume": "7868333.991381999",
+  "volume": "7874962.891381999",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-08-14T12:24:29.417042Z",
-  "updatedAt": "2026-11-28T15:37:22.420006Z",
+  "updatedAt": "2026-11-28T16:27:22.395724Z",
   "new": "False",
   "featured": "False",
   "archived": "False",
@@ -224,15 +223,15 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "umaResolutionStatus": "proposed",
-  "volumeNum": "7868333.991381999",
-  "liquidityNum": "409597.39715",
+  "volumeNum": "7874962.891381999",
+  "liquidityNum": "447068.43772",
   "endDateIso": "2026-11-29",
   "startDateIso": "2026-08-14",
   "hasReviewedDates": "True",
-  "volume24hr": "3068263.891048",
-  "volume1wk": "4745610.745355001",
-  "volume1mo": "6858388.924206001",
-  "volume1yr": "7868333.991382001",
+  "volume24hr": "3065019.3872130006",
+  "volume1wk": "4755125.946872001",
+  "volume1mo": "6867229.454642001",
+  "volume1yr": "7877909.501382001",
   "clobTokenIds": "[\"100205215067722297517595068937257697192973299370955287626157382353628199508318\", \"2804288081913505423670511221086671542640206826707973130821825250953764402590"
  },
  "multi_option_event": {
@@ -288,14 +287,14 @@
   ]
  },
  "category_distribution": {
-  "tech": 468,
-  "economy": 81,
-  "sports": 961,
-  "politics": 182,
-  "crypto": 117,
+  "tech": 449,
+  "economy": 84,
+  "sports": 968,
+  "crypto": 122,
   "culture": 88,
-  "geopolitics": 159,
-  "(空)": 44
+  "politics": 182,
+  "geopolitics": 158,
+  "(空)": 45
  },
  "tag_samples": [
   {
@@ -330,36 +329,13 @@
    ]
   },
   {
-   "title": "Next French Presidential Election",
+   "title": "Manchester United FC vs. Brentford FC",
    "tags": [
-    "French Election",
-    "Main Election",
-    "France",
-    "World",
-    "Politics",
-    "Global Elections"
-   ]
-  },
-  {
-   "title": "New Taipei Mayor Election Winner",
-   "tags": [
-    "Taiwan",
-    "Politics",
-    "Elections",
-    "Main Election",
-    "Global Elections",
-    "Taiwan Elections"
-   ]
-  },
-  {
-   "title": "Democratic Presidential Nominee 2028",
-   "tags": [
-    "United States",
-    "Elections",
-    "Politics",
-    "US Election",
-    "World Elections",
-    "Earn 3.25%"
+    "Sports",
+    "Games",
+    "Soccer",
+    "Premier League",
+    "EPL"
    ]
   },
   {
@@ -374,13 +350,34 @@
    ]
   },
   {
-   "title": "Manchester United FC vs. Brentford FC",
+   "title": "New Taipei Mayor Election Winner",
+   "tags": [
+    "Taiwan",
+    "Politics",
+    "Elections",
+    "Main Election",
+    "Global Elections",
+    "Taiwan Elections"
+   ]
+  },
+  {
+   "title": "Next French Presidential Election",
+   "tags": [
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
+    "Politics",
+    "Global Elections"
+   ]
+  },
+  {
+   "title": "Hamburger SV vs. FC Bayern München - More Markets",
    "tags": [
     "Sports",
     "Games",
     "Soccer",
-    "Premier League",
-    "EPL"
+    "Bundesliga"
    ]
   }
  ],
@@ -388,27 +385,27 @@
   "Taipei Mayor Election Winner",
   "Fed Decision in December?",
   "Dota 2: 1win vs PARIVISION (BO3) - BLAST Slam Playoffs",
-  "Next French Presidential Election",
-  "New Taipei Mayor Election Winner",
-  "Democratic Presidential Nominee 2028",
-  "Next Prime Minister of Spain?",
   "Manchester United FC vs. Brentford FC",
-  "Taichung Mayor Election Winner",
+  "Next Prime Minister of Spain?",
+  "New Taipei Mayor Election Winner",
+  "Next French Presidential Election",
   "Hamburger SV vs. FC Bayern München - More Markets",
+  "Taichung Mayor Election Winner",
+  "Hamburger SV vs. FC Bayern München",
   "UEFA Europa League: 2027 Champion",
   "What price will Bitcoin hit in November?",
   "Elon Musk # tweets November 26 - November 28, 2026?",
+  "Manchester United FC vs. Brentford FC - More Markets",
   "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit in 2026?",
   "Bitcoin above ___ on November 28?",
-  "2026 Taipei Mayoral Election: Margin of Victory",
   "What price will Bitcoin hit on November 28?",
-  "Hamburger SV vs. FC Bayern München",
+  "2026 Taipei Mayoral Election: Margin of Victory",
+  "Presidential Election Winner 2028",
+  "Democratic Presidential Nominee 2028",
   "2026 Taiwanese Local Elections: Party Winner",
   "NBA: 2027 Champion",
-  "What price will Bitcoin hit November 23-29?",
-  "Spain General Election Winner",
-  "H200 average rental price in December 2026?",
-  "Elon Musk # tweets November 24 - December 1, 2026?"
+  "Republican Presidential Nominee 2028",
+  "Leeds United FC vs. Coventry City FC"
  ]
 }
