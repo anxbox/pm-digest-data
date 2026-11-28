@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-28T08:45:20.214563+00:00",
+ "ts": "2026-11-28T09:45:22.524408+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 48942,
- "single_game_events": 807,
+ "events_total": 2099,
+ "sub_markets_total": 49242,
+ "single_game_events": 829,
  "event_keys": [
   "active",
   "archived",
@@ -167,19 +167,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "4724323.8072",
-  "volume": "68507128.377027",
-  "openInterest": "9951200.565983001",
+  "liquidity": "4244535.84672",
+  "volume": "68517988.588628",
+  "openInterest": "10001603.421098001",
   "sortBy": "ascending",
   "createdAt": "2026-07-30T00:36:56.42426Z",
-  "updatedAt": "2026-11-28T08:39:37.30588Z",
+  "updatedAt": "2026-11-28T09:43:35.105925Z",
   "competitive": "0.8347071221385196",
-  "volume24hr": "4784469.236897",
-  "volume1wk": "20499095.790570997",
-  "volume1mo": "63384735.906683",
-  "volume1yr": "68510319.701913",
+  "volume24hr": "4721870.001809",
+  "volume1wk": "20455744.699904",
+  "volume1mo": "63397171.558253",
+  "volume1yr": "68523278.06231299",
   "enableOrderBook": "True",
-  "liquidityClob": "4724323.8072",
+  "liquidityClob": "4244535.84672",
   "negRisk": "True",
   "negRiskMarketID": "0xa74f5328517db0e030a5e62edc800e37bd36ca6e455571b14e8bb2b0dd38d700",
   "commentCount": "0",
@@ -198,7 +198,7 @@
   "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
   "resolutionSource": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
   "endDate": "2026-12-09T23:59:00Z",
-  "liquidity": "441958.51708",
+  "liquidity": "445058.46593",
   "startDate": "2026-07-30T00:53:15.730668Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
@@ -209,7 +209,7 @@
   "active": "True",
   "closed": "False",
   "createdAt": "2026-07-30T00:36:56.830135Z",
-  "updatedAt": "2026-11-28T08:39:21.582025Z",
+  "updatedAt": "2026-11-28T09:43:21.232432Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -223,12 +223,12 @@
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
   "volumeNum": "9932589.379416",
-  "liquidityNum": "441958.51708",
+  "liquidityNum": "445058.46593",
   "endDateIso": "2026-12-09",
   "startDateIso": "2026-07-30",
   "hasReviewedDates": "True",
-  "volume24hr": "424246.12",
-  "volume1wk": "2181039.625019",
+  "volume24hr": "417240.533",
+  "volume1wk": "2168039.0956869996",
   "volume1mo": "9094735.861247",
   "volume1yr": "9932589.379415998",
   "clobTokenIds": "[\"17640596861394454242836532536014033416733783473450136742726948856144855149507\", \"10423673626377530789149720287419191120396356671195972578858475044053097674219"
@@ -262,7 +262,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.038\", \"0.962\"]",
+    "outcomePrices": "[\"0.037\", \"0.963\"]",
     "closed": "False"
    },
    {
@@ -286,14 +286,14 @@
   ]
  },
  "category_distribution": {
-  "economy": 99,
-  "tech": 509,
-  "sports": 810,
-  "politics": 209,
-  "crypto": 156,
-  "culture": 89,
-  "geopolitics": 176,
-  "(空)": 52
+  "economy": 101,
+  "tech": 512,
+  "sports": 823,
+  "politics": 199,
+  "crypto": 148,
+  "culture": 91,
+  "geopolitics": 175,
+  "(空)": 50
  },
  "tag_samples": [
   {
@@ -319,7 +319,18 @@
    ]
   },
   {
-   "title": "Counter-Strike: MIBR vs 100 Thieves (BO1) - PGL Major Singapore Stage 2",
+   "title": "Counter-Strike: G2 vs NIP (BO1) - PGL Major Singapore Stage 2",
+   "tags": [
+    "Esports",
+    "counter strike 2",
+    "Games",
+    "Sports",
+    "PGL Major Singapore 2026",
+    "Swiss Stage"
+   ]
+  },
+  {
+   "title": "Counter-Strike: Nemiga vs Lynn Vision (BO1) - PGL Major Singapore Stage 2",
    "tags": [
     "Esports",
     "counter strike 2",
@@ -341,17 +352,6 @@
    ]
   },
   {
-   "title": "Next French Presidential Election",
-   "tags": [
-    "French Election",
-    "Main Election",
-    "France",
-    "World",
-    "Politics",
-    "Global Elections"
-   ]
-  },
-  {
    "title": "Next Prime Minister of Spain?",
    "tags": [
     "Spain",
@@ -363,52 +363,53 @@
    ]
   },
   {
-   "title": "What price will Bitcoin hit in November?",
+   "title": "Next French Presidential Election",
    "tags": [
-    "Bitcoin",
-    "Monthly",
-    "Hit Price",
-    "Crypto",
-    "Crypto Prices",
-    "Recurring"
+    "French Election",
+    "Main Election",
+    "France",
+    "World",
+    "Politics",
+    "Global Elections"
    ]
   },
   {
-   "title": "UEFA Champions League: 2027 Champion",
+   "title": "New Taipei Mayor Election Winner",
    "tags": [
-    "UCL",
-    "Soccer",
-    "Sports",
-    "Champions League",
-    "UCL Matchday"
+    "Taiwan",
+    "Politics",
+    "Elections",
+    "Main Election",
+    "Global Elections",
+    "Taiwan Elections"
    ]
   }
  ],
  "top_titles": [
   "Fed Decision in December?",
   "Taipei Mayor Election Winner",
-  "Counter-Strike: MIBR vs 100 Thieves (BO1) - PGL Major Singapore Stage 2",
+  "Counter-Strike: G2 vs NIP (BO1) - PGL Major Singapore Stage 2",
+  "Counter-Strike: Nemiga vs Lynn Vision (BO1) - PGL Major Singapore Stage 2",
   "Democratic Presidential Nominee 2028",
-  "Next French Presidential Election",
   "Next Prime Minister of Spain?",
+  "Next French Presidential Election",
+  "New Taipei Mayor Election Winner",
   "What price will Bitcoin hit in November?",
   "UEFA Champions League: 2027 Champion",
-  "What price will Bitcoin hit in 2026?",
-  "New Taipei Mayor Election Winner",
+  "Taichung Mayor Election Winner",
   "Bitcoin above ___ on November 28?",
-  "B300 average rental price in January 2027?",
-  "Elon Musk # tweets November 26 - November 28, 2026?",
+  "What price will Bitcoin hit in 2026?",
   "B200 average rental price in December 2026?",
+  "Elon Musk # tweets November 26 - November 28, 2026?",
+  "B300 average rental price in January 2027?",
+  "Hersonissos 4: Andres Martin vs Oleksandr Ovcharenko",
   "What price will Bitcoin hit November 23-29?",
   "Manchester United FC vs. Brentford FC",
   "NBA: 2027 Champion",
-  "H200 average rental price in December 2026?",
-  "Republican Presidential Nominee 2028",
-  "Elon Musk # tweets November 24 - December 1, 2026?",
   "Taoyuan Mayor Election Winner",
-  "Jensen Huang out as NVIDIA CEO again by...?",
+  "H200 average rental price in December 2026?",
+  "Elon Musk # tweets November 24 - December 1, 2026?",
   "What price will Bitcoin hit on November 28?",
-  "Prime Minister of Israel after the next election?",
-  "Creighton Bluejays vs. Gonzaga Bulldogs"
+  "Jensen Huang out as NVIDIA CEO again by...?"
  ]
 }
