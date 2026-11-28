@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-28T14:46:23.093267+00:00",
+ "ts": "2026-11-28T15:39:18.037460+00:00",
  "pages_fetched": 21,
  "events_total": 2100,
- "sub_markets_total": 51523,
- "single_game_events": 972,
+ "sub_markets_total": 52129,
+ "single_game_events": 1000,
  "event_keys": [
   "active",
   "archived",
@@ -134,6 +134,7 @@
   "takerBaseFee",
   "tradingEligible",
   "umaBond",
+  "umaResolutionStatus",
   "umaResolutionStatuses",
   "umaReward",
   "updatedAt",
@@ -168,22 +169,22 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "1211226.92068",
-  "volume": "14577740.7753",
-  "openInterest": "4740268.770384",
+  "liquidity": "1495157.58421",
+  "volume": "14979517.285462001",
+  "openInterest": "4672106.333932",
   "sortBy": "price",
   "createdAt": "2026-08-14T12:24:28.93129Z",
-  "updatedAt": "2026-11-28T14:45:37.833073Z",
-  "competitive": "0.8012794830785799",
-  "volume24hr": "4772529.292279",
-  "volume1wk": "7620902.419387001",
-  "volume1mo": "12472408.660052001",
-  "volume1yr": "14687635.191258",
+  "updatedAt": "2026-11-28T15:35:39.596091Z",
+  "competitive": "0.8003199679231757",
+  "volume24hr": "4975829.465405",
+  "volume1wk": "7881347.188559",
+  "volume1mo": "12761216.929335002",
+  "volume1yr": "14977556.011259",
   "enableOrderBook": "True",
-  "liquidityClob": "1211226.92068",
+  "liquidityClob": "1495157.58421",
   "negRisk": "True",
   "negRiskMarketID": "0xbbc8f10af9974f899d491e7d457a30d0cbb60c12a84eef0145226da84b415a00",
-  "commentCount": "614",
+  "commentCount": "615",
   "markets": "<list 30>",
   "tags": "<list 6>",
   "cyom": "False",
@@ -199,18 +200,18 @@
   "slug": "will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
   "resolutionSource": "https://db.cec.gov.tw/",
   "endDate": "2026-11-29T04:59:00Z",
-  "liquidity": "160272.96795",
+  "liquidity": "409597.39715",
   "startDate": "2026-08-14T12:25:31Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tw2026-chiang-wan-an-taipei-v3-db4706c7ae.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tw2026-chiang-wan-an-taipei-v3-db4706c7ae.jpg",
   "description": "Taiwanese local elections are scheduled to be held on November 28, 2026.\n\nThis market will resolve according to the candidate who becomes the next Mayor of Taip",
   "outcomes": "[\"Yes\", \"No\"]",
-  "outcomePrices": "[\"0.998\", \"0.002\"]",
-  "volume": "7465256.55122",
+  "outcomePrices": "[\"0.9995\", \"0.0005\"]",
+  "volume": "7868333.991381999",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-08-14T12:24:29.417042Z",
-  "updatedAt": "2026-11-28T14:45:22.21951Z",
+  "updatedAt": "2026-11-28T15:37:22.420006Z",
   "new": "False",
   "featured": "False",
   "archived": "False",
@@ -222,17 +223,17 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "7465256.55122",
-  "liquidityNum": "160272.96795",
+  "umaResolutionStatus": "proposed",
+  "volumeNum": "7868333.991381999",
+  "liquidityNum": "409597.39715",
   "endDateIso": "2026-11-29",
   "startDateIso": "2026-08-14",
   "hasReviewedDates": "True",
-  "volume24hr": "2823660.356171",
-  "volume1wk": "4469595.471414001",
-  "volume1mo": "6564980.052838001",
-  "volume1yr": "7574617.111381",
-  "clobTokenIds": "[\"100205215067722297517595068937257697192973299370955287626157382353628199508318\", \"2804288081913505423670511221086671542640206826707973130821825250953764402590",
-  "comboStatus": "disabled"
+  "volume24hr": "3068263.891048",
+  "volume1wk": "4745610.745355001",
+  "volume1mo": "6858388.924206001",
+  "volume1yr": "7868333.991382001",
+  "clobTokenIds": "[\"100205215067722297517595068937257697192973299370955287626157382353628199508318\", \"2804288081913505423670511221086671542640206826707973130821825250953764402590"
  },
  "multi_option_event": {
   "title": "Taipei Mayor Election Winner",
@@ -245,7 +246,7 @@
     "groupItemThreshold": "0",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.998\", \"0.002\"]",
+    "outcomePrices": "[\"0.9995\", \"0.0005\"]",
     "closed": "False"
    },
    {
@@ -287,14 +288,14 @@
   ]
  },
  "category_distribution": {
-  "tech": 485,
-  "economy": 85,
-  "sports": 925,
-  "politics": 187,
-  "crypto": 123,
-  "culture": 89,
-  "geopolitics": 160,
-  "(空)": 46
+  "tech": 468,
+  "economy": 81,
+  "sports": 961,
+  "politics": 182,
+  "crypto": 117,
+  "culture": 88,
+  "geopolitics": 159,
+  "(空)": 44
  },
  "tag_samples": [
   {
@@ -320,14 +321,12 @@
    ]
   },
   {
-   "title": "Counter-Strike: FlyQuest vs PVISION (BO1) - PGL Major Singapore Stage 2",
+   "title": "Dota 2: 1win vs PARIVISION (BO3) - BLAST Slam Playoffs",
    "tags": [
     "Esports",
-    "counter strike 2",
+    "Dota 2",
     "Games",
-    "Sports",
-    "PGL Major Singapore 2026",
-    "Swiss Stage"
+    "Sports"
    ]
   },
   {
@@ -339,6 +338,17 @@
     "World",
     "Politics",
     "Global Elections"
+   ]
+  },
+  {
+   "title": "New Taipei Mayor Election Winner",
+   "tags": [
+    "Taiwan",
+    "Politics",
+    "Elections",
+    "Main Election",
+    "Global Elections",
+    "Taiwan Elections"
    ]
   },
   {
@@ -364,51 +374,41 @@
    ]
   },
   {
-   "title": "New Taipei Mayor Election Winner",
-   "tags": [
-    "Taiwan",
-    "Politics",
-    "Elections",
-    "Main Election",
-    "Global Elections",
-    "Taiwan Elections"
-   ]
-  },
-  {
-   "title": "Real Betis Balompié vs. Rayo Vallecano de Madrid - More Markets",
+   "title": "Manchester United FC vs. Brentford FC",
    "tags": [
     "Sports",
     "Games",
     "Soccer",
-    "La Liga"
+    "Premier League",
+    "EPL"
    ]
   }
  ],
  "top_titles": [
   "Taipei Mayor Election Winner",
   "Fed Decision in December?",
-  "Counter-Strike: FlyQuest vs PVISION (BO1) - PGL Major Singapore Stage 2",
+  "Dota 2: 1win vs PARIVISION (BO3) - BLAST Slam Playoffs",
   "Next French Presidential Election",
+  "New Taipei Mayor Election Winner",
   "Democratic Presidential Nominee 2028",
   "Next Prime Minister of Spain?",
-  "New Taipei Mayor Election Winner",
-  "Real Betis Balompié vs. Rayo Vallecano de Madrid - More Markets",
-  "What price will Bitcoin hit in November?",
-  "Taichung Mayor Election Winner",
   "Manchester United FC vs. Brentford FC",
-  "UEFA Europa League: 2027 Champion",
+  "Taichung Mayor Election Winner",
   "Hamburger SV vs. FC Bayern München - More Markets",
-  "What price will Bitcoin hit in 2026?",
+  "UEFA Europa League: 2027 Champion",
+  "What price will Bitcoin hit in November?",
   "Elon Musk # tweets November 26 - November 28, 2026?",
   "UEFA Champions League: 2027 Champion",
+  "What price will Bitcoin hit in 2026?",
   "Bitcoin above ___ on November 28?",
   "2026 Taipei Mayoral Election: Margin of Victory",
   "What price will Bitcoin hit on November 28?",
-  "Real Betis Balompié vs. Rayo Vallecano de Madrid",
-  "What price will Bitcoin hit November 23-29?",
-  "Dota 2: 1win vs PARIVISION (BO3) - BLAST Slam Playoffs",
-  "NBA: 2027 Champion",
+  "Hamburger SV vs. FC Bayern München",
   "2026 Taiwanese Local Elections: Party Winner",
-  "H200 average rental price in December 2026?"
+  "NBA: 2027 Champion",
+  "What price will Bitcoin hit November 23-29?",
+  "Spain General Election Winner",
+  "H200 average rental price in December 2026?",
+  "Elon Musk # tweets November 24 - December 1, 2026?"
  ]
 }
