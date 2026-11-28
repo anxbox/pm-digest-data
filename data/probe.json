@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-27T23:45:23.495611+00:00",
+ "ts": "2026-11-28T00:56:45.658728+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 53250,
- "single_game_events": 760,
+ "events_total": 2088,
+ "sub_markets_total": 53540,
+ "single_game_events": 737,
  "event_keys": [
   "active",
   "archived",
@@ -167,19 +167,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "5303734.60345",
-  "volume": "67157281.920007",
-  "openInterest": "10044413.367773",
+  "liquidity": "5449852.5812",
+  "volume": "67284265.05402699",
+  "openInterest": "10021043.333367998",
   "sortBy": "ascending",
   "createdAt": "2026-07-30T00:36:56.42426Z",
-  "updatedAt": "2026-11-27T23:41:37.502759Z",
+  "updatedAt": "2026-11-28T00:51:36.83391Z",
   "competitive": "0.8347071221385196",
-  "volume24hr": "4456006.948441001",
-  "volume1wk": "19760394.232348",
-  "volume1mo": "62276600.174054004",
-  "volume1yr": "67264457.75235699",
+  "volume24hr": "4469044.106528",
+  "volume1wk": "19733160.540513",
+  "volume1mo": "62282731.807283",
+  "volume1yr": "67284469.904027",
   "enableOrderBook": "True",
-  "liquidityClob": "5303734.60345",
+  "liquidityClob": "5449852.5812",
   "negRisk": "True",
   "negRiskMarketID": "0xa74f5328517db0e030a5e62edc800e37bd36ca6e455571b14e8bb2b0dd38d700",
   "commentCount": "0",
@@ -198,18 +198,18 @@
   "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
   "resolutionSource": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
   "endDate": "2026-12-09T23:59:00Z",
-  "liquidity": "437891.83942",
+  "liquidity": "438762.24172",
   "startDate": "2026-07-30T00:53:15.730668Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "description": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.0015\", \"0.9985\"]",
-  "volume": "9917688.417415999",
+  "volume": "9925354.667415999",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-07-30T00:36:56.830135Z",
-  "updatedAt": "2026-11-27T23:41:22.337495Z",
+  "updatedAt": "2026-11-28T00:51:21.734758Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -222,15 +222,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "9917688.417415999",
-  "liquidityNum": "437891.83942",
+  "volumeNum": "9925354.667415999",
+  "liquidityNum": "438762.24172",
   "endDateIso": "2026-12-09",
   "startDateIso": "2026-07-30",
   "hasReviewedDates": "True",
-  "volume24hr": "456528.307",
-  "volume1wk": "2221527.9156029997",
-  "volume1mo": "9082531.837246997",
-  "volume1yr": "9919292.157416",
+  "volume24hr": "458931.534",
+  "volume1wk": "2225629.515603",
+  "volume1mo": "9089005.237247",
+  "volume1yr": "9925854.207416",
   "clobTokenIds": "[\"17640596861394454242836532536014033416733783473450136742726948856144855149507\", \"10423673626377530789149720287419191120396356671195972578858475044053097674219"
  },
  "multi_option_event": {
@@ -262,7 +262,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.042\", \"0.958\"]",
+    "outcomePrices": "[\"0.0405\", \"0.9595\"]",
     "closed": "False"
    },
    {
@@ -280,20 +280,20 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0165\", \"0.9835\"]",
+    "outcomePrices": "[\"0.017\", \"0.983\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "economy": 106,
-  "sports": 765,
-  "tech": 532,
-  "politics": 216,
-  "crypto": 157,
-  "culture": 96,
-  "geopolitics": 173,
-  "(空)": 55
+  "economy": 108,
+  "sports": 746,
+  "tech": 534,
+  "politics": 218,
+  "crypto": 156,
+  "culture": 98,
+  "geopolitics": 171,
+  "(空)": 57
  },
  "tag_samples": [
   {
@@ -317,6 +317,15 @@
    ]
   },
   {
+   "title": "76ers vs. Pacers",
+   "tags": [
+    "Sports",
+    "NBA",
+    "Games",
+    "Basketball"
+   ]
+  },
+  {
    "title": "Taipei Mayor Election Winner",
    "tags": [
     "Taiwan",
@@ -325,6 +334,14 @@
     "Main Election",
     "Global Elections",
     "Taiwan Elections"
+   ]
+  },
+  {
+   "title": "Texas vs. Texas A&M",
+   "tags": [
+    "Sports",
+    "CFB",
+    "Games"
    ]
   },
   {
@@ -339,6 +356,14 @@
    ]
   },
   {
+   "title": "Minnesota vs. Wisconsin",
+   "tags": [
+    "Sports",
+    "CFB",
+    "Games"
+   ]
+  },
+  {
    "title": "Next Prime Minister of Spain?",
    "tags": [
     "Spain",
@@ -348,64 +373,33 @@
     "Main Election",
     "Pedro Sanchez"
    ]
-  },
-  {
-   "title": "Next French Presidential Election",
-   "tags": [
-    "French Election",
-    "Main Election",
-    "France",
-    "World",
-    "Politics",
-    "Global Elections"
-   ]
-  },
-  {
-   "title": "Warriors vs. Trail Blazers",
-   "tags": [
-    "Sports",
-    "NBA",
-    "Games",
-    "Basketball"
-   ]
-  },
-  {
-   "title": "What price will Bitcoin hit on November 27?",
-   "tags": [
-    "Crypto",
-    "Crypto Prices",
-    "Recurring",
-    "Hide From New",
-    "Bitcoin",
-    "Daily"
-   ]
   }
  ],
  "top_titles": [
   "Fed Decision in December?",
   "Heat vs. Knicks",
-  "Taipei Mayor Election Winner",
-  "Democratic Presidential Nominee 2028",
-  "Next Prime Minister of Spain?",
-  "Next French Presidential Election",
-  "Warriors vs. Trail Blazers",
-  "What price will Bitcoin hit on November 27?",
-  "What price will Bitcoin hit in November?",
-  "Lakers vs. Spurs",
   "76ers vs. Pacers",
-  "What price will Bitcoin hit in 2026?",
-  "Mavericks vs. Suns",
-  "Minnesota vs. Wisconsin",
-  "Rangers vs. Blackhawks",
-  "Kings vs. Ducks",
-  "UEFA Champions League: 2027 Champion",
+  "Taipei Mayor Election Winner",
   "Texas vs. Texas A&M",
+  "Democratic Presidential Nominee 2028",
+  "Minnesota vs. Wisconsin",
+  "Next Prime Minister of Spain?",
+  "Warriors vs. Trail Blazers",
+  "Mavericks vs. Suns",
+  "Next French Presidential Election",
+  "Lakers vs. Spurs",
+  "What price will Bitcoin hit on November 27?",
+  "Bucks vs. Pistons",
+  "What price will Bitcoin hit in November?",
+  "What price will Bitcoin hit in 2026?",
+  "Rangers vs. Blackhawks",
+  "Nets vs. Raptors",
+  "UEFA Champions League: 2027 Champion",
+  "Air Force vs. New Mexico",
   "Grizzlies vs. Timberwolves",
-  "B300 average rental price in January 2027?",
+  "Columbus Crew vs. Inter Miami CF",
   "Prime Minister of Israel after the next election?",
   "What price will Bitcoin hit November 23-29?",
-  "B200 average rental price in December 2026?",
-  "Republican Presidential Nominee 2028",
-  "Bitcoin above ___ on November 28?"
+  "B300 average rental price in January 2027?"
  ]
 }
