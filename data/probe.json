@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-28T18:22:14.922321+00:00",
+ "ts": "2026-11-28T19:33:14.779901+00:00",
  "pages_fetched": 21,
- "events_total": 2100,
- "sub_markets_total": 52239,
- "single_game_events": 975,
+ "events_total": 2099,
+ "sub_markets_total": 52187,
+ "single_game_events": 875,
  "event_keys": [
   "active",
   "archived",
@@ -167,19 +167,19 @@
   "new": "False",
   "featured": "True",
   "restricted": "True",
-  "liquidity": "4974486.24977",
-  "volume": "69301802.26706",
-  "openInterest": "10010554.707542",
+  "liquidity": "4934500.76362",
+  "volume": "69363202.186996",
+  "openInterest": "10042102.340171",
   "sortBy": "ascending",
   "createdAt": "2026-07-30T00:36:56.42426Z",
-  "updatedAt": "2026-11-28T18:19:36.038569Z",
+  "updatedAt": "2026-11-28T19:29:36.006831Z",
   "competitive": "0.8347071221385196",
-  "volume24hr": "3196531.03561",
-  "volume1wk": "20247148.25576",
-  "volume1mo": "63983887.966456994",
-  "volume1yr": "69308497.62505999",
+  "volume24hr": "2654106.28576",
+  "volume1wk": "20293274.721996",
+  "volume1mo": "63848224.154875",
+  "volume1yr": "69397767.445906",
   "enableOrderBook": "True",
-  "liquidityClob": "4974486.24977",
+  "liquidityClob": "4934500.76362",
   "negRisk": "True",
   "negRiskMarketID": "0xa74f5328517db0e030a5e62edc800e37bd36ca6e455571b14e8bb2b0dd38d700",
   "commentCount": "0",
@@ -198,18 +198,18 @@
   "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
   "resolutionSource": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
   "endDate": "2026-12-09T23:59:00Z",
-  "liquidity": "400076.51017",
+  "liquidity": "407297.30617",
   "startDate": "2026-07-30T00:53:15.730668Z",
   "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/fed-decision-in-september-762-c4RyWuxRPo1L.jpg",
   "description": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made",
   "outcomes": "[\"Yes\", \"No\"]",
   "outcomePrices": "[\"0.0015\", \"0.9985\"]",
-  "volume": "10017085.364416",
+  "volume": "10028012.384416",
   "active": "True",
   "closed": "False",
   "createdAt": "2026-07-30T00:36:56.830135Z",
-  "updatedAt": "2026-11-28T18:19:21.814232Z",
+  "updatedAt": "2026-11-28T19:29:21.297562Z",
   "new": "False",
   "featured": "False",
   "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -222,15 +222,15 @@
   "enableOrderBook": "True",
   "orderPriceMinTickSize": "0.001",
   "orderMinSize": "5",
-  "volumeNum": "10017085.364416",
-  "liquidityNum": "400076.51017",
+  "volumeNum": "10028012.384416",
+  "liquidityNum": "407297.30617",
   "endDateIso": "2026-12-09",
   "startDateIso": "2026-07-30",
   "hasReviewedDates": "True",
-  "volume24hr": "380393.262",
-  "volume1wk": "2152508.337204",
-  "volume1mo": "9153261.924747",
-  "volume1yr": "10022481.372416",
+  "volume24hr": "157127.33400000003",
+  "volume1wk": "2141917.1454539998",
+  "volume1mo": "9125832.43925",
+  "volume1yr": "10028038.484416",
   "clobTokenIds": "[\"17640596861394454242836532536014033416733783473450136742726948856144855149507\", \"10423673626377530789149720287419191120396356671195972578858475044053097674219"
  },
  "multi_option_event": {
@@ -262,7 +262,7 @@
     "groupItemThreshold": "2",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.0355\", \"0.9645\"]",
+    "outcomePrices": "[\"0.0395\", \"0.9605\"]",
     "closed": "False"
    },
    {
@@ -280,20 +280,20 @@
     "groupItemThreshold": "4",
     "shortTitle": "None",
     "outcomes": "[\"Yes\", \"No\"]",
-    "outcomePrices": "[\"0.018\", \"0.982\"]",
+    "outcomePrices": "[\"0.0185\", \"0.9815\"]",
     "closed": "False"
    }
   ]
  },
  "category_distribution": {
-  "economy": 89,
-  "sports": 955,
-  "tech": 458,
-  "culture": 92,
-  "crypto": 113,
-  "politics": 190,
-  "geopolitics": 167,
-  "(空)": 36
+  "economy": 100,
+  "sports": 865,
+  "tech": 481,
+  "crypto": 128,
+  "politics": 203,
+  "geopolitics": 185,
+  "culture": 98,
+  "(空)": 39
  },
  "tag_samples": [
   {
@@ -357,21 +357,21 @@
    ]
   },
   {
-   "title": "Elon Musk # tweets November 26 - November 28, 2026?",
-   "tags": [
-    "Culture",
-    "Politics",
-    "Tweet Markets",
-    "Recurring"
-   ]
-  },
-  {
    "title": "Predict.fun FDV above ___ one day after launch?",
    "tags": [
     "Crypto",
     "FDV",
     "Pre-Market",
     "Predict.fun"
+   ]
+  },
+  {
+   "title": "Elche CF vs. Club Atlético de Madrid - More Markets",
+   "tags": [
+    "Sports",
+    "Games",
+    "Soccer",
+    "La Liga"
    ]
   }
  ],
@@ -382,24 +382,24 @@
   "Next French Presidential Election",
   "Elche CF vs. Club Atlético de Madrid",
   "Ipswich Town FC vs. Aston Villa FC",
-  "Elon Musk # tweets November 26 - November 28, 2026?",
   "Predict.fun FDV above ___ one day after launch?",
+  "Elche CF vs. Club Atlético de Madrid - More Markets",
   "What price will Bitcoin hit in November?",
-  "UEFA Champions League: 2027 Champion",
   "What price will Bitcoin hit on November 28?",
+  "VfB Stuttgart vs. Eintracht Frankfurt - More Markets",
+  "UEFA Champions League: 2027 Champion",
+  "Prime Minister of Israel after the next election?",
+  "Louisville vs. Kentucky",
   "Presidential Election Winner 2028",
-  "Torino FC vs. SS Lazio",
-  "NBA: 2027 Champion",
   "Spain General Election Winner",
   "UEFA Europa League: 2027 Champion",
-  "What price will Bitcoin hit in 2026?",
-  "2026 Taipei Mayoral Election: Margin of Victory",
-  "Louisville vs. Kentucky",
-  "Democratic Presidential Nominee 2028",
-  "Prime Minister of Israel after the next election?",
   "2026 Taiwanese Local Elections: Party Winner",
-  "VfB Stuttgart vs. Eintracht Frankfurt - More Markets",
+  "What price will Bitcoin hit in 2026?",
+  "NBA: 2027 Champion",
+  "2026 Taipei Mayoral Election: Margin of Victory",
   "Boston College vs. Miami (FL)",
-  "Elche CF vs. Club Atlético de Madrid - More Markets"
+  "Democratic Presidential Nominee 2028",
+  "Louisiana Tech vs. Georgia Southern",
+  "Real Madrid CF vs. Deportivo Alavés"
  ]
 }
